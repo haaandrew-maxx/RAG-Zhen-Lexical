@@ -1,0 +1,5553 @@
+[Page 1]
+Mantenimiento
+Publicación 4.0
+
+[Page 2]
+Aviso legal
+Publicación
+3CON Anlagenbau
+Kleinfeld 16
+6341 Ebbs
+Austria
+DISTRIBUCIÓN
+3CON GmbH
+Rosenheimerstraße 30B
+83080 Oberaudorf
+Alemania
+REDACCIÓN
+Markus Kletz
+TransLaw (traducción)
+CONTACTO
+Tel.: 0043 / 5373 / 42111
+Fax: 0043 / 5373 / 42111 - 10
+Correo
+electrónico: 3d@3con.com
+Web: www.3con.com
+MANUAL
+Nombre: Mantenimiento
+Creado: 22.01.2025
+Publicación: 4.0
+Válido para: 1005803
+COPYRIGHT
+© 3CON Anlagenbau GmbH 2022 según la última versión. La
+información que aparece en este documento es propiedad de 3CON y
+no ha pasado por un servicio de modificaciones. Este documento no
+debe ser reproducido ni transmitido de ningún otro modo ni
+almacenarse en ningún sistema de archivo, sin importar su clase, sin
+permiso explícito de 3CON.
+
+[Page 3]
+PREÁMBULO:
+¡Antes de llevar a cabo ninguna tarea de mantenimiento, lea atentamente los datos de los puntos de mantenimiento!
+Los intervalos de mantenimiento de los componentes suministrados hacen referencia, en parte, a valores empíricos y han sido
+diseñados para su aplicación en las instalaciones de la empresa 3Con.
+Por este motivo, los intervalos expuestos pueden variar con respecto a los intervalos establecidos por el fabricante. En los
+intervalos de mantenimiento no aparece la vida útil de los componentes.
+Advertencia sobre la unidad de repuesto:
+➢ Teclee la dirección http arriba mencionada en su navegador de Internet y confírmela.
+➢ Aparecerá una ventana de entrada. Escriba el nombre de usuario y la contraseña que aparecen en la parte superior
+y vuelva a confirmarlos.
+➢ Posteriormente será dirigido a una pantalla de Windows Explorer.
+➢ Elija el idioma deseado guiándose por el código del idioma (según ISO 639-1)
+➢ Entonces podrá abrir los archivos PDF y copiarlos según las necesidades en su PC.
+
+Los manuales de instrucciones de las piezas de repuesto pueden descargarse en el siguiente enlace: | -
+http://datenaustausch.3con.de | -
+Nombre de usuario: | Componentes de 3Con
+Contraseña: | 3Con
+
+[Page 4]
+Durante las tareas de mantenimiento tenga en cuenta lo siguiente:
+¡Por lo general, antes de comenzar cualquier trabajo debe comprobarse que la instalación no presenta suciedad, daños ni
+corrosión y, según las necesidades, limpie o cambie las piezas defectuosas! ¡Elimine lo antes posible la suciedad que pueda
+afectar al correcto funcionamiento de la instalación!
+¡Las piezas defectuosas deben cambiarse de inmediato!
+Solo profesionales cualificados o personal instruido con suficientes conocimientos especializados pueden
+realizar la instalación de las conexiones eléctricas y neumáticas.
+En tareas de montaje a una altura superior a la del personal, utilice los instrumentos previstos para ello u
+otros instrumentos fabricados según las normas de seguridad, como las plataformas de trabajo, como ayuda
+para acceder a zonas elevadas. ¡No utilice ninguna parte de la instalación como apoyo (cid:9)para subir a un lugar
+elevado!
+Antes de la limpieza, coloque todas las tapas sobre los motores eléctricos. Los armarios de distribución y las
+cajas de mando deben estar cerrados.
+¡En las tareas de mantenimiento, vuelva a fijar siempre las uniones de tornillos que estén sueltas!
+Si para el equipamiento, mantenimiento y reparación es necesario desmontar dispositivos de seguridad, tras
+la finalización de dichas tareas deben volver a montarse y comprobarse dichos dispositivos.
+¡Hágase cargo de una eliminación de sustancias y piezas segura y respetuosa con el medio ambiente!
+¡Compruebe que los conductos, tuberías y conexiones roscadas no presentan fugas ni daños externos
+reconocibles! ¡Repare los daños de inmediato!
+Antes del comienzo de las tareas de mantenimiento, deben despresurizarse las secciones del sistema que se
+abran y las tuberías de presión siguiendo los planos neumáticos.
+¡Coloque y monte las tuberías de presión de forma correcta! ¡No cambie las conexiones! Las válvulas y los
+tubos flexibles deben seguir los requisitos correspondientes de longitud y calidad.
+¡En el trabajo con aceites, grasas y otras sustancias químicas, siga las normas de seguridad aplicables al
+producto!
+A la hora de trabajar con chapas o piezas con bordes afilados deben utilizarse guantes. ¡Riesgo de lesiones!
+
+[Page 5]
+¡Para el trabajo en la instalación, utilice las barras de apoyo y los pernos de seguridad para una mayor
+seguridad!
+Después de las tareas de mantenimiento y reparación técnicas, debe comprobarse el funcionamiento de los
+dispositivos de protección
+Cierre y despresurice la conexión de aire comprimido de la instalación. Cuando se cambien las piezas
+individuales y los módulos grandes, estos deben fijarse y asegurarse a los dispositivos de elevación de forma
+que no haya ningún riesgo. ¡Utilice únicamente dispositivos de elevación adecuados, en perfecto estado
+técnico y con suficiente capacidad de carga! ¡No debe haber personas debajo de cargas oscilantes!
+Si hay una o varias instalaciones completamente apagadas durante las tareas de mantenimiento y reparación,
+dicha instalación o instalaciones deben asegurarse frente a la reconexión:
+• Señalice y cierre la instalación antes de las tareas de reparación: «¡La instalación se encuentra en
+mantenimiento!» / «¡Entrada prohibida a personal no autorizado!»
+• Coloque también una advertencia en el interruptor principal.
+• El circuito de seguridad debe interrumpirse y asegurarse frente a un cierre
+
+[Page 6]
+6
+
+Mantenimiento | Cliente: | CEFA | -
+- | Número de proyecto: | 1005803 | -
+Resumen puntos de mantenimiento | - | - | -
+Referencia: | Fabricante: | Tipo: | Número de
+mantenimiento:
+4 Sistema mecánico |  |  | 
+4.01 General |  |  | 
+Uniones roscadas | 3Con | - | 04.01.001
+4.03 Elementos para tapar 3-Con |  |  | 
+Unidades de rebaje | 3Con | - | 04.03.001
+4.06 Acoplamiento de medios |  |  | 
+Enchufe de acoplamiento | Stäubli | - | 04.06.003
+4.07 Columnas de las guías y casquillos guías |  |  | 
+Columna de la guía y casquillo guía | 3Con | - | 04.07.002
+Casquillos guías | - | - | 04.07.003
+4.08 Dispositivos de centrado |  |  | 
+Dispositivos de centrado | 3Con | - | 04.08.001
+4.13 Carriles guía |  |  | 
+Guía lineal | INA-FAG | - | 04.13.001
+4.21 Tope de goma |  |  | 
+Tope de goma | - | - | 04.21.001
+5 Sistema neumático |  |  | 
+5.01 General |  |  | 
+Tuberías neumáticas | - | - | 05.01.001
+5.03 Distribución del aire comprimido |  |  | 
+Terminal de válvulas | Festo | - | 05.03.001
+5.04 Accionamientos |  |  | 
+Accionamiento neumático | Festo | - | 05.04.001
+Accionamiento neumático | SMC | - | 05.04.002
+5.05 Cartuchos de bloqueo / frenos de estacionamiento |  |  | 
+Cartuchos de bloqueo / freno de estacionamiento de seg | uridad Festo | (en la barra guía) | 05.05.001
+Cartuchos de bloqueo / freno de estacionamiento de seg | uridad Festo | (en el cilindro) | 05.05.002
+5.06 Regulador |  |  | 
+Regulador de la presión | Festo | - | 05.06.001
+7 Eléctrico |  |  | 
+7.01 Sistema de sensores |  |  | 
+Sensores ópticos | - | - | 07.01.001
+Sensores capacitativos | - | - | 07.01.002
+Sensores inductivos | - | - | 07.01.003
+Interruptor de proximidad | - | - | 07.01.004
+7.03 General |  |  | 
+Enchufe eléctrico | Harting | - | 07.03.001
+Cables eléctricos | - | - | 07.03.002
+Cajas de bornes / armarios de distribución | 3Con | - | 07.03.003
+
+[Page 7]
+Puntos de mantenimiento
+
+[Page 8]
+Componente | -
+04.01.001 | -
+Referencia: | Uniones roscadas
+Fabricante: | 3Con
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Compruebe si las uniones atornilladas presentan signos evidentes de aflojamiento o daños. | 1 vez a la semana
+o
+después de 160 horas de servicio | Ajuste o cambio según las necesidades | Tenga en cuenta los pares de apriete | - | - | -
+- | A02 | - | - | - | - | - | - | -
+- | A03 | - | - | - | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | Cepillos | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicion | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 9]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - | A
+N | D01 | - | - | - | - | - | - | -
+- | - | R |  |  |  |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+Par de apriete para tornillos con hexágono interno (clase de resistencia 8.8):
+M4 = 2,7 Nm
+M5 = 5,5 Nm
+M6 = 9,5 Nm
+M8 = 23 Nm
+M10 = 46 Nm
+M12 = 80 Nm
+M16 = 195 Nm
+M20 = 385 Nm | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez al trimestre |  |  | - | - | -
+- | - |  | H01 | Comprobar la estanqueidad de todas las uniones atornilladas | o
+después de 2800 horas de servicio | Ajuste según las necesidades | Tenga en cuenta los pares de apriete | - | - | -
+- | - |  |  |  | 1 vez cada año |  |  | - | - | -
+- | - |  | H02 | Comprobar todas las uniones atornilladas en cuanto a fatiga del material y corrosión | o
+después de 8600 horas de servicio | Intercambio según las necesidades | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | www.service@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+04.01.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 10]
+Componente | -
+04.03.001 | -
+Referencia: | Unidades de rebaje
+Fabricante: | 3Con
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Control del rodaje de los rieles | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A03 | Comprobación del cojinete de agujas | 1 vez a la semana o después de 160 horas de servicio | Cambiar si es necesario | - | - | - | -
+- | A04 | Comprobación de la estanqueidad de las conexiones de aire comprimido | 1 vez a la semana o después de 160 horas de servicio | Cambiar si es necesario | Compruebe la formación de ruidos | - | - | -
+- | A05 | Comprobación de que el cable y las conexiones no presenten daños | 1 vez a la semana o después de 160 horas de servicio | Cambiar si es necesario | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 11]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez a la semana |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la suavidad de funcionamiento | o | Comprobación del accionamiento neumático por medio de movimiento
+manual sin presión | - | - | - | -
+- | - | R |  |  | después de 160 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+Véase los datos de mantenimiento por separado del perímetro de
+mantenimiento de guías lineales, accionamientos neumáticos, sensores,
+conductos y atornillados | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | Cambio del cojinete de agujas | según las necesidades | Cambio del cojinete de agujas después de un máximo de 150.000
+ciclos | - | - | - | -
+- | - | o | G03 | Cambio de los rieles | según las necesidades | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+CUIDADO: RIESGO DE APLASTAMIENTO;
+¡Al conectar o desconectar los conductos neumáticos, tenga cuidado de que
+no haya energía residual en dichos conductos! | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | info@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+04.03.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 12]
+Componente | -
+04.06.003 | -
+Referencia: | Enchufe de acoplamiento
+Fabricante: | Stäubli
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de la corrosión | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A03 | Comprobación de la estanqueidad del acoplamiento de bloqueo | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | Comprobación de fluidos que salen del circuito de
+temperado o del circuito del circuito refrigerante | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ | B02 | Eliminación de fluidos que salen del circuito de temperado o del circuito del circuito
+refrigerante | según las necesidades | Se recomienda llevar a cabo una limpieza con cada cambio de
+herramienta | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 13]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez al mes |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la estanqueidad del acoplamiento de bloqueo | o | Compruebe durante la producción si salen líquidos / Observe la
+potencia de succión en vacío | Se recomienda llevar a cabo una comprobación con cada
+cambio de herramienta | - | - | -
+- | - | R |  |  | después de 700 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+En caso de que haya corrosión o penetren líquidos, compruebe también las
+sustancias correspondientes (calidad del refrigerante y del agua
+atemperada, calidad del aire comprimido)
+Véase por separado los datos de mantenimiento del perímetro de
+mantenimiento del multiacoplador y de la estación de acoplamiento | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | - |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.staeubli.de |  |  |  |  |  |  | - | - | -
+04.06.003 | - | - | - | - | - | - | - | - | - | -
+
+[Page 14]
+Componente | -
+04.07.002 | -
+Referencia: | Columna de la guía y casquillo
+guía
+Fabricante: | 3Con
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | - | - | - | - | - | - | -
+- | A03 | - | - | - | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  |  |  |  |  | Cepillos | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | Aspirador | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ | B02 | Retirada del lubricante sobrante | 1 vez al mes
+o
+después de 700 horas de servicio | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 15]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | Lubricación del casquillo guía | 1 vez al mes
+o
+después de 700 horas de servicio | Lubricación del casquillo guía a mano por medio de una brocha o una
+boquilla de engrase y una pistola engrasadora | Antes de la utilización de una pistola de engrase, deben
+limpiarse de forma exhaustiva tanto la pistola de engrase
+como los puntos de lubricación | Lubricante multiusos | Permatec | SF 04
+- | - | - | - | - | - | - | - | Pistola de engrase | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez a la semana |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación del dispositivo de centrado entre la guía de rodamiento y la columna de la guía | o | Comprobación del dispositivo de centrado abriendo y cerrando la
+instalación varias veces | - | - | - | -
+- | - | R |  |  | después de 160 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+- | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | info@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+04.07.002 | - | - | - | - | - | - | - | - | - | -
+
+[Page 16]
+Componente | -
+04.07.003 | -
+Referencia: | Casquillos guías
+Fabricante: | -
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | Si es accesible | - | - | -
+- | A02 | Comprobación del desgaste de la cremallera dentada (por ejemplo: polvo metálico de los
+casquillos guía de bronce) | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | Compruebe además el lubricador
+(si se dispone de él) | - | - | -
+- | A03 | Comprobación de que la cremallera esté suficientemente lubricada | 1 vez a la semana o después de 160 horas de servicio | Lubricación según las necesidades | Compruebe además el lubricador
+(si se dispone de él) | - | - | -
+- | A04 | Atención a la formación de ruidos | 1 vez a la semana o después de 160 horas de servicio | Cambiar si es necesario | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | Si es accesible | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 17]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - | A
+N | D01 | - | - | - | - | - | - | -
+- | - | R |  |  |  |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+Véase los datos de mantenimiento por separado para el perímetro de
+mantenimiento de cremalleras dentadas redondas | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | Contacte con la empresa 3Con | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | service@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+04.07.003 | - | - | - | - | - | - | - | - | - | -
+
+[Page 18]
+Componente | -
+04.08.001 | -
+Referencia: | Dispositivos de centrado
+Fabricante: | 3Con
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de la corrosión | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A03 | - | - | - | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  |  |  |  |  | Cepillos | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  | Limpieza de las superficies | 1 vez a la semana |  |  | Aspirador | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 160 horas de servicio | - | - | - | - | -
+ |  |  |  |  |  | Scotch-Band | - | -
+ | B02 | Eliminación de superficies corroídas | 1 vez al mes
+o
+después de 700 horas de servicio | - | - | Cepillo de alambre | - | -
+ |  |  | 1 vez al mes |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ | B03 | Retirada del lubricante sobrante | o
+después de 700 horas de servicio | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 19]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | Lubricación de superficies en la eliminación de zonas corroídas | según las necesidades | Lubricación de superficies tras la retirada de zonas corroídas a mano
+mediante brocha | - | Lubricante (resistente al calor) | - | -
+- | - | - | - | - | - | - | - | Brocha | - | -
+- | - | - | - | - | - | - | - | Paño de limpieza suave (sin pelusas) | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez a la semana |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación del dispositivo de centrado entre la herramienta y la instalación | o | Comprobación del dispositivo de centrado montando y desmontando
+varias veces la herramienta | - | - | - | -
+- | - | R |  |  | después de 160 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+- | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | info@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+04.08.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 20]
+Componente | -
+04.13.001 | -
+Referencia: | Guía lineal
+Fabricante: | INA-FAG
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Atención a la formación de ruidos | 1 vez al día o después de 24 horas de servicio | Cambiar si es necesario | - | - | - | -
+- | A03 | - | - | - | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ | B02 | Retirada del lubricante sobrante | 1 vez al mes
+o
+después de 700 horas de servicio | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 21]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | Lubricación del carro guía | 1 vez al mes
+o
+después de 700 horas de servicio | Lubricación con una boquilla de engrase por medio de una pistola
+engrasadora (si la hay) | Antes de la utilización de una pistola de engrase, deben
+limpiarse de forma exhaustiva tanto la pistola de engrase
+como los puntos de lubricación | Lubricante con viscosidad de aceite básico de ISO-VG
+68 hasta ISO-VG 100 | Permatec | SF 04
+- | - | - | - | - | - | - | - | Pistola de engrase | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez a la semana |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la suavidad de movimientos | o | Comprobación mediante movimiento manual del carro guía | Cambio de los carros guía según las necesidades | - | - | -
+- | - | R |  |  | después de 160 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+- | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de los carriles guía | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | Cambio de los carros guía | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | - |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.ina.de |  |  |  |  |  |  | - | - | -
+04.13.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 22]
+Componente | -
+04.21.001 | -
+Referencia: | Tope de goma
+Fabricante: | -
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez al mes o después de 700 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | - | - | - | - | - | - | -
+- | A03 | - | - | - | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | Cepillos | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | Detergente (diluido) | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 23]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez a la semana |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la capacidad de funcionamiento en los pisadores | o | Comprobación durante la producción de si la pieza se ha tomado
+limpia | Ajuste o cambio según las necesidades | - | - | -
+- | - | R |  |  | después de 160 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+- | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | www.service@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+04.21.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 24]
+Componente | -
+05.01.001 | -
+Referencia: | Tuberías neumáticas
+Fabricante: | -
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de la estanqueidad de las conexiones de aire comprimido | 1 vez a la semana o después de 160 horas de servicio | Cambiar si es necesario | Compruebe la formación de ruidos | - | - | -
+- | A03 | - | - | - | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 25]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - | A
+N | D01 | - | - | - | - | - | - | -
+- | - | R |  |  |  |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+- | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de los tubos | según las necesidades | - | - | - | - | -
+- | - |  | G02 | Cambio de las conexiones de enchufe | según las necesidades | - | - | - | - | -
+- | - | o | G03 | Cambio de la pieza de distribución | según las necesidades | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+CUIDADO: RIESGO DE LESIONES:
+Antes de las tareas de montaje, instalación y reparación, apague lo
+siguiente:
+-Suministro de aire comprimido
+-Suministro de servicio y de tensión de carga
+CUIDADO: RIEGO DE APLASTAMIENTO:
+¡Al conectar o desconectar los conductos neumáticos, tenga cuidado de que
+no haya energía residual en dichos conductos! | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | service@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+05.01.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 26]
+Componente | -
+05.03.001 | -
+Referencia: | Terminal de válvulas
+Fabricante: | Festo
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de la suciedad del filtro de salida de aire | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A03 | Comprobación de la estanqueidad de las conexiones de aire comprimido | 1 vez a la semana o después de 160 horas de servicio | Cambiar si es necesario | Compruebe la formación de ruidos | - | - | -
+- | A04 | Comprobación de que el cable y las conexiones no presenten daños | 1 vez a la semana o después de 160 horas de servicio | Cambiar si es necesario | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  | Limpieza de las superficies | 1 vez a la semana |  |  | Cepillos | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 160 horas de servicio | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 27]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - | A
+N | D01 | - | - | - | - | - | - | -
+- | - | R |  |  |  |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+Los componentes de las válvulas contienen elementos con peligro
+electrostático.
+Si se tocan las superficies de contacto de las conexiones de enchufe
+y no se siguen las instrucciones de manipulación
+de elementos con peligro electrostático,
+los componentes pueden estropearse
+Perímetro de mantenimiento de los conductos neumáticos, véase en los
+datos de mantenimiento aparte | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | Cambio del filtro de escape | según las necesidades | Número de artículo dependiente del tipo
+(véase página de inicio del fabricante | - | - | - | -
+- | - | o | G03 | Cambio de las válvulas individuales | según las necesidades | Número de artículo dependiente del tipo
+(véase página de inicio del fabricante | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+CUIDADO: RIESGO DE LESIONES:
+Antes de las tareas de montaje, instalación y reparación, apague lo
+siguiente:
+-Suministro de aire comprimido
+-Suministro de servicio y de tensión de carga | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | technik.at@festo.com |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.festo.com |  |  |  |  |  |  | - | - | -
+05.03.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 28]
+Componente | -
+05.04.001 | -
+Referencia: | Accionamiento neumático
+Fabricante: | Festo
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de la estanqueidad de las conexiones de aire comprimido | 1 vez al día o después de 24 horas de servicio | Cambiar si es necesario | Compruebe la formación de ruidos | - | - | -
+- | A03 | - | - | - | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 29]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | En caso de formación de ruidos, lubrique el vástago del émbolo (grasa especial LUB-KC1 de
+Festo). | Según las necesidades | - | Preste atención a la formación de ruidos | - | - | SF 04
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez a la semana |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la suavidad de movimientos | o | Comprobación mediante movimiento manual del vástago del pistón | Cambiar si es necesario | - | - | -
+- | - | R |  |  | después de 160 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+Véase los datos de mantenimiento separados para el perímetro de
+mantenimiento de cartuchos de fijación y tubos neumáticos | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+CUIDADO: RIESGO DE APLASTAMIENTO;
+¡Al conectar o desconectar los conductos neumáticos, tenga cuidado de que
+no haya energía residual en dichos conductos! | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | technik.at@festo.com |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.festo.com |  |  |  |  |  |  | - | - | -
+05.04.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 30]
+Componente | -
+05.04.002 | -
+Referencia: | Accionamiento neumático
+Fabricante: | SMC
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de la estanqueidad de las conexiones de aire comprimido | 1 vez al día o después de 24 horas de servicio | Cambiar si es necesario | Compruebe la formación de ruidos | - | - | -
+- | A03 | - | - | - | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 31]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | SF 04
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez a la semana |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la suavidad de movimientos | o | Comprobación mediante movimiento manual del vástago del pistón | Cambiar si es necesario | - | - | -
+- | - | R |  |  | después de 160 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+Véase los datos de mantenimiento separados para el perímetro de
+mantenimiento de cartuchos de fijación y tubos neumáticos | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+CUIDADO: RIESGO DE APLASTAMIENTO;
+¡Al conectar o desconectar los conductos neumáticos, tenga cuidado de que
+no haya energía residual en dichos conductos! | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | office@smc.at |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.smc.eu |  |  |  |  |  |  | - | - | -
+05.04.002 | - | - | - | - | - | - | - | - | - | -
+
+[Page 32]
+Componente | -
+05.05.001 | -
+Referencia: | Cartuchos de bloqueo / freno
+de estacionamiento de
+seguridad
+Fabricante: | Festo
+Tipo: | (en la barra guía)
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de que la barra guía no presente daños ni suciedad | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A03 | Comprobación de la estanqueidad de las conexiones de aire comprimido | 1 vez al día o después de 24 horas de servicio | Cambiar si es necesario | Compruebe la formación de ruidos | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ | B02 | Limpieza de la barra guía | 1 vez al mes
+o
+después de 700 horas de servicio | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 33]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | En caso de formación de ruidos, lubrique el vástago del émbolo (grasa especial LUB-KC1 de
+Festo). | Según las necesidades | Preste atención a la formación de ruidos | - | - | - | SF 04
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez a la semana |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la capacidad de funcionamiento | o | Cuando no haya presión, el freno debe estar cerrado. ¡El actuador no
+puede moverse a mano! | Cambiar si es necesario | - | - | -
+- | - | R |  |  | después de 160 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+Véase los datos de mantenimiento por separado para el perímetro de
+mantenimiento de tubos neumáticos | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+CUIDADO: RIESGO DE APLASTAMIENTO;
+¡Al conectar o desconectar los conductos neumáticos, tenga cuidado de que
+no haya energía residual en dichos conductos! | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | technik.at@festo.com |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.festo.com |  |  |  |  |  |  | - | - | -
+05.05.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 34]
+Componente | -
+05.05.002 | -
+Referencia: | Cartuchos de bloqueo / freno
+de estacionamiento de
+seguridad
+Fabricante: | Festo
+Tipo: | (en el cilindro)
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de que la barra guía no presente daños ni suciedad | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A03 | Comprobación de la estanqueidad de las conexiones de aire comprimido | 1 vez al día o después de 24 horas de servicio | Cambiar si es necesario | Compruebe la formación de ruidos | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 35]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | En caso de formación de ruidos, lubrique el vástago del émbolo (grasa especial LUB-KC1 de
+Festo). | Según las necesidades | - | Preste atención a la formación de ruidos | - | - | SF 04
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez a la semana |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la capacidad de funcionamiento | o | Cuando no haya presión, el freno debe estar cerrado. ¡El actuador no
+puede moverse a mano! | Cambiar si es necesario | - | - | -
+- | - | R |  |  | después de 160 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+Véase los datos de mantenimiento por separado para el perímetro de
+mantenimiento de tubos neumáticos | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+CUIDADO: RIESGO DE APLASTAMIENTO;
+¡Al conectar o desconectar los conductos neumáticos, tenga cuidado de que
+no haya energía residual en dichos conductos! | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | technik.at@festo.com |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.festo.com |  |  |  |  |  |  | - | - | -
+05.05.002 | - | - | - | - | - | - | - | - | - | -
+
+[Page 36]
+Componente | -
+05.06.001 | -
+Referencia: | Regulador de la presión
+Fabricante: | Festo
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de la estanqueidad de las conexiones de aire comprimido | 1 vez a la semana o después de 160 horas de servicio | Cambiar si es necesario | Compruebe la formación de ruidos | - | - | -
+- | A03 | Comprobación de los valores de presión | 1 vez a la semana o después de 160 horas de servicio | Ajuste según las necesidades | véase el rótulo del regulador de presión
+(si se dispone de él) | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  | Limpieza de las superficies | 1 vez a la semana |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 160 horas de servicio | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 37]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - | A
+N | D01 | - | - | - | - | - | - | -
+- | - | R |  |  |  |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+Véase los datos de mantenimiento del perímetro de mantenimiento de
+cables neumáticos | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | technik.at@festo.com |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.festo.com |  |  |  |  |  |  | - | - | -
+05.06.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 38]
+Componente | -
+07.01.001 | -
+Referencia: | Sensores ópticos
+Fabricante: | -
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de que el cable y las conexiones no presenten daños | 1 vez al día o después de 24 horas de servicio | Cambiar si es necesario | - | - | - | -
+- | A03 | - | - | - | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  | Limpieza de las superficies | 1 vez a la semana |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 160 horas de servicio | - | - | - | - | -
+ |  |  |  |  |  | Producto de limpieza para plástico (antiestático) | - | -
+ | B02 | Limpieza de las superficies iluminadas | 1 vez a la semana
+o
+después de 160 horas de servicio | - | - | Paño óptico | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 39]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez al día |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la capacidad de funcionamiento del sensor | o | Compruebe los posibles avisos de error en el panel táctil durante el
+funcionamiento normal de la producción | - | - | - | -
+- | - | R |  |  | después de 24 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+- | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | service@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+07.01.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 40]
+Componente | -
+07.01.002 | -
+Referencia: | Sensores capacitativos
+Fabricante: | -
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de que las puntas de los sensores no presenten daños ni suciedad | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A03 | Comprobación de que el cable y las conexiones no presenten daños | 1 vez al día o después de 24 horas de servicio | Cambiar si es necesario | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  | Limpieza de las superficies | 1 vez a la semana |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 160 horas de servicio | - | - | - | - | -
+ |  |  |  |  |  | Producto de limpieza para plástico (antiestático) | - | -
+ | B02 | Limpieza de la punta del sensor | 1 vez a la semana
+o
+después de 160 horas de servicio | - | - | Paño óptico | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 41]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez al día |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la capacidad de funcionamiento del sensor | o | Compruebe los posibles avisos de error en el panel táctil durante el
+funcionamiento normal de la producción | - | - | - | -
+- | - | R |  |  | después de 24 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+- | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | service@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+07.01.002 | - | - | - | - | - | - | - | - | - | -
+
+[Page 42]
+Componente | -
+07.01.003 | -
+Referencia: | Sensores inductivos
+Fabricante: | -
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de que las puntas de los sensores no presenten daños ni suciedad | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A03 | Comprobación de que el cable y las conexiones no presenten daños | 1 vez al día o después de 24 horas de servicio | Cambiar si es necesario | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  | Limpieza de las superficies | 1 vez a la semana |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 160 horas de servicio | - | - | - | - | -
+ |  |  |  |  |  | Producto de limpieza para plástico (antiestático) | - | -
+ | B02 | Limpieza de la punta del sensor | 1 vez a la semana
+o
+después de 160 horas de servicio | - | - | Paño óptico | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 43]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez al día |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la capacidad de funcionamiento del sensor | o | Compruebe los posibles avisos de error en el panel táctil durante el
+funcionamiento normal de la producción | - | - | - | -
+- | - | R |  |  | después de 24 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+- | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | service@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+07.01.003 | - | - | - | - | - | - | - | - | - | -
+
+[Page 44]
+Componente | -
+07.01.004 | -
+Referencia: | Interruptor de proximidad
+Fabricante: | -
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez al día o después de 24 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de que el cable y las conexiones no presenten daños | 1 vez al día o después de 24 horas de servicio | Cambiar si es necesario | - | - | - | -
+- | A03 | Comprobación de que el sensor esté colocado de forma sólida en el cilindro | 1 vez al día o después de 24 horas de servicio | Ajuste según las necesidades | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  |  |  |  |  | Aire comprimido | - | -
+ |  | Limpieza de las superficies | 1 vez a la semana |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 160 horas de servicio | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 45]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez al día |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de la capacidad de funcionamiento del sensor | o | Compruebe los posibles avisos de error en el panel táctil durante el
+funcionamiento normal de la producción | - | - | - | -
+- | - | R |  |  | después de 24 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+- | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | service@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+07.01.004 | - | - | - | - | - | - | - | - | - | -
+
+[Page 46]
+Componente | -
+07.03.001 | -
+Referencia: | Enchufe eléctrico
+Fabricante: | Harting
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Control de la clavija de centrado y de los elementos adhesivos | 1 vez a la semana o después de 160 horas de servicio | Cambiar si es necesario | - | - | - | -
+- | A03 | - | - | - | - | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 47]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - |  |  |  | 1 vez al mes |  |  | - | - | -
+- | - | A
+N | D01 | Comprobación de que las conexiones estén en una posición correcta | o | Comprobación encendiendo y apagando repetidas veces | - | - | - | -
+- | - | R |  |  | después de 700 horas de servicio |  |  | - | - | -
+- | - | E
+T |  |  | 1 vez al mes |  |  | - | - | -
+- | - | N
+I
+l | D02 | Comprobación de las clavijas de centrado y de los elementos adhesivos | o | Comprobación encendiendo y apagando repetidas veces | - | - | - | -
+- | - | a
+n
+o |  |  | después de 700 horas de servicio |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+Véase los datos de mantenimiento del perímetro de mantenimiento de
+cables eléctricos | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+CUIDADO:
+Los trabajos eléctricos solo pueden ser llevados a cabo por electricistas
+profesionales. | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | office.wien@harting.com |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.harting.com |  |  |  |  |  |  | - | - | -
+07.03.001 | - | - | - | - | - | - | - | - | - | -
+
+[Page 48]
+Componente | -
+07.03.002 | -
+Referencia: | Cables eléctricos
+Fabricante: | -
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de la libertad de movimiento del cable en las cadenas energéticas | 1 vez a la semana o después de 160 horas de servicio | Ajuste según las necesidades | - | - | - | -
+- | A03 | Comprobación de que la descarga de presión está en la posición adecuada | 1 vez a la semana o después de 160 horas de servicio | Ajuste según las necesidades | - | - | - | -
+- | A04 | Comprobación de que el cable no tenga deformaciones | 1 vez a la semana o después de 160 horas de servicio | Ajuste según las necesidades | Los cables deben estar colocados sin torsión | - | - | -
+- | A05 | Comprobación de que el radio de curvatura sea suficiente | 1 vez a la semana o después de 160 horas de servicio | Ajuste según las necesidades | Los cables no deben doblarse | - | - | -
+- | A06 | Comprobación de que haya espacio suficiente entre los cables (siempre y cuando sea posible) | 1 vez a la semana o después de 160 horas de servicio | Ajuste según las necesidades | CUIDADO: ¡Medidas de protección frente a incendios!
+(Tener en cuenta la generación de calor) | - | - | -
+- | A07 | Comprobación de que no haya contactos desprotegidos | 1 vez a la semana o después de 160 horas de servicio | Ajuste según las necesidades | CUIDADO:
+Debe procurarse una protección frente al contacto de la
+tubería | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 49]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - | A
+N | D01 | - | - | - | - | - | - | -
+- | - | R |  |  |  |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+En el conjunto de las tareas de mantenimiento, proteja el conjunto de cables
+eléctricos de posibles daños producidos por la presencia de elementos
+externos (por ejemplo, químicos, líquidos, objetos de borde afilado,
+temperaturas extremas, etc.) | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio del cable | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+CUIDADO:
+Los trabajos eléctricos solo pueden ser llevados a cabo por electricistas
+profesionales. | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | service@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+07.03.002 | - | - | - | - | - | - | - | - | - | -
+
+[Page 50]
+Componente | -
+07.03.003 | -
+Referencia: | Cajas de bornes / armarios de
+distribución
+Fabricante: | 3Con
+Tipo: | -
+
+antenimient | o: N.º | Actividad: | Intervalo: | Observación: | Información adicional | lubricante/ producto accesorio / producto de
+limpieza : | Proveedor: | Número de pedido
+(lubricante/ producto accesorio / producto
+de limpieza ):
+l
+a
+u
+s
+i
+v
+l
+o
+r
+t
+n
+o
+C | A01 | Comprobación de daños y de la suciedad general | 1 vez a la semana o después de 160 horas de servicio | Limpieza o cambio según las necesidades | - | - | - | -
+- | A02 | Comprobación de que la tarjeta de entrada y salida estén en su posición correcta en la base | 1 vez a la semana o después de 160 horas de servicio | Ajuste según las necesidades | - | - | - | -
+- | A03 | Comprobación del calor acumulado en el interior | 1 vez a la semana o después de 160 horas de servicio | En caso de temperaturas muy altas, contacte con la empresa 3Con | Compruebe además el aparato de aire acondicionado
+(si se dispone de él) | - | - | -
+- | A04 | - | - | - | - | - | - | -
+- | A05 | - | - | - | - | - | - | -
+- | A06 | - | - | - | - | - | - | -
+- | A07 | - | - | - | - | - | - | -
+- | A08 | - | - | - | - | - | - | -
+- | A09 | - | - | - | - | - | - | -
+- | A10 | - | - | - | - | - | - | -
+ |  |  |  |  |  | Paño de limpieza suave (sin pelusas) | - | -
+ |  |  |  |  |  | Aspirador | - | -
+ |  | Limpieza de las superficies | 1 vez al mes |  |  | - | - | -
+ | B01 | (eliminación de restos de suciedad y acumulaciones de polvo) | o
+después de 700 horas de servicio | - | - | - | - | -
+ | B02 | - | - | - | - | - | - | -
+ | B03 | - | - | - | - | - | - | -
+ | B04 | - | - | - | - | - | - | -
+a |  |  |  |  |  | - | - | -
+z
+e
+i |  |  |  |  |  | - | - | -
+p
+m |  |  |  |  |  | - | - | -
+i
+L |  |  |  |  |  | - | - | -
+ | B05 | - | - | - | - | - | - | -
+ | B06 | - | - | - | - | - | - | -
+ | B07 | - | - | - | - | - | - | -
+ | B08 | - | - | - | - | - | - | -
+
+¡Si tiene dudas técnicas, estaremos
+encantados de resolverlas!
+
+del dibujo:
+CUIDADO: ¡Imagen del símbolo!
+
+[Page 51]
+Véase el número de posición en la lista de
+piezas de repuesto / la ilustración de
+piezas de repuesto: | - |  | C01 | - | - | - | - | - | - | -
+- | - |  | C02 | - | - | - | - | - | - | -
+- | - | n |  |  |  |  |  | - | - | -
+- | - | ó
+i
+c |  |  |  |  |  | - | - | -
+- | - | a
+c
+i | C03 | - | - | - | - | - | - | -
+- | - | r
+b
+u |  |  |  |  |  | - | - | -
+- | - | L |  |  |  |  |  | - | - | -
+- | - |  | C04 | - | - | - | - | - | - | -
+- | - |  | C05 | - | - | - | - | - | - | -
+- | - | A
+N | D01 | - | - | - | - | - | - | -
+- | - | R |  |  |  |  |  | - | - | -
+- | - | E
+T |  |  |  |  |  | - | - | -
+- | - | N
+I
+l | D02 | - | - | - | - | - | - | -
+- | - | a
+n
+o |  |  |  |  |  | - | - | -
+- | - | i
+c |  |  |  |  |  | - | - | -
+- | - | n
+u
+f | D03 | - | - | - | - | - | - | -
+- | - | a
+b |  |  |  |  |  | - | - | -
+- | - | e
+u |  |  |  |  |  | - | - | -
+- | - | r
+P | D04 | - | - | - | - | - | - | -
+Advertencia: | - | l
+a
+n
+o
+i A
+c
+N
+n | E01 | - | - | - | - | - | - | -
+Véase los datos de mantenimiento individuales para el perímetro de
+mantenimiento de ventiladores y aparatos de aire acondicionado en el
+armario de distribución | - | u R
+f E | E02 | - | - | - | - | - | - | -
+- | - | a X
+b
+E |  |  |  |  |  | - | - | -
+- | - | e
+u
+r |  |  |  |  |  | - | - | -
+- | - | P | E03 | - | - | - | - | - | - | -
+- | - | a
+i |  |  |  |  |  | - | - | -
+- | - | c
+n | F01 | - | - | - | - | - | - | -
+- | - | e
+d
+i |  |  |  |  |  | - | - | -
+- | - | c
+n
+i |  |  |  |  |  | - | - | -
+- | - | e
+d | F02 | - | - | - | - | - | - | -
+- | - | n
+ó |  |  |  |  |  | - | - | -
+- | - | i
+c
+i |  |  |  |  |  | - | - | -
+- | - | d
+e | F03 | - | - | - | - | - | - | -
+- | - | M |  |  |  |  |  | - | - | -
+- | - |  | G01 | Cambio de la pieza completa | según las necesidades | Número de artículo, véase la lista de piezas de repuesto | - | - | - | -
+- | - |  | G02 | - | - | - | - | - | - | -
+- | - | o | G03 | - | - | - | - | - | - | -
+- | - | i
+b |  |  |  |  |  | - | - | -
+Advertencias de seguridad: | - | m
+a
+C | G04 | - | - | - | - | - | - | -
+- | - |  | G05 | - | - | - | - | - | - | -
+- | - |  | G06 | - | - | - | - | - | - | -
+- | - |  | H01 | - | - | - | - | - | - | -
+- | - |  | H02 | - | - | - | - | - | - | -
+- | - | s
+o |  |  |  |  |  | - | - | -
+- | - | r
+t
+O |  |  |  |  |  | - | - | -
+- | - |  | H03 | - | - | - | - | - | - | -
+Contacto del fabricante: | - |  |  |  |  |  |  | - | - | -
+Correo electrónico: | www.service@3con.de |  |  |  |  |  |  | - | - | -
+- | - |  | H04 | - | - | - | - | - | - | -
+página principal: | www.3con.de |  |  |  |  |  |  | - | - | -
+07.03.003 | - | - | - | - | - | - | - | - | - | -
+
+[Page 52]
+Resumen intervalos Página 234 de 250
+
+Resumen intervalos | - | - | - | - | - | Cliente: | CEFA | -
+- | - | - | - | - | - | Número de proyecto: | 1005803 | -
+según las necesidades | - | - | - | - | - | Leyenda de colores:
+Control visual Prueba funcional INTERNA Cambio
+Limpieza Prueba funcional EXERNA Otros
+Lubricación Medición de incidencia | - | -
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | según las necesidades | Cambio | Uniones roscadas | 3Con | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Unidades de rebaje | 3Con | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Unidades de rebaje | 3Con | - | Cambio del cojinete de agujas | Cambio del cojinete de agujas después de un máximo de
+150.000 ciclos | -
+ | según las necesidades | Cambio | Unidades de rebaje | 3Con | - | Cambio de los rieles | - | -
+ | según las necesidades | Limpieza | Enchufe de acoplamiento | Stäubli | - | Eliminación de fluidos que salen del
+circuito de temperado o del circuito del
+circuito refrigerante | Se recomienda llevar a cabo una limpieza con cada
+cambio de herramienta | -
+ | según las necesidades | Cambio | Enchufe de acoplamiento | Stäubli | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Columna de la guía y
+casquillo guía | 3Con | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Casquillos guías | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | Contacte con la empresa
+3Con
+ | según las necesidades | Lubricación | Dispositivos de centrado | 3Con | - | Lubricación de superficies en la eliminación
+de zonas corroídas | Lubricación de superficies tras la retirada de zonas
+corroídas a mano mediante brocha | -
+ | según las necesidades | Cambio | Dispositivos de centrado | 3Con | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Guía lineal | INA-FAG | - | Cambio de los carriles guía | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Guía lineal | INA-FAG | - | Cambio de los carros guía | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Tope de goma | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Tuberías neumáticas | - | - | Cambio de los tubos | - | -
+ | según las necesidades | Cambio | Tuberías neumáticas | - | - | Cambio de las conexiones de enchufe | - | -
+ | según las necesidades | Cambio | Tuberías neumáticas | - | - | Cambio de la pieza de distribución | - | -
+ | según las necesidades | Cambio | Terminal de válvulas | Festo | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Terminal de válvulas | Festo | - | Cambio del filtro de escape | Número de artículo dependiente del tipo
+(véase página de inicio del fabricante | -
+ | según las necesidades | Cambio | Terminal de válvulas | Festo | - | Cambio de las válvulas individuales | Número de artículo dependiente del tipo
+(véase página de inicio del fabricante | -
+ | Según las necesidades | Lubricación | Accionamiento neumático | Festo | - | En caso de formación de ruidos, lubrique el
+vástago del émbolo (grasa especial LUB-
+KC1 de Festo). | - | Preste atención a la
+formación de ruidos
+ | según las necesidades | Cambio | Accionamiento neumático | Festo | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Accionamiento neumático | SMC | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | Según las necesidades | Lubricación | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | En caso de formación de ruidos, lubrique el
+vástago del émbolo (grasa especial LUB-
+KC1 de Festo). | Preste atención a la formación de ruidos | -
+
+[Page 53]
+Resumen intervalos Página 235 de 250
+
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | según las necesidades | Cambio | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | Según las necesidades | Lubricación | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | En caso de formación de ruidos, lubrique el
+vástago del émbolo (grasa especial LUB-
+KC1 de Festo). | - | Preste atención a la
+formación de ruidos
+ | según las necesidades | Cambio | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Regulador de la presión | Festo | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Sensores ópticos | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Sensores capacitativos | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Sensores inductivos | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Interruptor de proximidad | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Enchufe eléctrico | Harting | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Cables eléctricos | - | - | Cambio del cable | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Cajas de bornes / armarios
+de distribución | 3Con | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+
+[Page 54]
+Resumen intervalos Página 236 de 250
+
+Resumen intervalos | - | - | - | - | - | Cliente: | CEFA | -
+- | - | - | - | - | - | Número de proyecto: | 1005803 | -
+1 vez al día
+o
+después de 24 horas de servicio | - | - | - | - | - | Leyenda de colores:
+Control visual Prueba funcional INTERNA Cambio
+Limpieza Prueba funcional EXERNA Otros
+Lubricación Medición de incidencia | - | -
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Enchufe de acoplamiento | Stäubli | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Enchufe de acoplamiento | Stäubli | - | Comprobación de la corrosión | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Enchufe de acoplamiento | Stäubli | - | Comprobación de la estanqueidad del
+acoplamiento de bloqueo | Limpieza o cambio según las necesidades | Comprobación de fluidos que
+salen del circuito de
+temperado o del circuito del
+circuito refrigerante
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Guía lineal | INA-FAG | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Guía lineal | INA-FAG | - | Atención a la formación de ruidos | Cambiar si es necesario | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Accionamiento neumático | Festo | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Accionamiento neumático | Festo | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Accionamiento neumático | SMC | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Accionamiento neumático | SMC | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Comprobación de que la barra guía no
+presente daños ni suciedad | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Comprobación de que la barra guía no
+presente daños ni suciedad | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores ópticos | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores ópticos | - | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Prueba funcional
+INTERNA | Sensores ópticos | - | - | Comprobación de la capacidad de
+funcionamiento del sensor | Compruebe los posibles avisos de error en el panel táctil
+durante el funcionamiento normal de la producción | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores capacitativos | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores capacitativos | - | - | Comprobación de que las puntas de los
+sensores no presenten daños ni suciedad | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores capacitativos | - | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Prueba funcional
+INTERNA | Sensores capacitativos | - | - | Comprobación de la capacidad de
+funcionamiento del sensor | Compruebe los posibles avisos de error en el panel táctil
+durante el funcionamiento normal de la producción | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores inductivos | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+
+[Page 55]
+Resumen intervalos Página 237 de 250
+
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores inductivos | - | - | Comprobación de que las puntas de los
+sensores no presenten daños ni suciedad | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores inductivos | - | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Prueba funcional
+INTERNA | Sensores inductivos | - | - | Comprobación de la capacidad de
+funcionamiento del sensor | Compruebe los posibles avisos de error en el panel táctil
+durante el funcionamiento normal de la producción | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Interruptor de proximidad | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Interruptor de proximidad | - | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Interruptor de proximidad | - | - | Comprobación de que el sensor esté
+colocado de forma sólida en el cilindro | Ajuste según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Prueba funcional
+INTERNA | Interruptor de proximidad | - | - | Comprobación de la capacidad de
+funcionamiento del sensor | Compruebe los posibles avisos de error en el panel táctil
+durante el funcionamiento normal de la producción | -
+
+[Page 56]
+Resumen intervalos Página 238 de 250
+
+Resumen intervalos | - | - | - | - | - | Cliente: | CEFA | -
+- | - | - | - | - | - | Número de proyecto: | 1005803 | -
+1 vez a la semana
+o
+después de 160 horas de servicio | - | - | - | - | - | Leyenda de colores:
+Control visual Prueba funcional INTERNA Cambio
+Limpieza Prueba funcional EXERNA Otros
+Lubricación Medición de incidencia | - | -
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Uniones roscadas | 3Con | - | Compruebe si las uniones atornilladas
+presentan signos evidentes de aflojamiento
+o daños. | Ajuste o cambio según las necesidades | Tenga en cuenta los pares de
+apriete
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Unidades de rebaje | 3Con | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Unidades de rebaje | 3Con | - | Control del rodaje de los rieles | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Unidades de rebaje | 3Con | - | Comprobación del cojinete de agujas | Cambiar si es necesario | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Unidades de rebaje | 3Con | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Unidades de rebaje | 3Con | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Unidades de rebaje | 3Con | - | Comprobación de la suavidad de
+funcionamiento | Comprobación del accionamiento neumático por medio
+de movimiento manual sin presión | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Columna de la guía y
+casquillo guía | 3Con | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Columna de la guía y
+casquillo guía | 3Con | - | Comprobación del dispositivo de centrado
+entre la guía de rodamiento y la columna
+de la guía | Comprobación del dispositivo de centrado abriendo y
+cerrando la instalación varias veces | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Casquillos guías | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | Si es accesible
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Casquillos guías | - | - | Comprobación del desgaste de la
+cremallera dentada (por ejemplo: polvo
+metálico de los casquillos guía de bronce) | Limpieza o cambio según las necesidades | Compruebe además el
+lubricador
+(si se dispone de él)
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Casquillos guías | - | - | Comprobación de que la cremallera esté
+suficientemente lubricada | Lubricación según las necesidades | Compruebe además el
+lubricador
+(si se dispone de él)
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Casquillos guías | - | - | Atención a la formación de ruidos | Cambiar si es necesario | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Dispositivos de centrado | 3Con | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Dispositivos de centrado | 3Con | - | Comprobación de la corrosión | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Dispositivos de centrado | 3Con | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Dispositivos de centrado | 3Con | - | Comprobación del dispositivo de centrado
+entre la herramienta y la instalación | Comprobación del dispositivo de centrado montando y
+desmontando varias veces la herramienta | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Guía lineal | INA-FAG | - | Comprobación de la suavidad de
+movimientos | Comprobación mediante movimiento manual del carro
+guía | Cambio de los carros guía
+según las necesidades
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Tope de goma | - | - | Comprobación de la capacidad de
+funcionamiento en los pisadores | Comprobación durante la producción de si la pieza se ha
+tomado limpia | Ajuste o cambio según las
+necesidades
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Tuberías neumáticas | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Tuberías neumáticas | - | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Terminal de válvulas | Festo | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Terminal de válvulas | Festo | - | Comprobación de la suciedad del filtro de
+salida de aire | Limpieza o cambio según las necesidades | -
+
+[Page 57]
+Resumen intervalos Página 239 de 250
+
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Terminal de válvulas | Festo | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Terminal de válvulas | Festo | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Terminal de válvulas | Festo | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Accionamiento neumático | Festo | - | Comprobación de la suavidad de
+movimientos | Comprobación mediante movimiento manual del
+vástago del pistón | Cambiar si es necesario
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Accionamiento neumático | SMC | - | Comprobación de la suavidad de
+movimientos | Comprobación mediante movimiento manual del
+vástago del pistón | Cambiar si es necesario
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Comprobación de la capacidad de
+funcionamiento | Cuando no haya presión, el freno debe estar cerrado. ¡El
+actuador no puede moverse a mano! | Cambiar si es necesario
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Comprobación de la capacidad de
+funcionamiento | Cuando no haya presión, el freno debe estar cerrado. ¡El
+actuador no puede moverse a mano! | Cambiar si es necesario
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Regulador de la presión | Festo | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Regulador de la presión | Festo | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Regulador de la presión | Festo | - | Comprobación de los valores de presión | Ajuste según las necesidades | véase el rótulo del regulador
+de presión
+(si se dispone de él)
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Regulador de la presión | Festo | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores ópticos | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores ópticos | - | - | Limpieza de las superficies iluminadas | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores capacitativos | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores capacitativos | - | - | Limpieza de la punta del sensor | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores inductivos | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores inductivos | - | - | Limpieza de la punta del sensor | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Interruptor de proximidad | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Enchufe eléctrico | Harting | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Enchufe eléctrico | Harting | - | Control de la clavija de centrado y de los
+elementos adhesivos | Cambiar si es necesario | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de la libertad de
+movimiento del cable en las cadenas
+energéticas | Ajuste según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de que la descarga de
+presión está en la posición adecuada | Ajuste según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de que el cable no tenga
+deformaciones | Ajuste según las necesidades | Los cables deben estar
+colocados sin torsión
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de que el radio de curvatura
+sea suficiente | Ajuste según las necesidades | Los cables no deben doblarse
+
+[Page 58]
+Resumen intervalos Página 240 de 250
+
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de que haya espacio
+suficiente entre los cables (siempre y
+cuando sea posible) | Ajuste según las necesidades | CUIDADO: ¡Medidas de
+protección frente a incendios!
+(Tener en cuenta la
+generación de calor)
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de que no haya contactos
+desprotegidos | Ajuste según las necesidades | CUIDADO:
+Debe procurarse una
+protección frente al contacto
+de la tubería
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cajas de bornes / armarios
+de distribución | 3Con | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cajas de bornes / armarios
+de distribución | 3Con | - | Comprobación de que la tarjeta de entrada
+y salida estén en su posición correcta en la
+base | Ajuste según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cajas de bornes / armarios
+de distribución | 3Con | - | Comprobación del calor acumulado en el
+interior | En caso de temperaturas muy altas, contacte con la
+empresa 3Con | Compruebe además el
+aparato de aire
+acondicionado
+(si se dispone de él)
+
+[Page 59]
+Resumen intervalos Página 241 de 250
+
+Resumen intervalos | - | - | - | - | - | Cliente: | CEFA | -
+- | - | - | - | - | - | Número de proyecto: | 1005803 | -
+1 vez al mes
+o
+después de 700 horas de servicio | - | - | - | - | - | Leyenda de colores:
+Control visual Prueba funcional INTERNA Cambio
+Limpieza Prueba funcional EXERNA Otros
+Lubricación Medición de incidencia | - | -
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Unidades de rebaje | 3Con | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Enchufe de acoplamiento | Stäubli | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Prueba funcional
+INTERNA | Enchufe de acoplamiento | Stäubli | - | Comprobación de la estanqueidad del
+acoplamiento de bloqueo | Compruebe durante la producción si salen líquidos /
+Observe la potencia de succión en vacío | Se recomienda llevar a cabo
+una comprobación con cada
+cambio de herramienta
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Columna de la guía y
+casquillo guía | 3Con | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Columna de la guía y
+casquillo guía | 3Con | - | Retirada del lubricante sobrante | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Lubricación | Columna de la guía y
+casquillo guía | 3Con | - | Lubricación del casquillo guía | Lubricación del casquillo guía a mano por medio de una
+brocha o una boquilla de engrase y una pistola
+engrasadora | Antes de la utilización de una
+pistola de engrase, deben
+limpiarse de forma
+exhaustiva tanto la pistola de
+engrase como los puntos de
+lubricación
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Casquillos guías | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | Si es accesible | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Dispositivos de centrado | 3Con | - | Eliminación de superficies corroídas | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Dispositivos de centrado | 3Con | - | Retirada del lubricante sobrante | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Guía lineal | INA-FAG | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Guía lineal | INA-FAG | - | Retirada del lubricante sobrante | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Lubricación | Guía lineal | INA-FAG | - | Lubricación del carro guía | Lubricación con una boquilla de engrase por medio de
+una pistola engrasadora (si la hay) | Antes de la utilización de una
+pistola de engrase, deben
+limpiarse de forma
+exhaustiva tanto la pistola de
+engrase como los puntos de
+lubricación
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Control visual | Tope de goma | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Tope de goma | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Tuberías neumáticas | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Accionamiento neumático | Festo | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Accionamiento neumático | SMC | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Limpieza de la barra guía | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Enchufe eléctrico | Harting | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Prueba funcional
+INTERNA | Enchufe eléctrico | Harting | - | Comprobación de que las conexiones estén
+en una posición correcta | Comprobación encendiendo y apagando repetidas veces | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Prueba funcional
+INTERNA | Enchufe eléctrico | Harting | - | Comprobación de las clavijas de centrado y
+de los elementos adhesivos | Comprobación encendiendo y apagando repetidas veces | -
+
+[Page 60]
+Resumen intervalos Página 242 de 250
+
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Cables eléctricos | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Cajas de bornes / armarios
+de distribución | 3Con | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+
+[Page 61]
+Resumen intervalos Página 243 de 250
+
+Resumen intervalos | - | - | - | - | - | Cliente: | CEFA | -
+- | - | - | - | - | - | Número de proyecto: | 1005803 | -
+1 vez al trimestre
+o
+después de 2800 horas de servicio | - | - | - | - | - | Leyenda de colores:
+Control visual Prueba funcional INTERNA Cambio
+Limpieza Prueba funcional EXERNA Otros
+Lubricación Medición de incidencia | - | -
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez al trimestre
+o
+después de 2800 horas de
+servicio | Otros | Uniones roscadas | 3Con | - | Comprobar la estanqueidad de todas las
+uniones atornilladas | Ajuste según las necesidades | Tenga en cuenta los pares de
+apriete
+
+[Page 62]
+Resumen intervalos Página 244 de 250
+
+Resumen intervalos | - | - | - | - | - | Cliente: | CEFA | -
+- | - | - | - | - | - | Número de proyecto: | 1005803 | -
+1 vez cada año
+o
+después de 8600 horas de servicio | - | - | - | - | - | Leyenda de colores:
+Control visual Prueba funcional INTERNA Cambio
+Limpieza Prueba funcional EXERNA Otros
+Lubricación Medición de incidencia | - | -
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez cada año
+o
+después de 8600 horas de
+servicio | Otros | Uniones roscadas | 3Con | - | Comprobar todas las uniones atornilladas
+en cuanto a fatiga del material y corrosión | Intercambio según las necesidades | -
+
+[Page 63]
+Resumen intervalos Página 245 de 250
+
+Resumen intervalos | - | - | - | - | - | Cliente: | CEFA | -
+- | - | - | - | - | - | Número de proyecto: | 1005803 | -
+Alcance completo de todos los puntos de mantenimiento (todos
+intervalos) | - | - | - | - | - | Leyenda de colores:
+Control visual Prueba funcional INTERNA Cambio
+Limpieza Prueba funcional EXERNA Otros
+Lubricación Medición de incidencia | - | -
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | según las necesidades | Cambio | Uniones roscadas | 3Con | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Unidades de rebaje | 3Con | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Unidades de rebaje | 3Con | - | Cambio del cojinete de agujas | Cambio del cojinete de agujas después de un máximo de
+150.000 ciclos | -
+ | según las necesidades | Cambio | Unidades de rebaje | 3Con | - | Cambio de los rieles | - | -
+ | según las necesidades | Limpieza | Enchufe de acoplamiento | Stäubli | - | Eliminación de fluidos que salen del
+circuito de temperado o del circuito del
+circuito refrigerante | Se recomienda llevar a cabo una limpieza con cada
+cambio de herramienta | -
+ | según las necesidades | Cambio | Enchufe de acoplamiento | Stäubli | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Columna de la guía y
+casquillo guía | 3Con | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Casquillos guías | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | Contacte con la empresa
+3Con
+ | según las necesidades | Lubricación | Dispositivos de centrado | 3Con | - | Lubricación de superficies en la eliminación
+de zonas corroídas | Lubricación de superficies tras la retirada de zonas
+corroídas a mano mediante brocha | -
+ | según las necesidades | Cambio | Dispositivos de centrado | 3Con | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Guía lineal | INA-FAG | - | Cambio de los carriles guía | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Guía lineal | INA-FAG | - | Cambio de los carros guía | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Tope de goma | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Tuberías neumáticas | - | - | Cambio de los tubos | - | -
+ | según las necesidades | Cambio | Tuberías neumáticas | - | - | Cambio de las conexiones de enchufe | - | -
+ | según las necesidades | Cambio | Tuberías neumáticas | - | - | Cambio de la pieza de distribución | - | -
+ | según las necesidades | Cambio | Terminal de válvulas | Festo | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Terminal de válvulas | Festo | - | Cambio del filtro de escape | Número de artículo dependiente del tipo
+(véase página de inicio del fabricante | -
+ | según las necesidades | Cambio | Terminal de válvulas | Festo | - | Cambio de las válvulas individuales | Número de artículo dependiente del tipo
+(véase página de inicio del fabricante | -
+ | según las necesidades | Cambio | Accionamiento neumático | Festo | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Accionamiento neumático | SMC | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+
+[Page 64]
+Resumen intervalos Página 246 de 250
+
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | según las necesidades | Cambio | Regulador de la presión | Festo | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Sensores ópticos | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Sensores capacitativos | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Sensores inductivos | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Interruptor de proximidad | - | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Enchufe eléctrico | Harting | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Cables eléctricos | - | - | Cambio del cable | Número de artículo, véase la lista de piezas de repuesto | -
+ | según las necesidades | Cambio | Cajas de bornes / armarios
+de distribución | 3Con | - | Cambio de la pieza completa | Número de artículo, véase la lista de piezas de repuesto | -
+ | Según las necesidades | Lubricación | Accionamiento neumático | Festo | - | En caso de formación de ruidos, lubrique el
+vástago del émbolo (grasa especial LUB-
+KC1 de Festo). | - | Preste atención a la
+formación de ruidos
+ | Según las necesidades | Lubricación | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | En caso de formación de ruidos, lubrique el
+vástago del émbolo (grasa especial LUB-
+KC1 de Festo). | Preste atención a la formación de ruidos | -
+ | Según las necesidades | Lubricación | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | En caso de formación de ruidos, lubrique el
+vástago del émbolo (grasa especial LUB-
+KC1 de Festo). | - | Preste atención a la
+formación de ruidos
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Enchufe de acoplamiento | Stäubli | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Enchufe de acoplamiento | Stäubli | - | Comprobación de la corrosión | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Enchufe de acoplamiento | Stäubli | - | Comprobación de la estanqueidad del
+acoplamiento de bloqueo | Limpieza o cambio según las necesidades | Comprobación de fluidos que
+salen del circuito de
+temperado o del circuito del
+circuito refrigerante
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Guía lineal | INA-FAG | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Guía lineal | INA-FAG | - | Atención a la formación de ruidos | Cambiar si es necesario | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Accionamiento neumático | Festo | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Accionamiento neumático | Festo | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Accionamiento neumático | SMC | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Accionamiento neumático | SMC | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Comprobación de que la barra guía no
+presente daños ni suciedad | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Comprobación de que la barra guía no
+presente daños ni suciedad | Limpieza o cambio según las necesidades | -
+
+[Page 65]
+Resumen intervalos Página 247 de 250
+
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores ópticos | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores ópticos | - | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Prueba funcional
+INTERNA | Sensores ópticos | - | - | Comprobación de la capacidad de
+funcionamiento del sensor | Compruebe los posibles avisos de error en el panel táctil
+durante el funcionamiento normal de la producción | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores capacitativos | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores capacitativos | - | - | Comprobación de que las puntas de los
+sensores no presenten daños ni suciedad | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores capacitativos | - | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Prueba funcional
+INTERNA | Sensores capacitativos | - | - | Comprobación de la capacidad de
+funcionamiento del sensor | Compruebe los posibles avisos de error en el panel táctil
+durante el funcionamiento normal de la producción | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores inductivos | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores inductivos | - | - | Comprobación de que las puntas de los
+sensores no presenten daños ni suciedad | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Sensores inductivos | - | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Prueba funcional
+INTERNA | Sensores inductivos | - | - | Comprobación de la capacidad de
+funcionamiento del sensor | Compruebe los posibles avisos de error en el panel táctil
+durante el funcionamiento normal de la producción | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Interruptor de proximidad | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Interruptor de proximidad | - | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Control visual | Interruptor de proximidad | - | - | Comprobación de que el sensor esté
+colocado de forma sólida en el cilindro | Ajuste según las necesidades | -
+ | 1 vez al día
+o
+después de 24 horas de
+servicio | Prueba funcional
+INTERNA | Interruptor de proximidad | - | - | Comprobación de la capacidad de
+funcionamiento del sensor | Compruebe los posibles avisos de error en el panel táctil
+durante el funcionamiento normal de la producción | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Unidades de rebaje | 3Con | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Unidades de rebaje | 3Con | - | Control del rodaje de los rieles | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Unidades de rebaje | 3Con | - | Comprobación del cojinete de agujas | Cambiar si es necesario | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Unidades de rebaje | 3Con | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Unidades de rebaje | 3Con | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Unidades de rebaje | 3Con | - | Comprobación de la suavidad de
+funcionamiento | Comprobación del accionamiento neumático por medio
+de movimiento manual sin presión | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Columna de la guía y
+casquillo guía | 3Con | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Columna de la guía y
+casquillo guía | 3Con | - | Comprobación del dispositivo de centrado
+entre la guía de rodamiento y la columna
+de la guía | Comprobación del dispositivo de centrado abriendo y
+cerrando la instalación varias veces | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Casquillos guías | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | Si es accesible
+
+[Page 66]
+Resumen intervalos Página 248 de 250
+
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Casquillos guías | - | - | Comprobación del desgaste de la
+cremallera dentada (por ejemplo: polvo
+metálico de los casquillos guía de bronce) | Limpieza o cambio según las necesidades | Compruebe además el
+lubricador
+(si se dispone de él)
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Casquillos guías | - | - | Comprobación de que la cremallera esté
+suficientemente lubricada | Lubricación según las necesidades | Compruebe además el
+lubricador
+(si se dispone de él)
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Casquillos guías | - | - | Atención a la formación de ruidos | Cambiar si es necesario | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Dispositivos de centrado | 3Con | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Dispositivos de centrado | 3Con | - | Comprobación de la corrosión | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Dispositivos de centrado | 3Con | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Dispositivos de centrado | 3Con | - | Comprobación del dispositivo de centrado
+entre la herramienta y la instalación | Comprobación del dispositivo de centrado montando y
+desmontando varias veces la herramienta | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Guía lineal | INA-FAG | - | Comprobación de la suavidad de
+movimientos | Comprobación mediante movimiento manual del carro
+guía | Cambio de los carros guía
+según las necesidades
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Tope de goma | - | - | Comprobación de la capacidad de
+funcionamiento en los pisadores | Comprobación durante la producción de si la pieza se ha
+tomado limpia | Ajuste o cambio según las
+necesidades
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Tuberías neumáticas | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Tuberías neumáticas | - | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Terminal de válvulas | Festo | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Terminal de válvulas | Festo | - | Comprobación de la suciedad del filtro de
+salida de aire | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Terminal de válvulas | Festo | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Terminal de válvulas | Festo | - | Comprobación de que el cable y las
+conexiones no presenten daños | Cambiar si es necesario | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Terminal de válvulas | Festo | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Accionamiento neumático | Festo | - | Comprobación de la suavidad de
+movimientos | Comprobación mediante movimiento manual del
+vástago del pistón | Cambiar si es necesario
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Accionamiento neumático | SMC | - | Comprobación de la suavidad de
+movimientos | Comprobación mediante movimiento manual del
+vástago del pistón | Cambiar si es necesario
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Comprobación de la capacidad de
+funcionamiento | Cuando no haya presión, el freno debe estar cerrado. ¡El
+actuador no puede moverse a mano! | Cambiar si es necesario
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Prueba funcional
+INTERNA | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Comprobación de la capacidad de
+funcionamiento | Cuando no haya presión, el freno debe estar cerrado. ¡El
+actuador no puede moverse a mano! | Cambiar si es necesario
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Regulador de la presión | Festo | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Regulador de la presión | Festo | - | Comprobación de la estanqueidad de las
+conexiones de aire comprimido | Cambiar si es necesario | Compruebe la formación de
+ruidos
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Regulador de la presión | Festo | - | Comprobación de los valores de presión | Ajuste según las necesidades | véase el rótulo del regulador
+de presión
+(si se dispone de él)
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Regulador de la presión | Festo | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores ópticos | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+
+[Page 67]
+Resumen intervalos Página 249 de 250
+
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores ópticos | - | - | Limpieza de las superficies iluminadas | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores capacitativos | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores capacitativos | - | - | Limpieza de la punta del sensor | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores inductivos | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Sensores inductivos | - | - | Limpieza de la punta del sensor | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Limpieza | Interruptor de proximidad | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Enchufe eléctrico | Harting | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Enchufe eléctrico | Harting | - | Control de la clavija de centrado y de los
+elementos adhesivos | Cambiar si es necesario | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de la libertad de
+movimiento del cable en las cadenas
+energéticas | Ajuste según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de que la descarga de
+presión está en la posición adecuada | Ajuste según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de que el cable no tenga
+deformaciones | Ajuste según las necesidades | Los cables deben estar
+colocados sin torsión
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de que el radio de curvatura
+sea suficiente | Ajuste según las necesidades | Los cables no deben doblarse
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de que haya espacio
+suficiente entre los cables (siempre y
+cuando sea posible) | Ajuste según las necesidades | CUIDADO: ¡Medidas de
+protección frente a incendios!
+(Tener en cuenta la
+generación de calor)
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cables eléctricos | - | - | Comprobación de que no haya contactos
+desprotegidos | Ajuste según las necesidades | CUIDADO:
+Debe procurarse una
+protección frente al contacto
+de la tubería
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cajas de bornes / armarios
+de distribución | 3Con | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cajas de bornes / armarios
+de distribución | 3Con | - | Comprobación de que la tarjeta de entrada
+y salida estén en su posición correcta en la
+base | Ajuste según las necesidades | -
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Cajas de bornes / armarios
+de distribución | 3Con | - | Comprobación del calor acumulado en el
+interior | En caso de temperaturas muy altas, contacte con la
+empresa 3Con | Compruebe además el
+aparato de aire
+acondicionado
+(si se dispone de él)
+ | 1 vez a la semana
+o
+después de 160 horas de
+servicio | Control visual | Uniones roscadas | 3Con | - | Compruebe si las uniones atornilladas
+presentan signos evidentes de aflojamiento
+o daños. | Ajuste o cambio según las necesidades | Tenga en cuenta los pares de
+apriete
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Unidades de rebaje | 3Con | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Enchufe de acoplamiento | Stäubli | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Prueba funcional
+INTERNA | Enchufe de acoplamiento | Stäubli | - | Comprobación de la estanqueidad del
+acoplamiento de bloqueo | Compruebe durante la producción si salen líquidos /
+Observe la potencia de succión en vacío | Se recomienda llevar a cabo
+una comprobación con cada
+cambio de herramienta
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Columna de la guía y
+casquillo guía | 3Con | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Columna de la guía y
+casquillo guía | 3Con | - | Retirada del lubricante sobrante | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Lubricación | Columna de la guía y
+casquillo guía | 3Con | - | Lubricación del casquillo guía | Lubricación del casquillo guía a mano por medio de una
+brocha o una boquilla de engrase y una pistola
+engrasadora | Antes de la utilización de una
+pistola de engrase, deben
+limpiarse de forma
+exhaustiva tanto la pistola de
+engrase como los puntos de
+lubricación
+
+[Page 68]
+Resumen intervalos Página 250 de 250
+
+:
+r
+o
+l
+o
+c | Intervalo: | Mantenimiento: | Referencia: | Fabricante: | Tipo: | Actividad: | Observación: | Información adicional
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Casquillos guías | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | Si es accesible | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Dispositivos de centrado | 3Con | - | Eliminación de superficies corroídas | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Dispositivos de centrado | 3Con | - | Retirada del lubricante sobrante | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Guía lineal | INA-FAG | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Guía lineal | INA-FAG | - | Retirada del lubricante sobrante | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Lubricación | Guía lineal | INA-FAG | - | Lubricación del carro guía | Lubricación con una boquilla de engrase por medio de
+una pistola engrasadora (si la hay) | Antes de la utilización de una
+pistola de engrase, deben
+limpiarse de forma
+exhaustiva tanto la pistola de
+engrase como los puntos de
+lubricación
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Control visual | Tope de goma | - | - | Comprobación de daños y de la suciedad
+general | Limpieza o cambio según las necesidades | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Tope de goma | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Tuberías neumáticas | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Accionamiento neumático | Festo | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Accionamiento neumático | SMC | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en la barra guía) | Limpieza de la barra guía | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Cartuchos de bloqueo /
+freno de estacionamiento de
+seguridad | Festo | (en el cilindro) | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Enchufe eléctrico | Harting | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Prueba funcional
+INTERNA | Enchufe eléctrico | Harting | - | Comprobación de que las conexiones estén
+en una posición correcta | Comprobación encendiendo y apagando repetidas veces | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Prueba funcional
+INTERNA | Enchufe eléctrico | Harting | - | Comprobación de las clavijas de centrado y
+de los elementos adhesivos | Comprobación encendiendo y apagando repetidas veces | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Cables eléctricos | - | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicio | Limpieza | Cajas de bornes / armarios
+de distribución | 3Con | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -
+ | 1 vez al trimestre
+o
+después de 2800 horas de
+servicio | Otros | Uniones roscadas | 3Con | - | Comprobar la estanqueidad de todas las
+uniones atornilladas | Ajuste según las necesidades | Tenga en cuenta los pares de
+apriete
+ | 1 vez cada año
+o
+después de 8600 horas de
+servicio | Otros | Uniones roscadas | 3Con | - | Comprobar todas las uniones atornilladas
+en cuanto a fatiga del material y corrosión | Intercambio según las necesidades | -
+ | 1 vez al mes
+o
+después de 700 horas de
+servicion | Limpieza | Uniones roscadas | 3Con | - | Limpieza de las superficies
+(eliminación de restos de suciedad y
+acumulaciones de polvo) | - | -

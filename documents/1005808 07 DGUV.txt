@@ -1,0 +1,539 @@
+[Page 1]
+Auflistung der Messungen und Funktionsprüfungen nach DGUV
+Vorschrift 3
+Kunde: CEFA
+Projektnummer: 1005808
+Anlagentyp: BR 449_WELD_MTPE_180-32
+Baujahr: 2024
+Die nachfolgend aufgeführten Dokumentationen wurden nach bestem Wissen durchgeführt und stellen eine Bestandsaufnahme
+zum Zeitpunkt der Prüfung dar. Nach der Prüfung durchgeführte Änderungen an den Anlagen können das Prüfergebnis negativ
+beeinflussen und müssen daher eine erneute Beurteilung nach sich ziehen.
+31.03.2025 DGUV_Vorschrift_3 1
+
+[Page 2]
+Inhaltsverzeichnis:
+1.) Niederohmmessung
+nach DIN VDE 0413 Teil 4 und
+Schutzleitermessungsdokumentation nach DIN VDE 0100 Teil 600
+2.) Isolationsmessung
+nach DIN VDE 0100 Teil 610
+3.) FI Messung
+nach DIN VDE 0100-N4i1e0derohmmessungsdokumentation
+4.) Spannungsmessung
+5.) Drehfeld- und Schleifenmessung
+6.) 24VDC Strom- und Spannungmessung
+7.) Profinetmessung
+31.03.2025 DGUV_Vorschrift_3 2
+
+[Page 3]
+Niederohmmessung
+01_Niederohmmessung_ Seite 3
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 27.03.25
+Projektnummer: 1005808 | - | Praschberger Gerhard
+Anlagentyp: BR 449_WELD_MTPE_180-32 | Messgerät: | Fluke 1654B
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  | 
+Betriebsmittel | Bezeichnung |  | Messwerte in OHM
+[Bereich 1: BASISANLAGE] | - |  | 
+Messpunkt Anfang | PE-Schiene-Einspeisung | +A01-WEA.1 | 0,00
+Messpunkt Ende 1 | Gitter links | =GE+B01-QC1 | 0,00
+Messpunkt Ende 2 | Gitter rechts | =GE+B01-QC2 | 0,00
+Messpunkt Ende 3 | Tasse linke Seite | =GE+B01-QC3 | 0,00
+Messpunkt Ende 4 | Tasse rechte Seite | =GE+B01-QC4 | 0,00
+Messpunkt Ende 5 | Touchpanelgehäuse | =GE+B01-QC5 | 0,00
+Messpunkt Ende 6 | Rahmen Anlage | =GE+B01-QC6 | 0,00
+Messpunkt Ende 7 | Busgehäuse B01.X01 | =GE+B01-QC7 | 0,00
+Messpunkt Ende 8 | Schaltschrank | =GE+B01-QC8 | 0,00
+Messpunkt Ende 9 | Motor Pressenbär | =GE+B01-QC9 | 0,00
+Messpunkt Ende 10 |  | =GE+B01-QC10 | 
+Messpunkt Ende 11 |  | =GE+B01-QC11 | 
+Messpunkt Ende 12 |  | =GE+B01-QC12 | 
+Messpunkt Ende 13 |  | =GE+B01-QC13 | 
+Messpunkt Ende 14 |  | =GE+B01-QC14 | 
+Messpunkt Ende 15 |  | =GE+B01-QC15 | 
+Messpunkt Ende 16 |  |  | 
+Messpunkt Ende 17 | Busgehäuse B02.X01 | =GE+B02-QC1 | 0,00
+Messpunkt Ende 18 | Rahmen Pressenbär | =GE+B02-QC2 | 0,00
+
+[Page 4]
+01_Niederohmmessung_ Seite 4
+
+zu prüfen: |  |  | 
+Betriebsmittel | Bezeichnung |  | Messwerte in OHM
+Messpunkt Ende 19 | Kabeltasse Pressenbär | =GE+B02-QC3 | 0,00
+Messpunkt Ende 20 | Aluplatte links | =GE+B02-QC4 | 0,00
+Messpunkt Ende 21 | Aluplatte rechts | =GE+B02-QC5 | 0,00
+Messpunkt Ende 22 |  | =GE+B02-QC6 | 
+Messpunkt Ende 23 |  | =GE+B02-QC7 | 
+Messpunkt Ende 24 |  | =GE+B02-QC8 | 
+Messpunkt Ende 25 |  | =GE+B02-QC9 | 
+Messpunkt Ende 26 |  | =GE+B02-QC10 | 
+
+[Page 5]
+01_Niederohmmessung_ Seite 5
+
+zu prüfen: |  |  | 
+Betriebsmittel | Bezeichnung |  | Messwerte in OHM
+[Bereich 2: SCHALTSCHRANK + KLEMMKÄSTEN] | - |  | 
+Messpunkt Anfang | PE-Schiene-Einspeisung | +A01-WEA.1 | 0,00
+Messpunkt Ende 1 | Klemmkasten | +B01.X01 | 0,00
+Messpunkt Ende 2 | Montageplatte Klemmkasten | +B01.X01 | 0,00
+Messpunkt Ende 3 | Deckel Klemmkasten | +B01.X01 | 0,00
+Messpunkt Ende 4 |  |  | 
+Messpunkt Ende 5 | Touchpanelgehäuse | +B01.X02 | 0,00
+Messpunkt Ende 6 | Montageplatte Touchpanelgehäuse | +B01.X02 | 0,00
+Messpunkt Ende 7 | Tür Touchpanelgehäuse | +B01.X02 | 0,00
+Messpunkt Ende 8 |  |  | 
+Messpunkt Ende 9 | Klemmkasten | +B02.X01 | 0,00
+Messpunkt Ende 10 | Montageplatte Klemmkasten | +B02.X01 | 0,00
+Messpunkt Ende 11 | Deckel Klemmkasten | +B02.X01 | 0,00
+
+[Page 6]
+01_Niederohmmessung_ Seite 6
+
+zu prüfen: |  |  | 
+Betriebsmittel | Bezeichnung |  | Messwerte in OHM
+[Bereich 3: BETRIEBSMITTEL] | - |  | 
+Messpunkt Anfang | PE-Schiene-Einspeisung | +A01-WEA.1 | 0,00
+Messpunkt Ende 1 | Service Steckdose Schaltschrank | =AA+A01-XDB1 | 0,00
+Messpunkt Ende 2 | Service Steckdose Schaltschrank | =AA+A01-XDB2 | 0,00
+Messpunkt Ende 3 |  |  | 
+Messpunkt Ende 4 | Service Steckdose Touchpanel | =HMI+B01.X02-XS1 | 0,00
+Messpunkt Ende 5 | Steckdose Anlage | =AA+B01-XDB1 | 0,00
+Messpunkt Ende 6 | Steckdose Anlage | =AA+B01-XDB2 | 0,00
+Messpunkt Ende 7 | Anlagenlicht | =AA+B01-EAA1 | 0,00
+Messpunkt Ende 8 | Anlagenlicht | =AA+B01-EAA5 | 0,00
+Messpunkt Ende 12 |  |  | 
+Messpunkt Ende 13 | Kühlgerät | =EA.1+B01-XS1 | 0,00
+Messpunkt Ende 14 |  |  | 
+Messpunkt Ende 15 | Antrieb Hubtisch | =ME.1+B01-MAA1 | 0,00
+Messpunkt Ende 16 | Fremdlüfter Antrieb Hubtisch | =ME.1+B01-MAA1-MAA | 0,00
+Messpunkt Ende 17 |  |  | 
+Messpunkt Ende 18 | Antrieb shuttle tool LT | =XS.L1+B01-XS2:A4 | 0,00
+Messpunkt Ende 19 | Antrieb shuttle tool 1 UT | =XS.U1+B02-XS2:A4 | 0,00
+Messpunkt Ende 20 | Antrieb shuttle tool 1 UT | =XS.U1+B02-XS2:B4 | 0,00
+Messpunkt Ende 21 |  |  | 
+Messpunkt Ende 22 | Schutzleiter Stecker =XS.L1+B01-XS1 | =XS.L1+B01-XS1:F1 | 0,00
+Messpunkt Ende 23 | Neutralleiter Stecker =XS.L1+B01-XS1 | =XS.L1+B01-XS1:F2 | 0,00
+Messpunkt Ende 24 | Schutzleiter Stecker =XS.L1+B01-XS5 | =XS.L1+B01-XS5:A1 | 0,00
+Messpunkt Ende 25 | Neutralleiter Stecker =XS.L1+B01-XS5 | =XS.L1+B01-XS5:A2 | 0,00
+Messpunkt Ende 26 | Schutzleiter Stecker =XS.U1+B02-XS1 | =XS.U1+B02-XS1:F1 | 0,00
+Messpunkt Ende 27 | Neutralleiter Stecker =XS.U1+B02-XS1 | =XS.U1+B02-XS1:F2 | 0,00
+
+[Page 7]
+01_Niederohmmessung_ Seite 7
+
+zu prüfen: |  |  | 
+Betriebsmittel | Bezeichnung |  | Messwerte in OHM
+
+[Page 8]
+Isolationsmessung
+Prüfspannung 500V, Schutzklasse I – > 0,3MΩ (mit Heizelementen), Schutzklasse I – > 1MΩ (ohne Heizelementen), > 2MΩ (berührbare, leitfähige Teile ohne SL-Anschluss),
+Schutzklasse II >2,0MΩ
+02_Isolationsmessung_1 Seite 8
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 27.03.25
+Projektnummer: 1005808 | - | Praschberger Gerhard
+Anlagentyp: BR 449_WELD_MTPE_180-32 | Messgerät: | Fluke 1654B
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Messung
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
+ | Einspeisung | N-PE | >500 | 500
+=AA+A01-XDB1 | Service Steckdose Schaltschrank | L-PE | >500 | 500
+=AA+A01-XDB2 | Service Steckdose Schaltschrank | L-PE | >500 | 500
+=HMI+B01.X02-XS1 | Service Steckdose Touchpanel | L-PE | >500 | 500
+=AA+B01-XDB1 | Steckdose Anlage | L-PE | >500 | 500
+=AA+B01-XDB2 | Steckdose Anlage | L-PE | >500 | 500
+=AA+B01-EAA1 | Anlagenlicht | L-PE | >500 | 500
+=AA+B01-EAA5 | Anlagenlicht | L-PE | >500 | 500
+=EA.1+B01-XS1 | Kühlgerät | L1-PE | >500 | 500
+=EA.1+B01-XS1 | Kühlgerät | L2-PE | >500 | 500
+=EA.1+B01-XS1 | Kühlgerät | L3-PE | >500 | 500
+=ME.1+B01-MAA1 | Antrieb Hubtisch | L1-PE | >500 | 500
+=ME.1+B01-MAA1 | Antrieb Hubtisch | L2-PE | >500 | 500
+=ME.1+B01-MAA1 | Antrieb Hubtisch | L3-PE | >500 | 500
+=ME.1+B01-MAA1-MAA | Fremdlüfter Antrieb Hubtisch | L1-PE | >500 | 500
+=ME.1+B01-MAA1-MAA | Fremdlüfter Antrieb Hubtisch | L2-PE | >500 | 500
+=ME.1+B01-MAA1-MAA | Fremdlüfter Antrieb Hubtisch | L3-PE | >500 | 500
+
+[Page 9]
+02_Isolationsmessung_1 Seite 9
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Messung
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
+=XS.L1+B01-XS2:A1 | Antrieb shuttle tool LT | L1-PE | >500 | 500
+=XS.L1+B01-XS2:A2 | Antrieb shuttle tool LT | L2-PE | >500 | 500
+=XS.L1+B01-XS2:A3 | Antrieb shuttle tool LT | L3-PE | >500 | 500
+=XS.U1+B02-XS2:A1 | Antrieb shuttle tool 1 UT | L1-PE | >500 | 500
+=XS.U1+B02-XS2:A2 | Antrieb shuttle tool 1 UT | L2-PE | >500 | 500
+=XS.U1+B02-XS2:A3 | Antrieb shuttle tool 1 UT | L3-PE | >500 | 500
+=XS.U1+B02-XS2:B1 | Antrieb shuttle tool 1 UT | L1-PE | >500 | 500
+=XS.U1+B02-XS2:B2 | Antrieb shuttle tool 1 UT | L2-PE | >500 | 500
+=XS.U1+B02-XS2:B3 | Antrieb shuttle tool 1 UT | L3-PE | >500 | 500
+
+[Page 10]
+Isolationsmessung
+Prüfspannung 500V, Schutzklasse I – > 0,3MΩ (mit Heizelementen), Schutzklasse I – > 1MΩ (ohne Heizelementen), > 2MΩ (berührbare, leitfähige Teile ohne SL-Anschluss), Schutzklasse II
+>2,0MΩ
+02_Isolationsmessung_2 Seite 10
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 27.03.25
+Projektnummer: 1005808 | - | Praschberger Gerhard
+Anlagentyp: BR 449_WELD_MTPE_180-32 | Messgerät: | Fluke 1654B
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  |  |  | 
+Betriebsmittel | Bezeichnung |  | Messung
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
+=EB+A01-KE1-K1/X2-0 | =XS.L1+B01-XS2:B1 |  | L-PE | >500 | 500
+=EB+A01-KE1-K1/X2-1 | =XS.L1+B01-XS2:B2 |  | L-PE | >500 | 500
+=EB+A01-KE1-K1/X2-2 | =XS.L1+B01-XS2:B3 |  | L-PE | >500 | 500
+=EB+A01-KE1-K1/X2-3 | =XS.L1+B01-XS2:B4 |  | L-PE | >500 | 500
+=EB+A01-KE1-K1/X2-4 | =XS.L1+B01-XS2:B5 |  | L-PE | >500 | 500
+=EB+A01-KE1-K1/X3-0 | =XS.L1+B01-XS2:C1 |  | L-PE | >500 | 500
+=EB+A01-KE1-K1/X3-1 | =XS.L1+B01-XS2:C2 |  | L-PE | >500 | 500
+=EB+A01-KE1-K1/X3-2 | =XS.L1+B01-XS2:C3 |  | L-PE | >500 | 500
+=EB+A01-KE1-K1/X3-3 | =XS.L1+B01-XS2:C4 |  | L-PE | >500 | 500
+=EB+A01-KE1-K1/X3-4 | =XS.L1+B01-XS2:C5 |  | L-PE | >500 | 500
+=EB+A01-KE1-K2/X2-0 | =XS.L1+B01-XS2:D1 |  | L-PE | >500 | 500
+=EB+A01-KE1-K2/X2-1 | =XS.L1+B01-XS2:D2 |  | L-PE | >500 | 500
+=EB+A01-KE1-K2/X2-2 | =XS.L1+B01-XS2:D3 |  | L-PE | >500 | 500
+=EB+A01-KE1-K2/X2-3 | =XS.L1+B01-XS2:D4 |  | L-PE | >500 | 500
+=EB+A01-KE1-K2/X2-4 | =XS.L1+B01-XS2:D5 |  | L-PE | >500 | 500
+=EB+A01-KE1-K2/X3-0 | =XS.L1+B01-XS2:E1 |  | L-PE | >500 | 500
+=EB+A01-KE1-K2/X3-1 | =XS.L1+B01-XS2:E2 |  | L-PE | >500 | 500
+=EB+A01-KE1-K2/X3-2 | =XS.L1+B01-XS2:E3 |  | L-PE | >500 | 500
+=EB+A01-KE1-K2/X3-3 | =XS.L1+B01-XS2:E4 |  | L-PE | >500 | 500
+=EB+A01-KE1-K2/X3-4 | =XS.L1+B01-XS2:E5 |  | L-PE | >500 | 500
+
+[Page 11]
+02_Isolationsmessung_2 Seite 11
+
+zu prüfen: |  |  |  |  | 
+Betriebsmittel | Bezeichnung |  | Messung
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
+=EB+A01-KE1-K3/X2-0 | =XS.L1+B01-XS3:1 |  | L-PE | >500 | 500
+=EB+A01-KE1-K3/X2-1 | =XS.L1+B01-XS3:2 |  | L-PE | >500 | 500
+=EB+A01-KE1-K3/X2-2 | =XS.L1+B01-XS3:3 |  | L-PE | >500 | 500
+=EB+A01-KE1-K3/X2-3 | =XS.L1+B01-XS3:4 |  | L-PE | >500 | 500
+=EB+A01-KE1-K3/X2-4 | =XS.L1+B01-XS3:5 |  | L-PE | >500 | 500
+=EB+A01-KE1-K3/X3-0 | =XS.L1+B01-XS3:6 |  | L-PE | >500 | 500
+=EB+A01-KE1-K3/X3-1 | =XS.L1+B01-XS3:7 |  | L-PE | >500 | 500
+=EB+A01-KE1-K3/X3-2 | =XS.L1+B01-XS3:8 |  | L-PE | >500 | 500
+=EB+A01-KE1-K3/X3-3 | =XS.L1+B01-XS3:9 |  | L-PE | >500 | 500
+Reserve | =XS.L1+B01-XS3:10 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS3:11 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS3:12 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS3:13 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS3:14 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS3:15 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS3:16 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS3:17 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS3:18 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS3:19 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS3:20 |  | L-PE |  | 
++A01-XE.53-2:1 | =XS.L1+B01-XS3:21 |  | L-PE | >500 | 500
++A01-XE.53-2:2 | =XS.L1+B01-XS3:22 |  | L-PE | >500 | 500
+=EB+A01-KE1-K5/X2-0 | =XS.L1+B01-XS4:1 |  | L-PE | >500 | 500
+=EB+A01-KE1-K5/X2-1 | =XS.L1+B01-XS4:2 |  | L-PE | >500 | 500
+=EB+A01-KE1-K5/X2-2 | =XS.L1+B01-XS4:3 |  | L-PE | >500 | 500
+=EB+A01-KE1-K5/X2-3 | =XS.L1+B01-XS4:4 |  | L-PE | >500 | 500
+
+[Page 12]
+02_Isolationsmessung_2 Seite 12
+
+zu prüfen: |  |  |  |  | 
+Betriebsmittel | Bezeichnung |  | Messung
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
+=EB+A01-KE1-K5/X2-4 | =XS.L1+B01-XS4:5 |  | L-PE | >500 | 500
+=EB+A01-KE1-K5/X3-0 | =XS.L1+B01-XS4:6 |  | L-PE | >500 | 500
+=EB+A01-KE1-K5/X3-1 | =XS.L1+B01-XS4:7 |  | L-PE | >500 | 500
+=EB+A01-KE1-K5/X3-2 | =XS.L1+B01-XS4:8 |  | L-PE | >500 | 500
+=EB+A01-KE1-K5/X3-3 | =XS.L1+B01-XS4:9 |  | L-PE | >500 | 500
+=EB+A01-KE1-K5/X3-4 | =XS.L1+B01-XS4:10 |  | L-PE | >500 | 500
+=EB+A01-KE1-K6/X2-0 | =XS.L1+B01-XS4:11 |  | L-PE | >500 | 500
+=EB+A01-KE1-K6/X2-1 | =XS.L1+B01-XS4:12 |  | L-PE | >500 | 500
+=EB+A01-KE1-K6/X2-2 | =XS.L1+B01-XS4:13 |  | L-PE | >500 | 500
+=EB+A01-KE1-K6/X2-3 | =XS.L1+B01-XS4:14 |  | L-PE | >500 | 500
+=EB+A01-KE1-K6/X2-4 | =XS.L1+B01-XS4:15 |  | L-PE | >500 | 500
+=EB+A01-KE1-K6/X3-0 | =XS.L1+B01-XS4:16 |  | L-PE | >500 | 500
+=EB+A01-KE1-K6/X3-1 | =XS.L1+B01-XS4:17 |  | L-PE | >500 | 500
+=EB+A01-KE1-K6/X3-2 | =XS.L1+B01-XS4:18 |  | L-PE | >500 | 500
+=EB+A01-KE1-K6/X3-3 | =XS.L1+B01-XS4:19 |  | L-PE | >500 | 500
+=EB+A01-KE1-K6/X3-4 | =XS.L1+B01-XS4:20 |  | L-PE | >500 | 500
+=EB+A01-KE1-K7/X2-0 | =XS.L1+B01-XS5:B1 |  | L-PE | >500 | 500
+=EB+A01-KE1-K7/X2-1 | =XS.L1+B01-XS5:B2 |  | L-PE | >500 | 500
+=EB+A01-KE1-K7/X2-2 | =XS.L1+B01-XS5:B3 |  | L-PE | >500 | 500
+=EB+A01-KE1-K7/X2-3 | =XS.L1+B01-XS5:B4 |  | L-PE | >500 | 500
+=EB+A01-KE1-K7/X2-4 | =XS.L1+B01-XS5:B5 |  | L-PE | >500 | 500
+=EB+A01-KE1-K7/X3-0 | =XS.L1+B01-XS5:C1 |  | L-PE | >500 | 500
+=EB+A01-KE1-K7/X3-1 | =XS.L1+B01-XS5:C2 |  | L-PE | >500 | 500
+=EB+A01-KE1-K7/X3-2 | =XS.L1+B01-XS5:C3 |  | L-PE | >500 | 500
+=EB+A01-KE1-K7/X3-3 | =XS.L1+B01-XS5:C4 |  | L-PE | >500 | 500
+=EB+A01-KE1-K7/X3-4 | =XS.L1+B01-XS5:C5 |  | L-PE | >500 | 500
+=EB+A01-KE1-K8/X2-0 | =XS.L1+B01-XS5:D1 |  | L-PE | >500 | 500
+
+[Page 13]
+02_Isolationsmessung_2 Seite 13
+
+zu prüfen: |  |  |  |  | 
+Betriebsmittel | Bezeichnung |  | Messung
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
+=EB+A01-KE1-K8/X2-1 | =XS.L1+B01-XS5:D2 |  | L-PE | >500 | 500
+=EB+A01-KE1-K8/X2-2 | =XS.L1+B01-XS5:D3 |  | L-PE | >500 | 500
+=EB+A01-KE1-K8/X2-3 | =XS.L1+B01-XS5:D4 |  | L-PE | >500 | 500
+=EB+A01-KE1-K8/X2-4 | =XS.L1+B01-XS5:D5 |  | L-PE | >500 | 500
+=EB+A01-KE1-K8/X3-0 | =XS.L1+B01-XS5:E1 |  | L-PE | >500 | 500
+=EB+A01-KE1-K8/X3-1 | =XS.L1+B01-XS5:E2 |  | L-PE | >500 | 500
+=EB+A01-KE1-K8/X3-2 | =XS.L1+B01-XS5:E3 |  | L-PE | >500 | 500
+=EB+A01-KE1-K8/X3-3 | =XS.L1+B01-XS5:E4 |  | L-PE | >500 | 500
+=EB+A01-KE1-K8/X3-4 | =XS.L1+B01-XS5:E5 |  | L-PE | >500 | 500
+=EB+A01-KE2-K1/X2-0 | =XS.L1+B01-XS6:1 |  | L-PE | >500 | 500
+=EB+A01-KE2-K1/X2-1 | =XS.L1+B01-XS6:2 |  | L-PE | >500 | 500
+=EB+A01-KE2-K1/X2-2 | =XS.L1+B01-XS6:3 |  | L-PE | >500 | 500
+=EB+A01-KE2-K1/X2-3 | =XS.L1+B01-XS6:4 |  | L-PE | >500 | 500
+=EB+A01-KE2-K1/X2-4 | =XS.L1+B01-XS6:5 |  | L-PE | >500 | 500
+=EB+A01-KE2-K1/X3-0 | =XS.L1+B01-XS6:6 |  | L-PE | >500 | 500
+=EB+A01-KE2-K1/X3-1 | =XS.L1+B01-XS6:7 |  | L-PE | >500 | 500
+=EB+A01-KE2-K1/X3-2 | =XS.L1+B01-XS6:8 |  | L-PE | >500 | 500
+=EB+A01-KE2-K1/X3-3 | =XS.L1+B01-XS6:9 |  | L-PE | >500 | 500
+=EB+A01-KE2-K1/X3-4 | =XS.L1+B01-XS6:10 |  | L-PE | >500 | 500
+Reserve | =XS.L1+B01-XS6:11 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS6:12 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS6:13 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS6:14 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS6:15 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS6:16 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS6:17 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS6:18 |  | L-PE |  | 
+
+[Page 14]
+02_Isolationsmessung_2 Seite 14
+
+zu prüfen: |  |  |  |  | 
+Betriebsmittel | Bezeichnung |  | Messung
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
+Reserve | =XS.L1+B01-XS6:19 |  | L-PE |  | 
+Reserve | =XS.L1+B01-XS6:20 |  | L-PE |  | 
++A01-XE.54-2:1 | =XS.L1+B01-XS6:21 |  | L-PE | >500 | 500
++A01-XE.54-2:2 | =XS.L1+B01-XS6:22 |  | L-PE | >500 | 500
+=EB+A01-KE2-K3/X2-0 | =XS.L1+B01-XS7:1 |  | L-PE | >500 | 500
+=EB+A01-KE2-K3/X2-1 | =XS.L1+B01-XS7:2 |  | L-PE | >500 | 500
+=EB+A01-KE2-K3/X2-2 | =XS.L1+B01-XS7:3 |  | L-PE | >500 | 500
+=EB+A01-KE2-K3/X2-3 | =XS.L1+B01-XS7:4 |  | L-PE | >500 | 500
+=EB+A01-KE2-K3/X2-4 | =XS.L1+B01-XS7:5 |  | L-PE | >500 | 500
+=EB+A01-KE2-K3/X3-0 | =XS.L1+B01-XS7:6 |  | L-PE | >500 | 500
+=EB+A01-KE2-K3/X3-1 | =XS.L1+B01-XS7:7 |  | L-PE | >500 | 500
+=EB+A01-KE2-K3/X3-2 | =XS.L1+B01-XS7:8 |  | L-PE | >500 | 500
+=EB+A01-KE2-K3/X3-3 | =XS.L1+B01-XS7:9 |  | L-PE | >500 | 500
+=EB+A01-KE2-K3/X3-4 | =XS.L1+B01-XS7:10 |  | L-PE | >500 | 500
+=EB+A01-KE2-K4/X2-0 | =XS.L1+B01-XS7:11 |  | L-PE | >500 | 500
+=EB+A01-KE2-K4/X2-1 | =XS.L1+B01-XS7:12 |  | L-PE | >500 | 500
+=EB+A01-KE2-K4/X2-2 | =XS.L1+B01-XS7:13 |  | L-PE | >500 | 500
+=EB+A01-KE2-K4/X2-3 | =XS.L1+B01-XS7:14 |  | L-PE | >500 | 500
+=EB+A01-KE2-K4/X2-4 | =XS.L1+B01-XS7:15 |  | L-PE | >500 | 500
+=EB+A01-KE2-K4/X3-0 | =XS.L1+B01-XS7:16 |  | L-PE | >500 | 500
+=EB+A01-KE2-K4/X3-1 | =XS.L1+B01-XS7:17 |  | L-PE | >500 | 500
+=EB+A01-KE2-K4/X3-2 | =XS.L1+B01-XS7:18 |  | L-PE | >500 | 500
+=EB+A01-KE2-K4/X3-3 | =XS.L1+B01-XS7:19 |  | L-PE | >500 | 500
+=EB+A01-KE2-K4/X3-4 | =XS.L1+B01-XS7:20 |  | L-PE | >500 | 500
+
+[Page 15]
+FI Messung
+Auslösezeit ~40ms Auslösestrom <30mA
+03_FI Messung Seite 15
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 27.03.25
+Projektnummer: 1005808 | - | Praschberger Gerhard
+Anlagentyp: BR 449_WELD_MTPE_180-32 | Messgerät: | Fluke 1654B
+Baujahr: 2024 |  | 
+
+zu prüfen: |  |  |  |  | 
+Betriebsmittel | FI-Schutzschalter | Bemessungs-
+fehlerstrom
+FI in mA | Prüfung FI-
+Schutzschalter mit
+Prüftaste | FI-Auslösezeit tA in ms | FI-Auslösestrom in mA
+=AA+A01-XDB1 | =AA+A01-FBA1 | 30 | ok | 32,8 | 21
+=AA+A01-XDB2 | =AA+A01-FBA1 | 30 | ok | 32,6 | 21
+=HMI+B01.X02-XS1 | =AA+A01-FBA1 | 30 | ok | 32,8 | 21
+=AA+B01-XDB1 | =AA+A01-FBA2 | 30 | ok | 33,6 | 24
+=AA+B01-XDB2 | =AA+A01-FBA2 | 30 | ok | 33,2 | 24
+=AA+B01-EAA1 | =AA+A01-FBA3 | 30 | ok | 32,8 | 22
+=AA+B01-EAA5 | =AA+A01-FBA3 | 30 | ok | 32,7 | 22
+=EA.1+B01-XS1 (L1) | =EA+A01-FBA1 | 30 | ok | 32,8 | 24
+=EA.1+B01-XS1 (L2) | =EA+A01-FBA1 | 30 | ok | 32,7 | 24
+=EA.1+B01-XS1 (L3) | =EA+A01-FBA1 | 30 | ok | 32,7 | 24
+
+[Page 16]
+Spannungsmessung
+04_Spannungsmessung Seite 16
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 27.03.25
+Projektnummer: 1005808 | - | Praschberger Gerhard
+Anlagentyp: BR 449_WELD_MTPE_180-32 | Messgerät: | Fluke 175
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Messung
+Zwischen |  | Spannung in Volt
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L1-L2 |  | 395
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L2-L3 |  | 396
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L1-L3 |  | 397
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L1-N |  | 228
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L2-N |  | 229
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L3-N |  | 230
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L1-PE |  | 228
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L2-PE |  | 229
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L3-PE |  | 230
+=GB+A01-QBB1 | Einspeisung Hauptschalter | N-PE |  | 0
+=AA+A01-XDB1 | Service Steckdose Schaltschrank | L-N |  | 229
+=AA+A01-XDB1 | Service Steckdose Schaltschrank | L-PE |  | 229
+=AA+A01-XDB1 | Service Steckdose Schaltschrank | N-PE |  | 0
+=AA+A01-XDB2 | Service Steckdose Schaltschrank | L-N |  | 229
+=AA+A01-XDB2 | Service Steckdose Schaltschrank | L-PE |  | 228
+=AA+A01-XDB2 | Service Steckdose Schaltschrank | N-PE |  | 0
+=HMI+B01.X02-XS1 | Service Steckdose Touchpanel | L-N |  | 229
+=HMI+B01.X02-XS1 | Service Steckdose Touchpanel | L-PE |  | 229
+=HMI+B01.X02-XS1 | Service Steckdose Touchpanel | N-PE |  | 0
+=AA+B01-XDB1 | Steckdose Anlage | L-N |  | 228
+
+[Page 17]
+04_Spannungsmessung Seite 17
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Messung
+Zwischen |  | Spannung in Volt
+=AA+B01-XDB1 | Steckdose Anlage | L-PE |  | 228
+=AA+B01-XDB1 | Steckdose Anlage | N-PE |  | 0
+=AA+B01-XDB2 | Steckdose Anlage | L-N |  | 228
+=AA+B01-XDB2 | Steckdose Anlage | L-PE |  | 228
+=AA+B01-XDB2 | Steckdose Anlage | N-PE |  | 0
+=AA+B01-EAA1 | Anlagenlicht | L-N |  | 229
+=AA+B01-EAA1 | Anlagenlicht | L-PE |  | 229
+=AA+B01-EAA1 | Anlagenlicht | N-PE |  | 0
+=AA+B01-EAA5 | Anlagenlicht | L-N |  | 228
+=AA+B01-EAA5 | Anlagenlicht | L-PE |  | 228
+=AA+B01-EAA5 | Anlagenlicht | N-PE |  | 0
+=EA.1+B01-XS1 | Kühlgerät | L1-L2 |  | 396
+=EA.1+B01-XS1 | Kühlgerät | L2-L3 |  | 395
+=EA.1+B01-XS1 | Kühlgerät | L1-L3 |  | 396
+=EA.1+B01-XS1 | Kühlgerät | L1-N |  | 229
+=EA.1+B01-XS1 | Kühlgerät | L2-N |  | 228
+=EA.1+B01-XS1 | Kühlgerät | L3-N |  | 229
+=EA.1+B01-XS1 | Kühlgerät | L1-PE |  | 229
+=EA.1+B01-XS1 | Kühlgerät | L2-PE |  | 228
+=EA.1+B01-XS1 | Kühlgerät | L3-PE |  | 229
+=EA.1+B01-XS1 | Kühlgerät | N-PE |  | 0
+Spannungen Klemmkästen | Bezeichnung |  |  | Spannung in Volt
++B01.X01 | 24V DC Steuerspannung | -XE.22 |  | 25,68
+
+[Page 18]
+04_Spannungsmessung Seite 18
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Messung
+Zwischen |  | Spannung in Volt
++B01.X01 | 24V DC Dauerplus | -XE.23 |  | 25,77
++B01.X01 | Not-Halt Allgemein | -XE.24 |  | 25,77
++B01.X01 | Not-Halt Einlegebereich | -XE.25 |  | 25,77
++B01.X01 | 24V DC Dauerplus Steuerung | -XE.28 | 30 | 25,68
++B02.X01 | 24V DC Steuerspannung | -XE.22 |  | 25,8
++B02.X01 | 24V DC Dauerplus | -XE.23 |  | 25,86
++B02.X01 | Not-Halt Allgemein | -XE.24 |  | 25,85
++B02.X01 | Not-Halt Einlegebereich | -XE.25 |  | 25,85
+Spannungen Stecker | Bezeichnung |  |  | Spannung in Volt
+=XS.L1+B01-XS1 | 24V DC Steuerspannung | :C2 |  | 25,34
+=XS.L1+B01-XS1 | Not-Halt Allgemein | :C3 |  | 25,34
+=XS.L1+B01-XS1 | Not-Halt Einlegebereich | :C4 |  | 25,34
+
+[Page 19]
+Drehfeld und Schleifenimpedanz
+05_Drehfeld und Schleifen Seite 19
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 27.03.25
+Projektnummer: 1005808 | - | Praschberger Gerhard
+Anlagentyp: BR 449_WELD_MTPE_180-32 | Messgerät: | Fluke 1654B
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Drehfeld | L-PE
+Ohm | L-PE
+Amp.
+=GB+A01-QBB1 | Einspeisung Hauptschalter (L1) |  | 0,07 | 3200
+=GB+A01-QBB1 | Einspeisung Hauptschalter (L2) | rechts | 0,12 | 1900
+=GB+A01-QBB1 | Einspeisung Hauptschalter (L3) |  | 0,11 | 2100
+=AA+A01-XDB1 | Service Steckdose Schaltschrank |  | 0,33 | 689
+=AA+A01-XDB2 | Service Steckdose Schaltschrank |  | 0,32 | 710
+=HMI+B01.X02-XS1 | Service Steckdose Touchpanel |  | 0,78 | 291
+=AA+B01-XDB1 | Steckdose Anlage |  | 0,51 | 444
+=AA+B01-XDB2 | Steckdose Anlage |  | 0,55 | 412
+=AA+B01-EAA1 | Anlagenlicht |  | 0,56 | 456
+=AA+B01-EAA5 | Anlagenlicht |  | 0,78 | 291
+=EA.1+B01-XS1 | Kühlgerät (L1) |  | 0,37 | 618
+=EA.1+B01-XS1 | Kühlgerät (L2) | rechts | 0,38 | 595
+=EA.1+B01-XS1 | Kühlgerät (L3) |  | 0,39 | 583
+
+[Page 20]
+24VDC Strom- und Spannungmessung
+06_24VDC Strom und Spannung Seite 20
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 27.03.25
+Projektnummer: 1005808 | - | Praschberger Gerhard
+Anlagentyp: BR 449_WELD_MTPE_180-32 | Messgerät: | Fluke 175
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  |  | 
+Betriebsmittel |  | Spannung in V
+Ausgang | Maximal Messwerte in
+Ampere | Eingestellter Wert
+=GD24+A01-TCB1 |  | 26,01 |  | 
+=GD24+A01-TCB2 |  | 26,03 |  | 
+=GD24+A01-QAC1 |  | 25,95 |  | 6A
+=GD24+A01-QAC2 | Kanal 1 | 8 | 1,1 | 6A
+=GD24+A01-QAC2 | Kanal 2 | 3 | 0 | 3A
+=GD24+A01-QAC2 | Kanal 3 | 8 | 0 | 6A
+=GD24+A01-QAC2 | Kanal 4 | 6 | 0,3 | 6A
+=GD24+A01-QAC3 | Kanal 1 | 8 | 1,1 | 8A
+=GD24+A01-QAC3 | Kanal 2 | 6 | 0,1 | 6A
+=GD24+A01-QAC3 | Kanal 3 | 6 | 0,1 | 6A
+=GD24+A01-QAC3 | Kanal 4 | 3 | 0 | 3A
+
+[Page 21]
+Profinetmessung
+07_Profinetmessung Seite 21
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 27.03.25
+Projektnummer: 1005808 | - | Praschberger Gerhard
+Anlagentyp: BR 449_WELD_MTPE_180-32 | Messgerät: | WIREEXPERT 4500
+Baujahr: 2024 | Messgerät Nr. | 
+
+zu prüfen: |  | 
+Betriebsmittel |  | 
+==1005808=PLC+B02.X01-WGB1 | Messung OK | 
+==1005808=PLC+B01.X01-WGB1 | Messung OK | -
+==1005808=HMI+B01-WGB1 | Messung OK | 
+==1005808=HMI+B01-WGB3 | Messung OK | -
+==1005808=HMI+B01.X02-WGB1 | Messung OK | -
+==1005808=XS.L1+B01-WGB1 | Messung OK | -
+==1005808=XS.U1+B02-WGB1 | Messung OK | 

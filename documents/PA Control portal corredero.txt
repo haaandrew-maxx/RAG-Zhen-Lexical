@@ -1,0 +1,52 @@
+[Page 1]
+INSTRUCCIONES DE CONTROL
+P P ooss:: 12 //--TTDD--//PPRRÜÜFFAANNWWEEIISSUUNNGGEENN//1P rÜü fPunrügf aRnowllteoisr u@ng 8e\nm @od _81\m44o5d5_1194444326977896_927153090._d2o1c3x 9@.d o8c9x4 @54 8@8 914272 @22 1@ @ 1 1
+1 Control portal corredero
+1.1 Motivo del control general regular
+Determinación de la función correcta del completo sistema de seguridad.
+El intervalo del control general del sistema de seguridad depende del uso.
+Es deber de diligencia del gestor industrial de la máquina planificar estas medidas
+así como su cumplimiento.
+Controlar la instalación según lo prescriben las normas locales vigentes dentro de
+los plazos mencionados en éstas.
+Según la norma ASR A1.7 se requiere en Alemania un control anual.
+1.2 Requerimientos/medios de control
+ La medición se realiza mediante una persona preparada y habilitada
+ medios de control adecuados para el control
+ Consta libro de pruebas del portal corredero
+1.3 Secuencia del control diario
+1. Controlar que el libro de control esté completo y que se hayan eliminado
+los fallos.
+2. Control de daños en el dispositivo de seguridad, especialmente en la
+fijación, la conexión eléctrica y la cortina.
+3. Controlar el desgaste o el daño en la corredera de la cortina y si hay algún
+daño en la barra de conmutación. (en caso de existir)
+4. Controlar el funcionamiento de la barrera fotoeléctrica. (en caso de existir)
+5. Controlar si el ingreso de personas o de partes del cuerpo a un lugar de
+peligro sólo sea posible a través del campo de protección del sistema.
+(p.ej. ¿se ha retirado el dispositivo de seguridad?)
+6. Controlar si el efecto de protección es efectivo para el modo de
+funcionamiento ajustado.
+7. Controles de los diferentes puntos según la lista de control de la primera
+puesta en marcha.
+1.4 Resultados de pruebas
+Esto debe tener el siguiente resultado:
+ El portal corredero no debe mostrar daños externos
+ En todos los modos de funcionamiento la función debe corresponder alas
+indicaciones de la primera puesta en marcha.
+ Documentar los resultados de las pruebas y los daños registrados en el
+libro de prueba.
+1
+
+[Page 2]
+INSTRUCCIONES DE CONTROL
+Con un funcionamiento inseguro del sistema de seguridad es necesario detener la
+instalación inmediatamente y realizar un control de seguridad completo según el
+manual de instrucciones y de conexiones. Igualmente deben realizarse controles
+generales regulares a partir de las listas de control allí presentadas.
+=== Ende der Liste für Textmarke Inhalt ===
+2
+
+ | ¡ATENCIÓN! | 
+- | En caso de suceder algún error durante la prueba, no seguir usando la | -
+- | instalación. | -

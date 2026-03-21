@@ -1,0 +1,1497 @@
+[Page 1]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | Electrical documentation
+F26_002_Aigner
+FERRO TECHNIK GmbH AIGNER GmbH
+Absaugtechnologie
+Elektrotechnik & Automation
+Linzer Straße 275 Dieselstraße 13
+AT - 4600 Wels AT -4623 Gunskirchen b. Wels
+Tel.: +43 / (0) 7242 / 62888-0 Tel.: +43 / (0) 7246 / 20200-0
+e-mail: office@fmt.biz e-mail: office@aigner.at
+Customer : Aigner GmbH Absaugtechnologie
+Project name : Small control cabinet
+Kleinsteuerung Schaltschrank
+Final customer : AIGNER
+Project no. / Drawing no. : DX012270 Rated power / rated current : 9,5kW/25A
+Type : Control cabinet manufactoring Rated voltage : 3x400V+N+PE TN-S
+Make : Rittal Frequency : 50HZ
+Prot. class : IP 54 Control voltage : 24VDC
+Build year : 2016 Max. preliminary fuse : 25A gG
+Ambient conditions : acc. to EN60439-1 Resistance to short-circuiting : Icw=6kA
+Installation site : ---
+Special parts : ---
+Project start : 25.01.2017
+Project manager : Greindl
+Last modification : 02.03.2017 Max. page number: 2
+Last editor : Number of pages : 18
+2 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  | D | ate 02.03.2017 | Small control cabinet
+Cover sheet | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = ALG | - | -
+- |  |  | E | d. by GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | + DBL | - | -
+- |  |  | A | ppr | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 1
+- | Modification Date |  | Name O | riginal | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+Customer : Aigner GmbH Absaugtechnologie
+Project name : Small control cabinet
+Kleinsteuerung Schaltschrank | - | -
+Final customer : AIGNER
+Project no. / Drawing no. : DX012270 Rated power / rated current : 9,5kW/25A
+Type : Control cabinet manufactoring Rated voltage : 3x400V+N+PE TN-S
+Make : Rittal Frequency : 50HZ
+Prot. class : IP 54 Control voltage : 24VDC
+Build year : 2016 Max. preliminary fuse : 25A gG
+Ambient conditions : acc. to EN60439-1 Resistance to short-circuiting : Icw=6kA
+Installation site : ---
+Special parts : --- | - | -
+Project start : 25.01.2017
+Project manager : Greindl
+Last modification : 02.03.2017 Max. page number: 2
+Last editor : Number of pages : 18 | - | -
+
+[Page 2]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 1 | - | - | 2 | - | - | 3 | - | 4 | - | 5 | - | 6 | - | 7 | 8 | - | - | 9 | - | 10 | -
+- | Wiring colours
+Main current circuit:
+L1, L2, L3 black (BK)
+N light blue (LBU)
+PE, PEN green / yellow (GN/YE)
+Control circuit:
+230 VAC/50 Hz (L) red (RD)
+N red/white (RD/WH)
+PE, PEN green / yellow (GN/YE)
+24V (+) dark blue (BU)
+GND (-) blue/white
+EXTERNAL 24VDC orange (OR)
+EXTERNAL 230VAC / USV pink (PK)
+analogue signals white (WH)
+EMERGENCY STOP, SAFETY CIRCUITS violet (VI)
+All unmarked wires are to be wired
+>=1 mm²
+1 +INH/1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Wiring colours | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = ALG | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + DBL | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 2
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+[Page 3]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | Table of contents
+FMT_F06_002
+Spalte X: eine automatisch erzeugte Seite wurde manuell nachbearbeitet
+Anlage Ort Seite Seitenbenennung Datum Bearb. X
+ALG DBL 1 Cover sheet 02.03.2017 grabner X
+ALG DBL 2 Wiring colours 02.03.2017 grabner X
+ALG INH 1 Table of contents 02.03.2017 GRABNER
+STB ABP 1 Arrangement drawing 02.03.2017 grabner
+STB ABP 2 Schaltschranklegende : =STB+STB-F308 - =STB+STB-X0 02.03.2017 GRABNER
+STB STB 10 Power supply 02.03.2017 grabner
+STB STB 15 Cubicle Cooling 02.03.2017 grabner
+STB STB 20 Control voltage 24VDC 02.03.2017 grabner
+STB STB 30 Supply frequence converter 1 02.03.2017 grabner
+STB STB 31 Converter control 1 02.03.2017 grabner
+STB STB 35 Supply frequence converter 2 02.03.2017 grabner
+STB STB 36 Converter control 2 02.03.2017 grabner
+STB STB 40 Interface D-Sub 02.03.2017 grabner
+STB SKL 1 Bill of materials 02.03.2017 wolfsgruber
+STB SKL 1.a Bill of materials 02.03.2017 GRABNER
+STB KLP 1 Klemmenplan =STB+STB-X0 02.03.2017 wolfsgruber
+STB KLP 2 Klemmenplan =STB+STB-X1 02.03.2017 GRABNER
+STB KLP 3 Klemmenplan =STB+STB-X4 02.03.2017 wolfsgruber
++DBL/2 =STB+ABP/1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Table of contents | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = ALG | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + INH | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 1
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+Anlage | - | Ort | Seite | Seitenbenennung | Datum | Bearb. | X | -
+ALG | - | DBL | 1 | Cover sheet | 02.03.2017 | grabner | X | 
+ALG
+ALG
+STB | - | DBL
+INH
+ABP | 2
+1
+1 | Wiring colours
+Table of contents
+Arrangement drawing | 02.03.2017
+02.03.2017
+02.03.2017 | grabner
+GRABNER
+grabner | X | -
+STB | - | ABP | 2 | Schaltschranklegende : =STB+STB-F308 - =STB+STB-X0 | 02.03.2017 | GRABNER |  | -
+STB | - | STB | 10 | Power supply | 02.03.2017 | grabner |  | -
+STB | - | STB | 15 | Cubicle Cooling | 02.03.2017 | grabner |  | -
+STB | - | STB | 20 | Control voltage 24VDC | 02.03.2017 | grabner |  | -
+STB | - | STB | 30 | Supply frequence converter 1 | 02.03.2017 | grabner |  | -
+STB | - | STB | 31 | Converter control 1 | 02.03.2017 | grabner |  | -
+STB | - | STB | 35 | Supply frequence converter 2 | 02.03.2017 | grabner |  | -
+STB | - | STB | 36 | Converter control 2 | 02.03.2017 | grabner |  | -
+STB | - | STB | 40 | Interface D-Sub | 02.03.2017 | grabner |  | -
+STB | - | SKL | 1 | Bill of materials | 02.03.2017 | wolfsgruber |  | -
+STB | - | SKL | 1.a | Bill of materials | 02.03.2017 | GRABNER |  | -
+STB | - | KLP | 1 | Klemmenplan =STB+STB-X0 | 02.03.2017 | wolfsgruber |  | -
+STB | - | KLP | 2 | Klemmenplan =STB+STB-X1 | 02.03.2017 | GRABNER |  | -
+STB | - | KLP | 3 | Klemmenplan =STB+STB-X4 | 02.03.2017 | wolfsgruber |  | -
+
+[Page 4]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | BHT 600x380x350mm
+-U1
+2
+6
+mm
+021
+7 8
+mm
+3
+58
+4 5 mm
+100 mm 50 mm50 mm
+08
+25x80mm
+11 01
+9 1
+12 13 14
+mm08x52
+15 16
+40x80mm
+17 20 21 18 19
+50 mm M16 M16 M20 M20 M20 M25
+25x80mm
+-B151
+=ALG+INH/1 2 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Arrangement drawing | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + ABP | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 1
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+7 | 
+
+ | 2
+
+- | 25x80mm | -
+- | - | mm08x52
+25x80mm | - | -
+
+M16 M16 M20 M20 M20 M25
+
+ | 13 | 14 |  |  | 
+
+17 | 18
+
+[Page 5]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | Enclosure legend
+F18_001
+Item number Device tag Type number Part number Manufacturer Function text
+1 F308 5SY4103-7 SIEM.5SY4103-7 SIEM
+2 B151 SK 3110.000 RITT.SK3110000 RITT
+3 S301 CH10 A211-621 FT2 K&N.CH10 A211-621 FT2 K&N Operating mode M - 0 - A
+4 R301 3SU1250-2PR10-1AA0 SIEM.3SU1250-2PR10-1AA0 SIEM Table exhaust Speed setpoint
+5 R351 3SU1250-2PR10-1AA0 SIEM.3SU1250-2PR10-1AA0 SIEM Head exhaust Speed setpoint
+6 Q101 3LD2103-1TL53 SIEM.3LD2103-1TL53 SIEM Main-/ Emergency-Switch
+7 E151 SK 3240.200 RITT.SK3240200 RITT Outlet filter
+8 M151 SK 3241.100 RITT.SK3241100 RITT Filter fan
+9 F151 5SY4104-7 SIEM.5SY4104-7 SIEM
+10 F201 5SY4103-7 SIEM.5SY4103-7 SIEM
+11 F202 5SY4101-7 SIEM.5SY4101-7 SIEM
+12 G201 PROECO 120W 24V/5A WEI.PROECO 120W 24V/5A WEI
+13 Q301 3RV2011-4AA10 SIEM.3RV2011-4AA10 SIEM
+14 Q351 3RV2011-1GA10 SIEM.3RV2011-1GA10 SIEM
+15 U351 ATV212HU15N4 SCHN.ATV212HU15N4 SCHN
+16 U301 ATV212HU55N4 SCHN.ATV212HU55N4 SCHN
+17 K401 95.05 FIND.95.05 FIND
+18 K301 95.05 FIND.95.05 FIND
+19 X1
+20 X4
+21 X0
+1 +STB/10 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Schaltschranklegende : =STB+STB-F308 - =STB+STB-X0 | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + ABP | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 2
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+Item number | Device tag | Type number | Part number | Manufacturer | Function text
+1 | F308 | 5SY4103-7 | SIEM.5SY4103-7 | SIEM | 
+2 | B151 | SK 3110.000 | RITT.SK3110000 | RITT | 
+3 | S301 | CH10 A211-621 FT2 | K&N.CH10 A211-621 FT2 | K&N | Operating mode M - 0 - A
+4 | R301 | 3SU1250-2PR10-1AA0 | SIEM.3SU1250-2PR10-1AA0 | SIEM | Table exhaust Speed setpoint
+5 | R351 | 3SU1250-2PR10-1AA0 | SIEM.3SU1250-2PR10-1AA0 | SIEM | Head exhaust Speed setpoint
+6 | Q101 | 3LD2103-1TL53 | SIEM.3LD2103-1TL53 | SIEM | Main-/ Emergency-Switch
+7 | E151 | SK 3240.200 | RITT.SK3240200 | RITT | Outlet filter
+8 | M151 | SK 3241.100 | RITT.SK3241100 | RITT | Filter fan
+9 | F151 | 5SY4104-7 | SIEM.5SY4104-7 | SIEM | 
+10 | F201 | 5SY4103-7 | SIEM.5SY4103-7 | SIEM | 
+11 | F202 | 5SY4101-7 | SIEM.5SY4101-7 | SIEM | 
+12 | G201 | PROECO 120W 24V/5A | WEI.PROECO 120W 24V/5A | WEI | 
+13 | Q301 | 3RV2011-4AA10 | SIEM.3RV2011-4AA10 | SIEM | 
+14 | Q351 | 3RV2011-1GA10 | SIEM.3RV2011-1GA10 | SIEM | 
+15 | U351 | ATV212HU15N4 | SCHN.ATV212HU15N4 | SCHN | 
+16 | U301 | ATV212HU55N4 | SCHN.ATV212HU55N4 | SCHN | 
+17 | K401 | 95.05 | FIND.95.05 | FIND | 
+18 | K301 | 95.05 | FIND.95.05 | FIND | 
+19 | X1 |  |  |  | 
+20 | X4 |  |  |  | 
+21 | X0 |  |  |  | 
+
+[Page 6]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | 3x400V / 50Hz
+400V_L1 /15.0
+400V_L2 /15.0
+400V_L3 /15.0
+400V_N /15.0
+T1 T2 T3
+-Q101
+Main-/ Emergency-Switch L1 L2 L3
+25A
+ROT/GELB
+-X0=Terminals before Mainswitch
+-X1=
+-X4=Terminals 24VDC
+-XS4=DSub - Interface
+²mm ²mm ²mm ²mm
+KB 6 KB 6 KB 6 UB 6
+PE
+EYNG ²mm
+6
+-X0 1 2 3 4 5 6 7 8
+²mm
+10W- ...x5
+L1 L2 L3 N PE
+=Kunde
+3*400V 50Hz TN-S
+Infeed Fuse
+max. 25A
++ABP/2 15 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Power supply | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + STB | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 10
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+[Page 7]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | 3x400V / 50Hz
+10.8/400V_L1 400V_L1/20.0
+10.8/400V_L2 400V_L2/20.0
+10.8/400V_L3 400V_L3/20.0
+10.8/400V_N 400V_N/20.0
+1
+-F151
+C4A 2
+1
+-B151
+2
+PE
+1 2
+M
+-M151
+1~
+Filter fan
+230VAC 50/60HZ
+PE
+-E151
+Outlet filter
+10 20 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Cubicle Cooling | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + STB | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 15
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+[Page 8]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | 3x400V / 50Hz
+15.2/400V_L1 400V_L1/30.1
+15.2/400V_L2 400V_L2/30.1
+15.2/400V_L3 400V_L3/30.1
+15.2/400V_N 400V_N/30.1
+PE
+1
+-F201
+C3A 2
+-G201
+AC 85…264 V L N PE
+DC 24V/5A
+13
+14
+Uout
+24V
+V- V- V+ V+
+²mm PE
+UB
+1
+1
+-F202
+C1A 2
+0.04/1_CDV42 3.13/2_CDV42
+6.13/1_CDV0
+²mm ²mm ²mm
+²mm HW/UB ²mm HW/UB
+UB UB 5,0 UB 57,0 57,0
+1 1
+1 3
+-X4 2 -X4 4
+Control voltage Control voltage
+24VDC 0VDC
+15 30 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Control voltage 24VDC | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + STB | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 20
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+[Page 9]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | 3x400V / 50Hz
+20.5/400V_L1 400V_L1/35.1
+20.5/400V_L2 400V_L2/35.1
+20.5/400V_L3 400V_L3/35.1
+20.5/400V_N
+2.13/BIV/103U-
+2.13/CC/103U-
+1 3 5 13 23
+-Q301
+10-16A 14 24 1
+IE=11A
+I> I> I> -F308
+2 4 6 C3A 2
+²mm ²mm ²mm
+SH SH
+KB 5,2 KB 5,2 KB 5,2 ²mm ²mm
+ISOLATED SHIELD BUSBAR KB 5,1 UBL 5,1 PE
+12 14 22 24
+-K301
+-U301
+/31.6 11 21
+/31.0 L1 L2 L3 PE PA PB U V W PE SH
+380…480V 50/60HZ
+5,5KW
+²mm ²mm
+KB 5,1 UBL 5,1
+PE
+SCHNEIDER ELECTRIC
+Brake resistor Motor
+ATV212HU55N4
+-X1 1 2 PE
+-WM306 -WM307 -WM308
+YSLCY-JZ YSLCY-JZ YSLY-JZ
+4x2,5 1 2 3 PE 2x1 1 2 3x1,5 1 2 PE
++EXT
+1 2
+M
+-M308
+1~
+U1 V1 W1 PE
+M PE
+-M306 3~
+___kW
+___A Θ
+TH1 TH2
+Forced ventilation
+Suction Fan
+Table exhaust
+20 31 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Supply frequence converter 1 | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + STB | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 30
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+I> | I> | I>
+
+1 | 2 | 3 | PE
+
+2
+²mm
+KB 5,2 | 4
+²mm
+KB 5,2
+
+1
+
+[Page 10]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | -U351/P24/36.1
+4 2 8 6
+H 0 A
+-S301
+Operating mode 3 1 7 5
+M - 0 - A
+12 14 22 24
+-K401
+/40.1 11 21
+²mm ²mm ²mm ²mm ²mm
+57,0 57,0 57,0 57,0 57,0
+UB UB UB UB UB
+-U351/F/36.2
+-U301
+/30.1 max. P24V PLC F R RES
+MF BIV AIV 30VDC 1,5A RJ45 V42+ V42+ 1ID 2ID 3ID
+230VAC 1,5A communication-port
+)teserrelheF(
+I U SINK
+Voltage / Voltage / relhüF
+SW101 current selector SW100 current selector Alarm relay Frequence converter in operation SW102 PLC
+U for analogue I/O I for analogue I/O CTP
+SOURCE
+CTP )tnerruC( )I/V(IA tuO / )V(IA V01+
+A V0
+VIA FM FLA FLC FLB RYA RYC CC VIB PP
+SH
+ISOLATED SHIELD BUSBAR
+²mm CC/103U-/7.03 BIV/103U-/7.03
+²mm ²mm UB 5,0
+57,0 57,0
+UB UB
+A1
+-K301
+DC 24V A2
+24C DC 0VDC 20.4/24VDC_2 20.5/0VDC_1 0VDC_1/40.0
+LiYCY
+4x0,34 gn ws br
+x2 x1
+-R301
+4,7K OHM SCHWARZ x3 S/103U-/4.63 B/103U-/4.63
+Motor temperature
+14 11/30.8
+12
+24 21/30.8
+Table exhaust Table exhaust Table exhaust Table exhaust 22
+Speed setpoint Start Fault message in operation
+30 35 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Converter control 1 | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + STB | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 31
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+gn | ws
+x2 | x1
+x3
+
+[Page 11]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | 3x400V / 50Hz
+30.9/400V_L1
+30.9/400V_L2
+30.9/400V_L3
+2.63/BIV/153U-
+2.63/CC/153U-
+1 3 5 13 23
+-Q351
+4,5-6,3A 14 24
+IE=4,5A
+I> I> I>
+2 4 6
+²mm ²mm ²mm
+SH SH
+KB 5,1 KB 5,1 KB 5,1
+ISOLATED SHIELD BUSBAR PE
+-U351
+/36.0 L1 L2 L3 PE PA PB U V W PE SH
+380…480V 50/60HZ
+1,5KW
+SCHNEIDER ELECTRIC
+Brake resistor Motor
+ATV212HU15N4
+-WM356 -WM357
+YSLCY-JZ YSLCY-JZ
+4x1,5 1 2 3 PE 2x1 1 2
++EXT
+U1 V1 W1 PE
+M
+-M356 3~
+___kW
+___A Θ
+TH1 TH2
+Suction fan
+Head exhaust
+31 36 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Supply frequence converter 2 | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + STB | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 35
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+I> | I> | I>
+
+1 | 2 | 3 | PE
+
+2
+²mm
+KB 5,1 | 4
+²mm
+KB 5,1
+
+1
+
+[Page 12]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | 3.13/42P/153U-
+3.13/F/153U-
+²mm
+57,0
+UB
+-U351
+/35.1 max. P24V PLC F R RES
+MF BIV AIV 30VDC 1,5A RJ45 V42+ V42+ 1ID 2ID 3ID
+230VAC 1,5A communication-port
+)teserrelheF(
+I U SINK
+Voltage / Voltage / relhüF
+SW101 current selector SW100 current selector Alarm relay Frequence converter in operation SW102 PLC
+U for analogue I/O I for analogue I/O CTP
+SOURCE
+CTP )tnerruC( )I/V(IA tuO / )V(IA V01+
+A V0
+VIA FM FLA FLC FLB RYA RYC CC VIB PP
+SH
+ISOLATED SHIELD BUSBAR
+CC/153U-/7.53 BIV/153U-/7.53
+²mm ²mm ²mm ²mm
+UB 5,0 UB 57,0 UB 57,0 UB 5,0
+LiYCY
+4x0,34 gn ws br
+x2 x1
+-R351
+4,7K OHM SCHWARZ x3 S/153U-/7.04 S/103U-/4.13 B/103U-/5.13 B/153U-/7.04
+Motor temperature
+Head exhaust Head exhaust Head exhaust Head exhaust
+Speed setpoint Start Fault In operation
+35 40 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Converter control 2 | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + STB | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 36
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+gn | ws
+x2 | x1
+x3
+
+[Page 13]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | PIN Designation Explanation
+1 Start-Stop contact I d n e p v u ic t e s : i g P n o a t. l f r f e o e r S c t o a n r t t a /S ct t o o r p f f r r o o m m d e e x v te ic r e n a H l igh 24VDC: Start, Low
+24VDC 0VDC: Stop
+Outputsignal for operation of converters:
+2 In operation signal High 24VDC: Converter 1+2 in operation
+Low 0VDC: converter 1+2 standby
+Outputsignal for general fault signal:
+3 Fault High 24VDC: Frequency converter functional
+Low0VDC: Converter fault
+4
+5
+6 24VDC Ext Output with constant 24VDC
+7
+8
+9 GND GND common for PIN 1 to PIN 6
+20.4/24VDC_1
+5.63/B/153U- 4.63/S/153U-
+²mm
+UB 5,0
+A1
+-K401
+DC 24V A2
+0VDC 31.7/0VDC_1
+²mm
+HW/UB
+5,0
+-XS4 1 2 3 4 5 6 7 8 9
+14 11/31.2
+12
+24 21/31.3
+22
+36 +SKL/1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Interface D-Sub | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + STB | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 40
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+PIN | Designation | Explanation
+1 | Start-Stop contact
+24VDC | Input signal for Start/Stop from external
+device: Pot.free contactor from device High 24VDC: Start, Low
+0VDC: Stop
+2 | In operation signal | Outputsignal for operation of converters:
+High 24VDC: Converter 1+2 in operation
+Low 0VDC: converter 1+2 standby
+3 | Fault | Outputsignal for general fault signal:
+High 24VDC: Frequency converter functional
+Low0VDC: Converter fault
+4 |  | 
+5 |  | 
+6 | 24VDC Ext | Output with constant 24VDC
+7 |  | 
+8 |  | 
+9 | GND | GND common for PIN 1 to PIN 6
+
+[Page 14]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | Parts list
+F01_001
+Device tag Quantity Designation Type number Supplier Part number
++ABP-U1 1 COMPACT ENCLOSURE SINGLE DOOR AE 1339.500 RITT RITT.AE1339500
++ABP-U1 1 WALL MOUNTING BRACKET SZ 2508.100 RITT RITT.SZ2508100
++STB/40 1.a | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Bill of materials | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + SKL | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 1
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+Device tag | Quantity | Designation | Type number | Supplier | Part number
++ABP-U1 | 1 | COMPACT ENCLOSURE SINGLE DOOR | AE 1339.500 | RITT | RITT.AE1339500
++ABP-U1 | 1 | WALL MOUNTING BRACKET | SZ 2508.100 | RITT | RITT.SZ2508100
+
+[Page 15]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | Parts list
+F01_001
+Device tag Quantity Designation Type number Supplier Part number
++STB-B151 1 ENCLOSURE INTERNAL THERMOSTAT SK 3110.000 RITT RITT.SK3110000
++STB-E151 1 OUTLET FILTER SK 3240.200 RITT RITT.SK3240200
++STB-F151 1 MINIATURE CIRCUIT BREAKER 5SY4104-7 SIEM SIEM.5SY4104-7
++STB-F201 1 MINIATURE CIRCUIT BREAKER 5SY4103-7 SIEM SIEM.5SY4103-7
++STB-F202 1 MINIATURE CIRCUIT BREAKER 5SY4101-7 SIEM SIEM.5SY4101-7
++STB-F308 1 MINIATURE CIRCUIT BREAKER 5SY4103-7 SIEM SIEM.5SY4103-7
++STB-G201 1 STABILIZED POWER SUPPLY PROECO 120W 24V/5A WEI WEI.PROECO 120W 24V/5A
++STB-K301 1 COUPLING RELAY 40.52.9.024.0000 FIND FIND.40.52.9.024.0000
++STB-K301 1 SOCKET FOR COUPLING RELAY 95.05 FIND FIND.95.05
++STB-K301 1 INDICATION- AND EMC SUPPRESSION MODULE 99.02.9.024.99 FIND FIND.99.02.9.024.99
++STB-K401 1 COUPLING RELAY 40.52.9.024.0000 FIND FIND.40.52.9.024.0000
++STB-K401 1 SOCKET FOR COUPLING RELAY 95.05 FIND FIND.95.05
++STB-K401 1 INDICATION- AND EMC SUPPRESSION MODULE 99.02.9.024.99 FIND FIND.99.02.9.024.99
++STB-M151 1 FILTER FAN SK 3241.100 RITT RITT.SK3241100
++STB-Q101 1 MAIN SWITCH WITH EMERG. STOP FUNCTION 3LD2103-1TL53 SIEM SIEM.3LD2103-1TL53
++STB-Q301 1 CIRCUIT-BREAKER 3RV2011-4AA10 SIEM SIEM.3RV2011-4AA10
++STB-Q301 1 TRANSVERSE AUXILIARY SWITCH 3RV2901-1F SIEM SIEM.3RV2901-1F
++STB-Q351 1 CIRCUIT-BREAKER 3RV2011-1GA10 SIEM SIEM.3RV2011-1GA10
++STB-Q351 1 TRANSVERSE AUXILIARY SWITCH 3RV2901-1F SIEM SIEM.3RV2901-1F
++STB-R301 1 POTENTIOMETER, COMPACT, 22MM, ROUND 3SU1250-2PR10-1AA0 SIEM SIEM.3SU1250-2PR10-1AA0
++STB-R351 1 POTENTIOMETER, COMPACT, 22MM, ROUND 3SU1250-2PR10-1AA0 SIEM SIEM.3SU1250-2PR10-1AA0
++STB-S301 1 CONTROLSWITCH "MAN - 0 - AUTO" CH10 A211-621 FT2 K&N K&N.CH10 A211-621 FT2
++STB-U301 1 VARIABLE SPEED DRIVES ATV212HU55N4 SCHN SCHN.ATV212HU55N4
++STB-U351 1 VARIABLE SPEED DRIVES ATV212HU15N4 SCHN SCHN.ATV212HU15N4
++STB-X0 2 END BRACKET 249-117 WAGO WAGO.249-117
++STB-X0 0
++STB-X0 4 FEED-THROUGH TERMINAL BLOCK ZDU 6 WEI WEI.ZDU 6
++STB-X0 4 PE-TERMINAL ZPE 6 WEI WEI.ZPE 6
++STB-X1 1 END BRACKET 249-117 WAGO WAGO.249-117
++STB-X1 0
++STB-X1 2 FEED-THROUGH TERMINAL BLOCK ZDU 2.5 WEI WEI.ZDU 2.5
++STB-X1 1 PE-TERMINAL ZPE 2.5 WEI WEI.ZPE 2.5
++STB-X4 1 END BRACKET 249-117 WAGO WAGO.249-117
++STB-X4 0
++STB-X4 4 FEED-THROUGH TERMINAL BLOCK ZDU 2.5/4AN WEI WEI.ZDU 2.5/4AN
++STB-XS4 0
+1 +KLP/1 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Bill of materials | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + SKL | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 1.a
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+Device tag | Quantity | Designation | Type number | Supplier | Part number
++STB-B151 | 1 | ENCLOSURE INTERNAL THERMOSTAT | SK 3110.000 | RITT | RITT.SK3110000
++STB-E151 | 1 | OUTLET FILTER | SK 3240.200 | RITT | RITT.SK3240200
++STB-F151 | 1 | MINIATURE CIRCUIT BREAKER | 5SY4104-7 | SIEM | SIEM.5SY4104-7
++STB-F201 | 1 | MINIATURE CIRCUIT BREAKER | 5SY4103-7 | SIEM | SIEM.5SY4103-7
++STB-F202 | 1 | MINIATURE CIRCUIT BREAKER | 5SY4101-7 | SIEM | SIEM.5SY4101-7
++STB-F308 | 1 | MINIATURE CIRCUIT BREAKER | 5SY4103-7 | SIEM | SIEM.5SY4103-7
++STB-G201 | 1 | STABILIZED POWER SUPPLY | PROECO 120W 24V/5A | WEI | WEI.PROECO 120W 24V/5A
++STB-K301 | 1 | COUPLING RELAY | 40.52.9.024.0000 | FIND | FIND.40.52.9.024.0000
++STB-K301 | 1 | SOCKET FOR COUPLING RELAY | 95.05 | FIND | FIND.95.05
++STB-K301 | 1 | INDICATION- AND EMC SUPPRESSION MODULE | 99.02.9.024.99 | FIND | FIND.99.02.9.024.99
++STB-K401 | 1 | COUPLING RELAY | 40.52.9.024.0000 | FIND | FIND.40.52.9.024.0000
++STB-K401 | 1 | SOCKET FOR COUPLING RELAY | 95.05 | FIND | FIND.95.05
++STB-K401 | 1 | INDICATION- AND EMC SUPPRESSION MODULE | 99.02.9.024.99 | FIND | FIND.99.02.9.024.99
++STB-M151 | 1 | FILTER FAN | SK 3241.100 | RITT | RITT.SK3241100
++STB-Q101 | 1 | MAIN SWITCH WITH EMERG. STOP FUNCTION | 3LD2103-1TL53 | SIEM | SIEM.3LD2103-1TL53
++STB-Q301 | 1 | CIRCUIT-BREAKER | 3RV2011-4AA10 | SIEM | SIEM.3RV2011-4AA10
++STB-Q301 | 1 | TRANSVERSE AUXILIARY SWITCH | 3RV2901-1F | SIEM | SIEM.3RV2901-1F
++STB-Q351 | 1 | CIRCUIT-BREAKER | 3RV2011-1GA10 | SIEM | SIEM.3RV2011-1GA10
++STB-Q351 | 1 | TRANSVERSE AUXILIARY SWITCH | 3RV2901-1F | SIEM | SIEM.3RV2901-1F
++STB-R301 | 1 | POTENTIOMETER, COMPACT, 22MM, ROUND | 3SU1250-2PR10-1AA0 | SIEM | SIEM.3SU1250-2PR10-1AA0
++STB-R351 | 1 | POTENTIOMETER, COMPACT, 22MM, ROUND | 3SU1250-2PR10-1AA0 | SIEM | SIEM.3SU1250-2PR10-1AA0
++STB-S301 | 1 | CONTROLSWITCH "MAN - 0 - AUTO" | CH10 A211-621 FT2 | K&N | K&N.CH10 A211-621 FT2
++STB-U301 | 1 | VARIABLE SPEED DRIVES | ATV212HU55N4 | SCHN | SCHN.ATV212HU55N4
++STB-U351 | 1 | VARIABLE SPEED DRIVES | ATV212HU15N4 | SCHN | SCHN.ATV212HU15N4
++STB-X0 | 2 | END BRACKET | 249-117 | WAGO | WAGO.249-117
++STB-X0 | 0 |  |  |  | 
++STB-X0 | 4 | FEED-THROUGH TERMINAL BLOCK | ZDU 6 | WEI | WEI.ZDU 6
++STB-X0 | 4 | PE-TERMINAL | ZPE 6 | WEI | WEI.ZPE 6
++STB-X1 | 1 | END BRACKET | 249-117 | WAGO | WAGO.249-117
++STB-X1 | 0 |  |  |  | 
++STB-X1 | 2 | FEED-THROUGH TERMINAL BLOCK | ZDU 2.5 | WEI | WEI.ZDU 2.5
++STB-X1 | 1 | PE-TERMINAL | ZPE 2.5 | WEI | WEI.ZPE 2.5
++STB-X4 | 1 | END BRACKET | 249-117 | WAGO | WAGO.249-117
++STB-X4 | 0 |  |  |  | 
++STB-X4 | 4 | FEED-THROUGH TERMINAL BLOCK | ZDU 2.5/4AN | WEI | WEI.ZDU 2.5/4AN
++STB-XS4 | 0 |  |  |  | 
+
+[Page 16]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | Terminal diagram
+F13_001
+Strip
+Cable Cable
+=STB+STB-X0
+name name
+Terminals before Mainswitch
+Cable Connection Connection Cable
+Terminal Jumper
+point point
+type type
+Target designation Page / column Function text Target designation
+1 -Q101 L1 /10.1
+2 -Q101 L2 /10.1
+3 -Q101 L3 /10.1
+4 -M151 2 /10.1
+5 /10.2
+6 PE /10.2
+7 /10.2
+8 /10.2
++SKL/1.a 2 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Klemmenplan =STB+STB-X0 | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + KLP | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 1
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+Function text |  |  |  |  |  |  |  |  | Cable
+name | Strip
+=STB+STB-X0
+Terminals before Mainswitch | - | - | - | - | - | - | Cable
+name |  |  |  |  | Page / column
+- |  |  |  |  |  |  |  |  | Cable
+type | Target designation | Connection
+point | Terminal | Jumper | - | Target designation | Connection
+point | Cable
+type |  |  |  |  | -
+ |  |  |  |  |  |  |  |  |  |  |  | 1 |  | - | -Q101 | L1 |  |  |  |  |  | /10.1
+ |  |  |  |  |  |  |  |  | - |  |  | 2 |  | - | -Q101 | L2 | - |  |  |  |  | /10.1
+ |  |  |  |  |  |  |  |  | - |  |  | 3 |  | - | -Q101 | L3 | - |  |  |  |  | /10.1
+ |  |  |  |  |  |  |  |  | - |  |  | 4 |  | - | -M151 | 2 | - |  |  |  |  | /10.1
+ |  |  |  |  |  |  |  |  | - |  |  | 5 |  | - |  |  | - |  |  |  |  | /10.2
+ |  |  |  |  |  |  |  |  |  |  |  | 6 |  |  | PE |  |  |  |  |  |  | /10.2
+ |  |  |  |  |  |  |  |  | - |  |  | 7 |  |  |  |  | - |  |  |  |  | /10.2
+ |  |  |  |  |  |  |  |  | - |  |  | 8 |  | - |  |  | - |  |  |  |  | /10.2
+
+[Page 17]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | Terminal diagram
+F13_001
+Strip
+Cable Cable
+=STB+STB-X1
+name name
+Cable Connection Connection Cable
+Terminal Jumper
+point point
+type type
+Target designation Page / column Function text Target designation
+Suction Fan Table exhaust +EXT-M308 1 1 -K301 11 /30.8
+= +EXT-M308 2 2 -K301 21 /30.8
+= +EXT-M308 PE PE PE /30.9
+1 3 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Klemmenplan =STB+STB-X1 | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + KLP | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 2
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+Function text |  |  |  |  |  |  |  |  | Cable
+name | Strip
+=STB+STB-X1 | - | - | - | - | - | Cable
+name |  |  |  |  | Page / column
+- |  |  |  |  |  |  |  |  | Cable
+type | Target designation | Connection
+point | Terminal | Jumper | Target designation | Connection
+point | Cable
+type |  |  |  |  | -
+Suction Fan Table exhaust |  |  |  |  |  |  |  |  |  | +EXT-M308 | 1 | 1 |  | -K301 | 11 |  |  |  |  |  | /30.8
+= |  |  |  |  |  |  |  |  | - | +EXT-M308 | 2 | 2 |  | -K301 | 21 | - |  |  |  |  | /30.8
+= |  |  |  |  |  |  |  |  | - | +EXT-M308 | PE | PE |  | PE |  | - |  |  |  |  | /30.9
+
+[Page 18]
+dna .wal
+gnivas lanimirc
+atad elbaliava
+dna
+,gnimliforcim livic
+edam rednu
+eb
+,noitacilpud ton detucesorp
+llahs
+gniward eb
+ralucitrap lliw
+sihT sthgir
+ni ,esu .dettimrep fo
+tnemegnirfni
+ynA
+.TMF si
+TMF
+yb fo ynA
+dethgirypoc lavorppa .TMF
+fo
+nettirw lavorppa
+era
+stnetnoc
+eht eht
+tuohtiw tuohtiw
+sti
+dna gnissecorp seitrap
+gniward
+driht
+sihT atad
+ot
+1nf.ttolPrengiA
+:ttalbmroF | 0 | - | - | 1 | - | - | 2 | - | 3 | - | 4 | - | 5 | - | 6 | 7 | - | - | 8 | - | 9 | -
+- | Terminal diagram
+F13_001
+Strip
+Cable Cable
+=STB+STB-X4
+name name
+Terminals 24VDC
+Cable Connection Connection Cable
+Terminal Jumper
+point point
+type type
+Target designation Page / column Function text Target designation
+Control voltage 24VDC 1 -XS4 6 /20.4
+-F202 2
+Control voltage 24VDC 2 -U301 FLC /20.4
+Control voltage 0VDC 3 -K301 A2 /20.5
+-G201 V-
+Control voltage 0VDC 4 /20.6
+2 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- |  |  |  | - | Date | 02.03.2017 | - | Small control cabinet
+Klemmenplan =STB+STB-X4 | - | - | - | ELEKTROTECHNIK UND AUTOMATION
+FERRO Technik GmbH
+AT-4600 Wels, Linzerstraße 275 | - |  | - | - |  | - | - | = STB | - | -
+- |  |  |  | - | Ed. by | GRABNER | - | - | - | - | - | - | - | - | - | - | - | - | - | + KLP | - | -
+- |  |  |  | - | Appr |  | - | - | - | - | - | - | - | - | - | - |  | Z.Nr.:
+A.Nr.: DX012270 | - | - | - | Page 3
+- | Modification | Date | Name | - | Original |  | - | Replacement for | - | Replaced by | - | - | - | - | - | - | - | - | - | - | - | Pg 18
+
+Function text |  |  |  |  |  |  |  |  | Cable
+name | Strip
+=STB+STB-X4
+Terminals 24VDC | - | - | - | - | - | - | Cable
+name |  |  |  |  | Page / column
+- |  |  |  |  |  |  |  |  | Cable
+type | Target designation | Connection
+point | Terminal | Jumper | - | Target designation | Connection
+point | Cable
+type |  |  |  |  | -
+Control voltage 24VDC |  |  |  |  |  |  |  |  |  |  |  | 1 |  | - | -XS4 | 6 |  |  |  |  |  | /20.4
+ |  |  |  |  |  |  |  |  | - |  |  |  |  |  | -F202 | 2 | - |  |  |  |  | 
+Control voltage 24VDC |  |  |  |  |  |  |  |  | - |  |  | 2 |  | - | -U301 | FLC | - |  |  |  |  | /20.4
+Control voltage 0VDC |  |  |  |  |  |  |  |  | - |  |  | 3 |  | - | -K301 | A2 | - |  |  |  |  | /20.5
+ |  |  |  |  |  |  |  |  | - |  |  |  |  |  | -G201 | V- | - |  |  |  |  | 
+Control voltage 0VDC |  |  |  |  |  |  |  |  |  |  |  | 4 |  | - |  |  |  |  |  |  |  | /20.6

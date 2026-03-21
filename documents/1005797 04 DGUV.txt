@@ -1,0 +1,124 @@
+[Page 1]
+Auflistung der Messungen und Funktionsprüfungen
+nach DGUV Vorschrift 3
+Kunde: CEFA
+Projektnummer: 1005797
+Anlagentyp: BR 449_IP lower center cover+Glove box_LHD_VAC_TOOL_1+0_1+0
+Baujahr: 2024
+Die nachfolgend aufgeführten Dokumentationen wurden nach bestem Wissen durchgeführt und stellen eine Bestandsaufnahme zum Zeitpunkt der Prüfung dar. Nach der Prüfung
+durchgeführte Änderungen an den Anlagen können das Prüfergebnis negativ beeinflussen und müssen daher eine erneute Beurteilung nach sich ziehen.
+14.03.2025 DGUV_Vorschrift_3 1
+
+[Page 2]
+Inhaltsverzeichnis:
+1.) Niederohmmessung nach DIN VDE 0413 Teil 4 und
+Schutzleitermessungsdokumentation nach DIN VDE 0100 Teil 600
+2.) Isolationsmessung nach DIN VDE 0100 Teil 610
+3.) Profinetmessung
+4.) Offene Punkte
+14.03.2025 DGUV_Vorschrift_3 2
+
+[Page 3]
+Niederohmmessung
+14.03.2025 01_Niederohmmessung 3
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 14.03.25
+Projektnummer: 1005797 | - | Florian Biechl
+Anlagentyp: BR 449_IP lower center cover+Glove box_LHD_VAC_TOOL_1+0_1+0 | Messgerät: | FLUKE 1654B
+Baujahr: 2024 |  | 
+
+zu prüfen: |  |  | 
+Ort | Bezeichnung | BMK-Nummer | Messwerte in OHM
+LT01 |  |  | 
+Messpunkt Ende 1 | PE-Schiene-Einspeisung |  | < 0,10
+Messpunkt Ende 2 | Grundgestell |  | < 0,10
+Messpunkt Ende 3 | Grundplatte |  | < 0,10
+Messpunkt Ende 4 | LT01.X01 Klemmkasten |  | < 0,10
+Messpunkt Ende 5 | LT01.X01 Montageplatte |  | < 0,10
+Messpunkt Ende 6 | LT01.X01 Deckel |  | < 0,10
+Messpunkt Ende 7 | LT01.X01 PE-Klemmen |  | < 0,10
+Messpunkt Ende 8 | LT01.HS01.X01 Klemmkasten |  | < 0,10
+Messpunkt Ende 9 | LT01.HS01.X01 Montageplatte |  | < 0,10
+Messpunkt Ende 10 | LT01.HS01.X01 Deckel |  | < 0,10
+Messpunkt Ende 11 | LT01.HS01.X01 PE-Klemmen |  | < 0,10
+Messpunkt Ende 12 | Spannrahmen |  | < 0,10
+Messpunkt Ende 13 |  |  | 
+UT01 |  |  | 
+Messpunkt Ende 1 | PE-Schiene-Einspeisung |  | < 0,10
+Messpunkt Ende 2 | Grundgestell |  | < 0,10
+Messpunkt Ende 3 | Grundplatte |  | < 0,10
+Messpunkt Ende 4 | UT01.X01 Klemmkasten |  | < 0,10
+
+[Page 4]
+14.03.2025 01_Niederohmmessung 4
+
+zu prüfen: |  |  | 
+Ort | Bezeichnung | BMK-Nummer | Messwerte in OHM
+Messpunkt Ende 5 | UT01.X01 Montageplatte |  | < 0,10
+Messpunkt Ende 6 | UT01.X01 Deckel |  | < 0,10
+Messpunkt Ende 7 | UT01.X01 PE-Klemmen |  | < 0,10
+Messpunkt Ende 8 | UT01.X02 Klemmkasten |  | < 0,10
+Messpunkt Ende 9 | UT01.X02 Montageplatte |  | < 0,10
+Messpunkt Ende 10 | UT01.X02 Deckel |  | < 0,10
+Messpunkt Ende 11 | UT01.X02 PE-Klemmen |  | < 0,10
+Messpunkt Ende 12 | UT01.X02 Klemmkasten |  | < 0,10
+Messpunkt Ende 13 | Grundplatte Shuttle |  | < 0,10
+Messpunkt Ende 14 |  |  | 
+Messpunkt Ende 15 |  |  | 
+
+[Page 5]
+Isolationsmessung
+Prüfspannung 500V, Schutzklasse I – > 0,3MΩ (mit Heizelementen), Schutzklasse I – > 1MΩ (ohne Heizelementen), > 2MΩ (berührbare, leitfähige Teile ohne SL-Anschluss),
+Schutzklasse II >2,0MΩ
+14.03.2025 02_Isolationsmessung 5
+
+Kunde: CEFA | Durchführungsdatum: | 14.03.2025
+Projektnummer: 1005797 | durchgeführt von: | Florian Biechl
+Anlagentyp: BR 449_IP lower center cover+Glove box_LHD_VAC_TOOL_1+0_1+0 | Messgerät: | FLUKE 1654B
+Baujahr: 2024 |  | 
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Messung
+ausgef.
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
+=HA.01+UT01-EBG1 | HLP 400W / 230V | L-PE | 550 | 521
+=HA.01+UT01-EBG2 | HLP 400W / 230V | L-PE | 550 | 521
+=HA.01+UT01-EBG3 | HLP 400W / 230V | L-PE | 550 | 521
+=HA.01+UT01-EBG4 | HLP 400W / 230V | L-PE | 550 | 521
+=HA.02+UT01-EBG1 | HLP 400W / 230V | L-PE | 550 | 521
+=HA.02+UT01-EBG2 | HLP 400W / 230V | L-PE | 550 | 521
+=HA.02+UT01-EBG3 | HLP 400W / 230V | L-PE | 550 | 521
+=HA.02+UT01-EBG4 | HLP 400W / 230V | L-PE | 550 | 521
+=HA.03+UT01-EBG1 | HLP 400W / 230V | L-PE | 550 | 521
+=HA.03+UT01-EBG2 | HLP 400W / 230V | L-PE | 550 | 521
+=HA.03+UT01-EBG3 | HLP 400W / 230V | L-PE | 550 | 521
+=HA.04+UT01-EBG1 | HLP 250W / 230V | L-PE | 550 | 521
+=HA.05+UT01-EBG1 | HLP 250W / 230V | L-PE | 550 | 521
+
+[Page 6]
+Profinetmessung
+14.03.2025 03_Profinetmessung 6
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 18.10.24
+Projektnummer: 1005797 | - | Florian Biechl
+Anlagentyp: BR 449_IP lower center cover+Glove box_LHD_VAC_TOOL_1+0_1+0 | Messgerät: | WIREEXPERT 4500
+Baujahr: 2024 | Messgerät Nr. | 462
+
+zu prüfen: |  |  |  | 
+Betriebsmittel |  |  |  | Messung o.k
+ |  |  |  | siehe Protokoll
+
+[Page 7]
+Offene Punkte
+14.03.2025 04_OffenePunkte 7
+
+Kunde: CEFA | - | - | - | Durchführungsdatum:
+durchgeführt von: |  | -
+Projektnummer: 1005797 | - | - | - | - |  | -
+Anlagentyp: BR 449_IP lower center cover+Glove box_LHD_VAC_TOOL_1+0_1+0 | - | - | - | n.i.O. Durchführungsdatum:
+durchgeführt von: |  | -
+Baujahr: 2024 | - | - | - | - |  | -
+Offene Punkte | entf. | i.O. | n.i.O | Maßnahme | Zuständig | Termin

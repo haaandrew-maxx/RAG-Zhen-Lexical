@@ -1,0 +1,340 @@
+[Page 1]
+1
+
+ | Parametros de Pieza | - | Unidades de soldadura | - | -
+- | Proyecto-Nr.: | 100_096_01 | - | Fecha: | 20.06.25
+- | Set de parámetros: | Steering Column Mercedes VAN EA | - | Nombre: | TMK
+
+Parámetros | Unidad | VE 01 | VE 02 | VE 03 | VE 04 | VE 05 | VE 06 | VE 07 | VE 08 | VE 09 | VE 10 | VE 11 | VE 12 | VE 13 | VE 14
+Procedimiento: Profundidad | mm | x | x | x | x | x | x |  |  |  |  |  |  |  | 
+Procedimiento: Tiempo | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Energia | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo de atraso antes del arranque | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor nominal | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor min. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor max. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor nominal | mm | 42,65 | 41,00 | 40,45 | 40,65 | 39,80 | 38,00 |  |  |  |  |  |  |  | 
+Profundidad: valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor nominal | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor min. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor max. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amplitud | % | 100,00 | 100,00 | 100,00 | 100,00 | 100,00 | 100,00 |  |  |  |  |  |  |  | 
+Presión inicial | bar | 2,00 | 2,00 | 2,00 | 2,00 | 2,00 | 2,00 |  |  |  |  |  |  |  | 
+Presión de proceso | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de mantenimiento | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Número de generador |  | 246323 | 232578 | 232948 | 251044 | 232575 | 246334 |  |  |  |  |  |  |  | 
+
+[Page 2]
+2
+
+ | Parametros de Pieza | - | Unidades de soldadura | - | -
+- | Project-No.: | 100_096_01 | - | Date: | 20.06.25
+- | Set de parametros: | SEAT SE210-US2 LHD | - | Name: | TMK
+
+Parámetros | Unidad | VE 15 | VE 16 | VE 17 | VE 18 | VE 19 | VE 20 | VE 21 | VE 22 | VE 23 | VE 24 | VE 25 | VE 26 | VE 27 | VE 28
+Procedimiento: Profundidad | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Tiempo | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Energia | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo de atraso antes del arranque | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor nominal | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor min. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor max. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor nominal | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor nominal | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor min. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor max. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amplitud | % |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión inicial | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de proceso | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de mantenimiento | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Número de generador |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+[Page 3]
+3
+
+ | Parametros de Pieza | - | Unidades de soldadura | - | -
+- | Project-No.: | 100_096_01 | - | Date: | 20.06.25
+- | Parameter set: | Steering Column Mercedes VAN EA | - | Name: | TMK
+
+Parámetros | Unidad | VE 29 | VE 30 | VE 31 | VE 32 | VE 33 | VE 34 | VE 35 | VE 36 | VE 37 | VE 38 | VE 39 | VE 40 | VE 41 | VE 42
+Procedimiento: Profundidad | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Tiempo | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Energia | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo de atraso antes del arranque | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor nominal | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor min. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor max. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor nominal | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor nominal | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor min. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor max. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amplitud | % |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión inicial | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de proceso | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de mantenimiento | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Número de generador |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+[Page 4]
+4
+
+ | Parametros de Pieza | - | Unidades de soldadura | - | -
+- | Project-No.: | 100_096_01 | - | Date: | 20.06.25
+- | Parameter set: | Steering Column Mercedes VAN EA | - | Name: | TMK
+
+Parámetros | Unidad | VE 43 | VE 44 | VE 45 | VE 46 | VE 47 | VE 48 | VE 49 | VE 50 | VE 51 | VE 52 | VE 53 | VE 54 | VE 55 | VE 56
+Procedimiento: Profundidad | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Tiempo | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Energia | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo de atraso antes del arranque | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor nominal | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor min. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor max. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor nominal | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor nominal | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor min. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor max. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amplitud | % |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión inicial | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de proceso | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de mantenimiento | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Número de generador |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+[Page 5]
+5
+
+ | Parametros de Pieza | - | Unidades de soldadura | - | -
+- | Project-No.: | 100_096_01 | - | Date: | 20.06.25
+- | Parameter set: | Steering Column Mercedes VAN EA | - | Name: | TMK
+
+Parámetros | Unidad | VE 57 | VE 58 | VE 59 | VE 60 | VE 61 | VE 62 | VE 63 | VE 64 | VE 65 | VE 66 | VE 67 | VE 68 | VE 69 | VE 70
+Procedimiento: Profundidad | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Tiempo | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Energia | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo de atraso antes del arranque | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor nominal | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor min. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor max. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor nominal | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor nominal | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor min. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor max. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amplitud | % |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión inicial | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de proceso | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de mantenimiento | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Número de generador |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+[Page 6]
+6
+
+ | Parametros de Pieza | - | Unidades de soldadura | - | -
+- | Project-No.: | 100_096_01 | - | Date: | 20.06.25
+- | Parameter set: | Steering Column Mercedes VAN EA | - | Name: | TMK
+
+Parámetros | Unidad | VE 71 | VE 72 | VE 73 | VE 74 | VE 75 | VE 76 | VE 77 | VE 78 | VE 79 | VE 80 | VE 81 | VE 82 | VE 83 | VE 84
+Procedimiento: Profundidad | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Tiempo | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Energia | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo de atraso antes del arranque | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor nominal | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor min. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor max. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor nominal | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor nominal | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor min. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor max. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amplitud | % |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión inicial | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de proceso | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de mantenimiento | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Número de generador |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+[Page 7]
+7
+
+ | Parametros de Pieza | - | Unidades de soldadura | - | -
+- | Project-No.: | 100_096_01 | - | Date: | 20.06.25
+- | Parameter set: | Steering Column Mercedes VAN EA | - | Name: | TMK
+
+Parámetros | Unidad | VE 85 | VE 86 | VE 87 | VE 88 | VE 89 | VE 90 | VE 91 | VE 92 | VE 93 | VE 94 | VE 95 | VE 96 | VE 97 | VE 98
+Procedimiento: Profundidad | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Tiempo | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Energia | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo de atraso antes del arranque | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor nominal | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor min. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor max. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor nominal | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor nominal | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor min. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor max. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amplitud | % |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión inicial | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de proceso | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de mantenimiento | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Número de generador |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+[Page 8]
+8
+
+ | Parametros de Pieza | - | Unidades de soldadura | - | -
+- | Project-No.: | 100_096_01 | - | Date: | 20.06.25
+- | Parameter set: | Steering Column Mercedes VAN EA | - | Name: | TMK
+
+Parámetros | Unidad | VE 99 | VE 100 | VE 101 | VE 102 | VE 103 | VE 104 | VE 105 | VE 106 | VE 107 | VE 108 | VE 109 | VE 110 | VE 111 | VE 112
+Procedimiento: Profundidad | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Tiempo | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Energia | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo de atraso antes del arranque | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor nominal | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor min. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor max. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor nominal | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor nominal | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor min. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor max. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amplitud | % |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión inicial | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de proceso | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de mantenimiento | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Número de generador |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+[Page 9]
+9
+
+ | Parametros de Pieza | - | Unidades de soldadura | - | -
+- | Project-No.: | 100_096_01 | - | Date: | 20.06.25
+- | Parameter set: | Steering Column Mercedes VAN EA | - | Name: | TMK
+
+Parámetros | Unidad | VE 113 | VE 114 | VE 115 | VE 116 | VE 117 | VE 118 | VE 119 | VE 120 | VE 121 | VE 122 | VE 123 | VE 124 | VE 125 | VE 126
+Procedimiento: Profundidad | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Tiempo | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Energia | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo de atraso antes del arranque | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor nominal | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor min. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor max. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor nominal | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor nominal | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor min. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor max. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amplitud | % |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión inicial | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de proceso | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de mantenimiento | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Número de generador |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+[Page 10]
+10
+
+ | Parametros de Pieza | - | Unidades de soldadura | - | -
+- | Project-No.: | 100_096_01 | - | Date: | 20.06.25
+- | Parameter set: | Steering Column Mercedes VAN EA | - | Name: | TMK
+
+Parámetros | Unidad | VE 127 | VE 128 | VE 129 | VE 130 | VE 131 | VE 132 | VE 133 | VE 134 | VE 135 | VE 136 | VE 137 | VE 138 | VE 139 | VE 140
+Procedimiento: Profundidad | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Tiempo | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Energia | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo de atraso antes del arranque | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor nominal | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor min. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor max. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor nominal | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor nominal | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor min. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor max. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amplitud | % |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión inicial | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de proceso | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de mantenimiento | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Número de generador |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+[Page 11]
+11
+
+ | Parametros de Pieza | - | Unidades de soldadura | - | -
+- | Project-No.: | 100_096_01 | - | Date: | 20.06.25
+- | Parameter set: | Steering Column Mercedes VAN EA | - | Name: | TMK
+
+Parámetros | Unidad | VE 141 | VE 142 | VE 143 | VE 144 | VE 145 | VE 146 | VE 147 | VE 148 | VE 149 | VE 150 | VE 151 | VE 152 | VE 153 | VE 154
+Procedimiento: Profundidad | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Tiempo | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Procedimiento: Energia | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo de atraso antes del arranque | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor nominal | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor min. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Tiempo: valor max. | s |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor nominal | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Profundidad: valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor nominal | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor min. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Energia: valor max. | Ws |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amplitud | % |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión inicial | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de proceso | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Presión de mantenimiento | bar |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.antes:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor min. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Pos.cabeza del reb.según:valor max. | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Número de generador |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
