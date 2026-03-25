@@ -1,0 +1,4022 @@
+[Page 1]
+Traducción de las instrucciones de
+funcionamiento
+ECOFLEX iSONIC
+100.096.01
+CEFA
+
+[Page 2]
+ECOFLEX iSONIC
+Copyright
+© Copyright by
+SONOTRONIC Nagel GmbH
+Becker-Göring-Strasse 17-25
+D-76307 Karlsbad-Ittersbach
+Germany
+Phone +49/ 7248/ 9166- 0
+Fax +49// 7248/ 9166- 144
+info@sonotronic.com
+www.sonotronic.com
+20.01.2017 ES
+2 100.096.01
+
+[Page 3]
+ECOFLEX iSONIC
+1 Seguridad ................................................................................................................................................ 7
+1.1 Deber de cuidado del operario .......................................................................................................... 7
+1.2 Explicación de los símbolos de seguridad utilizados ........................................................................ 7
+1.3 Estructura de precauciones (ejemplo) ............................................................................................... 8
+1.4 Alerta.................................................................................................................................................. 8
+1.5 Señales de segurida .......................................................................................................................... 8
+1.6 Pictogramas utilizados ....................................................................................................................... 9
+1.7 Indicativo CE .................................................................................................................................... 10
+1.8 Informaciones .................................................................................................................................. 11
+1.9 Medidas de seguridad fundamentales ............................................................................................. 11
+1.10 Trabajos en el equipo eléctrico ........................................................................................................ 11
+1.11 Trabajos en los equipos hidráulicos y neumáticos .......................................................................... 12
+1.12 Observar los reglamentos de protección ambiental ........................................................................ 12
+2 Indicaciones por el operador sobre riesgos residuales en la máquina ......................................... 13
+2.1 Indicación – General ........................................................................................................................ 13
+2.2 Indicación - Neumática .................................................................................................................... 13
+2.3 Indicación – Eléctrica ....................................................................................................................... 13
+2.4 Indicación - Carga térmica ............................................................................................................... 13
+2.5 Indicación – Peligro de aplastamiento sonotrodo ............................................................................ 13
+2.6 Indicación – Peligro de aplastamiento puerta basculante ............................................................... 13
+2.7 Indicación – Emisión de ruido .......................................................................................................... 14
+2.8 Indicación – Transporte ................................................................................................................... 14
+2.9 Indicación – Montage / Desmontaje de unidades ........................................................................... 14
+2.10 Indicación – Peligro de contusión actuador ..................................................................................... 14
+2.11 Prohibición - Peligro por campos electromagnéticos ...................................................................... 14
+2.12 Indicación - Montaje/modificación de soportes de piezas y de herramientas ................................. 14
+3 Transporte ............................................................................................................................................. 15
+3.1 Certeza ............................................................................................................................................ 15
+3.2 Dispositivos y útiles admitidos para el transporte ........................................................................... 15
+3.3 Instalación de la máquina ................................................................................................................ 17
+4 Datos técnicos / Placa de identificación ............................................................................................ 18
+4.1 Datos técnicos ................................................................................................................................. 18
+4.2 Placa de identificación (Muestra) .................................................................................................... 18
+5 Información General ............................................................................................................................ 19
+5.1 Derecho autoral ............................................................................................................................... 19
+5.2 Exclusión de responsabilidad .......................................................................................................... 19
+5.3 Las reclamaciones de garantía ....................................................................................................... 19
+6 Descrición del Produco ....................................................................................................................... 20
+6.1 Utilización de acuerdo con las prescripciones................................................................................. 20
+6.2 Observaciones importantes ............................................................................................................. 21
+6.3 Construcción .................................................................................................................................... 22
+6.3.1 Plano sinóptico de la máquina ..................................................................................................... 22
+6.3.2 Mesa móvil ................................................................................................................................... 24
+6.3.3 Cuna de posiciónamiento ............................................................................................................ 24
+6.3.4 Unidades de soldadura ................................................................................................................ 25
+6.3.5 Generadore .................................................................................................................................. 25
+100.096.01 3
+
+[Page 4]
+ECOFLEX iSONIC
+6.3.6 Unidad de mantenimiento del aire comprimido ........................................................................... 25
+6.3.7 Armario de distribución ................................................................................................................ 27
+6.3.8 Puerta basculante ........................................................................................................................ 27
+6.3.9 Puertas para el Mantenimiento .................................................................................................... 28
+6.3.10 Elementos de manejo e indicativos ....................................................................................... 29
+6.3.10.1 Interruptor principal ........................................................................................................... 29
+6.3.10.2 Pulsador parada de emergencia ....................................................................................... 29
+6.3.10.3 Pulsador de arranque ........................................................................................................ 29
+6.3.10.4 Tecla luminosa “Mando activado” ..................................................................................... 29
+6.3.10.5 Tecla luminosa "Habilitar la seguridad"............................................................................. 30
+6.3.10.6 Interruptor de Ilave "Bypaseo dispositivo de seguridad"................................................... 30
+6.3.10.7 Interruptor de llave “aceptar” ............................................................................................. 30
+6.3.11 Unidad de servicio SIMATIC HMI .......................................................................................... 30
+6.3.12 Elementos de indicativos ....................................................................................................... 31
+6.3.12.1 Columna de luz ................................................................................................................. 31
+6.3.12.2 Contador ............................................................................................................................ 31
+6.3.12.3 Visualización en pantalla completa ................................................................................... 32
+6.3.13 Dispositivos de seguridad ...................................................................................................... 33
+6.3.13.1 Parada de emergencia ...................................................................................................... 33
+6.3.14 Puerta basculante .................................................................................................................. 33
+6.3.14.1 Barrera de seguridad ........................................................................................................ 34
+7 Instalación ............................................................................................................................................. 35
+7.1 Seguridad ........................................................................................................................................ 35
+7.2 Condiciones ambientales indispensables para la instalación ......................................................... 35
+7.3 Instalación eléctrica ......................................................................................................................... 35
+7.4 Acometida de aire comprimido ........................................................................................................ 36
+8 Servicio .................................................................................................................................................. 37
+8.1 Seguridad ........................................................................................................................................ 37
+8.2 El primer punto de peligro en la maquina ........................................................................................ 38
+8.3 Conectar .......................................................................................................................................... 39
+8.4 Llevar la máquina a la posición inicial ............................................................................................. 40
+8.5 Colocar las piezas de trabajo .......................................................................................................... 40
+8.6 Modo automático ............................................................................................................................. 41
+8.6.1 Desarollo del cyclo automático .................................................................................................... 41
+8.7 Modo manual ................................................................................................................................... 42
+8.7.1 Bloqueos especiales .................................................................................................................... 43
+8.8 Desconectar ..................................................................................................................................... 44
+8.9 Aparato de visualisación e de manipulación Simatic HMI ............................................................... 45
+8.9.1 Imagen inicial -> Formación de la imagen en la pantalla ............................................................ 45
+8.9.2 Descripción de los simbolos relativos a los modos operativos ................................................... 48
+8.9.3 Entrada de datos ......................................................................................................................... 49
+8.9.4 Superficies de visualisación e de entrada ................................................................................... 50
+8.9.5 Administración de los usuários e de las palabras de paso ......................................................... 51
+8.9.5.1 Selección de la administración de los usuários ................................................................ 52
+8.9.5.2 Registrar usuário nuevo .................................................................................................... 52
+8.9.5.3 Modificar usuários existentes ............................................................................................ 53
+8.9.5.4 Cancelar un usuário .......................................................................................................... 53
+4 100.096.01
+
+[Page 5]
+ECOFLEX iSONIC
+8.9.5.5 Inscripción incorrecta de un usuário ................................................................................. 53
+8.9.6 Estructura de menú ..................................................................................................................... 54
+8.9.7 Aspecto general ........................................................................................................................... 56
+8.9.8 Ajuste ........................................................................................................................................... 57
+8.9.9 Entrar valores (parametros) ......................................................................................................... 58
+8.9.10 Dados de producción ............................................................................................................. 59
+8.9.11 Diagnosis / Ajustes ................................................................................................................ 61
+8.9.12 Visualisación de las mensajes de erro e de operación ......................................................... 63
+8.10 Parámetros ...................................................................................................................................... 64
+8.10.1 Parámetros de máquina ........................................................................................................ 64
+8.10.1.1 Indicaciones para el ajuste de los parámetros .................................................................. 64
+8.10.1.2 Ajuste máquina .................................................................................................................. 66
+8.10.2 Pieza dependiente de parámetros /uno por unidad de avance ............................................. 67
+8.10.2.1 Parámetros por unidades de avanve ................................................................................ 67
+8.10.3 Datos de producción .............................................................................................................. 71
+8.10.4 Parámetros adicionales ......................................................................................................... 72
+8.11 Mensajes de servicio ....................................................................................................................... 73
+8.12 Mensajes de avería ......................................................................................................................... 75
+8.12.1 Visualización de un mensaje de avería ................................................................................. 75
+8.12.2 Listado de todos los mensajes de avería y eliminación de sus causas ................................ 75
+9 Generales instrucciones para dispositivos oscilantes .................................................................... 90
+9.1 Seguridad ........................................................................................................................................ 90
+9.2 Exoneración de responsabilidad ..................................................................................................... 90
+9.3 Componentes individuales del dispositivo oscilante ....................................................................... 90
+9.4 Conexión del convertidor ................................................................................................................. 91
+9.5 Funcionamiento continuo de la unidad oscilante ............................................................................ 91
+9.6 Montaje del dispositivo oscilante ..................................................................................................... 91
+9.7 Momentos permitidos ...................................................................................................................... 92
+9.8 Herramienta para el montaje y el desmontaje de unidades oscilantes Sonotronic ........................ 93
+10 Instrucciones para unidad de soldadura ........................................................................................... 94
+10.1 Desmontaje y montaje dispositivos oscilantes ................................................................................ 94
+10.2 Alineamiento del contorno del sonotrodo ........................................................................................ 95
+11 Conservación y mantenimiento .......................................................................................................... 96
+11.1 Seguridad ........................................................................................................................................ 96
+11.2 Medidas de seguridad fundamentales durante los trabajos de mantenimiento y conservación ..... 96
+11.3 Plan de mantenimiento .................................................................................................................... 97
+11.3.1 Neumática .............................................................................................................................. 98
+11.3.1.1 Vista general a la máquina ................................................................................................ 98
+11.3.1.2 Examinar la estanquiedad de los tubos neumaticos......................................................... 98
+11.3.1.3 Controlar la presión de trabajo – Comparar con parametros de maquina........................ 98
+11.3.1.4 Refrigeración de sonotrodos ............................................................................................. 98
+11.3.2 Eléctrica ................................................................................................................................. 99
+11.3.2.1 Vista general a la máquina ................................................................................................ 99
+11.3.2.2 Quitar la suciedad de la chapa del motor de ventilación .................................................. 99
+11.3.2.3 Examinar todos los tornillos del armario electrico ............................................................. 99
+11.3.2.4 Generadores ..................................................................................................................... 99
+11.3.2.5 Sensores opticos ............................................................................................................... 99
+100.096.01 5
+
+[Page 6]
+ECOFLEX iSONIC
+11.3.2.6 Ventilador de aire del armario electrico Fa.Rittal ............................................................ 100
+11.3.2.7 Armario electrico ............................................................................................................. 100
+11.3.2.8 Control y revisión del listón de seguridad (puerta protección) ........................................ 100
+11.3.3 Mecánica ............................................................................................................................. 101
+11.3.3.1 Vista general a la máquina .............................................................................................. 101
+11.3.3.2 Cilindro neumático........................................................................................................... 101
+11.3.3.3 Cunas de posiciónamiento, lunetas e unidades de presionado ..................................... 101
+11.3.3.4 Desconexión en función de la hondura ........................................................................... 101
+11.3.3.5 Unidades de avance ....................................................................................................... 102
+11.3.3.6 Guias e unidades lineares ............................................................................................... 102
+11.3.3.7 Muelle de compresión por gas ........................................................................................ 103
+12 Puesta de fuera de servicio ............................................................................................................... 104
+12.1 Puesta de fuera de servicio temporal/desplazamiento de la maquina .......................................... 104
+12.1.1 Separación de la línea de la red eléctrica ........................................................................... 104
+12.1.2 Desconexión de suministro de aire neumastico .................................................................. 105
+12.1.3 Reconexion despues de trasladado de la maquina ............................................................ 105
+12.2 Puesta de fuera de servicio final / Eliminación de desechos ........................................................ 105
+6 100.096.01
+
+[Page 7]
+ECOFLEX iSONIC
+Seguridad
+P os: 1 /-TD-/ALLG. SICHERHEITSHINWEISE/Standard ISO-ANSI-Kombi @ 7\mod_1381221998918_2139.docx @ 59056 @ 1222222222222 @ 1
+1 Seguridad
+1.1 Deber de cuidado del operario
+La máquina ha sido concebida y construida considerándose el respectivo análisis
+de peligro y previa selección minuciosa de las normas homologadas relevantes y
+demás especificaciones técnicas. Esta máquina corresponde al estado actual de
+la técnica y posibilita un máximo de seguridad durante el servicio.
+No obstante, la seguridad de la máquina sólo podrá manifestarse durante el
+servicio siempre que se tomen todas las medidas requeridas para ello. Incumbe
+al deber de cuidado del explotador de la máquina llevar a cabo la planificación de
+estas medidas y controlar su aplicación.
+1.2 Explicación de los símbolos de seguridad utilizados
+En las siguientes instrucciones de servicio se dan indicaciones concretas de
+seguridad para señalar los inevitables riesgos remanentes existentes durante el
+servicio de la máquina. Estos riesgos remanentes implican peligros para
+• Personas
+• La máquina y el producto
+• El medio ambiente
+Los símbolos utilizados en las instrucciones de servicio sirven más que nada para
+que se ponga especial atención en los avisos de seguridad!
+100.096.01 7
+
+Advertencia | 
+Especialmente, el explotador debe garantizar que: | -
+• la máquina sólo se utilice conforme a su uso previsto (véase el apartado | -
+"Utilización conforme al uso previsto" del capítulo "Información sobre el | -
+producto") | -
+• la máquina sólo se ponga en servicio en perfecto estado operacional y, | -
+sobre todo, que se controle regularmente el perfecto funcionamiento de los | -
+dispositivos de seguridad | -
+• estén disponibles y se lleven puestos los equipos de protección necesarios | -
+previstos para el personal de operación, mantenimiento y reparación | -
+• las instrucciones de servicio siempre estén completas, legibles y | -
+disponibles en el lugar de aplicación de la máquina | -
+• sólo personal cualificado y autorizado efectúe los trabajos de operación, | -
+mantenimiento y reparación de la máquina | -
+• este personal sea instruido regularmente en cuanto a todas las cuestiones | -
+relevantes en materia de seguridad de trabajo y protección del medio | -
+ambiente, así como que tenga conocimiento de las instrucciones de | -
+servicio y, especialmente, de los avisos de seguridad contenidos en ellas | -
+• todos los avisos de seguridad y advertencia que estén ubicados en la | -
+misma máquina no sean retirados ni borrados y que estén bien legibles | -
+
+Peligro! | 
+En caso de insuficiente formación de los operadores existe peligros cuando se | -
+opera la máquina. | -
+En caso de insuficiente formación de los instaladores y personal de servicio, se | -
+podrían realizar daños en la instalación y el mantenimiento de la máquina. | -
+
+[Page 8]
+ECOFLEX iSONIC
+Seguridad
+1.3 Estructura de precauciones (ejemplo)
+Señal de aviso Idioma A
+Información adicional de segurida
+Señales de seguridad
+Idioma A
+Señal de aviso Idioma B
+Información adicional de segurida
+Idioma B
+Símbolos de Señal de aviso Idioma C
+prohibición/orden
+Información adicional de segurida
+Idioma C
+1.4 Alerta
+El nivel de peligro, es decir, el potencial de riesgo y la probabilidad de riesgo se
+caracteriza por: Las señales de seguridad, la palabra de advertencia y señal de
+color.Los niveles de amenaza se clasifican de la siguiente manera:
+1.5 Señales de segurida
+8 100.096.01
+
+ | Etapa de |  | Seguir
+- | advertencia | - | -
+PELIGRO | - | - | (Extremas) Situación peligrosa en la que el incumplimiento de estas instrucciones
+puede causar la muerte o lesiones graves
+ADVERTENCIA | - | - | Situación peligrosa en la que el incumplimiento de estas instrucciones puede
+causar la muerte o lesiones graves
+PRECAUCIÒN | - | - | Situación peligrosa en la que el incumplimiento de esta indicación de seguridad
+puede causar lesiones leves
+AVISO | - | - | Avisa por ejemplo atención a las acciones que pueden causar a daños a la
+propiedad
+
+(Extremas) Situación peligrosa en la que el incumplimiento de estas instrucciones
+puede causar la muerte o lesiones graves
+
+Situación peligrosa en la que el incumplimiento de estas instrucciones puede
+causar la muerte o lesiones graves
+
+Situación peligrosa en la que el incumplimiento de esta indicación de seguridad
+puede causar lesiones leves
+
+Avisa por ejemplo atención a las acciones que pueden causar a daños a la
+propiedad
+
+La señal de seguridad advierte sobre el riesgo de lesiones | 
+Siga todas las medidas que están marcadas con las etiquetas de seguridad para | -
+evitar lesiones o incluso la muerte. | -
+
+[Page 9]
+ECOFLEX iSONIC
+Seguridad
+1.6 Pictogramas utilizados
+Los siguientes símbolos (pictogramas) indican que en un lugar determinado o en
+un momento determinado al manipular la máquina se puede producir un peligro
+particular.
+Los símbolos no sustituyen el texto del mensaje de seguridad. El texto siempre se
+debe leer por completo!
+100.096.01 9
+
+ | Símbolos de peligro |  |  | Utilización | 
+ | - | - | Peligro de muerte por descarga eléctrica | - | -
+ | - | - | Peligro por presión hidráulica o neumática | - | -
+ | - | - | Superficie caliente! Peligro de quemaduras | - | -
+ | - | - | Peligro de aplastamiento! No agarre la puerta de carrera. | - | -
+ | - | - | Peligro de atrapamiento! Peligro de aplastamiento | - | -
+ | - | - | Peligro de atrapamiento! Piezas movibles | - | -
+ | - | - | Peligro de caída! | - | -
+ | - | - | El acceso al área de trabajo de la máquina por personal no autorizado está
+prohibido | - | -
+ | - | - | La máquina debe ser operada solamente por una persona | - | -
+ | - | - | Prohibido pisar el área | - | -
+
+El acceso al área de trabajo de la máquina por personal no autorizado está
+prohibido
+
+[Page 10]
+ECOFLEX iSONIC
+Seguridad
+1.7 Indicativo CE
+El certificado de conformidad EG del fabricante atestigua que satisface las
+„capacidades de funcionamiento de la máquina“ según la normativa de la EU.
+Como indicativo exterior para respetar la Normativa, la máquina dispone de un
+indicativo de la CE.
+10 100.096.01
+
+ | Prohibido subir personas no autorizadas
+ | Prohibido permanecer en la maquina para personas con marcapasos
+ | No intervenir
+Máquina opera en modo automático
+ | No tocar
+ | Utilizar arnés
+ | Utilizar protección auditiva
+ | Desconectar el interruptor principal de la alimentación de corriente de la máquina
+ | Antes de realizar trabajos de mantenimiento lea y comprenda las instrucciones
+ | Respetar las obligaciones de la contención de la producción de residuos y la
+debida utilización/eliminación
+ | Eliminar debidamente los engrasantes y productos agresivos para el medio
+ambiente
+
+No intervenir
+Máquina opera en modo automático
+
+Respetar las obligaciones de la contención de la producción de residuos y la
+debida utilización/eliminación
+
+Eliminar debidamente los engrasantes y productos agresivos para el medio
+ambiente
+
+[Page 11]
+ECOFLEX iSONIC
+Seguridad
+1.8 Informaciones
+1.9 Medidas de seguridad fundamentales
+La máquina sólo puede ser operada por personas autorizadas y debidamente
+instruidas para ello, que tengan conocimiento de las instrucciones de servicio y
+puedan trabajar observando las mismas!
+Antes de conectar la máquina controlar y cerciorarse de que
+• dentro de la zona de trabajo de la máquina sólo se encuentren personas
+autorizadas
+• nadie pueda ser lesionado al ponerse en marcha la máquina!
+Antes de cada inicio de producción, controlar si la máquina presenta daños
+visibles y cerciorarse de que ésta sólo sea puesta en servicio encontrándose en
+perfecto estado! Los defectos que se constaten deberán ser comunicados al jefe
+de inmediato!
+Antes de cada inicio de producción, retirar de la zona de trabajo de la máquina
+todo el material y/o los objetos que no se requieren para la producción!
+Antes de cada inicio de producción, controlar y cerciorarse del perfecto
+funcionamiento de todos los dispositivos de seguridad!
+1.10 Trabajos en el equipo eléctrico
+100.096.01 11
+
+ | Información |  | Comentario | 
+ | - | - | Advertencia
+Este símbolo no indica una advertencia de seguridad sino una advertencia para el
+mejor funcionamiento de la máquina. | -
+ | - | - | Advertencias jurídicas y de Normativas. | -
+ | - | - | Siga las instrucciones de mantenimiento de la máquina. | -
+ | - | - | Lea demás informaciones en la documentación adjunta. | -
+
+Los trabajos de reparación en unidades eléctricas de la máquina sólo deben ser | 
+ejecutados por electricistas profesionales! | -
+• Controlar regularmente los equipos eléctricos! | -
+• Fijar nuevamente las uniones aflojadas! | -
+• Sustituir inmediatamente líneas/cables dañados! | -
+• Mantener siempre cerrado el armario de distribución! El acceso sólo está | -
+permitido para personas autorizadas que dispongan de llave/herramienta! | -
+Al efectuar la limpieza, nunca lavar con manguera de agua los armarios de | -
+distribución ni otras carcasas de equipos eléctricos! | -
+
+[Page 12]
+ECOFLEX iSONIC
+Seguridad
+1.11 Trabajos en los equipos hidráulicos y neumáticos
+1.12 Observar los reglamentos de protección ambiental
+En todos los trabajos a efectuarse en y con la máquina se debe cumplir con las
+obligaciones en materia de evitación de basuras y de utilización/eliminación
+reglamentaria de residuos.
+Sobre todo cuando se efectúen trabajos de instalación, mantenimiento y
+reparación, las sustancias peligrosas para las aguas, tales como
+• grasas y aceites de lubricación
+• aceites hidráulicos
+• agentes refrigerantes
+• líquidos detergentes con disolventes
+no deben contaminar el suelo ni penetrar en la canalización!
+Estas sustancias deben ser conservadas, transportadas, recolectadas y
+eliminadas en recipientes apropiados para ello!
+P os: 2 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+12 100.096.01
+
+ | Hacer ejecutar los trabajos de mantenimiento y reparación en los equipos | 
+- | hidráulicos y neumáticos sólo por personal especialmente cualificado para ello! | -
+- | Antes de efectuar los trabajos de mantenimiento y reparación, las unidades | -
+- | hidráulicas y neumáticas de la máquina deben liberarse completamente de | -
+- | presión! | -
+- | Como medida de prevención y conservación cambiar regularmente las tuberías | -
+- | flexibles aunque no se vea ningún daño! | -
+- | (Observar indicaciones de los fabricantes!) | -
+- | Antes poner en servicio la máquina después de haber efectuado trabajos de | -
+- | mantenimiento y reparación | -
+- | • controlar que las uniones de tornillos desenroscadas estén bien apretadas | -
+- | • cerciorarse de que se hayan vuelto a montar tapas de recipientes, tamices | -
+- | o filtros | -
+- | todos los materiales, herramientas y demás equipos requeridos para la | -
+- | ejecución de los trabajos de mantenimiento y reparación hayan sido retirados de | -
+- | la zona de trabajo de la máquina | -
+- | • se hayan eliminado líquidos que puedan haberse derramado | -
+- | • todos los dispositivos de seguridad de la máquina funcionen perfectamente | -
+
+[Page 13]
+ECOFLEX iSONIC
+Indicaciones por el operador sobre riesgos residuales en la
+máquina
+P os: 3 /-TD-/RESTRISIKEN/1. Ü Hinweise Restrisiken Maschine @ 7\mod_1408429863473_2139.docx @ 72661 @ 1 @ 1
+2 Indicaciones por el operador sobre riesgos residuales en la máquina
+P os: 4 /-TD-/RESTRISIKEN/1.1 Hinweis Ein-Mann-Maschine @ 7\mod_1408429947025_2139.docx @ 72679 @ 2 @ 1
+2.1 Indicación – General
+P os: 5 /-TD-/RESTRISIKEN/1.3 Hinweis Pneumatik @ 7\mod_1408430030242_2139.docx @ 72716 @ 2 @ 1
+2.2 Indicación - Neumática
+P os: 6 /-TD-/RESTRISIKEN/1.4 Hinweis Elektrik @ 7\mod_1408430094195_2139.docx @ 72735 @ 2 @ 1
+2.3 Indicación – Eléctrica
+P os: 7 /-TD-/RESTRISIKEN/1.5 Hinweis Thermische Belastung Sonotrode @ 7\mod_1408430131207_2139.docx @ 72753 @ 2 @ 1
+2.4 Indicación - Carga térmica
+Soldando con ultrasonido se puede producir una temperatura de la herramienta
+(sonotrodo) como en la pieza, por encima de 100 ° C. Se requiere un equipo de
+protección personal (guantes térmicos).
+P os: 8 /-TD-/RESTRISIKEN/1.6 Hinweis Quetschgefahr Sonotrode Absenken bei entlüften @ 7\mod_1408429870800_2139.docx @ 72771 @ 2 @ 1
+2.5 Indicación – Peligro de aplastamiento sonotrodo
+P os: 9 /-TD-/RESTRISIKEN/1.7 Hinweis Quetschgefahr Schwingtür @ 7\mod_1408430203949_2139.docx @ 72789 @ 2 @ 1
+2.6 Indicación – Peligro de aplastamiento puerta basculante
+P os: 10 /-TD-/RESTRISIKEN/1.8 Hinweis Lärm-Emissionen Schwingtür @ 7\mod_1408685023251_2139.docx @ 72880 @ 2 @ 1
+100.096.01 13
+
+ | ¡Peligro! | 
+- | ¡La máquina debe ser utilizada solo para una persona! | -
+- | Con otras personas que permanecen en la máquina durante los varios procesos | -
+- | de trabajo (funcionamiento automático, instalación, mantenimiento), se forman | -
+- | riesgos adicionales. | -
+
+ | Advertensia! | 
+- | Durante los trabajos en las unidades neumáticos, hay que purgar estos primero. | -
+- | Conexiones neumáticas deben ser desensamblados y ensamblados solo sin | -
+- | presión. | -
+
+Advertensia!
+Conexiones electricos deben ser ponidos o tirados solo sin tensión.
+
+¡Aviso!
+¡Peligro de calor y quemadura!
+
+ | ¡Precaución! | 
+- | El sonotrodo se va bajando, durante el escape de aire fuera de la maquina. | -
+- | ¡Peligro de aplastamiento! | -
+
+ | ¡Precaución! | 
+- | ¡Al cerrar (bajar) la puerta, crea un riesgo de aplastamiento entre la puerta y el | -
+- | bastidor de la máquina! | -
+- | ¡Si no se mantiene los ciclos de mantenimiento de la puerta, puede bajar de | -
+- | forma inesperada! | -
+
+[Page 14]
+ECOFLEX iSONIC
+Indicaciones por el operador sobre riesgos residuales en la
+máquina
+2.7 Indicación – Emisión de ruido
+P os: 11 /-TD-/RESTRISIKEN/1.9 Hinweis Transport @ 8\mod_1412671495701_2139.docx @ 73120 @ 2 @ 1
+2.8 Indicación – Transporte
+P os: 12 /-TD-/RESTRISIKEN/2.1 Hinweis Aus-/Einbau Schiti, Brücke, Horizontaleinheiten @ 8\mod_1412687016640_2139.docx @ 73156 @ 2 @ 1
+2.9 Indicación – Montage / Desmontaje de unidades
+P os: 13 /-TD-/RESTRISIKEN/2.4 Hinweis Quetschgefahr VE reversiert @ 8\mod_1418190602317_2139.docx @ 73640 @ 2 @ 1
+2.10 Indicación – Peligro de contusión actuador
+P os: 14 /-TD-/RESTRISIKEN/2.6 Verbot Herzschrittmacher_Defibrillator @ 8\mod_1449743740018_2139.docx @ 93936 @ 2 @ 1
+2.11 Prohibición - Peligro por campos electromagnéticos
+P P ooss:: 1157 //--TTDD--//RREESSTTRRIISSIIKKEENN//22..79 HHiinnwweeiiss SGcehfauhlur ndgu rBcehd Eieinnbear u@-U 8m\mbaoud _v1o4n5 W01e0rk2z6e9u9g9e0n3_-A2u1f3n9a.hdmocexn @@ 993\m98o6d @_1 426 @29 519 319423_2139.docx @ 487414 @ 2 @ 4
+2.12 Indicación - Montaje/modificación de soportes de piezas y de herramientas
+P os: 18 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+14 100.096.01
+
+Use protección para los oídos, cuando la medición de presión sonora más de un
+valor de 80 dB!
+El nivel de ruido aumenta cuando se trabaja con puerta basculante abierta.
+
+ | Peligro! | 
+- | Para el transporte, hay que asegurar suficientemente la maquina / las casetas | -
+- | intercambiables de soldadura contra movimiento o caída. | -
+
+ | Peligro! | 
+- | En el montaje y desmontaje de componentes grandes y pesados (mesa móvil, | -
+- | unidades horizontales, puentes etc.) en la maquina, hay que asegurar | -
+- | suficientemente estos contra caída. Sólo utilice herramientas adecuadas! | -
+
+ | ¡Atención! | 
+- | Activando el boton de parada de emergencia o en caso de apagón, el actuador | -
+- | reverso en la posicion inicial. ¡Peligro de contusión! | -
+
+ | ¡Prohibido! | 
+- | No debe haber personas con un marcapasos o un desfibrilador trabajo en la | -
+- | máquina. | -
+- | Permanecer en la máquina está prohibido para estos individuos. | -
+
+ | ¡Peligro! | 
+- | Durante el cambio, el montaje o la modificación de soportes de piezas o de | -
+- | herramientas se pueden generar nuevos peligros. | -
+- | En caso de montar o cambiar una herramienta o un soporte de piezas, es | -
+- | necesario que el explotador elabore una nueva evaluación de seguridad. | -
+
+[Page 15]
+ECOFLEX iSONIC
+Transporte
+P os: 19 /-TD-/TRANSPORT/ECOFLEX iSONIC @ 7\mod_1408430501794_2139.docx @ 72825 @ 1223 @ 4
+3 Transporte
+3.1 Certeza
+3.2 Dispositivos y útiles admitidos para el transporte
+La máquina debe ser transportada ó almacenada en una temperatura ambiente de
+–25ºC hasta +55ºC (en un tiempo de 24h, puede estar a +70ºC)
+Dimensiones y peso se desprenden del capítulo “Datos técnicos“
+Usar un toro dimensionado suficientemente para el transporte de la máquina. Las
+posiciones de las horquillas astán marcadas con rótulos indicadores. Las
+horquillas deben pasar por debajo de la máquina. La máquina debe ser
+aseguarada con la seguridad de transporte adecuada durante el transporte.
+P os: 14 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 15
+
+¡Peligro! | 
+Para descartar daños de la máquina y lesiones con peligro de muerte durante el | -
+transporte: | -
+• Los trabajos de transporte sólo deben ser efectuados por personas | -
+autorizadas y cualificadas. | -
+• Los trayectos de transporte deben bloquearse y rotularse de tal modo que | -
+ninguna persona no autorizada pueda pasar a la zona de peligro. | -
+• Al escoger los medios de carga y sujeción tener en cuenta el peso de la | -
+máquina. (véase placa indicadora de tipo de la máquina) | -
+• Los medios de carga y sujeción deben corresponder a las disposiciones de | -
+los reglamentos de prevención de accidentes. | -
+• Previamente al transporte de la máquina se deben asegurar las partes | -
+móviles de la máquina. Es indispensable tomar las medidas de prevención | -
+necesarias para que, durante el transporte, ningún elemento de la máquina | -
+pueda empezar a moverse por sí solo debido a la fuerza de gravedad. | -
+• Está prohibido permanecer dentro de la zona de peligro, especialmente | -
+debajo de la carga. | -
+
+¡Indicación!
+La máquina puede solamente ser trasportada con la puerta basculante cerrada.
+
+Advertencia! | 
+Los tornillos de cáncamo fijados en los laterales de la máquina, están diseňalos | -
+unicamente para asegurar la máquina durante su transporte. | -
+No está permitio levantar la máquina de los tornillos de cáncamo! | -
+
+[Page 16]
+ECOFLEX iSONIC
+Transporte
+Delantera de la máquina
+Trasera de la máquina
+16 100.096.01
+
+[Page 17]
+ECOFLEX iSONIC
+Transporte
+3.3 Instalación de la máquina
+La máquina debe tener un subsuelo estable y plano.
+Para garantir una endurancia larga de la máquina, debería ser montada en un
+ambiente limpio y seco. Hay que poner atención en que los aparatos electricos son
+tendidos libres de vibración.
+Las regulaciones se efectuan a 20°C.
+P os: 20 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 17
+
+ | Normas de instalación: | - | - | - | 
+ | Temperatura del aire |  | 10° - 45°C | 10° - 45°C | -
+- | ambiente: | - | - | - | -
+ | Humedad atmosférica: |  |  | 30-70%, máximo 95% non-deshelando | 
+ | Espacio necesario base: |  |  | Latitud 1200 mm, profundidad 1050 mm | 
+
+[Page 18]
+ECOFLEX iSONIC
+Datos técnicos / Placa de identificación
+P os: 21.1 /-TD-/TECHN_DATEN/1. Ü Techn. Daten/Typenschild @ 9\mod_1461745204879_2139.docx @ 486796 @ 1 @ 1
+4 Datos técnicos / Placa de identificación
+P os: 21.2 /-TD-/TECHN_DATEN/1.1 Techn. Daten_var. Maschine @ 0\mod_1116949756944_2139.docx @ 2317 @ 1 @ 1
+4.1 Datos técnicos
+P os: 21.3 /-TD-/TECHN_DATEN/1.1 Typenschild Maschine @ 5\mod_1318411166032_2139.docx @ 46583 @ 2 @ 1
+4.2 Placa de identificación (Muestra)
+La placa de identificación indica:
+Fabricante:
+Modelo y tipo:
+Año de fabricación:
+Número de serie:
+Peso kg:
+Datos eléctrica A, Hz, V:
+Corriente de cortocircuito kA:
+Preseguridad: in A:
+Muestra:
+P os: 22 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+SONOTRONIC Nagel S.L. Pol. Ind. Comte de Sert C/Motors, nave 1-08775 Castellbisbal (Barcelona)
+Modelo y tipo xxx
+Año de fabricación xxxx
+Número de la maquina xxxxx / xxx.xxx.xx
+Peso xxxx kg
+Datos eléctrica : xxx V/N/PE xx A xx Hz
+Corriente de cortocircuito: xx kA
+Preseguridad xx A
+Made in Spain
+18 100.096.01
+
+Máquina | 100.096.01
+ABS-número de serie | 100.096.01
+Cliente | CEFA
+Año de fabricación | 2016 / reconstruccion 2025
+Peso | 920 kg
+Dimensiones (ancho x alto x profundo) | 1750 mm x 2700 mm x 1200 mm
+Conexión eléctrica | 3 x 400V AC + N + PE / 50 Hz
+Consumo de potencia | 10 A
+Consumo de aire | 263 NI/min
+Presión de trabajo neumática: | 6 bar
+Presión de trabajo neumática max.: | 10 bar
+
+[Page 19]
+ECOFLEX iSONIC
+Información General
+P os: 23.1 /-TD-/ALLGEMEINE HINWEISE/1. Ü Allgemeine Hinweise @ 5\mod_1318411022642_2139.docx @ 46537 @ 1 @ 1
+5 Información General
+P os: 23.2 /-TD-/ALLGEMEINE HINWEISE/1.1 Urheberrecht @ 5\mod_1318411425999_2139.docx @ 46600 @ 2 @ 1
+5.1 Derecho autoral
+El derecho autoral de este manual de empleo permanece en:
+SONOTRONIC Nagel GmbH
+Becker-Göring-Strasse 17-25
+D-76307 Karlsbad-Ittersbach
+info@sonotronic.de; www.sonotronic.de
+P os: 23.3 /-TD-/ALLGEMEINE HINWEISE/1.1 Haftungsausschluss @ 5\mod_1319018279821_2139.docx @ 46677 @ 1 @ 1
+5.2 Exclusión de responsabilidad
+La adhesión al manual de empleo es un requisito previo para la operación segura
+de las máquinas / cajas de utillaje y para lograr las características de rendimiento y
+las propiedades del producto
+Por lesiones personales, daños materiales o pérdidas económicas derivadas de la
+inobservancia del manual de empleo, no asume ninguna responsabilidad
+SONOTRONIC Nagel GmbH. La responsabilidad por defectos se excluye en estos
+casos.
+P os: 23.4 /-TD-/ALLGEMEINE HINWEISE/1.1 Mängelhaftungsansprüche @ 5\mod_1319018251634_2139.docx @ 46661 @ 1 @ 1
+5.3 Las reclamaciones de garantía
+El cumplimiento del manual de empleo es un requisito previo para un
+funcionamiento sin problemas y el cumplimiento de cualquier derecho de garantía.
+¡Por lo tanto, lean el manual de empleo antes de operar la unidad!
+P os: 24 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 19
+
+ | Nota | 
+- | Este manual está destinado sólo para el operador y su personal. Ningún tipo de | -
+- | edición, reproducción, distribución o explotación, también en parte, está | -
+- | prohibida. | -
+
+[Page 20]
+ECOFLEX iSONIC
+Descrición del Produco
+P os: 25 /-TD-/PRODUKTBESCHREIBUNG/1. Ü_Produktbeschreibung @ 1\mod_1130933927139_2139.docx @ 8495 @ 1 @ 1
+6 Descrición del Produco
+P os: 26 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Bestimm.Verwendung/1.1 Standard_var. @ 0\mod_1116947098178_2139.docx @ 2307 @ 2 @ 1
+6.1 Utilización de acuerdo con las prescripciones
+Para la máquina es previsto exclusivamente una carga y descarga manual.
+La máquina está concebida exclusivamente para trabajar las piezas liberadas por
+el fabricante:
+Steering column Mercedes VAN EA
+Gap Hider Plate, Gap Hider reinforcement, Gap Hider Bracket, Leather
+20 100.096.01
+
+ | ¡Peligro! | 
+- | Cualquier otra utilización de la instalación puede conducir a peligrosidad y está | -
+- | prohibida. | -
+- | De todos los daños que se originen en personas u objetos no es responsable el | -
+- | fabricante, sino el utilizador de la soldadora por ondas ultrasónicas. | -
+
+[Page 21]
+ECOFLEX iSONIC
+Descrición del Produco
+P os: 27 /-TD-/PRODUKTBESCHREIBUNG/1.1 Wichtige Hinweise @ 1\mod_1134378855504_2139.docx @ 11105 @ 1 @ 1
+6.2 Observaciones importantes
+Accesorios y piezas de repuesto
+Sólo se pueden emplear accesorios o piezas de repuesto autorizados por el
+fabricante de la máquina o que estén incluidos en una lista de piezas de repuesto
+facilitada por el fabricante.
+Se reservan las modificaciones técnicas respecto a las piezas de repuesto.
+P os: 28 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 21
+
+ | La capabilidad de máquina está garantida solo se todas las prestaciones exigidas | 
+- | en las instrucciones de uso han sido satisfeitas e los materiales han sido puestos | -
+- | a disposición correctamente e sin ninguna perturbación. | -
+- | Las variaciones de los componentes mecánicos, eléctricos o electrónicos de la | -
+- | máquina están prohibidas o necesitan la autorización por escrito del fabricante. | -
+- | Ampliaciones y complementos, cuya función influya en el modo de trabajo o en | -
+- | las instalaciones de seguridad, necesitan así mismo de la autorización por | -
+- | escrito. | -
+- | La temperatura ambiente durante su funcionamiento debe estar entre +5º y +40º. | -
+- | En el caso de existir agua condensada en la máquina, debido a cambios de | -
+- | temperatura, se deberá dejar secar y un técnico electrónico especializado deberá | -
+- | de reanudar su funcionamiento. | -
+- | La humedad relativa debe estar entre 30% y 95%. | -
+
+[Page 22]
+ECOFLEX iSONIC
+Descrición del Produco
+P os: 29 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/1.1 Ü_Aufbau @ 1\mod_1129736800445_2139.docx @ 8125 @ 2 @ 1
+6.3 Construcción
+P os: 30 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/1.1.1 Masch.Übersichtsbild_var. @ 1\mod_1132067723235_2139.docx @ 9045 @ 3 @ 1
+6.3.1 Plano sinóptico de la máquina
+10
+1
+2
+3
+4
+5
+6
+7 11
+8 12
+9
+1. Visualización en pantalla completa 7. Interruptor parada de emergencia
+2. Puerta basculante 8. Elementos de mando
+3. Puerta elevadora 9. Generadores
+4. Unidades de avance 10. Columna de luz
+5. Cuna de posiciónamiento 11. Arranque automatico
+6. Mesa movil 12. Unidad de servicio
+22 100.096.01
+
+[Page 23]
+ECOFLEX iSONIC
+Descrición del Produco
+1
+2
+3
+4
+1. Unidad de mantenimiento del aire 3. Contador de piezas
+comprimido 4. Interruptor principal
+2. Armario de distribución
+P os: 31 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 23
+
+[Page 24]
+ECOFLEX iSONIC
+Descrición del Produco
+P os: 32 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Schiebetisch/1.1.1 Pneum. @ 0\mod_1124372113267_2139.docx @ 5235 @ 3 @ 1
+6.3.2 Mesa móvil
+La mesa móvil recoge la pieza y la transporta a la posición de trabajo. Sera
+impulsado por un cilindro neumático con articulaciones móviles. La posición
+absoluta se puede ajustar por el vástago de pistón. Las posiciones finales están
+sometidos y controlados a través de la proximidad.
+P os: 33 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/1.1.1 Aufnahme_var. @ 1\mod_1131720765160_2139.docx @ 8787 @ 3 @ 1
+6.3.3 Cuna de posiciónamiento
+P os: 34 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/1.1.1 Schweißeinheiten @ 1\mod_1129739738833_2139.docx @ 8155 @ 3 @ 1
+24 100.096.01
+
+[Page 25]
+ECOFLEX iSONIC
+Descrición del Produco
+6.3.4 Unidades de soldadura
+La unidad de soldadura se compone de la unidad de avance y el dispositivo
+oscilante.
+Unidad de avance
+La unidad de avance, impulsada neumáticamente, suministra el movimiento de
+avance para la herramienta de soldadura.
+Dispositivo oscilante
+Véanse las instrucciones de “servicio para el dispositivo oscillante”
+P os: 35 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/1.1.1 Generatoren @ 1\mod_1129739906149_2139.docx @ 8165 @ 3 @ 1
+6.3.5 Generadore
+El generador convierte la corriente alterna normal en corriente alterna de alta
+frecuencia.
+Véanse las instrucciones de servicio en el capítulo generadores
+P os: 36 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Wartungseinheit/1.1.1 mit Druckauf. @ 1\mod_1132569437437_2139.docx @ 10207 @ 3 @ 1
+6.3.6 Unidad de mantenimiento del aire comprimido
+La unidad de mantenimiento del aire comprimido sirve para la preparación del aire
+comprimido
+100.096.01 25
+
+[Page 26]
+ECOFLEX iSONIC
+Descrición del Produco
+1. Válvula de cierre con desaireación
+Para la desaireación de la instalación incluso el recipiente de aire
+comprimido
+2. Filtro con purgador del agua
+El filtro sinterizado con separador del agua libera al aire comprimido de
+suciedad, sinterización del tubo, corrosión y agua condensada.
+3. Bloco de distribución
+El bloco de distribución tiene 4 empalmes e sirve de estructura portante
+para modulos adicionales.
+4. Válvula de regulación de la presión
+La válvula de regulación de la presión mantiene permanentemente
+constante la presión de trabajo en la red, independientemente de las
+oscilaciones de la presión y del consumo de aire
+5. Válvula de cierre eléctrica
+Esta válvula sirve para airear/desairear la instalación
+6. Válvula de conexión con constitución de presión retardada
+A presión se constituirá lentamente. Los cilindros desconectados se dirigen
+lentamente a la posición de salida.
+7. Interruptor de presión
+Con el interruptor de presión se transforman las señales neumáticas
+reguladas en señales eléctricas
+1 2 3 4 5 6 7
+PP ooss:: 2317 //--TTDD--//PPRROODDUUKKTTBBEESSCCHHRREEIIBBUUNNGG//AAuuffbbaauu//11..11..11 KSocmhapltrsecshsroarn k@_v 1a\rm. @od _11\m12o9d7_4101226927447110_466.9d1o3c_ @21 8391.7d1o c@x @3 8205 @ 3 @ 1
+26 100.096.01
+
+[Page 27]
+ECOFLEX iSONIC
+Descrición del Produco
+6.3.7 Armario de distribución
+Aquí están colocados los fusibles, Los fusibles automáticos e guardamotores.
+Véase el plano de conexiónes
+P os: 38 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/1.1.1 Schwingtür @ 7\mod_1408688869937_2139.docx @ 72935 @ 3 @ 1
+6.3.8 Puerta basculante
+El compartimento de mecanizado està equipado con una puerta basculante
+(protección contra el ruido).
+100.096.01 27
+
+[Page 28]
+ECOFLEX iSONIC
+Descrición del Produco
+P os: 39 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/1.1.1 Wartungstüren @ 1\mod_1129741332827_2139.docx @ 8215 @ 3 @ 1
+6.3.9 Puertas para el Mantenimiento
+En el funcionamiento automático las puertas de mantenimiento tienen que
+permanecer siempre cerradas.
+P os: 40 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+28 100.096.01
+
+ | Advertencia | 
+- | Con las puertas para el mantenimiento abiertas no es posible el funcionamiento | -
+- | automático. | -
+- | La máquina se conecta en estado de Not-Aus (parada de emergencia). | -
+- | El funcionamiento manual es también posible con las puertas para el | -
+- | mantenimiento abiertas. | -
+
+[Page 29]
+ECOFLEX iSONIC
+Descrición del Produco
+P os: 41 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Bedienelemente/1.1.1 Ü_Bedienelemente @ 0\mod_1118831062250_2139.docx @ 2253 @ 3 @ 1
+6.3.10 Elementos de manejo e indicativos
+El manejo de la instalación se realiza a través de un interruptor llave, tecla y el
+panel de servicio.
+A continuación describimos los componentes de manejo detalladamente:
+P os: 42 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Bedienelemente/Taster+Schalter/1.1.1.1 Hauptschalter @ 6\mod_1351144586621_2139.docx @ 55497 @ 1 @ 1
+6.3.10.1 Interruptor principal
+Con el interruptor principal, la máquina se enciende y se apaga.
+P os: 43 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Bedienelemente/NOT-HALT-Taster/1.1.1.1 klein @ 0\mod_1118831372100_2139.docx @ 2284 @ 2 @ 1
+6.3.10.2 Pulsador parada de emergencia
+Al pulsar la tecla de emergencia se accionarán todas las válvulas libres de
+tensión.
+El sistema de aire comprimido se ventilará. Esto comporta que las undiades de
+avance, pisadores y unidades de tensión se podrán mover manualmente.
+Por otro lado, se pararán todos los siguientes movimientos, como motores o ejes
+NC.
+El abrir una puerta de mantenimiento tiene la misma función que pulsar la tecla
+de emergencia. En el servicio de ajuste estan las puertas de mantenimiento
+puenteadas y por lo tanto, no tienen ninguna función de desconexión.
+La parada de emergencia sólo puede suprimirse cuando en el circuito de
+emergencia se pulse la tecla “anular avería”
+P os: 44 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Bedienelemente/Start-Taster/1.1.1.1 Einhand schwarz @ 2\mod_1156489793152_2139.docx @ 24835 @ 4 @ 1
+6.3.10.3 Pulsador de arranque
+Tecla negra; Arranque con una mano
+El ciclo automático se iniciará o se proseguirá , si ha sido interrumpido, pulsando
+la tecla de arranque. Se puede pulsar indiferentemente el pulsador derecho o el
+izquierdo.
+Las teclas de arranque no tienen ningún efecto en el servicio de ajuste.
+P P ooss:: 4456 //S-TeDit-e/PnuRmObDruUcKhT/=B=E=S=C SHeRiteEnIBumUNbrGuc/Ahu =fb=a=u=/ B@ed 0ie\mneoledm_1e1n1t6e/9T4a1s5t7er2+6S8c0h_a2l1te3r9/1.d.1o.c1x. 1@ S t2e4u0e1ru @ng E@in 1 @ 0\mod_1119004150029_2139.docx @ 2301 @ 2 @ 1
+6.3.10.4 Tecla luminosa “Mando activado”
+El pulsador “Mando activado” debe pulsarse para conectar la tensión de control
+de la instalación.
+Se la lámpara "Mando activado" emite luz continua, la tensión de mando está
+insertada.
+Sin tensión de control la máquina no está en condiciones de
+funcionamiento.
+P os: 47 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Bedienelemente/Taster+Schalter/1.1.1.1 Freigabe Sicherheit @ 7\mod_1389174311459_2139.docx @ 59415 @ 4 @ 1
+100.096.01 29
+
+[Page 30]
+ECOFLEX iSONIC
+Descrición del Produco
+6.3.10.5 Tecla luminosa "Habilitar la seguridad"
+azul
+Las siguientes funciones se pueden realizar mediante el accionamiento del
+pulsador:
+• confirmar modo operativo
+• parada de emergencia reconocimiento
+• puesta en marcha de la válvula principal
+¡Al pulsar el botón puede activar una operación de la máquina!
+P os: 48 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Bedienelemente/Taster+Schalter/1.1.1.1 Schutzeinrichtungen überbrückt @ 8\mod_1427092216410_2139.docx @ 75680 @ @ 1
+6.3.10.6 Interruptor de Ilave "Bypaseo dispositivo de seguridad"
+En el modo de equipamiento, la activación del interruptor de llave provoca que
+ciertos actores puedan moverse con las puertas de mantenimiento abiertas o los
+dispositivos de seguridad inactivos. No se bypasea la parada de emergencia.
+P os: 49 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Bedienelemente/Taster+Schalter/1.1.1.1 Zustimmung @ 0\mod_1119003637420_2139.docx @ 2290 @ 4 @ 1
+6.3.10.7 Interruptor de llave “aceptar”
+En el modo de ajuste, solo se puede borrar un movimiento cuando se acciona el
+interruptor de llave. Esto evita que se borre un movimiento, por equivocación.
+P P ooss:: 5501 //S-TeDit-e/PnuRmObDruUcKhT/=B=E=S=C SHeRiteEnIBumUNbrGuc/Ahu =fb=a=u=/ B@ed 0ie\mngoedr_ä1t/111.16.91 4S1I5M7A2T68IC0 _H2M13I 9@.d o8c\mx o@d _21440219 @79 2 @09 317 17_2139.docx @ 76714 @ 3 @ 1
+6.3.11 Unidad de servicio SIMATIC HMI
+Por toda otra información, véase el capítulo "Servicio".
+P os: 52 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+30 100.096.01
+
+Indicación:
+La llave tiene que ser en poseso de personal autorizado.
+
+ | Advertencia: | 
+- | La llave debe estar extraida en condiciones de producción y para evitar errores | -
+- | de manejo de la instalación debería ser solamente manejada por personal | -
+- | autorizado. | -
+
+[Page 31]
+ECOFLEX iSONIC
+Descrición del Produco
+P os: 53 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Anzeigeelemente/1.1.1 Ü_Anzeigeelemente @ 1\mod_1129743829250_2139.docx @ 8285 @ 3 @ 1
+6.3.12 Elementos de indicativos
+P os: 54 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Anzeigeelemente/Signalsäule/1.1.1.1 Überschrift Signalsäule @ 7\mod_1397651264101_2139.docx @ 60667 @ 4 @ 1
+6.3.12.1 Columna de luz
+P os: 55 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Anzeigeelemente/Signalsäule/1.1.1.1.1 Signalhorn @ 7\mod_1397020959483_2139.docx @ 60446 @ 5 @ 1
+6.3.12.1.1 Bocina
+1. En caso de cualquier error el claxon suenará durante 5 segundos con
+intervalos de 1 segundo. Si este error es confirmado entre estos 5
+segundos, el claxon sará apagado. Solo si el error es todavía activo
+después de 2 minutos, el claxon sigue a sonar durante 5 segundos con
+intervalos de 1 segundo.
+2. Requierimiento Countdown
+P os: 56 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Anzeigeelemente/Signalsäule/1.1.1.1.1 Signalleuchte rot_Blinklicht_Standard @ 7\mod_1397025251380_2139.docx @ 60464 @ 5 @ 1
+6.3.12.1.2 Luz roja → luz intermittente
+¡Falla!
+está encendida junto a la tecla "anular averia" en el panel de mando.
+P P ooss:: 5578 //--TTDD--//PPRROODDUUKKTTBBEESSCCHHRREEIIBBUUNNGG//AAuuffbbaauu//AAnnzzeeiiggeeeelleemmeennttee//SSiiggnnaallssääuullee//11..11..11..11..11 SSiiggnnaalllleeuucchhttee rgortü_nD_aBulienrklilcichht t@ @ 77\m\moodd__11339977002269241961044677__22113399..ddooccxx @ @ 6 600458326 @ @ 55 @ @ 1 1
+6.3.12.1.3 Luz verde → luz intermitente
+La máquina está en modo automático.
+• Pieza de trabajo en el procesamiento
+• Cortina fotoeléctrica de seguridad está activa
+P os: 59 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Anzeigeelemente/Signalsäule/1.1.1.1.1 Signalleuchte grün_Dauerlicht_Standard @ 7\mod_1397026546254_2139.docx @ 60500 @ 5 @ 1
+6.3.12.1.4 Luz verde → luz continua
+La máquina está en modo automático en initial posición.
+• Autorización para actuar en el espacio de trabajo
+• Cortina fotoeléctrica de seguridad no está activa.
+P P ooss:: 6601 //S-TeDit-e/PnuRmObDruUcKhT/=B=E=S=C SHeRiteEnIBumUNbrGuc/Ahu =fb=a=u=/ A@nz 0ei\gmeoedle_m11e1n6te9/4S1t5ü7ck2z6ä8h0l_e2r/113.19..1d.o1c Sx t@an d2a4r0d1 @ @ 1 @\m o1d _1129807497540_2139.docx @ 8355 @ 3 @ 1
+6.3.12.2 Contador
+Contador de horas de funcionamiento
+El contador de horas de funcionamiento cuenta las horas con el conmutador
+principal conectado.
+Contador total de piezas
+El contador total de piezas cuenta, en funcionamiento automático, todas las
+piezas de trabajo, independientemente de si el resultado de la soldadura es
+bueno o defectuoso.
+P os: 62 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Anzeigeelemente/1.1.1.1 Großanzeige @ 9\mod_1470814187769_2139.docx @ 490904 @ 4 @ 4
+100.096.01 31
+
+[Page 32]
+ECOFLEX iSONIC
+Descrición del Produco
+6.3.12.3 Visualización en pantalla completa
+Contador de ciclos Cuenta atrás
+Inicia la cuenta atrás si la
+mecanización de la pieza ha terminado
+(tiempo ajustable)
+Antes de alcanzar el final de la cuenta
+atrás (tiempo ajustable) suena una
+señal (tiempo ajustable).
+P os: 63 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+32 100.096.01
+
+[Page 33]
+ECOFLEX iSONIC
+Descrición del Produco
+P os: 64 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Sicherh.einricht./1.1.1 Ü_Sicherheitseinrichtungen @ 1\mod_1129809479493_2139.docx @ 8365 @ 3 @ 1
+6.3.13 Dispositivos de seguridad
+P os: 65 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Sicherh.einricht./1.1.1.1 NOT-HALT @ 1\mod_1129809916305_2139.docx @ 8385 @ 2 @ 1
+6.3.13.1 Parada de emergencia
+P os: 66 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Sicherh.einricht./1.1.1 Schwingtür @ 7\mod_1408437776926_2139.docx @ 72843 @ 3 @ 1
+6.3.14 Puerta basculante
+El compartimento de mecanizado està equipado con una puerta basculante
+(protección contra el ruido).
+P os: 67 /-TD-/PRODUKTBESCHREIBUNG/Aufbau/Sicherh.einricht./Lichtvorhang/1.1.1.1 Standard @ 1\mod_1129809939586_2139.docx @ 8395 @ 4 @ 1
+100.096.01 33
+
+ | Peligro! | 
+- | En caso de peligro se puede accionar uno de los dos interruptores . Con ello se | -
+- | para cualquier movimiento de la máquina en funcionamiento automático o | -
+- | manual! | -
+
+ | Advertencia | 
+- | Liberar el mando después de una perturbación con accionamiento de uno (y de | -
+- | dos) de los interruptores de parada de emergencia: | -
+- | • Desbloquear el conmutador de parada de emergencia. | -
+- | • Accionar la tecla luminosa „acuse de perturbación“. | -
+- | • Accionar la tecla luminosa „arranque de la posición inicial de la máquina“, | -
+- | hasta que la máquina alcance la posición inicial. | -
+
+[Page 34]
+ECOFLEX iSONIC
+Descrición del Produco
+6.3.14.1 Barrera de seguridad
+El espacio de trabajo de la máquina está segurado por una barrera de seguridad.
+Para toda otra información, léase la documentación del fabricante.
+Funcionamiento automático
+Después de puesto en marcha el ciclo automático, la máquina está asegurada
+durante todo el ciclo de trabajo contra intromisión en la zona de la barrera de
+seguridad. En una interrupción se muestra en la pantalla de la unidad de servicio
+un anuncio de perturbación.
+El funcionamiento de la máquina se libera de nuevo, si se acciona la tecla
+luminosa „acuse de perturbación“ y una de las dos teclas luminosas.
+Funcionamiento manual
+En el funcionamiento manual sólo se interrumpe el movimiento de la mesa con
+una intromisión en la zona asegurada. Una interrupción por la barrera de
+seguridad lleva como consecuencia un anuncio de perturbación en la unidad de
+servicio. El anuncio de perturbación tiene que confirmarse a través de la tecla
+„acuse de perturbación“.
+P os: 68 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+34 100.096.01
+
+ | ¡Peligro! | 
+- | Hay que comprobar el funcionamiento sin defecto de la barrera de | -
+- | seguridad con la probeta, después de cada puesta en servicio de la | -
+- | máquina. | -
+
+ | Advertencia | 
+- | Después de cada intervención en la zona de protección, hay que anular de nuevo | -
+- | el bloqueo de la barrera de seguridad, aún cuando no se muestre ningún anuncio | -
+- | de perturbación. | -
+
+[Page 35]
+ECOFLEX iSONIC
+Instalación
+P os: 69 /-TD-/INBETRIEBNAHME/Inbetriebn.kpl. @ 2\mod_1154683137871_2139.docx @ 24667 @ 12222 @ 1
+7 Instalación
+7.1 Seguridad
+7.2 Condiciones ambientales indispensables para la instalación
+La máquina debe ser montada sobre un piso estable y firme, debiendo ser
+alineada a través de los pies niveladores de tal modo que quede garantizada su
+estabilidad de ubicación. En el lado de manejo se debe prever sitio suficiente para
+que el operario goce de libertad de movimiento. La máquina debe montarse y
+accionarse de tal forma que queden libres vías de escape para casos de
+emergencia. Se debe observar que no sea posible que caigan piezas del entorno
+en el interior de la máquina.
+La máquina sólo debe ser accionada en ámbitos secos y en entornos atmosféricos
+normales, no inflamables ni explosivos.
+7.3 Instalación eléctrica
+100.096.01 35
+
+ | Peligro! | 
+- | Unicamente el personal especializado del Servicio Técnico del fabricante está | -
+- | autorizado para la instalación y puesta en marcha de la máquina. Incluso | -
+- | después de cambiar o movimiento la máquina. | -
+- | Todas las conexiones de la máquina (cables, tubos flexibles y tuberías) deben | -
+- | tenderse de tal forma que no exista riesgo de tropezarse con las mismas! | -
+- | ¡Se deben evitar escaleras, gradas y puntos que conlleven peligros de caídas! | -
+
+ | Peligro! | 
+- | Unicamente a electricistas profesionales y autorizados se les permite efectuar la | -
+- | instalación eléctrica de la máquina! | -
+- | Para la conexión se requieren 3 fases 400V, 50 Hz, conductor neutro y conductor | -
+- | de masa. | -
+- | Atención! Campo giratorio siempre a la derecha | -
+- | El operador debe estar aislado contra contacto a masa a través de las medidas | -
+- | apropiadas (zapatos de seguridad, alfombra o rejilla aisladora). El contacto | -
+- | directo con piso húmedo o mojado está prohibido. | -
+- | La máquina debe ser conectada únicamente a una fuente de corriente que esté | -
+- | conectada a tierra de la forma reglamentaria. La tensión indicada en la placa | -
+- | indicadora de tipo debe coincidir con la tensión de la fuente de corriente. La línea | -
+- | de alimentación debe estar suficientemente dimensionada y protegida por fusible. | -
+- | La estabilidad de la red de corriente bajo carga debe estar garantizada. | -
+- | Frecuencias perturbadoras, oscilaciones de potencia y puntas de tensión deben | -
+- | impedirse con las medidas apropiadas. | -
+- | La conexión a la red nunca debe cortarse bajo carga. Se debe tener cuidado de | -
+- | que la línea de conexión a la red no sea averiada ni dañada al ser pisada, | -
+- | aplastada, arrastrada o afectada de forma similar. La línea de alimentación debe | -
+- | protegerse contra calor, aceite y cantos agudos y no debe estar en el agua. | -
+- | En el caso de máquinas o instalaciones con armario de distribución separado o | -
+- | acoplamiento eléctrico de diferentes máquinas se aplican las indicaciones antes | -
+- | mencionadas también para las líneas de mando y líneas de alta frecuencia. | -
+
+[Page 36]
+ECOFLEX iSONIC
+Instalación
+7.4 Acometida de aire comprimido
+P os: 70 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+36 100.096.01
+
+ | Peligro! | 
+- | Presión de alimentación: mín. 6 bar / máx. 10 bar | -
+- | En la primera puesta en marcha, la presión neumática se ajusta a 6 bar en la | -
+- | unidad de mantenimiento y se debe controlar diariamente antes de comenzar a | -
+- | trabajar! | -
+- | La máquina sólo se debe conectar a una acometida de aire comprimido que haya | -
+- | sido establecida de la forma reglamentaria. La red de aire comprimido y la línea | -
+- | de alimentación hacia la máquina deben tener las dimensiones y protecciones | -
+- | suficientes. Se debe prever una alimentación de aire comprimido exento de | -
+- | aceite y seco. Se deben evitar variaciones de presión de la red tomando las | -
+- | medidas adecuadas (acumuladores). Se admite una caída de presión a 4,5 bar | -
+- | durante un lapso corto de tiempo. | -
+- | Se debe tener cuidado de que la línea de alimentación de aire comprimido no | -
+- | sea averiada ni dañada al ser pisada, aplastada, arrastrada o afectada de forma | -
+- | similar. Además también debe protegerse contra el calor. | -
+- | Al llenar la máquina con aire comprimido no puede estar nadie dentro de la | -
+- | máquina. | -
+
+[Page 37]
+ECOFLEX iSONIC
+Servicio
+P os: 71 /-TD-/BEDIENUNG/1. Ü_Bedienung @ 1\mod_1128515884095_2139.docx @ 7975 @ 1 @ 1
+8 Servicio
+P os: 72 /-TD-/BEDIENUNG/1.1 Sicherheit @ 1\mod_1128515251645_2139.docx @ 7965 @ 1 @ 1
+8.1 Seguridad
+P os: 73 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 37
+
+ | ¡Peligro! | 
+- | Por motivos de seguridad, la máqiuna debe ser maniobrada solo por una | -
+- | persona. | -
+- | La máquina sólo puede ser servida y utilizada por personas que estén instruidas | -
+- | en el manejo, o que hayan demostrado su aptitud para el servicio y están | -
+- | encargadas expresamente de su utilización. | -
+- | No está permitido trabajar en la máquina a las personas menores de 18 años ni | -
+- | a las mujeres en estado. | -
+- | Personas con problemas de corazón no pueden trabajar en la máquina. A través | -
+- | de campos magnéticos de alta frecuencia pueden aparecer errores en equipos | -
+- | eléctricos sensibles. | -
+- | La máquina no se puede dejar nunca sin vigilancia, siempre que el interruptor | -
+- | principal esté conectado. | -
+- | En el funcionamiento automático hay que asegurarse de que todas las puertas | -
+- | están cerradas y se han quitado las llaves. | -
+- | Dado el caso hay que apretar de nuevo los tornillos de recubrimientos, antes del | -
+- | comienzo del funcionamiento automático. | -
+- | La persona encargada de la vigilancia es responsable de que esté quitada la | -
+- | llave del interruptor de selección de la clase de funcionamiento. | -
+- | Hay que comprobar las instalaciones de seguridad respecto a su funcionamiento. | -
+- | Para Sonotronic no es posible realizar un análisis de peligro o riesgo del | -
+- | comportamiento del material, durante o después de la soldadura, ya que las | -
+- | características y composición del material no son conocidas. | -
+- | Los posibles riesgos, durante la soldadura, concernientes a la salud por | -
+- | inhalación de humos ó contacto corporal con el material plástico deben ser | -
+- | comprobados y examinados por el empleado y consecuentemente tomar las | -
+- | medidas preventivas para evitarlos. | -
+- | Con máquinas que están equipadas con válvulas de 5/3 vías con posición | -
+- | intermedia bloqueada, hay que cuidarse porqué el elemento de conmutación está | -
+- | aún carregado de aire después de un accionamiento del paro de emergencia! | -
+- | (Está marcado en el esquema neumático) | -
+
+[Page 38]
+ECOFLEX iSONIC
+Servicio
+P os: 74 /-TD-/BEDIENUNG/Einschalten/1.1 TP1200 ECOFLEX @ 9\mod_1457426670684_2139.docx @ 97467 @ 2 @ 1
+8.2 El primer punto de peligro en la maquina
+La primera posición de peligro se cuentra entre la cuna de posicionamiento de la mesa corredera y
+los pisadores, durante el desplazamiento de la mesa desde su posición inicial hasta la zona de
+trabajo.
+38 100.096.01
+
+[Page 39]
+ECOFLEX iSONIC
+Servicio
+8.3 Conectar
+1. Llevar el interruptor principal a la posición „ON“
+2. Accionar la tecla “Mando activado”
+Después de la conexión se lleva a cabo una prueba de puesta en marcha
+3. Accionar la tecla luminosa „Anular avería“
+Anular avería
+4. Accionar la tecla luminosa „ Habilitar la seguridad “
+Después de una bajada de tensión ó corte del suministro principal, debe llevarse
+en el armario eléctrico, el interruptor protector del motor con el disparador de
+tensión inferior manualmente a la posición 1, a través de personal cualificado!
+P os: 75 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 39
+
+[Page 40]
+ECOFLEX iSONIC
+Servicio
+P os: 76 /-TD-/BEDIENUNG/Masch. Grundstellung/1.1 TP1200_Software neu @ 9\mod_1457426982121_2139.docx @ 97458 @ 2 @ 4
+8.4 Llevar la máquina a la posición inicial
+1. Conectar la máquina.
+2. Conmutar el interruptor de llave de la clase de secuencia a la
+posición 1 (Modo manual ) o 2 (Modo automático ).
+3. Accionar la tecla luminosa „ Habilitar la seguridad“.
+Modo automático
+Maschine
+4. Accionar pulsador luminoso “Máquina posición inicial” Grundstellung .
+Modo ajuste
+Maschine
+4. Accionar pulsador luminoso “Máquina posición inicial” Grundstellung +
+Interruptor de llave “Aceptar”.
+Mantener apretada la tecla luminosa, hasta alcanzar la posición inicial.
+Alcanzada la posición inicial, la intermitencia de la tecla luminosa se cambia a luz
+continua.
+P os: 77 /-TD-/BEDIENUNG/Werkstück einlegen/1.1 US_var. @ 3\mod_1165331253769_2139.docx @ 31099 @ 2 @ 1
+8.5 Colocar las piezas de trabajo
+Las piezas a trabajar deben ser colocadas en la cuna de posicionamiento según
+las instrucciones.
+P os: 78 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+40 100.096.01
+
+ | Aviso | 
+- | En la pantalla, en la cual se pueden llevar a cabo los ajustes de las funciones | -
+- | manualmente, la máquina no se puede llevar a la posición inicial (ningun | -
+- | indicador). | -
+
+[Page 41]
+ECOFLEX iSONIC
+Servicio
+P os: 79 /-TD-/BEDIENUNG/Automatikbetrieb/1.1 TP1200 @ 8\mod_1435658039786_2139.docx @ 77728 @ 2 @ 1
+8.6 Modo automático
+1. Conectar la máquina
+2. Llevar la máquina a la posición inicial
+3. Pulsar el boton de modo manual /automatico
+4. Escoger modo „automatico“
+5. Pulsar el boton „Habilitar la seguridad“
+6. Colocar la pieza de trabajo
+7. Arrancar el ciclo automático mediante accionamiento de la tecla
+„Arranque automático
+P os: 80 /-TD-/BEDIENUNG/Automatikabläufe/Schweißmasch./1.1.1 Ablauf var. @ 1\mod_1124790732221_2139.docx @ 6145 @ 2 @ 1
+8.6.1 Desarollo del cyclo automático
+El servicio automático se iniciará pulsando la tecla de arranque.
+La secuencia de trabajo en el modo automático se realizarán en el siguiente
+orden:
+1. Colocar pieza en la cuna de posicionamiento
+2. Requerir arranque a través del pulsador
+3. Cortina de seguridad activo
+4. Control de piezas
+5. Sujeción y posicionamiento a posición de trabajo
+6. Mesa movil a posición de trabajo
+7. Pisadores a posición de trabajo
+8. Unidades de avance VE xxx a posición de trabajo
+9. Selección Intérvalo de soldadura
+10. Soldar VE
+11. Arranque tiempo de parada y tiempo de refrigeración
+12. Unidades de avance VE a posición initial
+13. Pisadores a posición initial
+14. Contador de las piezas soldadas
+15. Mesa movil a posición initial
+16. Sujeción y posicionamiento a posición initial
+17. Cortina luminosa inaktivo
+18. Finalizado cadena de paso
+19. Extraer la pieza de la cuna de posicionamiento
+P os: 81 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 41
+
+[Page 42]
+ECOFLEX iSONIC
+Servicio
+P os: 82 /-TD-/BEDIENUNG/Einrichtbetrieb/Einrichten/1.1 Einrichten Standard @ 1\mod_1132756490554_2139.docx @ 10601 @ 2 @ 1
+8.7 Modo manual
+En el funcionamiento manual todas las actividades de las partes de la máquina
+(generadores, válvulas, propulsiones) pueden ser reguladas y llevadas a cabo por
+separado.
+• Conectar la máquina
+• Conmutar el interruptor de selección de llave a la posición 1
+• Servicio a través de la unidad de servicio y de las teclas de manejo del
+cuadro de control.
+Para activar un movimiento o una función hay qué:
+• Selecionar la función deseada en el pupitre de mando
+• Acionar el botón de aceptación
+• Acionar uno de los seguientes botones:"Ajuste: posición inicial" o "Ajuste:
+posición de trabajo"
+Durante el movimiento los botones tienen que ser acionados constantemente.
+Dejar un botón causará la interrupción del movimiento -si posible.
+P os: 83 /-TD-/BEDIENUNG/Einrichtbetrieb/Verriegl./schweißen_var. @ 0\mod_1122905533355_2139.docx @ 4605 @ 2 @ 1
+42 100.096.01
+
+ | Indicación | 
+- | El funcionamiento manual sólo puede ser atendido por personal especializado | -
+- | del servicio. | -
+
+ | Indicación | 
+- | En modo manual el movimiento de máquina en posición inicial, es sólo posible | -
+- | con pantalla "Resumen" seleccionada en el dispositivo de control. | -
+
+ | Peligro! | 
+- | En el modo de ajuste, están parcialmente desactivados los seguientes sistemas | -
+- | de seguro: | -
+- | • Instalaciones de seguro: Las instalaciones de seguro (puerta de | -
+- | manutención, puerta vertical, persiana arollable) pueden ser abiertas sin | -
+- | que se active el paro de emergencia. | -
+- | • Barrera fotoelectrica: Las barreras fotoelectricas están desactivadas e | -
+- | desconectadas durante todos movimientos neumáticos. Están activadas | -
+- | solo durante movimientos motóricos. Después de la conexión de las | -
+- | barreras fotoeléctricas ellas se ponen en servício en unos 10 segundos. | -
+- | Durante este tiempo no es posíble executar movimientos acionados por | -
+- | motores. | -
+
+[Page 43]
+ECOFLEX iSONIC
+Servicio
+8.7.1 Bloqueos especiales
+Los bloqueos siguientes deben cumplirse para poder realizar los movimientos
+deseados.
+PI: Posición inicial
+PT: Posición de trabajo
+No obstante de los enclavamientos descritos aquí abajo, es aunque de
+responsabilidad del ajustador de controlar que el movimiento deseado se efectue
+sin colisión.
+P os: 84 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 43
+
+Unidad | a posición inicial | a posición de trabajo
+Unidades de avance | Ningún bloqueo especial | Mesa móvil en PT
+Mesa móvil | Unidades de avance y pisador en PI
+Cortina luminosa en PT | Unidades de avance y pisador en PI
+Cortina luminosa en PT
+Posicionamiento | Unidades de avance y pisador en PI | Unidades de avance y pisador en PI
+Sujeción | Unidades de avance y pisador en PI | Unidades de avance y pisador en PI
+
+[Page 44]
+ECOFLEX iSONIC
+Servicio
+P os: 85 /-TD-/BEDIENUNG/Ausschalten/1.1 TP1200 ECOFLEX @ 9\mod_1457427061028_2139.docx @ 97497 @ 2 @ 1
+8.8 Desconectar
+1. Levar la máquina a la posición inicial
+Mando 2. Accionar la tecla “Mando desactivado”
+desactivado
+3. Conmutar el interruptor principal a la posición „OFF”
+Posicionar el interruptor principal en posición "OFF" (apagado) así que el unidad
+de servicio o la luz "Mando acivado" sean apagados.
+P os: 86 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+44 100.096.01
+
+ | Peligro de muerte! | 
+- | Alta tensión eléctrica! | -
+- | Al desconectar el interruptor principal, quedan los enchufes del armario de | -
+- | conexiones para el aparato de programación, la iluminación del armario de | -
+- | conexiones y la iluminación de la máquina bajo tensión. Los conductores de | -
+- | estas partes son de color naranja. | -
+- | Después de apagar, es posible que, para un lápso de tiempo, en la instalación se | -
+- | forme una tensión residua! | -
+
+[Page 45]
+ECOFLEX iSONIC
+Servicio
+P os: 87 /-TD-/BEDIENUNG/Bediengerät/Simatic HMI ECOFLEX @ 8\mod_1433997783162_2139.docx @ 76974 @ 233333444443333333 @ 1
+8.9 Aparato de visualisación e de manipulación Simatic HMI
+Este aparato es el interface entre el operador e la máquina.
+En el aparato de visualisación e de manipulación se visualizan mensajes de
+operación e de erro e se pueden entrar valores nominales.
+El aparato de visualisación e de manipulación está equipado de una pantalla para
+visualizar textos e de várias teclas (Elementos "Touch") para manipular la
+máquina. Las teclas se distinguen en teclas directas e teclas variables.
+Las teclas directas están siempre indicadas – las teclas variables aparecen según
+la selección del modo operativo o del proceso de trabajo seleccionado.
+Para actuar una tecla, tocar los dibujos en la pantalla con un dedo. Siempre tocar
+solo un dibujo a la vez. Si se tocan mas dibujos, se pueden disparar aciones
+indeseadas.
+Nunca utilizar objetos agudos o afilados.
+Las otras funciones estan describidas en el manual del aparato de manipulación.
+8.9.1 Imagen inicial -> Formación de la imagen en la pantalla
+La pantalla está repartida en sectores de visualización/ e de manipulación. El
+sector dependiente de la función se encuentra en la mitad de la pantalla. En el
+borde inferior se encuentran las teclas directas para la selección del modo
+operativo.
+los elementos de la pantalla descritos en seguido están iguales en todas las
+imagenes.
+6
+2
+1
+3
+4 8
+18 17
+19
+16
+20
+21
+22
+23
+9 10 11 12 13 14 15
+6 6 6 6 6 6
+100.096.01 45
+
+[Page 46]
+ECOFLEX iSONIC
+Servicio
+Descripción de las imagenes/ los sectores de la pantalla
+46 100.096.01
+
+ | Nr. |  |  | Indicación |  |  | Función | 
+ | 1 |  |  | Logo |  |  | Salto a la imagen inicial | 
+ | 2 |  |  | Nombre de la imagen |  |  | - | 
+3 | 3 | - |  | Indicación del juego de |  | - | - | -
+- | - | - | - | parámetros activo | - | - | - | -
+4 | - | - |  | Renglón de aviso (en caso de |  |  | Indicación mensajes de falhas | 
+- | - | - | - | necesidad) | - | - | Indicación mensajes de operación | -
+5 | - | - |  | Nombre del usuário activo/ |  | - | - | -
+- | - | - | - | registrado | - | - | - | -
+ | 6 |  |  | Data / hora |  |  | - | 
+ | 7 |  |  | Impresora |  |  | Copia del aviso de pantalla | 
+8 | 8 | - |  | Indicador de mensajes, solo en |  | Salto al renglón de aviso | Salto al renglón de aviso | -
+- | - | - | - | caso de necesidad | - | - | - | -
+9 | - | - |  | Visualisación del simbolo del |  |  | Visualisación e selección de | 
+- | - | - | - | modo operativo actual | - | - | posibles modo operativo actual | -
+10 | - | - | Vista general | Vista general | - |  | Representación esquemática de la | 
+- | - | - | - | - | - | - | pieza con informaciones sobre la | -
+- | - | - | - | - | - | - | elaboración de la misma. | -
+11 | - | - | Ajustar | - | - |  | Indicación de los grupos | 
+- | - | - | - | - | - | - | constructivos que pueden ser | -
+- | - | - | - | - | - | - | ajustados | -
+12 | - | - | Parametros | - | - |  | Visualisación e reglaje de los | 
+- | - | - | - | - | - | - | parámetros de elaboración | -
+13 | - | - | Datos de producción | - | - |  | Visualisación e reglaje de los | 
+- | - | - | - | - | - | - | parámetros específicos de la | -
+- | - | - | - | - | - | - | máquina | -
+14 | - | - |  | Diagnosis/ |  |  | Reglajes del sistema /de la unidade | 
+- | - | - | - | reglajes | - | - | de servício | -
+ | 15 |  |  | Regresar |  |  | Saltar a la imagen precedente | 
+16 | 16 | - |  | Sector de pantalla dependiente de |  | - | - | -
+- | - | - | - | la función | - | - | - | -
+ | 17 |  |  | Identificación del país |  |  | Selección del idioma del monitor | 
+18 | 18 | - | Mando desactivado | Mando desactivado | - |  | El pulsador “Mando desactivado” | 
+- | - | - | - | - | - | - | debe pulsarse para desconectar la | -
+- | - | - | - | - | - | - | tensión de control de la máquina | -
+19 | - | - | Iluminación área de trabajo | - | - |  | Activar / desactivar las ilumination | 
+- | - | - | - | - | - | - | de la área de trabajo | -
+20 | - | - | Ajuste posición de trabajo | - | - |  | - la unidad seleccionada será | 
+- | - | - | - | - | - | - | desplazada a la posición de | -
+- | - | - | - | - | - | - | trabajo | -
+- | - | - | - | - | - | - | - la función seleccionada será | -
+- | - | - | - | - | - | - | ejecutará | -
+- | - | - | - | - | - | - | Luz permanente: | -
+- | - | - | - | - | - | - | - Unidad a posición de trabajo | -
+- | - | - | - | - | - | - | - la función está ejecutará | -
+
+[Page 47]
+ECOFLEX iSONIC
+Servicio
+100.096.01 47
+
+21 | Ajuste posición inicial |  | - la unidad seleccionada será | 
+- | - | - | desplazada a la posición inicial | -
+- | - | - | - la función seleccionada será | -
+- | - | - | ejecutará | -
+- | - | - | Luz permanente: | -
+- | - | - | - unidad a posición inicial | -
+- | - | - | - la función está parada | -
+22 | Máquina posición inicial |  | La máquina se mueve en posición | 
+- | - | - | inicial. | -
+- | - | - | - En el modo operativo de ajuste | -
+- | - | - | es necesário mantener actuado | -
+- | - | - | al mismo tiempo el interruptor a | -
+- | - | - | llave de autorisación. | -
+- | - | - | Luz permanente: | -
+- | - | - | - La máquina se encuentra en | -
+- | - | - | posición inicial, respectivamente | -
+- | - | - | en posición de arranque | -
+23 | Anular averia |  | Averias actuales están indicadas por | 
+- | - | - | texto en claro en la pantalla, como | -
+- | - | - | por luz intermitente de la tecla. | -
+- | - | - | Confirmar averia ppulsando la tecla | -
+- | - | - | “Anular averia“ | -
+
+[Page 48]
+ECOFLEX iSONIC
+Servicio
+8.9.2 Descripción de los simbolos relativos a los modos operativos
+Descripción de los simbolos relativos a los modos operativos:
+48 100.096.01
+
+ | Simbolo |  |  | Descripción | 
+ | - | - | Modo operativo „0“
+Ningun modo operativo es activo e no es posible efectuar
+movimientos e acciones. | - | -
+ | - | - |  | Modo operativo „Ajuste“ | 
+- | - | - | - | El modo operativo de ajuste está seleccionado. Las funciones de | -
+- | - | - | - | ajuste se efectuan pulsando las teclas „Ajuste: posición de trabajo“ e | -
+- | - | - | - | ”Ajuste: posición inicial“ que nesecitan del accionamiento del | -
+- | - | - | - | interruptor a llave “Aceptación”. | -
+ | - | - | Modo operativo „Automatico: Operación normal“
+Está seleccionado el modo operativo automatico. Arrancar un ciclo
+automatico pulsando las teclas de arranque. | - | -
+ | - | - |  | Modo operativo „Automatico: Paso por paso“ | 
+- | - | - | - | Está seleccionado el modo operativo automatico. Arrancar un ciclo | -
+- | - | - | - | automatico pulsando los botones de arranque. El ciclo desarrollará | -
+- | - | - | - | paso por paso. Cada paso tiene que ser disparado pulsando el botón | -
+- | - | - | - | de arranque. | -
+ | - | - |  | Modo operativo „Automatico: Test sin pieza“ | 
+- | - | - | - | Está seleccionado el modo operativo automatico. Arrancar un ciclo | -
+- | - | - | - | automatico pulsando los botones de arranque. En este caso se | -
+- | - | - | - | desactiva el control de presencia de la pieza. Durante esta acción | -
+- | - | - | - | evitar de tener cargada una pieza porqué este poderia causar daños a | -
+- | - | - | - | la máquina (Alojamiento)! El sistema repite el arranque después de un | -
+- | - | - | - | tiempo determinado fijo. Este tiempo continua a desarollarse hasta al | -
+- | - | - | - | anulamiento de la avería. | -
+ | - | - |  | Modo operativo „Automatico: Test sin pieza + paso por paso “ | 
+- | - | - | - | Está seleccionado el modo operativo automatico. Arrancar un ciclo | -
+- | - | - | - | automatico pulsando los botones de arranque. En este caso el ciclo | -
+- | - | - | - | desarrollará paso por paso con el control de presencia de la pieza | -
+- | - | - | - | desactivado. Es importante quitar la pieza antes de empezar! | -
+
+Modo operativo „0“
+Ningun modo operativo es activo e no es posible efectuar
+movimientos e acciones.
+
+Modo operativo „Automatico: Operación normal“
+Está seleccionado el modo operativo automatico. Arrancar un ciclo
+automatico pulsando las teclas de arranque.
+
+[Page 49]
+ECOFLEX iSONIC
+Servicio
+8.9.3 Entrada de datos
+Entrada de datos numericos
+En el momento en el cual se requiere la entrada de datos numéricos, en la pantalla
+será visualizado el teclado numerico. Al acabar de la entrada, el teclado es
+extraido automaticamente.
+Ejemplo:
+La representación del teclado numérico depende de la unidad de servício utilizada.
+Entrada de datos alfanuméricos
+En el momento en el cual se requiere la entrada de datos alfanuméricos, en la
+pantalla será visualizado el teclado alfanumérico. Al acabar de la entrada, el
+teclado es extraido automaticamente.
+Ejemplo:
+La representación del teclado alfanumérico depende de la unidad de servício
+utilizada.
+100.096.01 49
+
+[Page 50]
+ECOFLEX iSONIC
+Servicio
+8.9.4 Superficies de visualisación e de entrada
+Para procesar e visualizar datos, valores, textos e parámetros, en el sector
+dependiente de las funciones del aparato de manipulación se visualizan varios
+elementos apropiados.
+Ejemplo: Reglón de funciones/superficie de entrada predefinida
+1 2
+1 Reglón de funcioness
+2 superficie de entrada predefinida (visualizar lista/extrahir)
+Para visualizar la lista, cliquear la flecha en la derecha del campo simbólico E/S.
+Aparece la lista de los valores disponibles. En caso que hay mas valores de que
+pueden ser visualizados, en la derecha de la lista aparecerá una barra de scroll.
+Para visualizar valores no visibles, mover la barra de scroll até arriba o até abajo.
+Para acceptar un valor e cerrar la lista, es suficiente seleccionar un valor por un
+clic. Para cerrar la lista sin modificar nada, cliquear en la flecha otra vez o cliquear
+en la pantalla, fuera del campo simbólico E/S.
+50 100.096.01
+
+ | Indicación |  |  | Función | 
+Reglón de aviso | Reglón de aviso | - |  | Visualisación de textos e de datos no | 
+- | - | - | - | modificables. | -
+ | Reglones de función |  |  | Indicación de la función correspondiente | 
+ | Superficie de entrada |  |  | Selección de valores de una lista predefinida. | 
+- | predefinida | - | - | Se no se selecciona un nuevo valor, permanece | -
+- |  | - | - | activo el valor precedente. | -
+Superficie de entrada libre | Superficie de entrada libre | - |  | Entrda manual de textos e números | 
+- | - | - | - | véase el capítulo "Entrada de datos" | -
+Superfície de activación | - | - |  | Es posible acceder a otros níveles de menú o | 
+- | - | - | - | habilitar la memorisación de datos modificados. | -
+ | Superficie de visualisación |  |  | Visualisación de los valores respectivos | 
+
+[Page 51]
+ECOFLEX iSONIC
+Servicio
+8.9.5 Administración de los usuários e de las palabras de paso
+La protección de la palabra de paso empide un acceso de personas no
+autorizadas a funciones o campos de entrada del aparato de visualisación e de
+manipulación. Este garantiza que solo personas autorizadas puedan executar
+funciones o que puedan modificar parámetros de la máquina.
+La protección con palabra de paso se activa en el momento en el cual es
+seleccionada una funcion protegida o se hay que modificar un campo de entrada
+protegido. En la pantalla aparece el menú de registración. En este menú hay que
+entrar un nome de usuário pre-definido con la palabra de paso correspondiente.
+Ahora el sistema controla se es permitido a este usuário de acceder a este campo.
+Hay que confirmar la entrada pujando la tecla „Enter“. Ahora el aparato de
+visualisación e de manipulación controla se la función o el campo de entrada están
+desbloqueados para el usuário registrado. En caso positivo, la función puede ser
+ejecutada o el valor puede ser modificado en el campo de entrada. – en caso
+negativo, el valor queda inalterado.
+El aparato de visualisación e de manipulación permite de parametrizar diversos
+níveles de autorisación, lo que sirve de realizar graduaciones en la autorisación
+del personal operativo.
+El usuário „Administrador“ tiene acceso a todos los datos e funciones. Se
+recomenda de dar la palabra de paso del administrador solo al pesonal de
+mnutención e no al personal operativo. Cuidado que modificaciones efectuadas
+por personas no autorizadas, pueden llevar a fallas e risultatos de producción
+fluctuantes.
+Los usuários "Ajustador", "Service" e "Administrador" están pre-definidos. Otros
+usuários pueden ser definidos por el administrador. Para mas informaciones,
+consultar el manual del aparato de visualisación e de manipulación.
+Usuários registrados tienen que salir del sistema (logout) después de terminar su
+acciones en el sistema. („Diagnosis/Ajustes → Elaboración de la palabra de paso:
+Logout“) para excluir un uso no permitido de su licencia. El administrador puede
+activar la función de logout automático para cada nível de usuários después de un
+tiempo determinado de inactividad en funciones o entradas protegidas.
+100.096.01 51
+
+[Page 52]
+ECOFLEX iSONIC
+Servicio
+Grupos de usuários e autorisaciones
+8.9.5.1 Selección de la administración de los usuários
+1. Activar (pujar) la superficie de conmutación "Diagnosis/Reglajes".
+2. Activar (pujar) la superficie de conmutación Elaboración: Activar Login
+3. Entrar el nombre de usuário: ‚Administrador’ e la palabra de identificación
+correspondiente e terminar el diálogo pujando la tecla "OK". El sistema
+indicará "Administrador" como usuário registrado en el renglón de estado.
+4. Activar (pujar) la superficie de conmutación "Elaboración". Se visualiza la
+lista de los usuários actualmente registrados.
+8.9.5.2 Registrar usuário nuevo
+1. Hacer un doble clic en una línea libre de la columna "Usuário". Aparece un
+campo bordeado con el cursor en la izquierda.
+2. Entrar el nombre del nuevo usuário. Terminar la entrada pujando la tecla
+"Enter".
+3. Hacer un doble clic en la línea libre a la derecha del nombre entrado ahora
+mismo. Aparece un campo bordeado con el cursor en la izquierda.
+4. Entrar la consigna e Terminar la entrada pujando la tecla "Enter".
+5. Ahora la lista es clasificada de nuevo.
+6. Buscar la línea contenente el usuário indicado e selecionar en la columna
+"Grupo".
+7. Seleccionar en la lista la autorisación que debe ser asignada al nuevo
+usuário.
+8. Opción: Buscar la linea contenente el usuário entrado e hacer un doble clic
+en la línea correspondiente en la columna "Tiempo de baja". Aparece un
+campo bordeado con el cursor en la izquierda.
+9. Opción: Entrar el valor e terminar la entrada pujando la tecla "Enter".
+52 100.096.01
+
+Grupo de usuários | tiempo
+de
+logout | Permiso de ejecutar/ modificar
+Administrador | 5 | todo
+Service | 5 | Parámetros de la máquina
+Parámetros dependientes de la pieza
+Reglajes en los datos de producción
+Visualizar datos e ejecutar todas funciones no protegidas,
+respectivamiente modificar todos los datos no protegidos.
+Ajustador | 5 | Parámetros dependientes de la pieza
+Reglajes en los datos de producción
+Visualizar datos e ejecutar todas funciones no protegidas,
+respectivamiente modificar todos los datos no protegidos.
+Operador autorizado | 5 | Reglajes en los datos de producción
+Visualizar datos e ejecutar todas funciones no protegidas,
+respectivamiente modificar todos los datos no protegidos.
+Personas no
+autorizadas,
+respectivamente no
+registradas | - | Visualizar datos e ejecutar todas funciones no protegidas,
+respectivamiente modificar todos los datos no protegidos.
+
+[Page 53]
+ECOFLEX iSONIC
+Servicio
+8.9.5.3 Modificar usuários existentes
+1. Nombre del usuário: Hacer un doble clic en la línea del nombre de modificar
+en la columna "Usuário". Aparece un campo bordeado con el cursor en la
+izquierda.
+2. Entrar el nombre deseado del usuário. Terminar la entrada pujando la tecla
+"Enter".
+3. Consigna: Hacer un doble clic en la línea de la consigna de modificar en la
+columna "Consigna". Aparece un campo bordeado con el cursor en la
+izquierda.
+4. Entrar la consigna deseada. Terminar la entrada pujando la tecla "Enter".
+5. Pertenencia a un grupo: Seleccionar el objeto que tiene que ser modificado
+en la columna "Grupo".
+6. Seleccionar en la lista la autorisación que debe ser ajudicada al usuário.
+7. Tiempo de baja: Seleccionar el objeto que tiene que ser modificado en la
+columna "Tiempo de baja". Aparece un campo bordeado con el cursor en la
+izquierda.
+8. Terminar la entrada pujando la tecla "Enter".
+8.9.5.4 Cancelar un usuário
+1. Marcar el nombre del usuário que debe ser cancelado en la columna
+"Usuário". Ahora el nombre está marcado de color.
+2. Pujar la tecla "Del" respectivamente "Entf".
+El usuário será cancelado sin otra demanda de aclaración!
+8.9.5.5 Inscripción incorrecta de un usuário
+Si un usuario introduce la contraseña mal 3 veces seguidas, cambiará de
+autorizado a “no autorizado”. Este cambio solo podrá cambiarlo el administrador
+mediante una nueva autorización.
+Con el botón „Lista-PW archivar” se guardará la lista de contraseñas en la tarjeta
+de memoria.
+Con el botón „Lista PW desarchivar” volverá la lista de contraseñas guardadas en
+la tarjeta de memoria.
+Con ello suprime la nueva carga de la proyección.
+Requisito: La lista-PW se ha guardado al menos 1 vez.
+Si el administrador introduce mal tres veces seguidas su contraseña, y no se
+ha guardado ninguna lista-PW, se tiene que cargar la lista predefinida de
+contraseñas desde la proyección en el panel de control!
+100.096.01 53
+
+[Page 54]
+ECOFLEX iSONIC
+Servicio
+8.9.6 Estructura de menú
+El siguiente esquema, muestra una vista previa sobre el menú con sus
+correspondientes submenús.
+Ejemplo
+54 100.096.01
+
+Imagen
+inicial | - | -
+- | Aspecto general | -
+- | - | Vista pieza con control de pieza, UA-
+estado, …
+
+Ajuste | - | -
+- | Ajuste imagen principal | -
+- | - | Ajuste Estación de trabajo
+- | - | Ajuste accionamiento
+- | - | Ajuste Punzonadoras
+
+Parámetros | -
+- | Parámetros adicionales
+- | Parámetros de soldadura
+- | Parámetros de troquelado
+
+Dados de producción | - | -
+- | Selección de juego de parametrs | -
+- | Selección del equipo | -
+- | Tiempos de ciclo | -
+- | - | Total
+- | - | Máquina
+- | - | Tiempo de espera
+
+Contador | -
+- | Día
+- | Equipo 1
+- | Equipo 2
+- | Equipo 3
+- | Modo de prueba
+- | Pieza 01
+- | Pieza 02
+- | Pieza 03
+- | …..
+
+[Page 55]
+ECOFLEX iSONIC
+Servicio
+100.096.01 55
+
+Seleccionar / deseleccionar
+unidades de avance | -
+- | VE 01
+- | VE 02
+- | VE 03
+- | ….
+
+Seleccionar / deseleccionar control de
+piezas
+Seleccionar / deseleccionar
+Otros unidades
+Ajustes de máquina
+
+Diagnosis / Ajustes | - | - | -
+- | Diagnosis | - | -
+- | - | Avisos y archivos | -
+- | - | - | Mensajes de servicio
+- | - | - | Mensajes de avería
+- | - | - | Avisos de sistema
+- | - | - | Cambios de parámetros
+
+Diagnosis | -
+- | Estado / control variable
+- | Profinet IO/Profibus DP diagnostico
+- | Mostrar información sistema
+- | Mostrar información sistema sistema-F
+- | Panel mostrar información sistema
+- | Imágenes de diagnostico especificas
+máquina
+(RFID, código de barras, sistema de
+entrada, ..)
+
+Ajustes | -
+- | Ajuste contraseña
+- | Parámetros de máquina
+- | Configuraciones máquina
+- | Manual-OP general
+- | Parámetros de ejes
+- | Lengua
+
+[Page 56]
+ECOFLEX iSONIC
+Servicio
+8.9.7 Aspecto general
+En la imagen general está visualizado el esquema de la pieza e otras
+informaciones:
+• Posición e condición de tratamiento de los singolos puntos de proceso.
+• Estado de los sensores de presencia de la pieza
+• Informaciones acerca de los turnos e de la cantidad de las piezas
+• Valores de proceso relevantes
+Se pueden determinar especificaciones para la elaboración de la pieza.
+Significado de los indicadores luminosos para las unidades de elaboración
+Unidades de avance e de troquelado están simbolizadas por circulos coloridos.
+En los circulos está marcado el número de la unidad de elaboración.
+Significado de los indicadores luminosos para los sensores de presencia
+Cada sensor de presencia está simbolizado por un cuadrado colorado. En el
+interior de este cuadrado está marcado el número del sensor.
+56 100.096.01
+
+ | Simbolo |  |  | Significado | 
+ |  |  | Ninguna elaboración ha ocurrido. | - | -
+ |  |  | Falla en la elaboración. | - | -
+ |  |  | Elaboración sin falla. | - | -
+
+ | Simbolo |  |  | Significado | 
+ |  |  | El control de presencia ya no ha sido efectuado,
+respectivamente no fué activo para la pieza actual. | - | -
+ |  |  | El control de presencia no funciona correctamente. | - | -
+ |  |  | El control de presencia funciona correctamente. | - | -
+
+El control de presencia ya no ha sido efectuado,
+respectivamente no fué activo para la pieza actual.
+
+[Page 57]
+ECOFLEX iSONIC
+Servicio
+8.9.8 Ajuste
+En el modo de ajuste todas las funciones de la máquina (generadores, válvulas e
+mandos) pueden ser dirigidos e accionados singularmente.
+En la imagen "Ajustar" están visualizadas las singulas unidades manejables.
+Ejemplo
+1 2
+1 Aviso de estado
+2 Tecla para selectar la función (Teclado de funciones)
+Seleccionar una unidad tocando la tecla deseada. En esse momento su color
+cambiará de gris a blanco. El ajuste puede ser ejecutado por medio de las teclas
+"Ajuste posición inicial" e "Ajuste posición de trabajo".
+El estado de cada unidad será sinalizado por un circulo colorido:
+100.096.01 57
+
+ | Indicación | 
+- | El acceso al modo operativo de ajuste es permitido solo a tecnicos | -
+- | especializados! | -
+
+ | Symbol |  |  | Significado | 
+ |  |  | La unidad se encuentra en una posición indefinida. | - | -
+ |  |  | La unidad está en su posición inicial | - | -
+ |  |  | La unidad está en su posición inicial. | - | -
+ |  |  | La unidad está en modo de falla | - | -
+
+[Page 58]
+ECOFLEX iSONIC
+Servicio
+8.9.9 Entrar valores (parametros)
+Ejemplo
+Explicación
+La estructura del menú para la entrada de los parámetros consiste en la imagen
+principal "Parámetros" e de sub imagenes, dependientes del tipo de unidade de
+tratamiento.
+La imagen principal "Parámetros" puede ser accedida de todas las otras imagenes
+pujando la tecla directa "Parámetros". Las sub-imagenes se llaman pujando la
+respectiva tecla.
+En la imagen relativa a la unidad de tratamiento, por medio de la lista "Juego de
+parámetros" se puede seleccionar el juego de parámetros válido para la entrada
+de los datos.
+El juego de datos válido para la entrada de los datos no debe ser
+forzosamente identico con el juego de datos activo para el modo de trabajo
+automático/ de ajuste!
+La unidad deseada para entrar los datos puede ser seleccionada en la lista
+"Parámetros". Los parámetros pertenecentes a la unidad seleccionada están
+visualizados en los relativos campos de la imagen.
+58 100.096.01
+
+ |  |  |  | Líneas de funciónes | 
+ |  |  |  | Área de conmutación | 
+- | - | - | - | predefinida | -
+ |  |  |  | Área de conmutación | 
+ |  |  |  | Área de conmutación | 
+
+[Page 59]
+ECOFLEX iSONIC
+Servicio
+8.9.10 Dados de producción
+En la imagen "Datos de producción“, los están visualizados los datos de proceso e
+están predeterminados parámetros que influyen el tratamiento de las piezas.
+Dados de producción 1. Superficie (Ejemplo)
+Dados de producción 2. Superficie - Ciclo (Ejemplo)
+Explicación
+100.096.01 59
+
+ |  |  |  | Líneas de funciones | 
+ |  |  |  | Área de conmutación | 
+- | - | - | - | predefinida | -
+ |  |  |  | Área de conmutación | 
+
+[Page 60]
+ECOFLEX iSONIC
+Servicio
+Dados de producción 2. Superficie - Contador (Ejemplo)
+• Contador de piezas por dia:
+En el modo operativo automatico el contador de piezas cuenta las piezas OK e las
+piezas NOK separadamente.
+• Contador por equipo:
+Se indican los numeros para 3 equipos e para el contador del dia con un contador
+para las piezas OK e uno para las piezas NOK.
+Los valores visibles del campo actual pueden ser borrados pujando la tecla "X".
+Dados de producción 2. Superficie – Unidades de avance (Ejemplo)
+60 100.096.01
+
+ | Indicación: | 
+- | La transferencia de datos puede efectuarse sólo por medio de un soporte de | -
+- | datos USB en el formato de datos "FAT". | -
+
+[Page 61]
+ECOFLEX iSONIC
+Servicio
+8.9.11 Diagnosis / Ajustes
+Seleccionar los ajustes del sistema respectivamente del unidad de servicio en la
+pagina „Diagnosis Ajustes“.
+Aqui se introducen las „Palabras de paso“ e se selecciona el idioma de dialogo etc.
+Diagnosis / Ajustes 1. Superficie (Ejemplo)
+Explicación
+La estructura del menú para la diagnosis e la predisposición de parámetros
+comunes de várias máquinas, consiste de la imagen principal "Diagnosis/ ajustes"
+e de várias imagenes segundarias.
+La imagen principal "Diagnosis/ ajustes" se llama pujando la respectiva tecla
+directa.
+Ajuste data e hora:
+Data e hora tienen que ser entradas en la forma: DD.MM.AAA hh:mm:ss
+(D = dia, M = mes, A = año, h = hora, m = minuto, s = segundo).
+Para memorizar los valores tambien en el PLC es necesário confirmar pujando la
+tecla que está a la derecha del campo de entrada.
+100.096.01 61
+
+ |  |  |  | Líneas de funciones | 
+ |  |  |  | Superfície de entrada libre | 
+ |  |  |  | Área de conmutación | 
+
+[Page 62]
+ECOFLEX iSONIC
+Servicio
+Diagnosis / Ajustes 2. Superficie – Mensajes y Archivos (Ejemplo)
+Diagnosis / Ajustes 2. Superficie – Diagnosis (Ejemplo)
+62 100.096.01
+
+[Page 63]
+ECOFLEX iSONIC
+Servicio
+8.9.12 Visualisación de las mensajes de erro e de operación
+Las fallas de la máquina están visualizadas en texto abierto como mensajes de
+erro.
+La ultima falla está visualizada en el borde superior de la respectiva página del
+OP.
+Al mismo tiempo será visualizado un a la fin del mensaje!
+Tocando el simbolo se abrirá la página de diagnosis de los mensajes de erro.
+Aqui encontrarán una lista de todos los mensajes de erro e de operación. Los
+mensajes de operación se visualizan solo en absencia de mensajes de erro.
+Los mensajes de operación son indicaciones para el personal operante.
+P os: 88 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 63
+
+ | Simbolo |  |  | Explicación | 
+ |  |  | Simbolo de advertencia | - | -
+ |  |  | Símbolo aviso accionamiento | - | -
+
+[Page 64]
+ECOFLEX iSONIC
+Servicio
+P os: 89 /-TD-/BEDIENUNG/Parameter/1.1 Ü+Text @ 0\mod_1121662754183_2139.docx @ 3695 @ 2 @ 1
+8.10 Parámetros
+En el funcionamiento de la máquina están regulados los parámetros
+independientes de las piezas de trabajo y los dependientes de las piezas de
+trabajo. Los parámetros están en dependencia unos frente a otros y en las
+modificaciones tienen que ser comprobados conjuntamente. Los valores correctos
+son dependientes de la sustancia y de la forma de las superficies de la costura. No
+existe ningún valor orientativo fijo para el ajuste. Los valores correctos tienen que
+ser obtenidos empíricamente.
+Todos los parámetros de tiempo se deberían introducir con el número máximo de
+decimales detrás de la coma. Ello permite un cálculo más exacto en el mando
+central.
+Ejemplo: Valor de tiempo: 2 sec. => Introducir 2.00 en lugar de 2
+P os: 90 /-TD-/BEDIENUNG/Parameter/Maschpara./1.1.1 Ü+Text @ 0\mod_1121663281582_2139.docx @ 3705 @ 4 @ 1
+8.10.1 Parámetros de máquina
+Los parámetros de máquina de trabajo son válidos para la máquina completa y no
+dependen del juego intercambiable montado.
+• Presión de soldadura
+será controlada por una válvula reguladora de presíon (Esto no es aplicable se hay
+válvulas proporcionales).
+• Amplitud
+será regulada por los generadores (Esto no es aplicable con "Amplitud externa").
+P os: 91 /-TD-/BEDIENUNG/Parameter/Maschpara./Standard/Hinweise @ 1\mod_1127907241495_2139.docx @ 7405 @ 2 @ 1
+8.10.1.1 Indicaciones para el ajuste de los parámetros
+Orden de sucesión para el ajuste de los parámetros de la máquina
+1. Amplitud del generador
+gama de ajuste 50% ... 100%
+2. Presión de soldeo
+amplitud pequeña = presión alta
+amplitud grande = presión baja
+P os: 92 /-TD-/BEDIENUNG/Parameter/Maschpara./Standard/01 Laufz. VEs @ 2\mod_1152859254813_2139.docx @ 21087 @ @ 1
+64 100.096.01
+
+ | Atención! | 
+- | Para evitar daños en la máquina, hay que llevar a cabo las variaciones del valor | -
+- | de los parámetros muy gradualmente. | -
+- | La tarea sólo puede ser realizada por personal especializado y adiestrado del | -
+- | Servicio. | -
+
+Advertencia
+Anótense los valores originales, antes de variar el valor de los parámetros.
+
+ | Advertencia | 
+- | Una presión excesiva produce deformación excesiva en el cordón de soldadura y | -
+- | ruidos de vobulación. | -
+
+[Page 65]
+ECOFLEX iSONIC
+Servicio
+• Tiempo de trabajo VE’s
+P os: 93 /-TD-/BEDIENUNG/Parameter/Maschpara./Standard/02 Laufz. Nh. @ 2\mod_1152859213781_2139.docx @ 21076 @ @ 1
+• Tiempo de trabajo de pisadores
+P os: 94 /-TD-/BEDIENUNG/Parameter/Maschpara./Standard/03 Max. Bearbeitungsz. @ 2\mod_1152859306141_2139.docx @ 21098 @ @ 1
+• Tiempo máximo de trabajo
+P os: 95 /-TD-/BEDIENUNG/Parameter/Maschpara./Standard/04 Druckluftsystem: Befüllzeit @ 2\mod_1152859059078_2139.docx @ 21065 @ @ 1
+• Sistema de presión de aire: Tiempo de llenado
+P os: 96 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 65
+
+Significado: | Este tiempo indica lo que le cuesta a una unidad de avance (VE) en moverse
+desde la posición inicial a la posición de trabajo. El tiempo de desplazamiento
+empieza a desarollarse después que la unidad de avance abandona su
+posición inicial. Una vez vencido el tiempo de desplazamiento (en modo
+automático), sigue el proximo paso de la sequencia automática.
+En el menú en el cual se puede escoger la duración de desplazamiento, es
+posible también determinar si la unidad de avance tiene que ponerse sobre la
+pieza con los ultrasonidos Já conectados o no. Por el caso que se seleccione
+el modo de soldadura con los ultrasonidos yá conectados, es necesário
+desactivar todos los controles de posición que normalmente se efectuan antes
+del arranque del ciclo operativo.
+Unidad: | segundos
+Limites: | ≥ 0
+
+Significado: | Indica lo que le cuesta a un pisador en moverse desde la posición inicial a la
+posición de trabajo. El tiempo de trabajo empieza después de abandonar la
+posición inicial. Una vez vencido el tiempo de trabajo (en modo operativo
+automático) se conecta el ultrasonido.
+Unidad: | segundos
+Limites: | ≥ 0
+
+Significado: | El tiempo en el que las unidades de avance deben haber alcanzado su
+profundidad nominal. El proceso de soldeo se interrumpe con un mensaje de
+avería si se sobrepasa este tiempo.
+Unidad: | segundos
+Limites: | 0 ≤ Valor ≤ 9,8
+
+Significado: | Este tiempo indica, cuanto tiempo necesita el sistema de presión de aire en
+alcanzar la presión de trabajo de >4bar después de una situación de
+emergencia ó después de conectar la máquina. Si se sobrepasa este tiempo
+aparecerá un aviso de avería.
+Unidad: | segundos
+Limites: | ≥ 0
+
+[Page 66]
+ECOFLEX iSONIC
+Servicio
+PHo s: 97 /-TD-/BEDIENUNG/Parameter/Maschpara./Masch-Einstellungen/00 Überschrift+Text @ 5\mod_1308051255124_2139.docx @ 45930 @ 4 @ 1
+8.10.1.2 Ajuste máquina
+El ajuste de máquina es independiente de variante y pieza.
+P os: 98 /-TD-/BEDIENUNG/Parameter/Maschpara./Masch-Einstellungen/07 Automatikmodus @ 1\mod_1127901424259_2139.docx @ 7325 @ @ 1
+• Modo automatico
+P os: 99 /-TD-/BEDIENUNG/Parameter/Maschpara./Masch-Einstellungen/08 Summer:an-/abwählen @ 3\mod_1171360022922_2139.docx @ 32863 @ @ 1
+• Seleccionar/ deseleccionar el zumbador
+P os: 100 /-TD-/BEDIENUNG/Parameter/Maschpara./Masch-Einstellungen/10 Variantenausw. b. Betrieb o. Barcode @ 1\mod_1127901207833_2139.docx @ 7315 @ @ 1
+• Seleción variante automática: Activado / desactivado
+P os: 101 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+66 100.096.01
+
+Significado: | Operación normal:
+Operación normal de la pieza
+Test sin pieza:
+Durante el modo operativo automatico la máquina ejecuta un ciclo continuo sin
+pieza. Los sistemas de detección de los componentes no son activos.
+Modo paso a paso:
+Durante el modo operativo, con cada puesta en marcha del interruptor inicial la
+máquina ejecuta un paso en la serie de paso (no es visible una variación en la
+máquina por cada paso).
+Unidad: | -
+Limites: | Operación normal / Test sin pieza / Modo paso a paso
+
+Significado: | Aquí se define si el zumbador tiene que ser activado con cada error en
+paralelo con la lámpara o no. Si el zumbador está desactivado, se activará
+sólo en caso de errores graves mientras que la placa caliente no se encuentra
+en posición inicial.
+Unidad: | Enchufar/ Apagar
+Limites: | 
+Aplicable: | 
+
+Significado: | Esta activado el proceso „selección automática”, será reconocida la variante a
+través del control de piezas.
+Esta desactivado el proceso „selección automática“, tiene que gestionarse la
+selección de manera manual.
+ | El proceso está desactivado
+ | El proceso está activado
+
+[Page 67]
+ECOFLEX iSONIC
+Servicio
+P os: 102 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./1.1.1 Ü+Text @ 1\mod_1127811136212_2139.docx @ 7025 @ 3 @ 1
+8.10.2 Pieza dependiente de parámetros /uno por unidad de avance
+La pieza dependiente de los parámetros comprende los parámetros por unidad de
+avance y los parámetros adicionales. Por unidad hay uno en cada propio grupo de
+parámetros, dependiendo del tipo de la unidad. Estos parámetros especiales se
+describen a continuación:
+P os: 103 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./00 Überschrift+Text @ 1\mod_1127811494306_2139.docx @ 7035 @ 2 @ 1
+8.10.2.1 Parámetros por unidades de avanve
+Los parámetros aquí descritos están válidos tambien para las unidades de otro
+tipo, enquanto las otras unidades no tiengan otra desripción.
+P os: 104 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./01 Verfahren @ 3\mod_1168417448540_2139.docx @ 31691 @ @ 1
+• Proceso
+P os: 105 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./02 Verzögerungszeit vor Start @ 0\mod_1121664574571_2139.docx @ 3785 @ @ 1
+• Tiempo de atraso antes del arranque de la soldadura
+P os: 106 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./03 Zeit: Sollwert @ 0\mod_1121664707522_2139.docx @ 3795 @ @ 1
+100.096.01 67
+
+Significado: | Tiempo | Procede a través del tiempo. Acaba, cuando transcurre el
+tiempo insertado.
+- | Profundidad
+digital | El final del procedimiento se identifica a través de una señal
+digital (Iniciadores, sensores, ...).
+- | Profundidad
+analoga
+absoluta | La finalización del procedimiento se identifica cuando la
+unidad sobrepasa/alcanza un valor de posición insertado.
+- | Profundidad
+analoga
+relativa | La finalización del procedimiento se identifica cuando la
+unidad ha recorrido el trayecto insertado. El punto de
+referencia para el trayecto es la posición del comienzo del
+procedimiento.
+- | Energia | El procedimiento acaba cuando en el punto a trabajar fluya la
+cantidad de energía insertada.
+- | Ultrasonidos
+en continuo | El procedimiento se realiza paralelo a una acción, la cual, no
+puede influir o controlarse a través de la unidad seleccionada.
+El final de ésta acción paralela origina el final del
+procedimiento de esta unidad.
+Unidad: |  | -
+Limites: |  | -
+Utilizable con: |  | -
+
+Significado : | Tiempo de atraso entre el arranque de un ciclo de soldadura e el arranque de
+los ultrasonidos.
+Unidad: | Segundos
+Limites: | 0 ≤ valor ≤ 9.8
+La soma de tiempo de atraso antes del arranque de la soldadura e del tiempo
+de soldadura tiene que ser menor de 10 segundos.
+Utilizable con: | Todos los procesos
+
+[Page 68]
+ECOFLEX iSONIC
+Servicio
+• Tiempo: valor nominal
+P os: 107 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./04 Zeit: Min-Wert @ 0\mod_1121664770603_2139.docx @ 3805 @ @ 1
+• Tiempo: valor-min
+P os: 108 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./05 Zeit: Max-Wert @ 0\mod_1121664819413_2139.docx @ 3815 @ @ 1
+• Tiempo: valor-max
+P os: 109 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./06 Tiefe: Sollwert @ 0\mod_1121665588058_2139.docx @ 3825 @ @ 1
+• Profundidad: valor nominal
+P os: 110 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./07 Tiefe: Min-Wert @ 0\mod_1121665642446_2139.docx @ 3835 @ @ 1
+• Profundidad: valor-min
+68 100.096.01
+
+Significado: | Tiempo de la acción ultrasónica.
+Unidade: | segundos
+Limites: | 0 ≤ valor ≤ 9.8
+Utilizable con: | tiempo
+
+Significado: | El tiempo de soldadura mínimo indica quanto tiempo tiene que durar el
+proceso de soldadura. Al no alcanzar de este tiempo será generado un
+mensage de erro.
+Unidade: | segundos
+Limites: | 0 ≤ Valor ≤ 9.8
+En valor = 0 no se efectuará ninguna prueba
+Utilizable con: | Todos los procesos
+
+Significado: | El tiempo de soldadura máximo indica cuanto tiempo máximo debe durar el
+proceso de soldadura. Si se sobrepasa este tiempo aparecerá un aviso de
+avería.
+Unidade: | segundos
+Limites: | 0 ≤ Valor ≤ 9.8
+En valor = 0 no se efectuará ninguna prueba
+Utilizable con: | Todos los procesos
+
+Significado: | Con profundidad analoga absoluta:
+El proceso de trabajo será terminado en el instante en el cual la posición
+actual de la unidad alcanza o excede este valor.
+Con profundidad analoga relativa:
+El proceso de trabajo será terminado en el instante en el cual la unidad ha
+cubierto como mínimo esta distancia.
+El punto de referencia para el despazamiento es la posición de la unidad al
+inicio del proceso.
+Unidad: | mm
+Limites: | En dependencia del sistema de mesuración utilizado
+Utilizable con: | profundidad analoga absoluta, profundidad analoga relativa
+
+Significado: | Es la profundidad de soldadura que ha que ser atingida por minimo.
+se la profundidad actual està minor de este valor, será generado un mensage
+de erro.
+Unidad: | mm
+Limites: | En dependencia del sistema de mesuración utilizado
+Si el valor = 0 no se hará un teste.
+
+[Page 69]
+ECOFLEX iSONIC
+Servicio
+P os: 111 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./08 Tiefe: Max-Wert @ 0\mod_1121665720429_2139.docx @ 3845 @ @ 1
+• Profundidad: valor-max
+P os: 112 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./09 Energie: Sollwert @ 0\mod_1124693748867_2139.docx @ 5405 @ @ 1
+• Energia: valor nominal
+P os: 113 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./10 Energie: Min-Wert @ 0\mod_1124693815773_2139.docx @ 5415 @ @ 1
+• Energia: valor min
+P os: 114 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./11 Energie: Max-Wert @ 0\mod_1124693879680_2139.docx @ 5425 @ @ 1
+• Energia: valor max
+P os: 115 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./12 Amplitude(Profibusgen.) @ 0\mod_1121665837968_2139.docx @ 3855 @ @ 1
+100.096.01 69
+
+Utilizable con: | Un sistema de medida de desplazamiento encorporado
+
+Significado: | Profundidad de soldadura max. permitida, medida después del proceso de
+soldadura. Se la profundidad actual es mayor de este valor, será generado un
+mensage de erro.
+Unidad: | mm
+Limites: | En dependencia del sistema de mesuración utilizado
+Si el valor = 0 no se hará un teste.
+Utilizable con: | Un sistema de medida de desplazamiento encorporado
+
+Significado: | Cantidad de energia que tiene que entrar en un punto de elaboración.
+El proceso de elaboración está parado al alcanzar de este valor.
+Para poder realizar un monitoraje correcto del proceso de elaboración, es
+importante utilizar los parámetros "Tiempo: valor min." e "Tiempo: valor max.".
+Unidade: | Ws
+Limites: | 0 ≤ valor ≤ 99999
+Utilizable con: | Energia.
+Hay que utilizar generadores capables de trabajar en modo "Energia".
+
+Significado: | Es el valor de energía que tiene que ser alcanzado por mínimo después del
+proceso de elaboración. Sie el valor actual no alcanza este valor, será
+generado un mensaje de erro.
+Unidade: | Ws
+Limites: | 0 ≤ valor ≤ 99999. Si el valor = 0 no se efectuará ninguna prueba.
+Utilizable con: | En parallelo como función de monitoraje con todos los modos excluido el
+modo "Energia".
+Hay que utilizar generadores capables de trabajar en modo "Energia".
+
+Significado: | Es el valor de energía max. permitido alcanzado durante o después del
+proceso de elaboración. Sie el valor actual excede este valor, el proceso será
+interrumpido e será generado un mensaje de erro.
+Unidade: | Ws
+Limites: | 0 ≤ valor ≤ 99999. Si el valor = 0 no se efectuará ninguna prueba.
+Utilizable con: | En parallelo como función de monitoraje con todos los modos excluido el
+modo "Energia".
+Hay que utilizar generadores capables de trabajar en modo "Energia".
+
+[Page 70]
+ECOFLEX iSONIC
+Servicio
+• Amplitud
+P os: 116 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./16 Position vor Bearbeitung: Min-Wert @ 1\mod_1127819160243_2139.docx @ 7055 @ @ 1
+• Posición de la cabeza del rebite antes: valor-min
+P os: 117 /-TD-/BEDIENUNG/Parameter/W.- abh. Para./VE's Stand./17 Position vor Bearbeitung: Max-Wert @ 1\mod_1127819529103_2139.docx @ 7065 @ @ 1
+• Posición de la cabeza del rebite antes: valor-max
+P os: 118 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+70 100.096.01
+
+Significado: | Este valor indica con cual amplitud trabaja el generador.
+Unidad: | %
+Limites: | 50 ≤ valor ≤ 100
+Los valores inferiores a 50% serán indicados con 50% en el generador.
+Utilizable con: | Todos los procesos.
+Hay que utilizar generadores con la opción "Control externo de amplitud".
+
+Significado: | Si el valor actual de la unidad de avance antes de la soldadura es inferior de
+este valor, será generado un mensage de erro.
+Unidad: | mm
+Limites: | En dependencia del sistema de mesuración utilizado
+Si el valor = 0 no se hará un teste.
+Utilizable con: | Un sistema de medida de desplazamiento encorporado
+
+Significado: | Si el valor actual de la unidad de avance antes de la soldadura es mayor de
+este valor, será generado un mensage de erro.
+Unidad: | mm
+Limites: | En dependencia del sistema de mesuración utilizado
+Si el valor = 0 no se hará un teste.
+Utilizable con: | Un sistema de medida de desplazamiento encorporado
+
+[Page 71]
+ECOFLEX iSONIC
+Servicio
+P os: 119 /-TD-/BEDIENUNG/Parameter/Produktionsdaten/Allg.Param./00 Überschrift+Text @ 1\mod_1128503187523_2139.docx @ 7955 @ 3 @ 1
+8.10.3 Datos de producción
+Los datos de producción, son parámetros que influyen el proceso de trabajo de la
+pieza en el modo automático, sin ser parte fija de un juego de parámetros.
+P os: 120 /-TD-/BEDIENUNG/Parameter/Produktionsdaten/Allg.Param./05 Parametersatz_MP277+377 + OP177 @ 1\mod_1127906153209_2139.docx @ 7365 @ @ 1
+• Juego de parámetros
+P os: 121 /-TD-/BEDIENUNG/Parameter/Produktionsdaten/Allg.Param./07 Schichtauswahl @ 1\mod_1127906087942_2139.docx @ 7355 @ @ 1
+• Selección del equipo
+P os: 122 /-TD-/BEDIENUNG/Parameter/Produktionsdaten/Allg.Param./08 Zykluszeiten @ 1\mod_1127904021402_2139.docx @ 7335 @ @ 1
+• Tiempos de ciclo
+P os: 123 /-TD-/BEDIENUNG/Parameter/Produktionsdaten/Allg.Param./10 Stückzähler_MP277+377 @ 1\mod_1127904447598_2139.docx @ 7345 @ @ 1
+• Contador de piezas
+P os: 124 /-TD-/BEDIENUNG/Parameter/Produktionsdaten/Allg.Param./14 VE: an-/abwählen @ 4\mod_1257328630822_2139.docx @ 42666 @ @ 1
+100.096.01 71
+
+Significado: | El juego de parámetros válido para la máquina debe ser seleccionado de la
+lista "Datos de producción" -> "Juego de parámetros".
+En el modo operativo automático, un juego de parámetros seleccionado nuevo,
+será efectivo inmediatamente al inicio de la sequencia automática o mismo se
+el juego nuevo ha sido activado durante el curso de la secuencia automática.
+En el modo de ajuste, un juego de parámetros seleccionado nuevo, será
+efectivo inmediatamente.
+El juego de parámetros válido para la máquina puede también ser activado por
+código de barras, por el sistema de sensores de presencia de la pieza, por un
+codigo etc. En tal caso no es activo el modo de selección manual del juego de
+parámetros.
+Unidad: | -
+Limites: | -
+
+Significado: | Selección del equipo actual. En dependencia de esta selección, los valores de
+los contadores serán atribuidos a los diversos equipos.
+Unidad: | -
+Limites: | -
+
+Significado: | En este sector están visulaizados los tiempos de ciclo del ciclo actual / del
+ultimo ciclo procesado como de l aúltima pieza procesada. Significa:
+Total:
+Todo el tiempo de ciclo de la pieza incluindo todos los otros tiempos.
+Máquina:
+El tiempo necesitado por la máquina para efectuar un ciclo completo.
+Tiempo de espera:
+Es el tiempo de espera de la máquina, hasta qué el operador termine una
+acción necesária.
+Unidad: | -
+Limites: | -
+
+Significado: | Aquì están visualizados los valores del contador separados según las piezas
+procesadas OK o NOK. Los valores de los contadores pueden ser borrados,
+pujando las teclas „X“.
+Unidad: | -
+Limites: | -
+
+[Page 72]
+ECOFLEX iSONIC
+Servicio
+• Seleccionar/ deseleccionar los actuadores
+P os: 125 /-TD-/BEDIENUNG/Parameter/Produktionsdaten/Allg.Param./16 Teilekontr.: an-/abwählen @ 3\mod_1171359859110_2139.docx @ 32849 @ @ 1
+• Selecionar / deselecionar el sistema de sensores de presencia de la pieza
+P os: 126 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+P os: 127 /-TD-/BEDIENUNG/Parameter/Zusatzparameter/00 Überschrift @ 1\mod_1127893847993_2139.docx @ 7215 @ 3 @ 1
+8.10.4 Parámetros adicionales
+P os: 128 /-TD-/BEDIENUNG/Parameter/Zusatzparameter/01 Haltezeit @ 1\mod_1134720624916_2139.docx @ 11445 @ @ 1
+• Tiempo de parada
+P os: 129 /-TD-/BEDIENUNG/Parameter/Zusatzparameter/02 Kühlzeit @ 1\mod_1132214512513_2139.docx @ 9923 @ @ 1
+• Tiempo de refrigeración
+P os: 130 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+72 100.096.01
+
+Significado: | Aquí está indicado si un actuador está activo en el modo operativo automático.
+En el caso qué esté desactivado un actuador en modo automático, el actuador
+efectua su movimiento mas los ultrasonidos no sarán activados. - La cabeza no
+está activa.
+Unidad: | Apagar/Enchufar
+Limites: | 
+Aplicable: | 
+
+Significado: | Aquí se indica se en modo automático debe ser ejecudado un control de
+presencia de la pieza o no.
+Unidad: | Desconectado/Conectado
+Limites: | 
+Aplicable: | 
+
+Significado: | El tiempo de parada sirve para permitir que se enfríe el material después de la
+soldadura. Durante el tiempo de parada, las unidades de avance presionan
+sobre la pieza de trabajo con ultrasonido desconectado. El tiempo de parada
+comienza tras la última cadencia de soldadura.
+Unidad: | segundos
+Limite: | ≥ 0
+
+Significado: | El tiempo de refrigeración indica el tiempo que está conectada la refrigeración
+del sonotrodo. El tiempo de refrigeración empieza a partir de la parada. La
+refrigeración del sonotrodo puede permanecer conectada hasta después de
+haber terminado el ciclo automático.
+Unidad: | segundos
+Limite: | ≥ 0
+
+[Page 73]
+ECOFLEX iSONIC
+Servicio
+P os: 131 /-TD-/BEDIENUNG/Betriebsmeld./MP277/377/1.1 Standard @ 1\mod_1131093862213_2139.docx @ 8615 @ 2 @ 1
+8.11 Mensajes de servicio
+Los mensajes de servicio destinados al usuario no necesitan confirmación.
+La pantalla indicará solamente los mensajes de proceso relevantes para la
+máquina!
+100.096.01 73
+
+1 | Modo operativo automatico: Operación normal
+ | Mensaje automatico. Está señalado en el modo operativo automatico se no
+es señalado otro mensaje de erro o operativo.
+2 | Continuar el ciclo automático; Pulsar la tecla de arranque
+ | Mensaje automatico. El ciclo automatico ha sido interrumpido e puede ser
+continuado pulsar la tecla de arranque.
+3 | Ciclo automático: Test sin pieza
+ | Mensaje automatico. Está señalado en el modo operativo automatico
+visualizado se no es señalado otro mensaje de erro o operativo e se es
+activa la función ”Test sin pieza”.
+4 | Modo automatico: modo paso a paso
+ | Mensaje automatico. Está señalado en el modo operativo automatico
+visualizado se no es señalado otro mensaje de erro e se está activada la
+función „Modo paso a paso“.
+En esta función pueden ser efectuadas todos los movimientos del ciclo
+automatico paso a paso. Activar la tecla „Arranque“ para ejecutar el proximo
+paso del ciclo automatico. Están activas todas las funciones de seguridad.
+5 | Cambio del utillaje activo
+ | Mensaje automático. Este mensaje está señalado durante todo el ciclo activo
+de cambio de herramienta.
+6 | Inserir insertos: Pulsar la tecla de arranque
+ | Mensaje automático. La máquina espera hasta las insertos (por ejemplo
+sujetador del sensor de aparcamiento) están insertos. Después es necesario
+de accionar el boton de arranque para continuar el modo automatico.
+7 | Sacar la pieza: Pulsar la tecla de arranque
+ | Mensaje automático. La máquina espera hasta una pieza (nombrada) estaba
+sacada. Después es necesario de accionar el boton de arranque para
+continuar el modo automatico.
+8 | Ler el codigo de barras
+ | Mensaje automatico. Es visualizada en el modo operativo automatico si no
+hay avisos de error, si no está visualizada otra cosa e se un codigo de barras
+debe ser entrado.
+9 | Espere autorisación externa
+ | Mensaje automático. La máquina espera una autorisación externa (por
+ejemplo robot, tratamiento).
+10 | Modo automatico: Autorización pistola de soldadura
+ | Mensaje automático. La pistola de soldadura está autorizada y se puede
+trabajar con esa.
+11 | Referencia: Sincronización está en marcha
+
+[Page 74]
+ECOFLEX iSONIC
+Servicio
+P os: 132 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+74 100.096.01
+
+ | Mensaje automático. Un grupo constructivo (por ejemplo robot / estante)
+ejecuta una referencia o sincronización. No es posible un arranque de la
+máquina.
+12 | 
+13 | 
+14 | 
+15 | 
+16 | 
+17 | 
+18 | 
+19 | 
+20 | 
+21 | MFU transmisión de datos está en marcha
+ | Mensaje automático. Al fondo está en marcha la transmisión de datos MFU.
+El próximo ciclo de máquina no puede ser arrancado hasta que la
+transmisión está terminada.
+
+[Page 75]
+ECOFLEX iSONIC
+Servicio
+P os: 133.1 /-TD-/BEDIENUNG/Störm./1.1 Ü+Text @ 0\mod_1119449006639_2139.docx @ 2260 @ 2 @ 1
+8.12 Mensajes de avería
+Todas las averías de la máquina se muestran en el monitor del equipo de manejo
+y se eliminan con la tecla “Anular avería“.
+P os: 133.2 /-TD-/BEDIENUNG/Störm./1.1.1 Darstellung Störmeldung @ 0\mod_1119449866839_2139.docx @ 2267 @ 2 @ 1
+8.12.1 Visualización de un mensaje de avería
+P os: 133.3 /-TD-/BEDIENUNG/Störm./1.1.1 Katalog @ 0\mod_1119449959201_2139.docx @ 2271 @ 3 @ 1
+8.12.2 Listado de todos los mensajes de avería y eliminación de sus causas
+Sólo se mostraran en el monitor los avisos de averías relevantes a la máquina!
+P os: 133.4 /-TD-/BEDIENUNG/Störm./01 - NOT-HALT @ 0\mod_1119450287477_2139.docx @ 2218 @ @ 1
+P os: 133.5 /-TD-/BEDIENUNG/Störm./02 - Druckluft fehlt @ 0\mod_1119450876558_2139.docx @ 2227 @ @ 1
+P os: 133.6 /-TD-/BEDIENUNG/Störm./03 - Sicherungsautomat ausgelöst @ 0\mod_1119451139004_2139.docx @ 2235 @ @ 1
+P os: 133.7 /-TD-/BEDIENUNG/Störm./04 - Time Out Automatik @ 0\mod_1119451153177_2139.docx @ 2245 @ @ 1
+P os: 133.8 /-TD-/BEDIENUNG/Störm./05 - Max. Temperatur überschritten @ 0\mod_1119451278399_2139.docx @ 2246 @ @ 1
+100.096.01 75
+
+Número | Texto del mensaje | -
+ | Causa | Remedio
+
+1 | Paro de emergencia accionado o puerta de mantenimiento está abierta: <designación>
+aparato: <XXX> | -
+- | Se ha accionado un interruptor de paro de
+emergencia o la puerta de mantenimiento está
+abierta. | • Eliminar causa del paro de emergencia •
+• Desenclavar interruptor de paro de
+emergencia
+• Cerrar las puertas de mantenimiento
+• Accionar el botón ”Anular avería”
+Nota:
+En el modo operativo ”Manual”, las puertas de
+mantenimiento están puenteadas en el circuito de
+paro de emergencia!
+
+2 | Fallo aire comprimido: <designación> aparato: <XXX> | -
+- | • Ha reaccionado el presostato que supervisa
+el aire comprimido (insuficiente presión de
+aire)
+• Alimentación de aire desconectada | Alimentación de aire, controlar los tubos.
+
+3 | Fusible automático desencadenó: <designación> aparato: <XXX> | -
+- | • Fusible mencionado se ha desencadenó.
+• Cortocircuito en transformador, cableado o
+interruptor de final de carrera
+• Motor sobrecargado | • Sustituir componentes defectuosos.
+• Controlar el recorrido
+
+4 | Time Out automático: <designación> | -
+- | Ha sido sobrepasado el tiempo máximo permitido
+para un ciclo automático:
+• Una acción a realizar por el operario no se
+ha realizado.
+• El ciclo no arrancado nuevamente, después
+de una interrupción del ciclo automático.
+• Falta un comando en la cadena de pasos
+automática.
+• Error interno en el programa | • Realizar las acciones necesarias a efectuar
+por el operario.
+Según la causa, el ciclo automático podrá ser
+continuado después de anular el aviso de error y
+pulsando la tecla de arranque.
+Advertencia:
+Observar los avisos adjuntos de averia
+
+[Page 76]
+ECOFLEX iSONIC
+Servicio
+P os: 133.9 /-TD-/BEDIENUNG/Störm./06 - Min. Temperatur nicht erreicht @ 0\mod_1119451296837_2139.docx @ 2247 @ @ 1
+P os: 133.10 /-TD-/BEDIENUNG/Störm./07 - Überwachung Sicherheitsleiste @ 0\mod_1119451317588_2139.docx @ 2248 @ @ 1
+P os: 133.12 /-TD-/BEDIENUNG/Störm./09 - Tiefe unzulässig @ 0\mod_1119451363355_2139.docx @ 2250 @ @ 1
+P os: 133.14 /-TD-/BEDIENUNG/Störm./11 - Generator nicht bereit @ 0\mod_1119451471827_2139.docx @ 2209 @ @ 1
+76 100.096.01
+
+5 | Sobrepasada temperatura máxima: <designación> aparato: <XXX> | -
+- | La temperatura máxima para la elaboración del
+aparato indicado en la <designación> es
+sobrepasada. | Esperar que haya alcanzado la temperatura.
+
+6 | Temperatura mínima no alcanzada: <designación> aparato: <XXX> | -
+- | La temperatura necesaria para el trabajo no se ha
+alcanzado, es decir, el “Tiempo previo de recorrido
+de soplado “ ha expirado. | • Esperar que haya alcanzado la temperatura.
+• Esperar que el ajuste “Tiempo previo de
+recorrido de soplado “ haya expirado.
+
+7 | Control regleta de seguridad <designación> aparato: <XXX> | -
+- | La regleta de seguridad arriba denominada ha sido
+bloqueada por un movimiento peligroso de alguna
+persona o a través de un obstáculo. | • Las persona han de detenerse fuera del
+campo peligroso.
+• Extraer obstáculo.
+• Anular avería.
+os: 133.11 /-TD-/BEDIENUNG/Störm./08
+8 | - Störung Vakuum @ 0\mod_1119451342651_2139.docx @ 2249 @ @ 1
+Avería: Vacío: <designación> aparato: <XXX> | -
+- | El sistema de vacuo no ha sido conectado antes
+de pujar la tecla de arranque en el modo operativo
+automatico. | • Conectar el sistema de vacuo con el
+interruptor a pedal.
+• Aquitar el erro
+
+9 | Profundidad incorrecta: <designación> aparato: <XXX> | -
+- | El valor de profundidad computado en el proceso
+‚Profundidad analógica relativa’ se encuentra
+fuera de la zona de medición del sistema. | • Insertar valores permitidos
+• Ajustar nuevamente sistema medición
+os: 133.13 /-TD-/BEDIENUNG/Störm./10
+10 | - Fehler Ultraschall-System @ 0\mod_1119451436623_2139.docx @ 2208 @ @ 1
+Error: Sistema de ultrasonidos <designación> aparato: <XXX> | -
+- | Cambio de modo operativo durante el proceso de
+soldadura:
+• El generador mencionado emite
+cortocircuito o sobrecarga.
+• Generador desconectado
+• Se ha disparado el fusible relacionado con
+el generador
+Durante el proceso de soldadura •
+• Sonotrodo, convertidor, transformador de
+amplitudes (booster), defectuosos.
+• Uniones mecánicas de los componentes,
+flojas
+• Conexión AF entre generador y sonotrodo
+defectuosa. | • Controlar generador, cables, enchufes,
+empalme y dispositivo oscilante
+• Conectar el generador
+• Conectar el fusible
+Nota:
+Para más informaciones: véase el manual del
+generador.
+Si el defecto se presenta durante el ciclo
+automático, es posible reanudarlo con el botorn de
+arranque tras anular el mensaje de avería.
+
+11 | Generador no esta listo: <designación> aparato: <XXX> | -
+- | El generador especificado en <aparato> no está
+listo para recibir dados para enviar datos o para
+soldar. | • Conectar el generador
+• Poner el generador en pos. de arranque
+
+[Page 77]
+ECOFLEX iSONIC
+Servicio
+P os: 133.15 /-TD-/BEDIENUNG/Störm./12 - Keine Abtastung; Messwert @ 0\mod_1119451500047_2139.docx @ 2210 @ @ 1
+P os: 133.16 /-TD-/BEDIENUNG/Störm./13 - Fehler Messpunkt nach Bearbeitung @ 0\mod_1119451961234_2139.docx @ 2211 @ @ 1
+P os: 133.17 /-TD-/BEDIENUNG/Störm./14 - Fehler Messpunkt vor Bearbeitung @ 0\mod_1119451990969_2139.docx @ 2212 @ @ 1
+P os: 133.18 /-TD-/BEDIENUNG/Störm./15 - Überwachung Lichtvorhang @ 0\mod_1119451160271_2139.docx @ 2213 @ @ 1
+P os: 133.19 /-TD-/BEDIENUNG/Störm./16 - Grundstellung fehlt @ 0\mod_1119452036267_2139.docx @ 2214 @ @ 1
+P os: 133.20 /-TD-/BEDIENUNG/Störm./17 - Laufzeitfehler @ 0\mod_1119452092300_2139.docx @ 2215 @ @ 1
+100.096.01 77
+
+ |  | • Error de Bus, no hay comunicación con el
+generador.
+Indicación:
+Otras informaciones: Ver la descripción del
+generador
+
+12 | Ningún trazo, valor medido: <designación> aparato: <XXX> | -
+- | El sensor de la unidad designada en
+<designación> no da ningun señal.
+La respectiva unidad estaba en movimiento en el
+momiento de medición.
+La cabeza de rebite es demasiadamente larga, lo
+que significa que la unidad está fuera de la zona
+de medición de la pieza no soldada. | • Aumentar el tiempo de traslado de las
+unidades de avance
+• Elaborar mas tarde el valor de la medición.
+• Utilizar piezas adecuadas.
+• Ajustar de nuevo el sistema de medicion.
+
+13 | Error: Punto de medición después del tratamiento: <designación> aparato: <XXX> | -
+- | Al medir las torretas después de soldar la unidad
+denominada, se determinará que la torreta es
+demasiado corta o que no se encuentra. | • Anular avería y con Start continuar con el
+ciclo automático: → Se esta trabajando la
+pieza
+o
+• interruptir el ciclo automático, trasladar la
+máquina a posición inicial y colocar pieza
+nueva.
+
+14 | Error: Punto de medición antes del tratamiento: <designación> aparato: <XXX> | -
+- | Antes de la soldadura de la unidad mencionada,
+se determinará que el valor real del punto de
+medición es menor a la profundidad mínima
+insertada o mayor a la profundidad máxima
+insertada. | • Anular avería y con Start continuar con el
+ciclo automático: La pieza continuará siendo
+trabajada.
+o:
+• Interrumpir ciclo automático, conducir
+máquina a posición inicial y colocar nueva
+pieza.
+
+15 | Control cortina de luz: <designación> aparato: <XXX> | -
+- | • Se ha interrumpido la cortina de luz antes o
+durante de un movimiento peligroso.
+• Se ha interrumpido la cortina de luz durante
+el ciclo automático. | • Elimine el obstáculo/dar vía libre a la cortina
+de luz
+• Anular la avería
+
+16 | Falta posición inicial: <designación> aparato: <XXX> | -
+- | En el momento de arranque del ciclo automático o
+al cambiar de modo operativo, la unidad
+mencionada en <designación> y <XXX> no estaba
+en posición inicial. | Llevar a posición inicial.
+
+17 | Error: Tiempo de operación: <designación> aparato: <XXX>
+
+[Page 78]
+ECOFLEX iSONIC
+Servicio
+P os: 133.21 /-TD-/BEDIENUNG/Störm./18 - Kein Stillstand, Messwert @ 0\mod_1119452149412_2139.docx @ 2216 @ @ 1
+P os: 133.22 /-TD-/BEDIENUNG/Störm./19 - Bearbeitungszeit überschr. @ 0\mod_1119452165146_2139.docx @ 2217 @ @ 1
+P os: 133.23 /-TD-/BEDIENUNG/Störm./20 - Generator wobbelt @ 0\mod_1119452182194_2139.docx @ 2219 @ @ 1
+P os: 133.25 /-TD-/BEDIENUNG/Störm./22 - keine Nullstellung @ 0\mod_1119452224445_2139.docx @ 2221 @ @ 1
+78 100.096.01
+
+ | La unidad mencionada en <designación> y <XXX>
+no ha alcanzado su posición programada en el
+tiempo previsto o ya ha abandonado su posición
+programada para un tiempo predeterminado. | • Comprobar el motor, la válvula y el
+correspondiente interruptor de final de
+carrera.
+• Controlar, si el recorrido está obstaculizado.
+Eliminar el obstáculo.
+Errores de tiempo de operación (runtime)
+interrumpen el ciclo automático.
+
+18 | No parada detectión, valor medido: <designación> aparato: <XXX> | -
+- | • El sensor nominado en <designación>
+no presenta un valor o ya no se
+encuentra en posición de reposo/no ha
+parado.
+• La respectiva unidad estaba en movimiento
+en el instante de la elaboración de la
+medida. | • Aumentar el tiempo de carrera de las
+unidades de avance
+• Elaborar mas tarde el valor de medida
+
+19 | Tiempo de funcionamiento no alcanzado: <designación> aparato: <XXX> | -
+- | La unidad de avance mencionada en <número> no
+ha alcanzado la profundidad nominal en el tiempo
+predeterminado:
+• Sonotrodo, convertidor, transformador de
+amplitudes (booster), defectuosos
+• Uniones mecánicas de los componentes,
+flojas
+• Conexión AF entre generador y sonotrodo
+defectuosa
+• Insuficiente presión de soldadura
+• Profundidad nominal más allá de la
+limitación final mecánica de la unidad de
+avance. | • Sustituir componentes defectuosos
+• Controlar generador, cables, enchufes y
+empalme
+• Comprobar la presión de soldadura
+• Controlar el recorrido de la unidad de
+avance
+Nota:
+Para más informaciones, véase el manual del
+generador
+Si el defecto se presenta durante el ciclo
+automático, es posible reanudarlo con el botorn de
+arranque tras anular el mensaje de avería.
+
+20 | Generador vobula: <designación> aparato: <XXX> | -
+- | • El generador mencionado emite defecto por
+vobulación
+• Sonotrodo, convertidor, transformador de
+amplitudes (booster), defectuosos
+• Uniones mecánicas de los componentes,
+flojas, conexión AF entre generador y
+sonotrodo defectuosa
+• Excesiva presión de soldadura | • Sustituir los componentes defectuosos
+• Controlar generador, cables, enchufes y
+empalme
+• Reducir la presión de soldadura
+Nota:
+Para más informaciones, véase el manual del
+generador
+Si el defecto se presenta durante el ciclo
+automático, es posible reanudarlo con el botorn de
+arranque tras anular el mensaje de avería.
+os: 133.24 /-TD-/BEDIENUNG/Störm./21
+21 | - Überwachung Phasenkontrolle @ 0\mod_1119452207148_2139.docx @ 2220 @ @ 1
+Control de fase: <designación> aparato: <XXX> | -
+- | • Fallo de una o varias fases
+• Campo giratorio incorrecto | • Comprobar cable de alimentación
+• Campo giratorio = derecha
+
+[Page 79]
+ECOFLEX iSONIC
+Servicio
+P os: 133.26 /-TD-/BEDIENUNG/Störm./23 - Arbeitsstellung fehlt @ 2\mod_1156919278750_2139.docx @ 25125 @ @ 1
+P os: 133.27 /-TD-/BEDIENUNG/Störm./24 - Werkstück wurde schon bearbeitet @ 0\mod_1119452335214_2139.docx @ 2223 @ @ 1
+P os: 133.28 /-TD-/BEDIENUNG/Störm./25 - Teilekontrolle @ 0\mod_1119452354246_2139.docx @ 2224 @ @ 1
+P os: 133.29 /-TD-/BEDIENUNG/Störm./26 - Stellungsfehler @ 2\mod_1147946272872_2139.docx @ 18435 @ @ 1
+P os: 133.30 /-TD-/BEDIENUNG/Störm./27 - Störung Hydraulik @ 3\mod_1160478978070_2139.docx @ 25802 @ @ 1
+P os: 133.31 /-TD-/BEDIENUNG/Störm./28 - Generator nicht gestartet @ 1\mod_1147345366025_2139.docx @ 18018 @ @ 1
+P os: 133.32 /-TD-/BEDIENUNG/Störm./29 - Störung RFID @ 1\mod_1147345427008_2139.docx @ 18029 @ @ 1
+100.096.01 79
+
+22 | Sin posición cero: <designación> aparato: <XXX> | -
+- | El interruptor de final de carrera mencionado en
+<XXX> de la unidad mencionada en
+<designación> emite un valor distinto a cero o
+posición inicial no alcanzada, a pesar de que la
+unidad de avance sí se encuentra el posición
+inicial. | Comprobar el interruptor de final de carrera,
+sustituirlo
+
+23 | Falta posición de trabajo: <designación> aparato: <XXX> | -
+- | En el momento de arranque del ciclo automático o
+al cambiar de modo operativo, la unidad
+mencionada en <designación> y <XXX> no estaba
+en posición de trabajo. | Llevar a posición de trabajo.
+
+24 | Pieza ya se ha trabajado! Sacar pieza! Control de sensor: <designación> aparato: <XXX> | -
+- | • La pieza de trabajo introducida ya esta
+soldada.
+• Los sensores del control de piezas están
+desajustados de tal manera que no están en
+condiciones de reconocer que la pieza de
+trabajo ya se ha retirado.. | • Introducir una pieza por soldar
+• Ajustar correctamente los sensores del
+control de piezas
+
+25 | Control de piezas: <designación> aparato: <XXX> | -
+- | La pieza de trabajo mencionada en <designación>
+no estaba correctamente introducida o faltaba | • Introducir pieza faltante
+• Introducir pieza correctamente
+• Ajustar sensores para el control de piezas
+
+26 | Error: Posición: <designación> aparato: <XXX> | -
+- | El dispositivo denominado en <designación> no es
+en posición. | • Controlar los sensores para la consulta de
+posición
+• Conducir el dispositivo a la posición final
+deseada
+
+27 | Avería: Hidráulica: <designación> aparato: <XXX> | -
+- | El dispositivo denominado en <designación> es
+embarazado. | Remediar error
+
+28 | Generador no comienza: <designación> aparato: <XXX> | -
+- | El generador no ha arrancado durante la
+operación de la unidad definida en <Designación>. | • Controlar el generador
+• Controlar la conexión entre el mando e el
+generador
+
+29 | Avería: RFID: <designación> aparato: <XXX> causa: <XXX>
+
+[Page 80]
+ECOFLEX iSONIC
+Servicio
+P os: 133.33 /-TD-/BEDIENUNG/Störm./30 - Druck nicht erreicht @ 2\mod_1147843499728_2139.docx @ 18347 @ @ 1
+P os: 133.34 /-TD-/BEDIENUNG/Störm./31 - Fehler Benutzerverw. @ 1\mod_1144916417075_2139.docx @ 17465 @ @ 1
+P os: 133.35 /-TD-/BEDIENUNG/Störm./32 - Werkstück fehlerhaft bearbeitet @ 0\mod_1119452405123_2139.docx @ 2228 @ @ 1
+P os: 133.36 /-TD-/BEDIENUNG/Störm./33 - Störung Aufnahme @ 0\mod_1121695799405_2139.docx @ 4415 @ @ 1
+80 100.096.01
+
+ | El dispositivo denominado en <designación> es
+embarazado. | Remediar la avería denominada en <causa>.
+
+30 | Presión no alcanzada: <denominación> aparato: <XXX> | -
+- | La mencionada unidad en <denominación> no ha
+alcanzado durante el funcionamiento su presión
+nominal, sin contar la tolerancia. | • Comprobar la estanqueidad del sistema
+neumático
+• Elevar la presión de la conducción (pero sin
+sobrepasar la presión máxima de la
+conducción permitida)
+
+31 | Error: Gerencia del usuario: <Info> | -
+- | En la selección de usuario, deselecciona de
+usuario u observación de usuario se ha
+manifestado un fallo. Los detalles se indican en
+<Info>:
+Ningún usuario ha iniciado sesión:
+• Para el desempeño de la acción es
+necesario que un usuario haya iniciado
+sesión.
+Time Out inicio de sesión usuario:
+• Dentro de un tiempo preestablecido el
+usuario no ha iniciado sesión.
+• La máquina no reconoce al usuario que ha
+iniciado sesión.
+El usuario que ha iniciado sesión no se admite.
+• Es otro usuario registrado el que, a través
+de llave, carta de código, ... ha sido
+preseleccionado.
+• El usuario indebido es deseleccionado por
+la maquina.
+Time Out Fin de sesión usuario:
+• Dentro de un tiempo estimado no se pudo
+finalizar la sesión del usuario activo. | • Inicio sesión usuario
+• Comprobar conexión entre SPS y el equipo
+de manejo.
+• Nombre y contraseña del usuario, se tienen
+que introducir en la administración de claves
+del equipo de manejo.
+• Iniciar sesión nueva de usuario.
+• Inicio de sesión del usuario correcto.
+• Comprobar conexión entre SPS y el equipo
+de manejo.
+
+32 | Pieza elaborada averiada: <designación> | -
+- | Durante el ciclo de soldadura ha ocurrido por lo
+menos un defecto. | • Anular la avería
+• Reanudar el ciclo automático pulsando en
+botón de arranque
+
+33 | Avería: Asiento de la pieza: <designación> aparato: <XXX> | -
+- | • El cambio de modelo indicado en el juego
+de parámetros no está instalado.
+• Los juego de parámetros de la
+cuna/segmentos de cuna o juegos de
+cambio no están instalados. | • Instalar cambio de modelo correcto
+• Instalar segmento de recepción correcto
+• Instalar uno con otras recepciones y
+cambios de modelo adecuados.
+• Comprobar selección juego de parámetros
+correctos.
+
+[Page 81]
+ECOFLEX iSONIC
+Servicio
+P os: 133.37 /-TD-/BEDIENUNG/Störm./34 - Fehler Benutzeranmeldung @ 1\mod_1144924689403_2139.docx @ 17487 @ @ 1
+P os: 133.38 /-TD-/BEDIENUNG/Störm./35 - Störung Achsregler @ 0\mod_1119452675835_2139.docx @ 2230 @ @ 1
+100.096.01 81
+
+ | • No se han instalado uno con otras
+recepciones y cambios de modelo
+adecuados. | 
+
+34 | Error: Inicio de sesión: <designación> aparato: <XXX> causa: <XXX> | -
+- | Avería de inicio de llave o avería en la lectura o
+escritura de la llave de inicio. Detalles
+especificados en <Info>:
+No dispuesto para el servicio
+No hay metida ninguna llave
+Estructura de datos erróneo
+• la llave no es de esta instalación
+• La llave todavía no se ha programado
+Leer: Time out
+• Rebase de tiempo al leer la llave.
+Leer: Fallo de lectura
+• Los datos podrían no ser leídos por el inicio
+de llave.
+• Defecto de llave
+Leer: Formato de datos erróneo
+• Los datos grabados en la llave no
+corresponden al formato de datos esperado.
+Leer: Datos erróneos
+• Los datos grabados en la llave son
+defectuosos.
+Escribir: EKS no en modo escritura
+• Configuración para inicio de llave erróneo
+Escribir: Time out
+• Rebase del tiempo al programar la llave
+Escribir: Error de escritura
+• Los datos no se pudieron escribir
+• llave defectuosa
+• ‚solo llave de lectura“ tendría que
+programarse. | Comprobar inicio de llave.
+Meter llave.
+• Usar llave correcta
+• Describir llave
+• Separar llave de inicio y volver a meter
+• Cambiar llave errónea
+• Programar la llave de nuevo
+• Comprobar inicio de llave
+• Usar llave correcta
+• Programar la llave de nuevo
+• Programar la llave de nuevo
+• poner bien la configuración de la llave de
+inicio (ver también documentación
+fabricante).
+• Apagar y volver a encender maquina.
+• Sacar llave del inicio y volver a introducirla
+• Repetir programación
+• cambiar llave defectuosa
+• comprobar inicio de llave
+• utilizar „llave de lectura-escritura“
+
+35 | Avería: Regulador del eje: <designación> aparato: <XXX>, mensaje de avería: 0x <XXX> | -
+- | El servomando anuncia avería. El código de fallo
+se puede leer en el monitor del sermomando. La
+información sobre los códigos de fallo se puede
+leer en el libro de usuario.
+Información adicional en “mensaje de avería: 0x
+<XXX>“. | • Leer el código de fallo en el monitor del
+regulador.
+• Más pasos se tienen que sacar del libro de
+usuario del regulador.
+• Eliminar avería
+• Según el código de fallo, la máquina debe
+desconectarse y conectarse nuevamente.
+
+[Page 82]
+ECOFLEX iSONIC
+Servicio
+P os: 133.39 /-TD-/BEDIENUNG/Störm./36 - Positionierfehler @ 0\mod_1119452697773_2139.docx @ 2231 @ @ 1
+P os: 133.40 /-TD-/BEDIENUNG/Störm./37 - Normierung / Referenzierung fehlt @ 2\mod_1147949262233_2139.docx @ 18446 @ @ 1
+P os: 133.41 /-TD-/BEDIENUNG/Störm./38 - Min.Bearbeitungzeit unterschritten @ 0\mod_1119451177646_2139.docx @ 2233 @ @ 1
+P os: 133.43 /-TD-/BEDIENUNG/Störm./40 - Werkstückparameter fehlerhaft @ 0\mod_1121696225327_2139.docx @ 4435 @ @ 1
+P os: 133.44 /-TD-/BEDIENUNG/Störm./41 - Werkzeugwechseleinheit nicht in Grundstellung @ 2\mod_1147950086836_2139.docx @ 18468 @ @ 1
+82 100.096.01
+
+36 | Error: Posición: <designación> aparato: <XXX> | -
+- | • La mesa móvil no ha alcanzado su posición
+final programada
+• El regulador del eje de la mesa móvil indica
+la posición falsa. | Salir, en el modo de ajuste, de la posición actual y
+arrancar nuevamente la posición programada.
+
+37 | No normalización / referencia: <designación> aparato: <XXX> | -
+- | • Después del encendido de la máquina
+todavía no se ha normalizado/ referente la
+mesa giratoria.
+• Regulador del eje no es referenciado. | • Eliminar avería
+• Efectuar recorrido de referencia.
+• Mantener pulsado la tecla „posición de
+inicio“ hasta que el recorrido de referencia
+haya finalizado (máx. 4 pasos)
+• Seleccionar “Instalación puesto de trabajo”
+pulsando la tecla desde dentro del
+funcionamiento de servicio del menú
+accionamiento y del submenú “Recorrido de
+referencia“.
+
+38 | Tiempo de funcionamiento mínimo no alcanzado: <designación> aparato: <XXX> | -
+- | La profundidad mínima de soldadura se alcanzó
+demasiado rápido:
+• Remache insuficientemente largo
+• Remache no se ha formado completamente
+• Remache ladeado durante el soldeo | • Controlar la pieza de trabajo
+• Controlar el material
+• Anular el aviso de avería y reanudar el ciclo
+automático con la tecla de arranqueo bien
+interrumpa el ciclo automático
+os: 133.42 /-TD-/BEDIENUNG/Störm./39
+39 | - Motorschutzschalter ausgelöst @ 0\mod_1119451187568_2139.docx @ 2234 @ @ 1
+Interruptor de protección del motor desencadenó: <designación> aparato: <XXX> | -
+- | • El guardamotor indicado ha reaccionado.
+• Sobrecarga del Motor
+• Motor/recorrido bloqueado | • Comprobar el motor.
+• Controlar el recorrido
+
+40 | Parametros de pieza defectuoso: <denominación> aparato: <XXX> | -
+- | En caso de revestimiento de puerta delantera: no
+se ha introducido variante manual o eléctrica.
+En caso de revestimiento de puerta delantera en
+variante eléctrica: no se ha introducido la cantidad
+de interruptores | Introducir el parámetro correctamente
+
+41 | Unidades de cambio de utillaje no están en posición inicial | -
+- | • El limite de carrera del puente móvil no está
+en posición inicial.
+• El bloqueo de utillaje<->puente móvil no
+está en posición inicial (= bloqueado)
+• El bloque del utillaje sobre la mesa no está
+en posición inicial (bloqueado)
+• El interruptor de llave ‘ puenteado puerta
+trasera’ no está en posición-0. | • En el funcionamiento de servicio llevar las
+unidades a posición de inicial.
+• Suprimir el puenteado de las puertas
+traseras
+Aviso:
+Interrumpido el ciclo automático.
+
+[Page 83]
+ECOFLEX iSONIC
+Servicio
+P os: 133.45 /-TD-/BEDIENUNG/Störm./42 - Leerlaufprüfung @ 2\mod_1147949414151_2139.docx @ 18457 @ @ 1
+P os: 133.46 /-TD-/BEDIENUNG/Störm./43 - Überwachung Generator @ 0\mod_1121696830186_2139.docx @ 4465 @ @ 1
+P os: 133.47 /-TD-/BEDIENUNG/Störm./44 - Parametrierfehlerfehler Generator @ 0\mod_1121697166936_2139.docx @ 4475 @ @ 1
+100.096.01 83
+
+42 | Test de marcha en vacío: <designación> aparato: <XXX> causa: <XXX> | -
+- | Al test de marcha en vacío ha ocurido un error.
+Por detalles véase <causa> | Sustituir los componentes defectuosos
+
+43 | Control de generador: <designación> aparato: <XXX> | -
+- | El generador anuncia en <designación> y <XXX>
+los errores de observación.
+Dependiendo de los procesos de soldadura
+insertados, pueden existir las causas siguientes:
+• Sobrecarga
+• Ha saltado el fusible electrónico de la
+amplitud.
+• Temperatura elevada
+• El tiempo de soldadura insertado no ha sido
+alcanzado
+• La potencia mínima no ha sido alcanzada
+• La potencia máxima permitida ha sido
+alcanzada/sobrepasada
+• El tiempo mínimo de soldadura no ha sido
+alcanzado
+• El tiempo máximo de soldadura permitido ha
+sido alcanzado/sobrepasado
+• La energía mínima no ha sido alcanzada
+• La energía máxima permitida ha sido
+alcanzada/sobrepasada
+• La energía de soldadura insertada no ha
+sido alcanzada
+Averías en la comunicación entre el generador y el
+microprocesador:
+• La transmisión de datos entre el generador
+y el microprocesador ha sido interrumpida
+• El generador no deja anular el error de
+observación | Descripciones específicas de cada uno de los
+errores: véase las instrucciones del generador.
+Aparece el error durante el ciclo automático,
+puede proceder a continuar el ciclo automático
+anulando el aviso de error y pulsando Start.
+(Pulsador de arranque)
+Sin embargo, no es posible volver a repetir la
+soldadura errónea.!
+Averías entre la comunicación del generador y el
+microprocesador:
+• Verificar, si el generador se encuentra
+encendido
+• Verificar el cableado entre generador y
+microprocesador
+• Verificar la configuración interfase del
+generador
+
+44 | Error: Parámetro de generador: <designación> aparato: <XXX> | -
+- | El generador numero <XXX> no ha contestado a
+un comando dirigido a el o ha contestado con un
+código de error. | • Controlar si el generador está puesto en
+servicio.
+• Controlar el cableado entre el generador e
+el mando
+• Controlar la configuración de los interfaces
+del generador
+• Apagar e encender el generador otra vez
+Si el erro acontece durante la parametrisación,
+debido a una conmutación de alta frecuencia, el
+generador designado en <Numero> como todos
+los generadores que están posicionados después
+de este generador en el conjunto de interfaces,
+
+[Page 84]
+ECOFLEX iSONIC
+Servicio
+P os: 133.48 /-TD-/BEDIENUNG/Störm./45 - Sicherheit überbrückt @ 0\mod_1120668437739_2139.docx @ 2241 @ @ 1
+P os: 133.49 /-TD-/BEDIENUNG/Störm./46 - Störung Rolltor @ 0\mod_1121697356608_2139.docx @ 4485 @ @ 1
+P os: 133.50 /-TD-/BEDIENUNG/Störm./47 - Störung Klimagerät @ 0\mod_1121697459749_2139.docx @ 4495 @ @ 1
+P os: 133.51 /-TD-/BEDIENUNG/Störm./48 - Barcode nicht eingelesen @ 0\mod_1121697646858_2139.docx @ 4505 @ @ 1
+P os: 133.52 /-TD-/BEDIENUNG/Störm./49 - Barcode fehlerhaft @ 0\mod_1121697732343_2139.docx @ 4515 @ @ 1
+P os: 133.53 /-TD-/BEDIENUNG/Störm./50 - Werkst.bearbeitung unzulässig @ 1\mod_1144923451465_2139.docx @ 17476 @ @ 1
+84 100.096.01
+
+ |  | tendrán parámetros errados. Nunca soldar con
+generadores que no esten parametrizados (por
+ejemplo por una conmutación de HF)!
+Este error interrumpe el ciclo automático.
+En caso que este error acontezca frecuentemente:
+Informar Sonotronic.
+
+45 | Seguridad punteada <designación> aparato: <XXX> | -
+- | • Elemento de seguridad es suprimido con el
+interurptor a llave todavía.
+• Seguridad no tiene la función completa | Alejar el interurptor a llave
+
+46 | Avería: Puerta enrollable: | -
+- | • Pulsado el listón de puerta enrollable.
+• Error en el control de la puerta enrollable. | • Quitar obstáculo del camino
+• Analizar error según manual de usuario del
+control de la puerta enrollable.
+
+47 | Error: Instalación de climatización: <designación> aparato: <XXX> | -
+- | El sistema refrigerador del armario de mando tiene
+un defecto, por ej.:
+• La caída de la tensión de mando
+• Exceso de temperatura en el armario
+• El escape del agua condensada está
+obturado
+• El registro del frío está ensuciado | • Asegurar siempre una buena aireación del
+sistema de acondicionamiento del aire
+manteniéndolo a una distancia suficiente a
+otras partes de la instalación (distancia min.
+200mm).
+• El lugar de instalación debe ser seco e
+limpio
+• Evitar de obstruir las entradas e la salidas
+de aire con objetos colindantes
+• Tener libre el escape de agua condensada
+• Limpiar el registro del frío según las
+indicaciones del productor.
+
+48 | Código de barras no lea adentro: <designación> aparato: <XXX> | -
+- | No ha sido almacenado ningún código de barras | Almacenar código de barras
+
+49 | Código de barras incorrecto: <designación> aparato: <XXX> <XXX> | -
+- | • Etiquetado código de barras erróneo
+• Posición erróneo del código de barras
+• Error de lectura de escáner | • Comprobar posición y tipo de código de
+barras
+• Comprobar escáner / limpiar óptica de
+escáner
+La limpieza de la óptica del escáner debe
+realizarse según las instrucciones del
+fabricante!!!
+
+50 | Pieza del tratamiento no permitido: <designación> <XXX> | -
+- | • La pieza no puede/debe trabajarse en la
+máquina.
+• Introducida pieza errónea | Retirar pieza y trabajar de otra manera
+
+[Page 85]
+ECOFLEX iSONIC
+Servicio
+P os: 133.54 /-TD-/BEDIENUNG/Störm./51 - Teil noch im Handling @ 2\mod_1147790461726_2139.docx @ 18280 @ @ 1
+P os: 133.55 /-TD-/BEDIENUNG/Störm./52 - Störung Codierung @ 2\mod_1147698166867_2139.docx @ 18095 @ @ 1
+P os: 133.56 /-TD-/BEDIENUNG/Störm./53 - Stecker @ 2\mod_1147698234504_2139.docx @ 18106 @ @ 1
+P os: 133.57 /-TD-/BEDIENUNG/Störm./54 - Störung Temperaturregler @ 2\mod_1147842980868_2139.docx @ 18325 @ @ 1
+P os: 133.58 /-TD-/BEDIENUNG/Störm./55 - Störung FFS @ 2\mod_1147698280252_2139.docx @ 18128 @ @ 1
+P os: 133.59 /-TD-/BEDIENUNG/Störm./56 - Nicht in Position @ 2\mod_1148308748633_2139.docx @ 18551 @ @ 1
+P os: 133.60 /-TD-/BEDIENUNG/Störm./57 - Störung_offen @ 2\mod_1147845127884_2139.docx @ 18424 @ @ 1
+P os: 133.61 /-TD-/BEDIENUNG/Störm./58 - Störung_offen @ 2\mod_1147844577071_2139.docx @ 18391 @ @ 1
+P os: 133.62 /-TD-/BEDIENUNG/Störm./59 - Störung_offen @ 2\mod_1147699078555_2139.docx @ 18183 @ @ 1
+P os: 133.63 /-TD-/BEDIENUNG/Störm./60 - Höhenkontrolle @ 2\mod_1147698493585_2139.docx @ 18172 @ @ 1
+P os: 133.64 /-TD-/BEDIENUNG/Störm./61 - Heizstromalarm @ 2\mod_1147699365587_2139.docx @ 18194 @ @ 1
+100.096.01 85
+
+51 | Pieza todavía en manipulador! | -
+- | Una pieza todavía se encuentra en el manipulador | Extraer la pieza del manipulador
+
+52 | Avería: Codificacion: <designación> <XXX> | -
+- | No coincide la unidad mencionada en la
+<denominación> con la codificación de la actual. | • Comprobar codificación del conector
+• Instalar cuna de posicionamiento correcta
+• Seleccionar juego de parámetro correcto
+
+53 | Enchufe: <designación> aparato: <XXX> <XXX> | -
+- | El enchufe definido en <designación> no es
+metido. | • Comprobar conector
+• Comprobar codificación del conector
+
+54 | Avería regulador de temperatura: <designación> aparato: <XXX> | -
+- | El regulador de temperatura mencionado en
+<Denominación> avisa avería:
+• Sobrecalentamiento del elemento a calentar
+• Sobrecalentamiento del aparato
+• Sensor de temperatura o sea conductos del
+sensor defectuosos. | Controlar sensor de temperatura y conductos
+sensor de conducto. Apagar maquina, esperar al
+menos 30 segundos para volver a encenderla.
+
+55 | Avería: FFS | -
+- | Avería en FFS | 
+
+56 | No posición: <designación> aparato: <XXX> | -
+- | La unidad mencionada en <Denominación> no se
+encuentra en la posición seleccionada | Cerrar puerta corredera trasera
+
+57 | Avería | -
+
+58 | Avería | -
+
+59 | Avería | -
+
+60 | Control de altura: <designación> aparato: <XXX> | -
+- | • Colocación de pieza errónea
+• Cuerpo extraño bloquea el movimiento del
+recorrido | • Comprobar la colocación y la posición de
+las piezas
+• Extraer piezas desconocidas de la cuna
+
+61 | Alarma de corriente del calentador: <designación> aparato: <XXX>
+
+[Page 86]
+ECOFLEX iSONIC
+Servicio
+P os: 133.65 /-TD-/BEDIENUNG/Störm./62 - Störung Thermofühler @ 2\mod_1147779967390_2139.docx @ 18225 @ @ 1
+P os: 133.66 /-TD-/BEDIENUNG/Störm./63 - Störung Stanzabfall @ 0\mod_1121952733278_2139.docx @ 4525 @ @ 1
+P os: 133.67 /-TD-/BEDIENUNG/Störm./64 - Reinigungsintervall an der Anlage durchführen! @ 2\mod_1160468410269_2139.docx @ 25715 @ @ 1
+P os: 133.68 /-TD-/BEDIENUNG/Störm./65 - Maschine leerfahren nach NOT-HALT! @ 2\mod_1160468778273_2139.docx @ 25726 @ @ 1
+P os: 133.69 /-TD-/BEDIENUNG/Störm./66 - Roboter @ 2\mod_1160468802117_2139.docx @ 25737 @ @ 1
+P os: 133.70 /-TD-/BEDIENUNG/Störm./67 - Störung_offen @ 2\mod_1160468823710_2139.docx @ 25748 @ @ 1
+P os: 133.71 /-TD-/BEDIENUNG/Störm./68 - Störung_offen @ 3\mod_1160468931101_2139.docx @ 25759 @ @ 1
+P os: 133.72 /-TD-/BEDIENUNG/Störm./69 - Störung SAFE Programm @ 3\mod_1160468961851_2139.docx @ 25770 @ @ 1
+P os: 133.73 /-TD-/BEDIENUNG/Störm./70 - Störung Motorregler @ 3\mod_1160468984882_2139.docx @ 25781 @ @ 1
+86 100.096.01
+
+ | No se alcanzó el calentamiento mínimo al calentar
+el llamado regulador mencionado en
+<Denominación> | • Comprobar ajuste en unidad de manejo
+• Comprobar temperatura de regulador de
+calentamiento
+• Comprobar patrones de calentamiento
+• Comprobar regulador de calentamiento
+
+62 | Avería: Termo sensor: <designación> aparato: <XXX> | -
+- | El sensor de temperatura mencionado en
+<denominación> está defectuoso | • Cambiar sensor de temperatura
+• Cambiar sensor de guía
+
+63 | Desechos de puncionar: <designación> aparato: <XXX> | -
+- | En la unidad de troquelado mencionada en
+<denominación> surgió un error en la
+manipulación de los retales de troquelado:
+• Los retales de troquelado no se han retirado
+antes de colocar una nueva pieza a
+troquelar.
+• Después del ciclo de troquelado no habían
+retales. | • Retirar manualmente los retales de
+troquelado.
+• Comprobar si se ha enredado el residuo de
+troquelado con el sonotrodo
+• Comprobar parámetros de troquelado
+
+64 | Ejecutar intervalo de la limpieza! | -
+- | Alcanzados el número de ciclos introducidos en
+máquina. | Ejecutar intervalo de la limpieza
+
+65 | Vaciar la máquina al apretar el botón de emergencia! | -
+- | Después de la corrección y el reconocimiento de
+una situación de emergencia, esta indicación de
+fallas se establece. Piezas en la máquina no se
+procesan en adelante. | Usando el botón de arranque, tactar la mesa
+giratória siempre por una posición para que pueda
+sacar todas las piezas del soporte.
+
+66 | Robot: <designación> aparato: <XXX> causa: <XXX> | -
+- | El robot denominado en <designación> es
+averiado. | Alejar el error mencionado en <causa>!
+
+67 | Avería | -
+
+68 | Avería | -
+
+69 | Fallo programa SAFE: <Designación>, aparato <BMK> | -
+- | La pieza mencionada en <Designación> está
+defectuosa. | Controlar el aparato mencionado en <BMK>
+
+[Page 87]
+ECOFLEX iSONIC
+Servicio
+P os: 133.74 /-TD-/BEDIENUNG/Störm./71 - Drucker nicht bereit @ 2\mod_1147346051246_2139.docx @ 18051 @ @ 1
+P os: 133.75 /-TD-/BEDIENUNG/Störm./72 - Überspannungsschutz hat ausgelöst @ 2\mod_1156932172234_2139.docx @ 25136 @ @ 1
+P os: 133.76 /-TD-/BEDIENUNG/Störm./73 - Pufferspeicher @ 3\mod_1160641642023_2139.docx @ 25815 @ @ 1
+P os: 133.77 /-TD-/BEDIENUNG/Störm./74 - Störung_offen @ 0\mod_1123162054239_2139.docx @ 4875 @ @ 1
+P os: 133.78 /-TD-/BEDIENUNG/Störm./75 - MFU-Speicher @ 2\mod_1147843564728_2139.docx @ 18369 @ @ 1
+P os: 133.79 /-TD-/BEDIENUNG/Störm./76 - MFU-Speicher ist voll! @ 2\mod_1147843531321_2139.docx @ 18358 @ @ 1
+P os: 133.80 /-TD-/BEDIENUNG/Störm./77 - Störung Sicherheits-SPS @ 2\mod_1147345465039_2139.docx @ 18040 @ @ 1
+P os: 133.81 /-TD-/BEDIENUNG/Störm./78 - Störung USV @ 2\mod_1147844403040_2139.docx @ 18380 @ @ 1
+100.096.01 87
+
+70 | Avería: Regulador de motor: <designación> aparato: <XXX> | -
+- | El regulador de motor denominado en
+<designación> no es listo. | • Enmendar la avería según el manual
+regulador de motor.
+• Controlar el regulador de motor, en su caso
+cambiarlo.
+
+71 | Impresora no está lista: <designación> aparato: <XXX> causa: <XXX> | -
+- | La impresora para la impresión de las etiquetas
+IO/NIO no esta preparada
+• desconectada
+• Falta papel
+• apagada
+Detalles: ver monitor de impresora | Aparece la avería al inicio del ciclo:
+• Resolver avería (si es posible)
+• Eliminar avería
+• Reanudar el ciclo pulsando el botón de
+inicio.
+Aparece la avería durante la impresión:
+• En este caso, la avería no interrumpe el
+ciclo. Los datos de impresión de todos
+modos se complican.
+• Eliminar aviso de avería
+
+72 | Protección contra sobretensión disparado: <designación> aparato: <XXX> | -
+- | Condicionado por una parte de conducción sobre
+tensionada (evtl. por rayo) ha desatado la
+protección de sobre tensión. | Cambiar elemento de protección de sobretensión.
+
+73 | Búfer de memoria: <designación>, código de error: <XXX> | -
+- | Avería en búfer de memoria interno. | 
+
+74 | Avería | -
+
+75 | Memoria MFU menos que <XXX> ficheros! | -
+- | La memoria de datos por los datos MFU llega
+como máximo al número de ficheros. | Cambiar el medio de memoria!
+
+76 | Memoria MFU es colmada! | -
+- | La memoria MFU es colmada, no es posible
+memorizar ulteriores datos MFU.
+MFU es desactivado. | Cambiar el medio de memoria!
+Activar MFU.
+
+77 | Avería: PLC de seguridad: <designación> aparato: <XXX> causa: <XXX> | -
+- | El mando denominado en <designación> tiene el
+error denominado en <causa>. | Enmendar la causa del error.
+
+[Page 88]
+ECOFLEX iSONIC
+Servicio
+P os: 133.82 /-TD-/BEDIENUNG/Störm./79 - Störung Trittschutzmatte @ 2\mod_1147843247509_2139.docx @ 18336 @ @ 1
+P os: 133.83 /-TD-/BEDIENUNG/Störm./80 - Störung_offen @ 2\mod_1147698465102_2139.docx @ 18161 @ @ 1
+P os: 133.84 /-TD-/BEDIENUNG/Störm./81 - Störung_offen @ 0\mod_1123162719736_2139.docx @ 4885 @ @ 1
+P os: 133.85 /-TD-/BEDIENUNG/Störm./82 - Störung_offen @ 2\mod_1147789183142_2139.docx @ 18247 @ @ 1
+P os: 133.86 /-TD-/BEDIENUNG/Störm./83 - Störung_offen @ 2\mod_1147790084660_2139.docx @ 18269 @ @ 1
+P os: 133.87 /-TD-/BEDIENUNG/Störm./84 - Störung_offen @ 2\mod_1147790843917_2139.docx @ 18291 @ @ 1
+P os: 133.88 /-TD-/BEDIENUNG/Störm./85 - Werkzeugwechsel erforderlich @ 2\mod_1147790881118_2139.docx @ 18302 @ @ 1
+P os: 133.89 /-TD-/BEDIENUNG/Störm./86 - Störung während des Bearbeitungsprozesses @ 2\mod_1147790921102_2139.docx @ 18313 @ @ 1
+P os: 133.90 /-TD-/BEDIENUNG/Störm./87 - Störung Absaugung @ 2\mod_1148290089516_2139.docx @ 18485 @ @ 1
+P os: 133.91 /-TD-/BEDIENUNG/Störm./88 - Störung_offen @ 2\mod_1148308111278_2139.docx @ 18540 @ @ 1
+P os: 133.92 /-TD-/BEDIENUNG/Störm./89 - Störung_offen @ 2\mod_1156936518730_2139.docx @ 25155 @ @ 1
+88 100.096.01
+
+78 | Avería: Suministro de corriente sin interrupción: <designación> aparato: <XXX> | -
+- | La corriente sin interrupción que es en
+<denominación> andaba en avería. | Eliminar avería.
+
+79 | Avería: Esterilla protección de paso: <designación> aparato: <XXX> | -
+- | Pisada la esterilla de protección de paso. | Interrumpir barrera de seguridad 1 , a continuación
+eliminar avería
+
+80 | Avería | -
+
+81 | Avería | -
+
+82 | Avería | -
+
+83 | Avería | -
+
+84 | Avería | -
+
+85 | Necesario cambio de utillaje: <designación> aparato: <XXX> | -
+- |  | Realizar cambio de utillaje
+
+86 | Avería durante el proceso del tratamiento: <designación> aparato: <XXX> | -
+- | Aparece durante el proceso de soldadura una de
+las averías escritas a la derecha en algún
+momento en el que la placa caliente no se
+encuentre en posición inicial, se intentará anular
+de forma automática la avería y dirigir la máquina
+a posición inicial. | Averías que pueden desarrollar una anulación
+automática:
+• Avería Nº. 2, 3, 4, 6, 16, 17
+• Avería Nº. 32, 25, 60, 61
+• Avería Nº. 35, 36
+
+87 | Avarío: Aspiración: <designación> aparato: <XXX> | -
+- | El filtro del soplado está llenado | • Cambiar filtro
+• Limpiar filtro
+
+88 | Avería | -
+
+89 | Avería
+
+[Page 89]
+ECOFLEX iSONIC
+Servicio
+P os: 133.93 /-TD-/BEDIENUNG/Störm./90 - Störung Rehau Maschinensteuerung RMS @ 2\mod_1150272697659_2139.docx @ 18585 @ @ 1
+P os: 133.94 /-TD-/BEDIENUNG/Störm./91 - Datenaufzeichnung (PDE) Kommunikationsfehler @ 2\mod_1156936776580_2139.docx @ 25166 @ @ 1
+P os: 133.95 /-TD-/BEDIENUNG/Störm./92 - Störung_offen @ 2\mod_1156231819630_2139.docx @ 24795 @ @ 1
+P os: 133.96 /-TD-/BEDIENUNG/Störm./93 - Störung_offen @ 2\mod_1156231884826_2139.docx @ 24806 @ @ 1
+P os: 133.97 /-TD-/BEDIENUNG/Störm./94 - Störung_offen @ 2\mod_1150272837888_2139.docx @ 18596 @ @ 1
+P os: 133.98 /-TD-/BEDIENUNG/Störm./95 - Allgemeine Störmeldung @ 2\mod_1148296106006_2139.docx @ 18507 @ @ 1
+P os: 134 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 89
+
+90 | Avería: Rehau maquina control RMS: <XXX> | -
+- | La comunicación al computador principal es
+interferida. | • Reconstruir la conexión
+• Confirmar el error
+
+91 | Error: Comunicación registro de datos (PDE) | -
+- | El registro de datos paraba con el error de
+comunicación. | 
+
+92 | Avería | -
+
+93 | Avería | -
+
+94 | Avería | -
+
+95 | Avería | -
+
+[Page 90]
+ECOFLEX iSONIC
+Generales instrucciones para dispositivos oscilantes
+P os: 135 /-TD-/SCHWINGGEBILDE/Allgemeine Anweisung Schwinggebilde @ 6\mod_1340180539983_2139.docx @ 51286 @ 422222222 @ 1
+9 Generales instrucciones para dispositivos oscilantes
+9.1 Seguridad
+Para evitar posibles daños de personas y material, es absolutamente necesario
+respetar los siguientes avisos de seguridad y peligros, aparte de la observancia de
+los reglamentos locales y nacionales.
+9.2 Exoneración de responsabilidad
+En caso de una manipulación inadecuada e irreglamentaria así como de la no
+observancia de los avisos de peligro y seguridad, la compañía Sonotronic GmbH
+no asume la responsabilidad por los daños que resulten de ello.
+9.3 Componentes individuales del dispositivo oscilante
+• Convertidor (convertir -> transformar) transfiere las altas frecuencias llegadas del generador en
+oscilaciones mecánicas de una misma frecuencia, y las dirige a través del amplificador (Booster) y el
+sonotrodo (utillaje soldadura) a la pieza.
+• Transformador de amplitudes recibe las amplitudes de oscilación del convertidor y las pasa en la
+forma correspondiente al sonotrodo. El amplificador ideal se determina en laboratorio a través de
+diferentes ensayos de aplicaciones de soldadura. El anillo, libre de ultrasonidos, sirve para almacenar
+las oscilaciones totales en una unidad de avance.
+• Sonotrodo es el tecnicismo para el utillaje de soldadura. Este tiene distintas funciones que cumplir:
+• Transmitir la energía de las oscilaciones al material termoplástico
+• Dar forma al remachar o bordear
+• Transformación de amplitud a través de las diferentes medidas entre las entradas y contornos
+de la pieza
+1 Convertidor
+1 5 2 5 3
+2 Transformador de
+amplitudes
+(Booster) opcional
+3 Sonotrodo
+4 Perno roscado
+4 4
+5 Acoplamiento
+90 100.096.01
+
+Peligro!
+Contacto con metal! Peligro de quemaduras!
+
+ | Atención! | 
+- | Sonotrodos modificados o de fabricación inadecuada pueden producir daños en | -
+- | la unidad oscilatoria o generador. | -
+- | Si se presentan defectos en los dispositivos oscilantes o en los componentes, es | -
+- | indispensable enviarlos al fabricante para su reparación! | -
+
+[Page 91]
+ECOFLEX iSONIC
+Generales instrucciones para dispositivos oscilantes
+9.4 Conexión del convertidor
+Al conectar cables para alta frecuencia se debe tener cuidado de que haya un
+perfecto enganche de los conectores tanto en el lado del generador como en el
+lado del convertidor.
+Cuando la unidad de avance esté en posición extrema (afuera), el cable para alta
+frecuencia aún deberá formar un pequeño lazo.
+9.5 Funcionamiento continuo de la unidad oscilante
+Funcionamiento sólo con filtro de 5 m y aire exento de aceite y agua, con un paso
+de aire de aprox. 30 l/min.
+Observar que las aberturas de aire de salida del convertidor no estén cubiertas!
+9.6 Montaje del dispositivo oscilante
+Para la unión de convertidor, booster y sonotrodo sólo se permite la utilización de
+componentes originales de Sonotronic.
+Los componentes han de estar bien atornillados.
+Para la sustitución de convertidor, booster o sonotrodo, la unidad de avance
+deberá desmontarse en su totalidad.
+Al montar o desmontar el elemento transformador del convertidor, la superficie de
+entrecaras del convertidor debe contrasujetarse contra la superficie de entrecaras
+del elemento transformador.
+Al montar o desmontar el sonotrodo del elemento transformador, la superficie de
+entrecaras del elemento transformador debe contrasujetarse contra la superficie
+de entrecaras del sonotrodo.
+100.096.01 91
+
+ | Atención! | 
+- | Nunca poner en funcionamiento el convertidor sin sonotrodo! | -
+- | Utilizar sólo convertidor, booster, sonotrodo y cable para alta frecuencia de la | -
+- | compañía Sonotronic GmbH. | -
+- | Conectores no enganchados provocan la destrucción de la conexión de alta | -
+- | frecuencia! | -
+
+ | Atención! | 
+- | El atornillamiento con un par muy bajo puede provocar la destrucción del | -
+- | convertidor durante el funcionamiento. | -
+
+ | Advertencia | 
+- | Para el efecto, el convertidor no debe ser sujetado en la carcaza. La | -
+- | contrasujeción también es imprescindible cuando los respectivos componentes | -
+- | ya se encuentren montados. En el caso de sonotrodos que no puedan ser | -
+- | sujetados en la superficie de entrecaras, ya sea por razones técnicas o de | -
+- | construcción, se admite la sujeción con mordazas protectoras. | -
+
+[Page 92]
+ECOFLEX iSONIC
+Generales instrucciones para dispositivos oscilantes
+9.7 Momentos permitidos
+92 100.096.01
+
+ | Dispositivo oscillante 35kHz | - | - | - | - | - | - | - | - | - | 
+ | Convertidor M8 |  |  | → |  |  | Booster |  |  | 40Nm | 
+ | Convertidor M8 |  |  | → |  |  | Sonotrodo titanio |  |  | 40Nm | 
+ | Convertidor M8 |  |  | → |  |  | Sonotrodo acero |  |  | 30Nm | 
+ | Convertidor M8 |  |  | → |  |  | Sonotrodo aluminio |  |  | 15Nm | 
+ | Booster M8 |  |  | → |  |  | Sonotrodo titanio |  |  | 40Nm | 
+ | Booster M8 |  |  | → |  |  | Sonotrodo acero |  |  | 30Nm | 
+ | Booster M8 |  |  | → |  |  | Sonotrodo aluminio |  |  | 15Nm | 
+
+ | Dispositivo oscillante 20kHz | - | - | - | - | - | - | - | - | - | 
+ | Convertidor M12x1,25 |  |  | → |  |  | Booster |  |  | 80Nm | 
+ | Convertidor M12x1,25 |  |  | → |  |  | Sonotrodo titanio |  |  | 100Nm | 
+ | Convertidor M12x1,25 |  |  | → |  |  | Sonotrodo acero |  |  | 80Nm | 
+ | Convertidor M12x1,25 |  |  | → |  |  | Sonotrodo aluminio |  |  | 70Nm | 
+ | Booster M12x1,25 |  |  | → |  |  | Sonotrodo titanio |  |  | 100Nm | 
+ | Booster M12x1,25 |  |  | → |  |  | Sonotrodo acero |  |  | 80Nm | 
+ | Booster M12x1,25 |  |  | → |  |  | Sonotrodo aluminio |  |  | 70Nm | 
+ | Booster M12x1,25 |  |  | → |  |  | Sonotrode de troquelado BS acero |  |  | 120Nm | 
+
+ | Dispositivo oscillante 30kHz | - | - | - | - | - | - | - | - | - | 
+ | Convertidor |  |  | → |  |  | Booster |  |  | 55Nm | 
+ | Convertidor |  |  | → |  |  | Sonotrodo titanio |  |  | 55Nm | 
+ | Convertidor |  |  | → |  |  | Sonotrodo acero |  |  | 50Nm | 
+ | Convertidor |  |  | → |  |  | Sonotrodo aluminio |  |  | 18Nm | 
+ | Booster |  |  | → |  |  | Sonotrodo titanio |  |  | 70Nm | 
+ | Booster |  |  | → |  |  | Sonotrodo acero |  |  | 50Nm | 
+ | Booster |  |  | → |  |  | Sonotrodo aluminio |  |  | 18Nm | 
+
+[Page 93]
+ECOFLEX iSONIC
+Generales instrucciones para dispositivos oscilantes
+9.8 Herramienta para el montaje y el desmontaje de unidades oscilantes
+Sonotronic
+P os: 136 /-TD-/STANZ-/SCHWEISSEINHEITEN/Anweisung Schweißeinheit @ 6\mod_1341297002064_2139.docx @ 51425 @ 122 @ 1
+100.096.01 93
+
+ | 20khz | - | - | 
+ | Llave dinamométrica 20-200NM para herramienta enchufable 14x18mm |  | Nº de artículo: 101 703 | 
+ | Herramienta enchufable para el montaje con mećića de enchufe de |  | Nº de artículo: 104 545 | 
+- | 14x18mm | - | (Nº de dibujo 504.290.4) | -
+ | Llave de clavijas ajustable para el desmontaje |  | Nº de artículo.: 108 772 | 
+
+ | 30khz | - | - | 
+ | Llave dinamométrica 5-60NM para herramienta enchufable 9x12 |  | Nº de artículo:103 488 | 
+ | Llave dinamométrica 20-200NM para herramienta enchufable 14x18mm |  | Nº de artículo: 101 703 | 
+
+ | 35khz | - | - | 
+ | Llave dinamométrica 5-60NM para herramienta enchufable 9x12 |  | Nº de artículo: 103 488 | 
+ | Llaves de boca enchufables para el montaje compuesto de 9x12: |  |  | 
+- | SW 17 | - | Nº de artículo. 108 892 | -
+- | SW 18 | - | Nº de artículo. 108 893 | -
+- | SW 19 | - | Nº de artículo. 108 894 | -
+- | SW 22 -> ejecución especial (EC 19 fresada a 22mm). | - | Nº de artículo. 110 947 | -
+
+[Page 94]
+ECOFLEX iSONIC
+Instrucciones para unidad de soldadura
+10 Instrucciones para unidad de soldadura
+10.1 Desmontaje y montaje dispositivos oscilantes
+Desmontaje
+1. Desconectar generador de la unidad de soldadura correspondiente.
+2. Retirar conector de alta frecuencia del convertidor.
+3. Extraer tornillos de la tapa y levantar tapa.
+(Unidad de avance estrecha: Desenroscar tornillos del bloqueo central.
+Durante este procedimiento, sujetar el dispositivo oscilante para evitar que
+se caiga, ya que eso destruiría el contorno del sonotrodo.
+4. Extraer cuidadosamente la unidad oscilante (hacia adelante), de manera
+que el contorno del sonotrodo no sea dañado.
+Montaje
+1. Desconectar generador de la unidad de soldadura correspondiente.
+2. Insertar dispositivo oscilante en la unidad de avance (por adelante).
+3. Colocar tapa y enroscar levemente los tornillos de la tapa.
+(Unidad de avance estrecha: Apretar tornillo del bloqueo central.
+Durante este procedimiento, sujetar el dispositivo oscilante para evitar que
+se caiga, ya que eso destruiría el contorno del sonotrodo
+4. Alinear el contorno del sonotrodo en relación a la superficie a soldar. Para
+ello, reducir la presión de la unidad de avance respectiva, de manera que el
+dispositivo oscilante descienda lentamente hacia la superficie a soldar.
+5. Apretar tornillos de la tapa (tornillo del bloqueo central.
+6. Reajustar presión inicial de unidad de avance.
+7. Insertar conector de alta frecuencia sobre convertidor.
+8. Conectar generador.
+9. Efectuar soldadura de prueba.
+Si esta soldadura resulta negativa, debido a un contorno alineado
+incorrectamente, repetir a puntos 3. Para ello, desconectar el generador de
+la unidad de avance correspondiente y retirar conector de alta frecuencia del
+convertidor.
+94 100.096.01
+
+Atención!
+Girar dispositivo oscilante sólo con tornillos levemente enroscados!
+
+[Page 95]
+ECOFLEX iSONIC
+Instrucciones para unidad de soldadura
+10.2 Alineamiento del contorno del sonotrodo
+1. Desconectar generador de la unidad de soldadura correspondiente
+2. Retirar conector de alta frecuencia del convertidor.
+3. Reducir la presión de la unidad de avance respectiva, de manera que el
+dispositivo oscilante descienda lentamente hacia la superficie a soldar.
+4. Desenroscar tornillos de la tapa de manera que el dispositivo oscilante se
+pueda soltar sin resistencia.
+(Unidad de avance estrecha: Desenroscar tornillo del bloqueo central.
+5. Alinear el contorno del sonotrodo en relación a la superficie a soldar.
+6. Apretar tornillos de la tapa. (tornillo del bloqueo central.
+7. Reajustar presión inicial de unidad de avance.
+8. Insertar conector de alta frecuencia sobre convertidor.
+9. Conectar generador
+10 Efectuar soldadura de prueba.
+Si esta soldadura resulta negativa, de-bido a un contorno alineado
+incorrectamente, repetir puntos 1 a 10.
+P os: 137 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 95
+
+Atención!
+Girar dispositivo oscilante sólo con tornillos levemente enroscados!
+
+[Page 96]
+ECOFLEX iSONIC
+Conservación y mantenimiento
+P os: 138.1 /-TD-/WARTUNG/Wartung/1. Ü Instandhaltung und Wartung @ 5\mod_1323873014521_2139.docx @ 47673 @ 1 @ 1
+11 Conservación y mantenimiento
+P os: 138.2 /-TD-/WARTUNG/Wartung/1.1 Sicherheit @ 5\mod_1323872703402_2139.docx @ 47627 @ 2 @ 1
+11.1 Seguridad
+P os: 138.3 /-TD-/WARTUNG/Wartung/1.2 Grundlegende Sicherheitsmaßnahmen @ 5\mod_1323872735917_2139.docx @ 47642 @ 2 @ 1
+11.2 Medidas de seguridad fundamentales durante los trabajos de mantenimiento y
+conservación
+Antes de efectuar trabajos de mantenimiento o reparación bloquear el acceso a
+la zona de trabajo de la máquina para personas no autorizadas! Colocar un rótulo
+con el aviso respectivo que indique que se están ejecutando trabajos de
+mantenimiento y reparación!
+Antes de la ejecución de trabajos de mantenimiento y reparación desconectar el
+interruptor principal de la alimentación de corriente y asegurarlo con un candado!
+La llave para tal candado debe quedar en manos de la persona que ejecute el
+trabajo de mantenimiento y reparación!
+Cuando se sustituyan partes pesadas de la máquina utilizar únicamente
+dispositivos de carga y medios de sujeción idóneos que se encuentren en perfecto
+estado.
+Antes de efectuar los trabajos de mantenimiento y reparación cerciorarse de que
+todas las partes de la máquina que se tengan que tocar se hayan enfriado a
+temperatura ambiente!
+96 100.096.01
+
+Peligro! | 
+Los trabajos de mantenimiento y reparación de la máquina sólo deben ser | -
+efectuados por personal especializado del Servicio Técnico, observando los | -
+reglamentos de prevención de accidentes. | -
+Etiquetas relacionadas con la seguridad son reemplazadas por daños o desgaste. | -
+No entre el techo de la máquina! | -
+Por trabajos en 2,0 m de altura están instaladas plataformas en la máquina, de | -
+acuerdo con la normativa vigente. | -
+Antes de ejecutar los trabajos de limpieza y mantenimiento en la máquina, ésta | -
+debe desconectarse de la alimentación de energía eléctrica y neumática. | -
+Las indicaciones que se desprenden de las instrucciones de servicio de los | -
+componentes individuales de la máquina deben leerse previamente. | -
+Sólo se permite la utilización de accesorios y piezas de recambio que estén | -
+indicadas en la lista de piezas de recambio y que estén habilitadas por el | -
+fabricante. | -
+Cuando se ejecuten trabajos en el armario de distribución y en las conexiones de | -
+alta frecuencia con el convertidor o generador, se debe desconectar el interruptor | -
+principal. Los conectores de alta frecuencia y los bornes sólo se deben tocar con | -
+instrumentos aislados, aun cuando el interruptor principal esté desconectado. | -
+Está absolutamente prohibido abrir el generador y el convertidor (alta tensión) | -
+Al soplar la máquina, llevar puestos protectores de ojos, boca y oídos! | -
+La máquina no debe limpiarse con agentes de limpieza corrosivos, erosivos, | -
+desengrasantes o que contengan disolvente | -
+Al llenar la máquina con aire comprimido no puede estar nadie dentro de la | -
+máquina. | -
+
+Cumplir con los intervalos de inspección y mantenimiento prescritos en las | 
+instrucciones de servicio! | -
+Observar las instrucciones para el mantenimiento y reparación relativas a los | -
+componentes individuales que se desprenden de estas instrucciones de servicio! | -
+
+[Page 97]
+ECOFLEX iSONIC
+Conservación y mantenimiento
+Eliminar de la forma reglamentaria los lubricantes, refrigerantes y detergentes
+que sean peligrosos para el medio ambiente!
+P P ooss:: 113388..45 //-STeDit-e/WnuAmRbTruUcNh/G=/=W=a=r tSuenigte/1n.u4m Wbraurctuhn =g=s=pl=a n@ @ 0 \5m\modo_d1_111362934817527626648106_82_123193.9d.odcoxc x@ @ 2 440716 1@2 @ @ 2 1 @ 1
+11.3 Plan de mantenimiento
+Hay que limpiar la herramienta y el alojamiento si se ensucian demasiado. Limpiar
+varias vezes por día si necesário.
+Los restantes trabajos se deben realizar siguiendo las correspondientes horas
+(según cuadro anexo). En el caso de, condiciones de suciedad (polvo),
+calentamientos ó humedades, se deberán acortar los intervalos.
+Se recomenda de hacer controlar la instalación una vez por año por el
+productor. Todavia este control no substituye la manutencion prescribida.
+Componentes externos: Vease instrucciones adjuntas de manejo de otros
+fabricantes.
+P os: 138.6 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 97
+
+ | Indicación | 
+- | Para un buen funcionamiento de la máquina se ha de fener en cuenta! | -
+
+ | Aparatos de medición como manómetro, medidores de posición y generadores | 
+- | de tiempo sirven como anuncios para el modo operativo de la máquina y no | -
+- | sirven para la medición de valores absolutos. También no son utilizados para la | -
+- | recogida de medidas relacionadas con la calidad como valor de cpk. | -
+- | Por lo tanto, estos dispositivos no son sujetos a calibración. | -
+
+ | Indicación | 
+- | El plano de manutención no está especifico por una máquina. | -
+- | Están listados también componentes que no están en su máquina. | -
+
+[Page 98]
+ECOFLEX iSONIC
+Conservación y mantenimiento
+P os: 138.7.1 /-TD-/WARTUNG/Wartung/1.3.1 Pneumatik/1.1.1 Ü Pneumatik @ 5\mod_1323873232611_2139.docx @ 47720 @ 3 @ 1
+11.3.1 Neumática
+P os: 138.7.2 /-TD-/WARTUNG/Wartung/1.3.1 Pneumatik/1.1.1.1 Allgemeine Sichtprüfung @ 5\mod_1323873254470_2139.docx @ 47736 @ 4 @ 1
+P os: 138.7.3 /-TD-/WARTUNG/Wartung/1.3.1 Pneumatik/1.1.1.1 Pneu-verschlauchungen prüfen @ 5\mod_1323873275610_2139.docx @ 47752 @ 4 @ 1
+P os: 138.7.4 /-TD-/WARTUNG/Wartung/1.3.1 Pneumatik/1.1.1.1 Arbeitsdruck kontroll. @ 5\mod_1323873338187_2139.docx @ 47767 @ 4 @ 1
+P os: 138.7.5 /-TD-/WARTUNG/Wartung/1.3.1 Pneumatik/1.1.1.1 Sonotrodenkühlung @ 5\mod_1323873702961_2139.docx @ 47827 @ 4 @ 1
+P os: 138.8 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+98 100.096.01
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.1.1 Vista general a la máquina | - | - | diario | - | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.1.2 Examinar la estanquiedad de los tubos neumaticos | - | - | cada 200 hr. o 1x/mes | cada 200 hr. o 1x/mes | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.1.3 Controlar la presión de trabajo – Comparar con parametros de
+maquina | - | - | cada 200 hr. o 1x/mes | cada 200 hr. o 1x/mes | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.1.4 Refrigeración de sonotrodos
+Verificación de funcionamiento, Controlar salida de aire | - | - | cada 200 hr. o 1x/mes | cada 200 hr. o 1x/mes | -
+
+[Page 99]
+ECOFLEX iSONIC
+Conservación y mantenimiento
+P os: 138.9.1 /-TD-/WARTUNG/Wartung/1.3.2 Elektrik/1.1.1 Ü Elektrik @ 5\mod_1323873802006_2139.docx @ 47843 @ 3 @ 1
+11.3.2 Eléctrica
+P os: 138.9.2 /-TD-/WARTUNG/Wartung/1.3.2 Elektrik/1.1.1.1 Allgemeine Sichtprüfung @ 5\mod_1323873832709_2139.docx @ 47859 @ 4 @ 1
+P os: 138.9.3 /-TD-/WARTUNG/Wartung/1.3.2 Elektrik/1.1.1.1 Lüfterbleche reinigen @ 5\mod_1323873848365_2139.docx @ 47875 @ 4 @ 1
+P os: 138.9.4 /-TD-/WARTUNG/Wartung/1.3.2 Elektrik/1.1.1.1 Sichtprüfung Kabelführung @ 5\mod_1323873899098_2139.docx @ 47890 @ 4 @ 1
+P os: 138.9.5 /-TD-/WARTUNG/Wartung/1.3.2 Elektrik/1.1.1.1 Generatoren @ 5\mod_1323874001143_2139.docx @ 47920 @ 4 @ 1
+P os: 138.9.6 /-TD-/WARTUNG/Wartung/1.3.2 Elektrik/1.1.1.1 Optische Lichttaster @ 5\mod_1323874089344_2139.docx @ 47950 @ 4 @ 1
+P os: 138.9.7 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 99
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.2.1 Vista general a la máquina | - | - | diario | diario | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.2.2 Quitar la suciedad de la chapa del motor de ventilación | - | - | cada 200 hr. o 1x/mes | cada 200 hr. o 1x/mes | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.2.3 Examinar todos los tornillos del armario electrico | - | - | cada 200 hr. o 1x/mes | cada 200 hr. o 1x/mes | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.2.4 Generadores
+Limpiar los generadores
+Limpiar los generadores cuando se desmonten de
+sus cajas, soplar con mucho cuidado (La presión de
+aire < 6 bar) los alrededores del circuito del
+generador. | - | - | cada 200 hr. o 1x/mes | cada 200 hr. o 1x/mes | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.2.5 Sensores opticos
+Frotar con cuidado el pulsador luminoso con un trapo suave y limpio y comprobar | - | - | diario | diario | -
+
+[Page 100]
+ECOFLEX iSONIC
+Conservación y mantenimiento
+P os: 138.9.8 /-TD-/WARTUNG/Wartung/1.3.2 Elektrik/1.1.1.1 Schaltschranklüfter @ 5\mod_1323873937035_2139.docx @ 47905 @ 4 @ 1
+P os: 138.9.9 /-TD-/WARTUNG/Wartung/1.3.2 Elektrik/1.1.1.1 Schaltschrank @ 5\mod_1323874038923_2139.docx @ 47935 @ 4 @ 1
+P os: 138.9.10 /-TD-/WARTUNG/Wartung/1.3.2 Elektrik/1.1.1.1 Sicherheitsschaltleiste @ 7\mod_1408685512445_2139.docx @ 72899 @ 4 @ 1
+P os: 138.10 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100 100.096.01
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.2.6 Ventilador de aire del armario electrico Fa.Rittal
+Limpiar o cambiar filtros de estera
+Abrir rejilla protectora y cambiar los filtros de
+estera o limpiar con aire a presión y volver a
+colocar. (Fabr. Rittal, Nº. SK 3172.100).. | - | - | cada 200 hr. o 1x/mes | cada 200 hr. o 1x/mes | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.2.7 Armario electrico
+Comprobar la firmeza de bornes de rosca en el armario electrico y apretar en
+caso necesario. | - | - | Cada 1000 hr. o.
+1x/año | Cada 1000 hr. o. | -
+- | - | - | - | 1x/año | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.2.8 Control y revisión del listón de seguridad (puerta protección)
+Limpieza del listón de seguridad y
+revisión de su función correcta. La
+comprobación se realiza, utilizando la
+varilla de prueba.
+El efecto protector del listón de
+seguridad se revisa al menos una vez al año por personal cualificado según las
+instrucciones del fabricante. | - | - | diario
+y
+1x/año | diario | -
+- | - | - | - | y | -
+- | - | - | - | 1x/año | -
+
+[Page 101]
+ECOFLEX iSONIC
+Conservación y mantenimiento
+P os: 138.11.1 /-TD-/WARTUNG/Wartung/1.3.3 Mechanik/1.1.1 Ü Mechanik @ 5\mod_1323874918578_2139.docx @ 48147 @ 3 @ 1
+11.3.3 Mecánica
+P os: 138.11.2 /-TD-/WARTUNG/Wartung/1.3.3 Mechanik/1.1.1.1 Allgemeine Sichtprüfung @ 5\mod_1323874405385_2139.docx @ 48011 @ 4 @ 1
+P os: 138.11.3 /-TD-/WARTUNG/Wartung/1.3.3 Mechanik/1.1.1.1 Pneumatikzylinder @ 5\mod_1323874525758_2139.docx @ 48072 @ 4 @ 1
+P os: 138.11.4 /-TD-/WARTUNG/Wartung/1.3.3 Mechanik/1.1.1.1 Aufnahmen @ 5\mod_1323874421572_2139.docx @ 48027 @ 4 @ 1
+P os: 138.11.5 /-TD-/WARTUNG/Wartung/1.3.3 Mechanik/1.1.1.1 Tiefenabschaltung @ 5\mod_1323874453634_2139.docx @ 48042 @ 4 @ 1
+100.096.01 101
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.3.1 Vista general a la máquina | - | - | diario | diario | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.3.2 Cilindro neumático
+Limpieza de vástago y ejes de guía
+Pulverizar después de limpiar con spray de teflón. | - | - | cada 50 hr. o
+1x/semana
+Spray de teflón
+El limpiador tiene que
+ser sin disolvente. | cada 50 hr. o | -
+- | - | - | - | 1x/semana | -
+- | - | - | - | Spray de teflón | -
+- | - | - | - | El limpiador tiene que | -
+- | - | - | - | ser sin disolvente. | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.3.3 Cunas de posiciónamiento, lunetas e unidades de presionado
+Cunas de posiciónamiento, lunetas e unidades de presionado limpiar y
+comprobar. | - | - | diario
+Producto de limpieza
+Sika Nr5 | diario | -
+- | - | - | - | Producto de limpieza | -
+- | - | - | - | Sika Nr5 | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.3.4 Desconexión en función de la hondura
+Limpiar parada de profundidad y comprobar función.
+En potenciómetros
+Seleccionar en pantalla "Parámetros"--> "manual.
+Trabajo", seleccionar UA deseada, al movimiento del
+potenciómetro tiene que cambiar el valor - IST. | - | - | cada 50 hr. o
+1x/semana | cada 50 hr. o | -
+- | - | - | - | 1x/semana | -
+
+[Page 102]
+ECOFLEX iSONIC
+Conservación y mantenimiento
+P os: 138.11.6 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+P os: 138.11.7 /-TD-/WARTUNG/Wartung/1.3.3 Mechanik/1.1.1.1 Vorschubeinheit @ 5\mod_1323874487118_2139.docx @ 48057 @ 4 @ 1
+P os: 138.11.8 /-TD-/WARTUNG/Wartung/1.3.3 Mechanik/1.1.1.1 Führungsschienen @ 5\mod_1323874569163_2139.docx @ 48087 @ 4 @ 1
+102 100.096.01
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.3.5 Unidades de avance
+Controlar e limpiar unidades de avance.
+Limpieza de vástago y ejes de guía. | - | - | cada 50 hr. o
+1x/semana
+El limpiador tiene que
+ser sin disolvente. | cada 50 hr. o | -
+- | - | - | - | 1x/semana | -
+- | - | - | - | El limpiador tiene que | -
+- | - | - | - | ser sin disolvente. | -
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.3.6 Guias e unidades lineares
+Limpiar e engrasar las guias e los cojinetes de las unidades lineares | - | - | cada 50 hr. o
+1x/semana
+El limpiador tiene que
+ser sin disolvente.
+Engrase con grasa
+para rodamientos -
+SKF LGMT 2/0.2. | cada 50 hr. o | -
+- | - | - | - | 1x/semana | -
+- | - | - | - | El limpiador tiene que | -
+- | - | - | - | ser sin disolvente. | -
+- | - | - | - | Engrase con grasa | -
+- | - | - | - | para rodamientos - | -
+- | - | - | - | SKF LGMT 2/0.2. | -
+
+[Page 103]
+ECOFLEX iSONIC
+Conservación y mantenimiento
+P os: 138.11.9 /-TD-/WARTUNG/Wartung/1.3.3 Mechanik/1.1.1.1 Gasdruckfeder Schwingtür @ 7\mod_1408685636850_2139.docx @ 72917 @ 4 @ 4
+P os: 139 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+100.096.01 103
+
+ | Area - Utilidades |  |  | Intervalo | 
+11.3.3.7 Muelle de compresión por
+gas
+Mover periodicamente ele muelle de
+compresión por gas con la finalidad
+de abrir y cerrar la puerta basculante.
+Cambiar el muelle de compresión por
+gas tras 10000 carreras o a más
+tardar tras 3aňos, debe ser cambiado
+por personal técnico cualificado.
+Durante el cambio de los muelles de
+compresión por gas hay que asegurar
+la puerta basculante tomando las
+medidas adecuadas. | - | - | cada 50 hr. o
+1x/semana | cada 50 hr. o | -
+- | - | - | - | 1x/semana | -
+
+[Page 104]
+ECOFLEX iSONIC
+Puesta de fuera de servicio
+P os: 140.1 /-TD-/AUßERBETRIEBNAHME/1. Ü_Außerbetriebnahme @ 7\mod_1379571382779_2139.docx @ 58984 @ 1 @ 1
+12 Puesta de fuera de servicio
+P os: 140.2 /-TD-/AUßERBETRIEBNAHME/1.1 Vorübergeh. Außerbetriebn./Verlagerung @ 7\mod_1379571310856_2139.docx @ 58966 @ 2333 @ 1
+12.1 Puesta de fuera de servicio temporal/desplazamiento de la maquina
+En caso de poner la maquina fuera de servicio o se mueve una maquina de su
+lugar, primero debe ser separado de las redes de suministro eléctrico y neumático.
+12.1.1 Separación de la línea de la red eléctrica
+1. Accionar la tecla “Mando desactivado”.
+(esperar hasta quando se apaga el touch panel)
+2. Conmutar el interruptor principal a la posición „OFF”.
+3. Gire el interruptor de entrada con relé de mínima tensión (generalmente
+10Q1) en la posición 0.
+4. Retire el enchufe de alimentación
+4. Conexión permanente:
+La línea de suministro de la red eléctrica (fusible apagado).
+5. Conexión permanente:
+Desconecte la línea de suministro.
+104 100.096.01
+
+ | Advertencia | 
+- | véase también el capítulo "Transporte" y "Puesta en marcha" | -
+
+ | Peligro de muerte! | 
+- | Alta tensión eléctrica! | -
+- | Al desconectar el interruptor principal, quedan los enchufes del armario de | -
+- | conexiones para el aparato de programación, la iluminación del armario de | -
+- | conexiones y la iluminación de la máquina bajo tensión. Los conductores de | -
+- | estas partes son de color naranja. | -
+- | Después de apagar, es posible que, para un lápso de tiempo, en la instalación se | -
+- | forme una tensión residua! | -
+
+[Page 105]
+ECOFLEX iSONIC
+Puesta de fuera de servicio
+12.1.2 Desconexión de suministro de aire neumastico
+1. Desconectar la maquina de suministro de la red electrica.
+2. Cerrar la válvula de cierre en la unidad de mantenimiento. Máquina
+descarga el aire neumático.
+3. quitar la conexión de aire
+12.1.3 Reconexion despues de trasladado de la maquina
+La conexion neumatica se realiza atraves de un orden inverso de la deconexion.
+Orden de la reconexion electrica:
+1. Conexión permanente:
+La línea de suministro de la red eléctrica (fusible apagado).
+2. Inserte el enchufe de alimentación o vuelva a conectar la línea de
+alimentación.
+3. Conexión permanente:
+Fusible interruptor.
+4. Compruebe el campo giratorio de corriente. Campo de rotación de corriente
+es a la derecha.
+5. Gire el interruptor de entrada con relé de mínima tensión (generalmente
+10Q1) en la posición 1.
+6. El interruptor principal en "ON".
+7. Pulsar el botón "Control ON".
+P os: 140.3 /-TD-/AUßERBETRIEBNAHME/1.1 Endgült. Außerbetriebnahme/Entsorgung @ 5\mod_1296627525762_2139.docx @ 45147 @ 2 @ 1
+12.2 Puesta de fuera de servicio final / Eliminación de desechos
+= == Ende der Liste für Textmarke Inhalt ===
+100.096.01 105
+
+ | Después de la puesta de fuera de servicio final, el dispositivo o la máquina / | 
+- | caseta intercambiable de soldadura / instalación debe ser desechado / reciclado | -
+- | debidamente y ecológicamente según la legislación local aplicable. | -

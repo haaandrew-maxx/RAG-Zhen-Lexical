@@ -1,0 +1,60 @@
+[Page 1]
+INSTRUCCIONES DE CONTROL
+P P ooss:: 12 //--TTDD--//PPRRÜÜFFAANNWWEEIISSUUNNGGEENN//1P rÜü fPunrügf aHnuwbetüisru @ng 8e\nm @od 8_1\m44o5d5_11944463363748969_27153090._d2o1c3x9 @.d o8c9x4 @75 8@89 14272 @22 1@ @ 1 1
+1 Control puerta corredera
+1.1 Motivo del control general regular
+Determinación de la función correcta del completo sistema de seguridad.
+El intervalo del control general del sistema de seguridad depende del uso.
+Es deber de diligencia del gestor industrial de la máquina planificar estas
+medidas así como su cumplimiento.
+Controlar la instalación según lo prescriben las normas locales vigentes dentro
+de los plazos mencionados en éstas.
+Según la norma ASR A1.7 se requiere en Alemania un control anual.
+1.2 Requerimientos/medios de control
+ La medición se realiza mediante una persona preparada y habilitada
+ medios de control adecuados para el control
+1.3 Secuencia del control diario
+1. Controlar si hay algún daño exterior en las barras de conmutación.
+2. Controlar el funcionamiento correcto de las barras de conmutación con el
+cuerpo de control.
+Activando las barras de control es necesario que se active un movimiento
+de inversión inmediato de la puerta corredera.
+3. Control de la marcha fácil de la puerta corredera y guías en estado
+despresurizado.
+4. Control de desgaste y de estanqueidad en los cilindros de accionameinto
+de la puerta corredera (control óptico y acústico).
+5. Control de la presión actual con el protocolo de primera puesta en marcha.
+6. Control de la fuerza de cierre con un dispositivo de medición adecuado,
+Secuencia de la prueba: Puerta corredera centro, izquierda afuera,
+derecha afuera.
+7. Con una puerta corredera con conexión de cadena, controlar la tensión
+suficiente y la guía correcta de la cadena.
+8. Controlar que el interruptor final de seguridad de la puerta corredera
+(puerta corredera cerrada) esté correctamente fijo y funcionando
+correctamente.
+9. Controlar si el ingreso de personas o de partes del cuerpo a un lugar de
+peligro sólo sea posible a través del campo de protección del sistema.
+(p.ej. ¿se ha retirado el dispositivo de seguridad?)
+10. Controlar si el efecto de protección es efectivo para el modo de
+funcionamiento ajustado.
+1
+
+[Page 2]
+INSTRUCCIONES DE CONTROL
+1.4 Resultados de pruebas
+Esto debe tener el siguiente resultado:
+ La puerta corredera no debe mostrar daños externos
+ En todos los modos de funcionamiento la función debe corresponder alas
+indicaciones de la primera puesta en marcha.
+ Documentar los resultados de las pruebas y los daños registrados en el
+informe de prueba.
+Con un funcionamiento inseguro del sistema de seguridad es necesario detener la
+instalación inmediatamente y realizar un control de seguridad completo según el
+manual de instrucciones y de conexiones. Igualmente deben realizarse controles
+generales regulares a partir de las listas de control allí presentadas.
+=== Ende der Liste für Textmarke Inhalt ===
+2
+
+ | ¡ATENCIÓN! | 
+- | En caso de suceder algún error durante la prueba, no seguir usando la | -
+- | instalación. | -

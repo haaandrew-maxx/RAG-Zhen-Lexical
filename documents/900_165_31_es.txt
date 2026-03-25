@@ -1,0 +1,350 @@
+[Page 1]
+re
+Erzeugt 05.06.25 FU
+A.1 In Work 100_096_01 900_165_31_ES Pneumatikplan 1 10
+Bearb. 05.06.25 FU
+
+Visión general pilotaje de a
+c Área de trabajo
+grupo 0
+d
+máquina e
+f
+g
+colores de manguera
+azul Posición de trabaj
+rojo Posición inicial
+Verde Refrigeración
+amarillo Vacío
+negro Aire de pilotaje
+Unidad de mantenimiento
+6.0Q
+0.4 0.8
+0.5
+0.2
+1 2 1 2 1 2
+a
+3 3
+b
+0.3 0.7 0.9
+0.1 0.6
+accesible 0.10
+exterior
+0.12
+0.16 válvula de escape Riegler 65/0-S
+0.12 depósito de aire Kleusberg 20.1.020.06
+0.11 Pistola de aire comprimido - -
+0.10 presostato Festo PEV-1/4-B
+0.11
+0.7 válvula de arranque progresiFveosto HEL-D-MIDI
+0.6 válvula de cierre Festo HEE-D-MIDI-24
+0.5 regulador Festo LR-3/8-D-MIDI
+0.16 0.4/0.8 Válvula de seguridad Kleusberg 49.0.070.00
+0.3/0.9 módulo de derivación Festo FRM-D-MIDI
+0.2 filtro Festo LF-3/8-D-MIDI-A
+0.1 Válvula manual Festo HE-D-MIDI
+Pos Benennung Hersteller Bestellnummer
+Datum Name Version und Status PDMLink Erstverwendung oder Bezug Zeichnungsnummer Benennung Blatt-Nr.Blatt-Anz. | - | - | -
+- | 0.16 | válvula de escape Riegler | 65/0-S
+- | 0.12 | depósito de aire Kleusberg | 20.1.020.06
+- | 0.11
+0.10 | Pistola de aire comprimido -
+presostato Festo | -
+PEV-1/4-B
+- | 0.7
+0.6 | válvula de arranque progresiFveosto
+válvula de cierre Festo | HEL-D-MIDI
+HEE-D-MIDI-24
+- | 0.5 | regulador Festo | LR-3/8-D-MIDI
+- | 0.4/0.8
+0.3/0.9 | Válvula de seguridad Kleusberg
+módulo de derivación Festo | 49.0.070.00
+FRM-D-MIDI
+- | 0.2 | filtro Festo | LF-3/8-D-MIDI-A
+- | 0.1 | Válvula manual Festo | HE-D-MIDI
+- | - | - | Bestellnummer
+Blatt-Nr.Blatt-Anz.
+
+[Page 2]
+Erzeugt 05.06.25 FU
+A.1 In Work 100_096_01 900_165_31_ES Pneumatikplan 2 10
+Bearb. 05.06.25 FU
+
+grupo 0
+máquina
+Pilotaje
+No está
+1.-Q 1.-Q 1.-Q 1.-Q 1.-Q
+0.50 0.51 0.52 0.53 0.54
+28 28 28 28 28
+1 2 1 2 1 2 1 2 1 2
+3 3 3 3 3
+0.55 0.56 0.57 0.58 0.59
+cerca de la válvula neumática cerca de la válvula neumática cerca de la válvula neumática cerca de la válvula neumática cerca de la válvula neumática
+en la zona de trabajo en la zona de trabajo en la zona de trabajo en la zona de trabajo en la zona de trabajo
+a a
+b b
+c
+d
+e
+f
+g
+0.55-0.59 presostato Festo SPBA-P2R-G18-W-M12-0,25X
+0.50-0.54 Válvula de validación Festo MFH-3-1/4-24V
+Pos Benennung Hersteller Bestellnummer
+Datum Name Version und Status PDMLink Erstverwendung oder Bezug Zeichnungsnummer Benennung Blatt-Nr.Blatt-Anz. | - | - | -
+- | presostato | Festo SPBA-P2 | R-G18-W-M12-0,25X
+- | Válvula de validaci | ón Festo MFH-3- | 1/4-24V
+- | - | - | lnummer
+att-Nr.Blatt-Anz.
+
+1.-Q
+0.
+28
+1
+3
+0.56
+
+- | - | - | 3
+0.57
+cerca de la válvula neumática
+en la zona de trabajo | - | - | - | -
+
+[Page 3]
+grupo 0
+máquina
+Mesa móvil EcoFlex iSonic
+Mesa móvil Apriete
+1.0 2.0 3.0
+S.-1a S.-1b
+-.2 -.3
+4 2 4 2
+-.1 -.1
+Q-.1a Q-.1b Q-.1
+84 51 3 82 84 51 3
+a a
+b b
+1.0 Cilindro (cid:1)n(cid:2) 32; Carrera 300 Festo DNC-32-300-PPV-A
+¡ATENCIÓN! Línea está bajo presión
+Pos Benennung Hersteller Bestellnummer
+Datum Name Version und Status PDMLink Erstverwendung oder Bezug Zeichnungsnummer Benennung Blatt-Nr.Blatt-Anz.
+Erzeugt 05.06.25 FU
+A.1 In Work 100_096_01 900_165_31_ES Pneumatikplan 3 10
+Bearb. 05.06.25 FU
+
+1.2-1.3
+2.1 | válvula de estrangulación y antirretoLreng
+5/2 Válvula de vías Fes | oris
+to | -
+CPE18-M1H-5L-1/4
+1.1 | 5/3 Válvula de vías Fes | to | CPE18-M1H-5/3G-1/4
+2.0-3.0 | componente de sujeción Zim | mer | MK 1501 A
+
+[Page 4]
+grupo 30
+Cuna
+Vacío Vacío Pisador
+(círculo 1) (círculo 1)
+31.0 32.0 33.0
+S.-1a S.-1b
+-.2 -.3
+Q-.1c
+3 3
+Q-.1a
+a a
+b b
+c c
+31.0,32.0 ventosa Festo ESS-10-SU
+¡ATENCIÓN! Línea está bajo presión
+Pos Benennung Hersteller Bestellnummer
+DDaattuumm NNaammee VVeerrssiioonn uunndd SSttaattuuss PPDDMMLLiinnkk EErrssttvveerrwweenndduunngg ooddeerr BBeezzuugg ZZeeiicchhnnuunnggssnnuummmmeerr BBeenneennnnuunngg BBllaatttt--NNrr..BBllaatttt--AAnnzz..
+EErrzzeeuuggtt 0055..0066..2255 FFUU
+AA..11 IInn WWoorrkk 110000__009966__0011 990000__116655__3311__EESS Pneumatikplan 44 1100
+BBeeaarrbb.. 0055..0066..2255 FFUU
+
+2
+Q-.1c | - | - | - | - | -
+
+2 | - | - | -
+
+- | - | 84 51 3 | -
+
+33.1 Cilind | ro (cid:1)n(cid:2) 16; Carrer | a 15 Festo | ADNGF-16-15-P-A
+33.0 5/2 Vá | lvula de vías | Festo | CPE18-M1H-5LS-1/4
+31.1,32.1 Boquil | la de succión de | vacíoFesto | OVEM-10-H-B-QO-CE-N-2P
+
+[Page 5]
+Erzeugt 05.06.25 FU
+A.1 In Work 100_096_01 900_165_31_ES Pneumatikplan 5 10
+Bearb. 05.06.25 FU
+
+grupo 50
+Pisador
+Cantidad adecuada a las necesidades
+No está
+NHB 1 NHB NHB NHB NHB NHB
+51.0* 52.0* 53.0* 54.0* 55.0* 56.0*
+S.-1a S.-1a S.-1a S.-1a S.-1a S.-1a
+-.2 -.2 -.2 -.2 -.2 -.2
+444444 222222 4 2 4 2 4 2 4 2 4 2
+-.1 -.1 -.1 -.1 -.1 -.1
+QQQQQQ------......111111 Q-.1 Q-.1 Q-.1 Q-.1 Q-.1
+111111444444 888888444444 555555111111 333333 111111222222 14 84 51 3 12 14 84 51 3 12 14 84 51 3 12 14 84 51 3 12 14 84 51 3 12
+a a
+b b
+c c
+51.2-56.2 Regulador presión manómetrSoMC ARM11AB1-R05A
+51.1-56.1 5/2 Válvula de vías Festo CPE18-M1H-5LS-1/4
+* = A hasta L (max. 12 pisadores por válvula)
+51.0.x-56.0.x Pisador Festo -
+Pos Benennung Hersteller Bestellnummer
+Datum Name Version und Status PDMLink Erstverwendung oder Bezug Zeichnungsnummer Benennung Blatt-Nr.Blatt-Anz. | - | -
+- | Regulador presión manómetrSoMC
+5/2 Válvula de vías Festo | ARM11AB1-R05A
+CPE18-M1H-5LS-1/4
+- | Pisador Festo | -
+- | Benennung Hersteller
+Benennung | Bestellnummer
+Blatt-Nr.Blatt-Anz.
+
+- | 888888444444 555555111111 | - | 4 51 3 | - | - | - | -
+
+[Page 6]
+Erzeugt 05.06.25 FU
+A.1 In Work 100_096_01 900_165_31_ES Pneumatikplan 6 10
+Bearb. 05.06.25 FU
+
+grupo 80
+Refrigeración de sonotrodos
+No está
+VE 1-6 VE VE VE VE VE VE
+81.0 82.0 83.0 84.0 85.0 86.0 87.0
+3 3 3 3 3 3 3
+2 2 2 2 2 2 2
+-.3 -.3 -.3 -.3 -.3 -.3 -.3
+1 1 1 1 1 1 1
+2 2 2 2 2 2 2
+-.1
+Q-.1 Q-.1 Q-.1 Q-.1 Q-.1 Q-.1 Q-.1
+82 1 3 82 1 3 82 1 3 82 1 3 82 1 3 82 1 3 82 1 3
+a a
+b b
+81.3-81.7 Luftkühlung Helm - -
+81.2-87.2 válvula de estrangulación y antirretoLrengoris -
+81.1-87.1 3/2-Válvula de vías Festo CPE18-M1H-3GL-1/4
+Pos Benennung Hersteller Bestellnummer
+Datum Name Version und Status PDMLink Erstverwendung oder Bezug Zeichnungsnummer Benennung Blatt-Nr.Blatt-Anz. | - | - | - | -
+- | 81.3-81.7 Luftkühlu | ng Helm - |  | -
+- | 81.2-87.2 válvula d
+81.1-87.1 3/2-Válvu | e estrangulación y antirretoLre
+la de vías Fe | ngoris
+sto | -
+CPE18-M1H-3GL-1/4
+- | - | Hersteller Bestellnummer
+Benennung Blatt-Nr.Blatt-Anz. | - | -
+
+[Page 7]
+grupo 100
+Unidad de avance
+bloque 1
+No está
+VE 01 VE 02 VE 03 VE VE
+(US) (US) (US) (US) (US)
+101.0 102.0 103.0 104.0 105.0
+S.-1a S.-1b S.-1a S.-1b S.-1a S.-1b S.-1a S.-1b S.-1a S.-1b
+-.2 -.2
+4 2
+Q-.1 -.1
+14 84 51 3 12
+a a
+b b
+c c
+101.2-105.2
+101.1
+101.0-105.0
+Pos Benennung Hersteller Bestellnummer
+Datum Name Version und Status PDMLink Erstverwendung oder Bezug Zeichnungsnummer Benennung Blatt-Nr.Blatt-Anz.
+Erzeugt 05.06.25 FU
+A.1 In Work 100_096_01 900_165_31_ES Pneumatikplan 7 10
+Bearb. 05.06.25 FU
+
+Regulador presión manóm
+5/2 Válvula de vías | etrSoMC
+Festo | ARM11AB1-R05A
+Tipo M en terminal de válvula
+Unidad de avance | Sonotronic | -
+
+[Page 8]
+grupo 100
+Unidad de avance
+bloque 2
+No está
+VE 04 VE 05 VE 06 VE VE
+(US) (US) (US) (US) (US)
+106.0 107.0 108.0 109.0 110.0
+S.-1a S.-1b S.-1a S.-1b S.-1a S.-1b S.-1a S.-1b S.-1a S.-1b
+-.2 -.2
+4 2
+Q-.1 -.1
+14 84 51 3 12
+a a
+b b
+c c
+106.2-110.2
+106.1
+106.0-110.0
+Pos Benennung Hersteller Bestellnummer
+Datum Name Version und Status PDMLink Erstverwendung oder Bezug Zeichnungsnummer Benennung Blatt-Nr.Blatt-Anz.
+Erzeugt 05.06.25 FU
+A.1 In Work 100_096_01 900_165_31_ES Pneumatikplan 8 10
+Bearb. 05.06.25 FU
+
+Regulador presión manó
+5/2 Válvula de vías | metrSoMC
+Festo | ARM11AB1-R05A
+Tipo M en terminal de válvula
+Unidad de avance | Sonotronic | -
+
+[Page 9]
+grupo 100
+Unidad de avance
+4 2
+Q-.1 -.1
+14 84 51 3 12
+a a
+b b
+c
+Pos Benennung Hersteller Bestellnummer
+Datum Name Version und Status PDMLink Erstverwendung oder Bezug Zeichnungsnummer Benennung Blatt-Nr.Blatt-Anz.
+Erzeugt 05.06.25 FU
+A.1 In Work 100_096_01 900_165_31_ES Pneumatikplan 9 10
+Bearb. 05.06.25 FU
+
+111.2-115.2
+111.1 | Regulador presión
+5/2 Válvula de vía | manómetrSoMC
+s Festo | ARM11AB1-R05A
+Tipo M en terminal de válvula
+111.0-115.0 | Unidad de avance | Sonotronic | -
+
+[Page 10]
+Visión general de válvulas
+Válvulas individuales:
+0.5 - MFH-3-1/4-24V
+1.1 - CPE18-M1H-5/3G-1/4
+2.1 - CPE18-M1H-5L-1/4
+31.1 - OVEM-10-H-B-QO-CE-N-2P
+32.1 - OVEM-10-H-B-QO-CE-N-2P
+33.1 - CPE18-M1H-5LS-1/4
+51.1 - CPE18-M1H-5LS-1/4
+81.1 - CPE18-M1H-3GL-1/4
+Datum Name Version und Status PDMLink Erstverwendung oder Bezug Zeichnungsnummer Benennung Blatt-Nr.Blatt-Anz.
+Erzeugt 05.06.25 FU
+A.1 In Work 100_096_01 900_165_31_ES Pneumatikplan 10 10
+Bearb. 05.06.25 FU
+
+terminal de válvulas 1 | - | -
+Multipolo-Terminal Máquina | - | -
+1 | 2 3 4 | 5 6
+101. | 1106.1 | vacío
+M | M M M | M L

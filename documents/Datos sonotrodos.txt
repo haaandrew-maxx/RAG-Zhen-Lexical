@@ -1,0 +1,98 @@
+[Page 1]
+1
+
+ | Datos sonotrodos | - |  | - | -
+- | Proyecto-Nr.: | 100.096.01 | - | Fecha: | 20.06.2025
+- |  | Steering Column Upper Cover VAN E.A | - | Nombre: | de Blanco
+
+Parámetros | Unidad | VE 01 | VE 02 | VE 03 | VE 04 | VE 05 | VE 06 | VE 07 | VE 08 | VE 09 | VE 10 | VE 11 | VE 12 | VE 13 | VE 14
+Generador número |  | 246323 | 232578 | 232948 | 251044 | 232575 | 246334 |  |  |  |  |  |  |  | 
+Sonotrodo número |  | 40193001 | 40193101 | 40193201 | 40193211 | 40193111 | 40193011 |  |  |  |  |  |  |  | 
+Convertidor número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Convertidor tipo |  | K235.044 | K235.044 | K235.040 | K235.040 | K235.044 | K235.044 |  |  |  |  |  |  |  | 
+Desnivel | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ampli |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Contorno |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+Parámetros | Unidad | VE 15 | VE 16 | VE 17 | VE 18 | VE 19 | VE 20 | VE 21 | VE 22 | VE 23 | VE 24 | VE 25 | VE 26 | VE 27 | VE 28
+Generador número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sonotroden número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Convertidor número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Convertidor tipo |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Desnivel | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ampli |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Contorno |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+[Page 2]
+2
+
+ | Datos sonotrodos | - |  | - | -
+- | Project-No.: | 100.096.01 | - | Date: | 20.06.2025
+- |  | Steering Column Upper Cover VAN E.A | - | Name: | de Blanco
+
+Parámetros | Unidad | VE 29 | VE 30 | VE 31 | VE 32 | VE 33 | VE 34 | VE 35 | VE 36 | VE 37 | VE 38 | VE 39 | VE 40 | VE 41 | VE 42
+Generador número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sonotrodo número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Convertidor número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Convertidor tipo |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Desnivel | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ampli |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Contorno |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+Parámetros | Unidad | VE 43 | VE 44 | VE 45 | VE 46 | VE 47 | VE 48 | VE 49 | VE 50 | VE 51 | VE 52 | VE 53 | VE 54 | VE 55 | VE 56
+Generador número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sonotroden número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Convertidor número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Convertidor tipo |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Desnivel | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ampli |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Contorno |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+[Page 3]
+3
+
+ | Datos sonotrodos | - |  | - | -
+- | Project-No.: | 100.096.01 | - | Date: | 20.06.2025
+- |  | Steering Column Upper Cover VAN E.A | - | Name: | de Blanco
+
+Parámetros | Unidad | VE 57 | VE 58 | VE 59 | VE 60 | VE 61 | VE 62 | VE 63 | VE 64 | VE 65 | VE 66 | VE 67 | VE 68 | VE 69 | VE 70
+Generador número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sonotrodo número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Convertidor número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Convertidor tipo |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Desnivel | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ampli |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Contorno |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+Parámetros | Unidad | VE 71 | VE 72 | VE 73 | VE 74 | VE 75 | VE 76 | VE 77 | VE 78 | VE 79 | VE 80 | VE 81 | VE 82 | VE 83 | VE 84
+Generador número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sonotroden número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Convertidor número |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Convertidor tipo |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Desnivel | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z1 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 x | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Z2 y | mm |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ampli |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Contorno |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 

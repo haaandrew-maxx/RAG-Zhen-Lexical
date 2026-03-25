@@ -1,0 +1,2763 @@
+[Page 1]
+SP3000
+Manual de instrucciones
+BA 8034_2.6_EN (05/2017)
+ESPAÑOL
+www.troteclaser.com
+
+[Page 2]
+Trotec Laser GmbH
+Linzer Straße 156
+A – 4600 Wels
+AUSTRIA
+Trotec Laser GmbH
+Freilingerstraße 99
+A – 4614 Marchtrenk
+AUSTRIA
+Tel.: +43-(0)7242-239-0
+trotec@troteclaser.com
+www.troteclaser.com
+Manual traducido
+Cambios Las especificaciones técnicas están sujetas a modificaciones sin que se
+técnicos avise al respecto.
+Trotec Laser GmbH se reserva el derecho de mejorar o modificar cualquiera
+de los productos sin previo aviso.
+© Copyright Esta documentación, incluidas las ilustraciones, es propiedad intelectual de
+Trotec Laser GmbH. La documentación se le entrega al usuario para su uso
+exclusivamente personal. No está permitida la reproducción, la traducción ni
+cualquier tipo de distribución a terceros sin el consentimiento previo de
+Trotec Laser GmbH. Toda infracción legal será objeto de denuncia.
+www.troteclaser.com
+2 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 3]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+Índice
+ÍNDICE
+1 GENERAL .......................................................................................................................................... 6
+1.1 Información sobre este manual .................................................................................................. 6
+1.1.1 Almacenamiento del manual ............................................................................................ 6
+1.1.2 Documentación complementaria ...................................................................................... 6
+1.2 Explicación de símbolos ............................................................................................................. 7
+1.3 Responsabilidad y garantía ........................................................................................................ 8
+1.4 Volumen de suministro (configuración estándar) ....................................................................... 9
+1.5 Placa de tipo ............................................................................................................................. 10
+2 Seguridad ........................................................................................................................................ 11
+2.1 Principios de seguridad ............................................................................................................ 11
+2.1.1 Uso previsto .................................................................................................................... 11
+2.1.2 Uso inapropiado ............................................................................................................. 11
+2.1.3 Modificación de la máquina ............................................................................................ 12
+2.1.4 Modos de funcionamiento .............................................................................................. 12
+2.1.6 Regulaciones de seguridad aplicables ........................................................................... 13
+2.2 Seguridad del láser ................................................................................................................... 14
+2.2.1 Clasificación del láser ..................................................................................................... 14
+2.2.2 Láser y área de trabajo .................................................................................................. 16
+2.3 Área de responsabilidad ........................................................................................................... 17
+2.3.1 Responsabilidades del operador .................................................................................... 17
+2.3.2 Responsabilidades del personal operario ...................................................................... 18
+2.4 Requisitos del personal de manejo y de servicio ..................................................................... 19
+2.5 Etiquetas de advertencia e información ................................................................................... 20
+2.6 Dispositivos de seguridad ......................................................................................................... 22
+2.6.1 Recapitulación ................................................................................................................ 22
+2.6.2 Interruptor principal ........................................................................................................ 23
+2.6.3 Interruptor de llave ......................................................................................................... 23
+2.6.4 Botón de parada de emergencia .................................................................................... 23
+2.6.5 Elementos de revestimiento, panel lateral y tapas......................................................... 23
+2.6.6 Lámpara de advertencia ................................................................................................. 23
+2.6.7 Tope y microinterruptor .................................................................................................. 24
+2.6.8 Barrera fotoeléctrica ....................................................................................................... 24
+2.6.9 Escudo deflector láser y sensor hall .............................................................................. 24
+2.6.10 Sensor fotoeléctrico y reflector ....................................................................................... 24
+2.6.11 En caso de mal funcionamiento de un dispositivo de seguridad ................................... 24
+2.7 En caso de emergencia ............................................................................................................ 25
+2.7.1 En caso de mal funcionamiento ..................................................................................... 25
+2.7.2 En caso de accidente, primeros auxilios ........................................................................ 25
+2.8 Peligros específicos .................................................................................................................. 26
+2.8.1 Peligro de incendio ......................................................................................................... 26
+2.8.2 Gases, humos y polvo .................................................................................................... 26
+2.8.3 Material reflector ............................................................................................................. 27
+2.8.4 Componentes ópticos ..................................................................................................... 28
+3 Declaración de conformidad CE ................................................................................................... 30
+4 Datos técnicos ................................................................................................................................ 31
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+3 / 92
+
+[Page 4]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+Índice
+4.1 Ficha de datos .......................................................................................................................... 31
+4.2 Dimensiones y peso ................................................................................................................. 34
+4.2.1 Dimensiones de la máquina y peso ............................................................................... 34
+4.2.2 Dimensiones exterior del panel de manejo .................................................................... 36
+4.2.3 Dimensiones exteriores de la aspiración móvil .............................................................. 37
+4.2.4 Aspiración (opcional) ...................................................................................................... 38
+4.3 Materiales ................................................................................................................................. 38
+5 Recapitulación de la máquina ....................................................................................................... 40
+5.1 Recapitulación general ............................................................................................................. 40
+5.2 Elementos de manejo ............................................................................................................... 41
+5.2.1 Recapitulación de elementos de manejo ....................................................................... 41
+5.2.2 Panel de manejo............................................................................................................. 42
+5.2.3 Pantalla de aire comprimido ........................................................................................... 48
+5.2.4 Regulador de aire comprimido ....................................................................................... 48
+5.2.5 Interruptor de llave ......................................................................................................... 48
+5.2.6 Botón de parada de emergencia .................................................................................... 48
+5.2.7 Botón de segmento de aspiración .................................................................................. 49
+5.2.8 Máx. aire comprimido / lámpara de control .................................................................... 49
+5.3 Mesas (concepto de mesa multifuncional) ............................................................................... 50
+5.3.1 Mesas de corte ............................................................................................................... 50
+5.4 Lentes ....................................................................................................................................... 52
+5.5 Boquillas: .................................................................................................................................. 52
+6 Transporte, descarga y embalaje ................................................................................................. 53
+6.1 Notas de seguridad ................................................................................................................... 53
+6.2 Estado de entrega .................................................................................................................... 53
+6.3 Temperatura y humedad .......................................................................................................... 54
+6.4 Herramientas requeridas para descargar y transportar ........................................................... 54
+6.5 Reubicación de la máquina ...................................................................................................... 54
+7 Configuración e instalación .......................................................................................................... 55
+7.1 Notas de seguridad ................................................................................................................... 55
+7.2 Entorno de funcionamiento ....................................................................................................... 56
+7.2.1 Temperatura y humedad ................................................................................................ 56
+7.2.2 Condiciones de la superficie del suelo ........................................................................... 56
+7.2.3 Condiciones (ambientales) del entorno .......................................................................... 56
+7.3 Configuración e instalación ...................................................................................................... 56
+7.4 Conexiones ............................................................................................................................... 57
+7.4.1 Conectar el cable de alimentación ................................................................................. 57
+7.4.2 Conexión de la consola de manejo ................................................................................ 57
+7.4.3 Conectar un sistema de aspiración Trotec ..................................................................... 57
+7.4.4 Conectar un sistema de refrigeración Trotec ................................................................. 57
+8 Utilización ........................................................................................................................................ 58
+8.1 Antes de la utilización ............................................................................................................... 58
+8.2 Software .................................................................................................................................... 58
+8.3 ENCENDIDO/APAGADO ......................................................................................................... 59
+8.3.1 ENCENDIDO .................................................................................................................. 59
+8.3.2 DESCONECTADO ......................................................................................................... 61
+8.4 Colocación de las lentes ........................................................................................................... 62
+www.troteclaser.com
+4 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 5]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+Índice
+8.5 Colocación de la mesa ............................................................................................................. 63
+8.6 Métodos de enfocado ............................................................................................................... 64
+8.6.1 Recapitulación ................................................................................................................ 64
+8.6.2 Herramienta de enfoque ................................................................................................. 65
+8.6.3 Tecnología Sonar™ ....................................................................................................... 66
+9 Mantenimiento ................................................................................................................................ 67
+9.1 Notas de seguridad ................................................................................................................... 67
+9.2 Calendario de mantenimiento ................................................................................................... 68
+9.3 Limpieza de la máquina ............................................................................................................ 68
+9.4 Limpieza de los grupos ópticos ................................................................................................ 70
+9.4.1 Diseño de lentes ............................................................................................................. 70
+9.4.2 Limpieza de lente ........................................................................................................... 70
+9.4.3 Limpieza del vidrio protector de 2,5'' .............................................................................. 74
+9.4.4 Limpieza del vidrio protector de 5'' ................................................................................. 76
+9.4.5 Limpieza de la boquilla ................................................................................................... 79
+9.5 Limpieza de la aspiración del cabezal ...................................................................................... 79
+9.6 Limpie las rejillas de ventilación de la aspiración para mesa ................................................... 80
+9.7 Limpieza del sensor ultrasónico (opción Sonar Technology™) ............................................... 80
+10 Solución de problemas .................................................................................................................. 81
+10.1 Errores, causas y soluciones .................................................................................................... 81
+11 Datos de contacto .......................................................................................................................... 85
+11.1 Asistencia técnica ..................................................................................................................... 85
+11.2 Oficinas locales / ventas ........................................................................................................... 85
+11.3 Documentación técnica ............................................................................................................ 85
+12 Desmontaje ..................................................................................................................................... 86
+13 Eliminación de residuos ................................................................................................................ 86
+14 Apéndice ......................................................................................................................................... 87
+14.1 Formulario de aceptación ......................................................................................................... 87
+14.2 Formulario de verificación de la formación ............................................................................... 89
+14.3 Formulario de respuesta ........................................................................................................... 90
+14.4 Cómo crear un archivo de servicio ........................................................................................... 91
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+5 / 92
+
+[Page 6]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+1 GENERAL
+1.1 Información sobre este manual
+POR FAVOR, LEA ESTE MANUAL DETENIDAMENTE ANTES DE USAR LA MÁQUINA
+CONSERVE EL MANUAL PARA PODER CONSULTARLO EN EL FUTURO
+Este manual describe la forma segura y adecuada de utilizar la máquina. Esté seguro de seguir las
+instrucciones de seguridad que se dan aquí, así como de seguir las regulaciones de prevención de
+accidentes y de seguridad general aplicables al ámbito de uso.
+Antes de comenzar cualquier trabajo en la máquina, asegúrese de que el manual, especialmente el
+capítulo titulado «Información sobre la seguridad» y las respectivas guías de seguridad, hayan sido
+leídos en su totalidad y hayan sido totalmente comprendidos.
+1.1.1 Almacenamiento del manual
+Este manual es parte integrante de la máquina y, por tanto, debe conservarse en directa cercanía de
+la máquina y debe ser accesible en todo momento.
+1.1.2 Documentación complementaria
+Se puede encontrar documentación complementaria en el DVD adjunto.
+www.troteclaser.com
+6 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+Manual de instrucciones del software
+Trotec JobControl® | JobControl_Operationmanual_x.x.x_Vx.x
+Guía de preinstalación | SP3000_Preinstallation Guide_EN
+
+[Page 7]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+1.2 Explicación de símbolos
+Las notas e instrucciones de seguridad técnica importantes de este manual están marcadas con
+símbolos. Deben cumplirse y seguirse estas instrucciones para la seguridad en el lugar de trabajo.
+Hay que prestarles especial atención para evitar accidentes, lesiones personales y daños materiales.
+PELIGRO
+Este símbolo indica que el incumplimiento de la información conlleva la muerte o lesiones
+graves.
+ADVERTENCIA
+Este símbolo indica que el incumplimiento de la información conlleva la muerte o lesiones
+graves.
+ADVERTENCIA
+Este símbolo advierte de situaciones potencialmente peligrosas relacionadas con el
+voltaje eléctrico. La no observancia de las instrucciones de seguridad conlleva riesgo de
+lesiones graves o la muerte. Hay que prestar especial cuidado durante los trabajos de
+mantenimiento y de reparación.
+ADVERTENCIA
+Este símbolo advierte de situaciones potencialmente peligrosas relacionadas con el rayo
+láser. La no observancia de las instrucciones de seguridad conlleva riesgo de lesiones
+graves.
+Daños materiales
+Este símbolo indica que el incumplimiento de la información puede provocar daños
+materiales, fallos de funcionamiento y/o una avería de la máquina.
+Info
+Este símbolo indica consejos e información que deben observarse para asegurar un
+funcionamiento de la máquina eficiente y exento de fallos.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+7 / 92
+
+[Page 8]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+1.3 Responsabilidad y garantía
+Los períodos de garantía especificados en los «términos y condiciones de garantía» del fabricante
+deben ser vinculantes para el comprador. Si no se especifican períodos de garantía, se aplicarán los
+términos y condiciones generales de venta, entrega y pago.
+Toda la información, ilustraciones, tablas, especificaciones y diagramas incluidos en este manual de
+instrucciones deben ser almacenados cuidadosamente de acuerdo con el estado actual de la
+tecnología. No se asume responsabilidad en lo que respecta a errores, información perdida y
+cualquier otro daño resultante o pérdida consiguiente.
+El estricto cumplimiento de los procedimientos de seguridad descritos en este manual de
+instrucciones y el extremo cuidado cuando se utilicen los equipos son esenciales para evitar y reducir
+la posibilidad de lesiones personales y daños en los equipos. El fabricante no será responsable de
+ningún daño y/o fallo que se derive de la no observancia de las instrucciones de este manual.
+La no observancia de las instrucciones de utilización, mantenimiento y servicio descritas en este
+manual absuelve a Trotec de toda responsabilidad en caso de defectos.
+Además, Trotec Laser GmbH no debe asumir ninguna responsabilidad por cualquier daño causado
+por la utilización de partes y accesorios no orinales.
+Adicionalmente, no se podrá hacer responsable a Trotec Laser GmbH de lesiones personales ni
+daños a la propiedad, de naturaleza directa o específica, pérdidas consiguientes, pérdida de
+beneficios comerciales, interrupción del negocio o pérdida de información comercial derivados del uso
+del equipo descrito en este manual.
+Toda parte integrante del software de estos equipos solo puede utilizarse para los propósitos para los
+que fue suministrado por Trotec Laser GmbH. Está estrictamente prohibido realizar cambios, preparar
+instalaciones, descompilar o desensamblar el software.
+Trotec Laser GmbH se reserva el derecho a actualizar cualquiera de las informaciones, ilustraciones,
+tablas, especificaciones y diagramas incluidos en este manual de instrucciones conforme a los
+desarrollos técnicos en cualquier momento y sin avisar.
+www.troteclaser.com
+8 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 9]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+1.4 Volumen de suministro (configuración estándar)
+1. Máquina láser
+2. Aspiración móvil
+3. Consola de manejo
+4. Torre de PC Dell para la consola de manejo (conforme al pedido)
+5. DVD (con software de láser, controlador de la impresora y manuales de instrucciones)
+6. Herramienta(s) de enfocado (conforme al pedido de lentes)
+7. Kit de limpieza para los grupos ópticos
+8. Boquillas (2 uds.: ø3 y ø7)
+9. Lentes: 2,5” (estándar) y 3,75”, 5,0" (o conforme al pedido)
+10. Concepto de mesa multifuncional (conforme al pedido)
+11. Kit de llave Allen
+12. Llave de tuerca (abierta)
+13. Cable eléctrico de 5 metros (conforme al pedido)
+14. Cable de conexión a ordenador USB
+15. Cable RS232 (conforme al pedido)
+16. Cable de conexión de aspiración (conforme al pedido)
+17. Aspiración (conforme al pedido)
+18. Sistema de refrigeración (conforme al pedido)
+19. Conexión de aire comprimido «acoplamiento Euro» (un acoplamiento de cierre rápido universal
+de un lado)
+El volumen de suministro actual puede ser diferente dependiendo del modelo en concreto, opciones
+de pedido adicionales o modificaciones técnicas recientes.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+9 / 92
+
+[Page 10]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+1.5 Placa de tipo
+La placa de tipo con la marca CE está situada cerca del interruptor principal en el lado derecho de la
+máquina.
+Introduzca número de serie, modelo y año de fabricación en su manual e indíquelo siempre cuando
+se ponga en contacto con nuestro representante u oficinas de servicio para realizar consultas,
+solucionar problemas o pedir piezas de repuesto.
+Número de serie: _____________________________
+Modelo: ___________________________________
+Año de fabricación: ________________________
+www.troteclaser.com
+10 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 11]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2 Seguridad
+En el momento del desarrollo y producción de la máquina, fue construida conforme a las regulaciones
+técnicas reconocidas y, por tanto, se considera que funciona de forma segura.
+En cualquier caso, pueden producirse riesgos si se utiliza la máquina de forma inadecuada, si es
+manejada por personal sin formación o es utilizada para otros propósitos que no sean aquellos para
+los que fue concebida.
+El presente capítulo ofrece una recapitulación de todas las consideraciones de seguridad importantes
+necesarias para asegurar un funcionamiento seguro y exento de problemas por parte de la máquina.
+Otros capítulos de este manual contienen instrucciones de seguridad específicas que están marcadas
+con símbolos con el objetivo de advertir de peligros.
+2.1 Principios de seguridad
+2.1.1 Uso previsto
+La máquina descrita en este manual está concebida exclusivamente para el corte, gravado y
+marcado láser de no-metal y material de acuerdo con el uso previsto de la máquina utilizando
+el software suministrado.
+¡Solo deberá utilizar, mantener y reparar la máquina aquel personal con formación que esté
+familiarizado con sus aplicaciones de uso previstas y sus posibles!
+Utilice la máquina solo en condiciones técnicas idóneas y si cumple totalmente con la directiva CE
+sobre máquinas.
+Para detalles materiales vea el capítulo «Materiales» o póngase en contacto con la persona
+responsable de ventas de Trotec a nivel local o con el servicio técnico de Trotec.
+El uso previsto de esta máquina también incluye que todo el personal involucrado en instalación,
+puesta en marcha, manejo, mantenimiento y reparación de la máquina debe haber leído y
+comprendido el presente manual de instrucciones y, en particular, el apartado «Seguridad», y debe
+cumplir las instrucciones.
+2.1.2 Uso inapropiado
+El uso de la máquina para otros propósitos que no sean los previstos o descritos en el presente
+manual está considerado como inapropiado y, por lo tanto, está prohibido.
+Trotec no asumirá ningún tipo de responsabilidad por daños causados por uso inapropiado. Los
+riesgos en caso de uso inapropiado serán asumidos exclusivamente por el usuario.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+11 / 92
+
+[Page 12]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.1.3 Modificación de la máquina
+Está estrictamente prohibido alterar, reequipar o modificar la máquina de la manera que sea sin el
+consentimiento expreso del fabricante.
+Del mismo modo, está estrictamente prohibido retirar, puentear o evitar dispositivos de seguridad.
+Las condiciones de funcionamiento y conexión y los valores de configuración indicados en la ficha de
+datos deben cumplirse en todo momento.
+Solo está permitido el funcionamiento del sistema con piezas y accesorios originales del fabricante. El
+uso de piezas de terceros afecta a la seguridad de la máquina.
+2.1.4 Modos de funcionamiento
+2.1.4.1 Funcionamiento normal
+Para el funcionamiento normal deben cumplirse las siguientes condiciones:
+• Uso previsto de la máquina (véase capítulo «Uso previsto»)
+• Manejo de la máquina solo por parte de personal con formación
+• Dispositivos de seguridad totalmente funcionales y montados
+• La máquina debe estar en perfectas condiciones técnicas
+• Solo se puede utilizar no-metal y material de acuerdo con el uso previsto de la máquina
+Durante el funcionamiento normal no es necesario utilizar gafas de seguridad.
+2.1.4.2 Funcionamiento de servicio
+Las actividades de servicio solo pueden ser realizadas por técnicos de servicio con formación y
+autorizados. Si se retiran paneles y tapas y se burlan dispositivos de seguridad, esto puede provocar
+radiación dispersa directa o indirecta.
+El funcionamiento de servicio, por tanto, está declarado como láser clase 4 (EE.UU.: clase IV) y es
+necesario adoptar medidas de precaución adecuadas (véase «Clasificación láser»).
+www.troteclaser.com
+12 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 13]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.1.6 Regulaciones de seguridad aplicables
+Las siguientes normas y guías deben observarse para evitar riesgos cuando se manejan sistemas
+láser Trotec:
+EN 60825-1 Seguridad de los productos láser - Parte 1: Clasificación de los equipos y
+requisitos
+EN 60950 Equipos de tecnología de la información – Seguridad
+EN 61010-1 Requisitos de seguridad de equipos eléctricos de medida, control y
+uso en laboratorio; Requisitos generales
+EN 60204-1 Equipos eléctricos de máquinas
+BGV B2 Radiación láser
+UL 60950 Estándar de seguridad para equipos de tecnología de la información
+UL 31011-1 Equipos eléctricos para uso en laboratorio – Parte 1: General
+21 CFR 1040.10 Estándares de rendimiento para productos emisores de luz – Especificación de
+productos láser
+21 CFR 1040.11 Estándares de rendimiento para productos emisores de luz – Finalidad específica de
+productos láser
+Las guías y normas generales incluidas en este manual pueden diferir en función de la
+localidad, región o país.
+Por tanto, tenga siempre en cuenta las normas y regulaciones de las instituciones para
+asociación reglamentaria de seguro de accidentes aplicable para usted.
+El operador es el responsable de satisfacer todos los requisitos de seguridad, puesto
+que Trotec Laser GmbH no tiene ninguna influencia en el uso adecuado de la máquina.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+13 / 92
+
+[Page 14]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.2 Seguridad del láser
+2.2.1 Clasificación del láser
+La máquina aquí descrita está equipada con un puntero láser recubierto y fuente láser de dióxido de
+carbono sellada que emite radiación láser intensa e invisible con una longitud de onda de 10,6 micras.
+Clasificación del láser conforme a DIN EN 60825-1 «Seguridad de los productos láser»:
+- SP3000 máquina láser Clase 2 (EE.UU.: clase II) en el área de trabajo y en el rango de
+manejo, para los dispositivos de seguridad de llave y el puntero
+laser recubierto (funcionamiento normal)
+- Fuente láser Clase 4 (EE.UU.: Clase IV)
+- Puntero láser recubierto Clase 2 (EE.UU.: Clase II)
+ADVERTENCIA
+Radiación láser de clase 2 (EE.UU.: clase II)
+Para Clase 2 (EE.UU.: Clase II) láser es de exposición a corto plazo (hasta 0,25 seg)
+inofensivo para los ojos y, por tanto, puede ser utilizado sin medidas de protección adicionales.
+En cualquier caso, puede causar irritación ocular si se suprime la reacción de evitación natural
+(mirar al rayo deliberadamente) o el reflejo de cerrar los párpados.
+- No suprima el reflejo de cerrar los párpados.
+- No mire directamente al rayo.
+- Cierre los ojos, gírese.
+- Nunca mire el rayo láser directamente con un instrumento óptico, tal como unas lentes.
+ADVERTENCIA
+Radiación láser de clase 4 (EE.UU.: clase IV)
+Exposición a radiación láser de clase 4 (EE.UU.: clase IV) puede causar lesiones en los ojos y
+la piel.
+- La piel y los ojos no deben ser expuestos a la radiación dispersa o reflejada o directa.
+- Utilice gafas de protección de seguridad láser adecuadas.
+- Al trabajar con máquinas láser de clase 4 (EE.UU.: clase IV) es necesario consultar a un
+experto técnico en seguridad láser para evaluar los riesgos potenciales y para garantizar
+que se adoptan las medidas de control adecuadas.
+Es responsabilidad del operador cumplir las regulaciones nacionales oficiales y
+reglamentarias para la operación de un sistema láser de clase 4 (EE.UU.: clase IV) o un
+sistema láser con una estructura en una fuente láser de clase 4 (EE.UU.: clase IV).
+www.troteclaser.com
+14 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 15]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.2.1.1 Clase 2 (EE.UU.: clase II)
+La radiación láser accesible de sistemas láser de clase 2 (EE.UU.: clase II) no supone ningún riesgo
+para la piel. Los reflejos difusos y cualquier irradiación a corto plazo de los ojos (tiempo de exposición
+máx. 0,25 seg) tampoco suponen un riesgo debido a la baja potencia saliente.
+En cualquier caso, es posible suprimir el reflejo natural de cerrar el párpado y mirar al rayo de clase 2
+durante un tiempo suficiente como para que los ojos se dañen.
+2.2.1.2 Clase 4 (EE.UU.: clase IV)
+Láseres de alta potencia (visibles o invisibles) de clase 4 (EE.UU.: clase IV) considerados como
+susceptibles de presentar un elevado riesgo potencial para ojos y piel tanto para condiciones directas
+como dispersas (difusas).
+Hay que considerar también los riesgos potenciales por fuego (ignición) y emisiones de subproductos
+procedentes de materiales procesados o finales. Es responsabilidad del operador de la máquina
+tomar las medidas adecuadas para eliminar peligros tales como fuego o explosiones a través del rayo
+láser.
+2.2.1.3 Precauciones cuando se utiliza una máquina láser de clase 4 (EE.UU.: clase IV)
+Cuando se utilizan máquinas láser de clase 4 (EE.UU.: clase IV), siga las siguientes precauciones:
+- Conforme a BGV B2 «Emisión de láser», debe consultarse a un experto técnico en seguridad
+láser para evaluar los riesgos potenciales y para garantizar que se adoptan las medidas de
+control adecuadas.
+- El área controlada de láser debe ser indicada con señales de advertencia apropiada o con
+lámparas de advertencia y el área debe ser concebida para incluir radiación láser.
+- El área controlada de láser debe ser protegida contra el acceso no autorizado.
+- El operador de aparatos láser de clase 4 (EE.UU.: clase IV) debe llevar siempre gafas de
+seguridad adecuadas.
+- Un indicador (generalmente una luz) para disponer una advertencia de emisión láser
+previamente al tiempo de emisión y durante el mismo.
+La conformidad con los puntos mencionados no dispensa al operador de cumplir los estándares y
+guías relevantes para el manejo de aparatos láser de clase 4 (EE.UU.: clase IV).
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+15 / 92
+
+[Page 16]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.2.2 Láser y área de trabajo
+Clase de láser 2 (EE.UU.: clase II)
+2 1
+www.troteclaser.com
+16 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+ | No |  |  | Nombre |  |  | Descripción | 
+1 | - | - | Área de láser
+(superficie de trabajo
+/ rango de manejo del
+láser) | - | - | El área de láser es un área definida en la que el valor de la
+exposición permisible máxima (MPE: 1000W/M²) de la radiación
+láser puede excederse o puede escapar radiación láser. El área
+de láser de SP3000 consiste en la superficie de trabajo y el
+rango de manejo del láser (área circular de aprox. ø 5cm (1,97
+pulgada) debajo del cabezal láser). | - | -
+2 | - | - | Área de trabajo del
+operador | - | - | El área de trabajo segura (láser clase 2 (EE.UU.: clase II))
+consiste en los requisitos de espacio de la máquina y una
+distancia de como mín. un metro (39,37 pulg) alrededor de la
+máquina. | - | -
+
+[Page 17]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.3 Área de responsabilidad
+2.3.1 Responsabilidades del operador
+El operador tiene las siguientes responsabilidades:
+- Es responsabilidad del operador cumplir las regulaciones nacionales oficiales y
+reglamentarias para la operación de un sistema láser de clase 4 (EE.UU.: clase IV) o un
+sistema láser con una estructura en una fuente láser de clase 4 (EE.UU.: clase IV).
+- Además de las notas e instrucciones de seguridad recogidas en este manual, tenga en cuenta y
+respete las regulaciones de prevención de accidentes y de seguridad general aplicables al lugar
+de utilización de la máquina.
+- Debe haber siempre a mano un extintor de incendios de CO , ya que el rayo láser puede
+2
+prender fuego a materiales inflamables.
+- Si se hace un uso industrial de la máquina, el operador está sujeto a las obligaciones legales
+relativas a la seguridad industrial.
+- Todo el personal implicado en la instalación, puesta en marcha, manejo, mantenimiento y
+reparación de la máquina deberá necesariamente haber leído y entendido este manual y, en
+particular, el apartado «Seguridad». El personal debe ser formado e informado sobre todas
+las funciones, peligros potenciales y aspectos de seguridad de la máquina anualmente.
+- Es recomendable que el comprador elabore las pertinentes instrucciones internas de la
+empresa teniendo en cuenta la cualificación profesional del personal usuario de la máquina, y
+solicite a este personal confirmación por escrito de haber recibido la oportuna formación o el
+presente manual.
+- Mantenga el manual en cercanía inmediata de la máquina, de forma que resulte accesible en
+todo momento a todas las personas que estén trabajando en o con la máquina.
+- La autoridad por las actividades individuales relacionadas con la aplicación de la máquina (p.
+ej. instalación, operación, mantenimiento y limpieza) debe estar claramente definida y ser
+respetada, de forma que no se deriven competencias difusas en lo que concierne a la
+seguridad. Esta indicación deberá aplicarse en especial al trabajo en componentes eléctricos,
+que deberá correr exclusivamente a cargo de especialistas cualificados.
+- El trabajo de mantenimiento y de reparación tal como se especifica en el manual debe ser
+realizado con regularidad.
+- Para todas las actividades relativas a la instalación, configuración, puesta en marcha, manejo,
+modificación de condiciones y métodos de utilización, mantenimiento, inspección y
+reparación, deberán observarse los procedimientos de desconexión indicados, en su caso, en
+el manual.
+- Disponga equipos de protección personal apropiados (p. e. guantes protectores conforme a la
+longitud de onda y a la potencia del láser).
+- El operador es responsable del estado de la máquina en lo que respecta a la seguridad.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+17 / 92
+
+[Page 18]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+- No guarde objetos inflamables en el área de trabajo ni en las proximidades inmediatas del
+mismo. Particularmente, los residuos de materiales procesados deben ser retirados para
+prever cualquier riesgo de fuego.
+- El operador deberá garantizar la limpieza y la accesibilidad de la máquina y de su entorno,
+conforme a las instrucciones y controles correspondientes.
+2.3.2 Responsabilidades del personal operario
+El personal operario tiene las siguientes responsabilidades.
+- Llevar siempre equipos de protección.
+- Es obligación del personal operario comprobar antes de inicio del trabajo si la máquina tuviera
+daños y defectos visibles, e informar inmediatamente de cualquier alteración sobrevenida
+(también durante el funcionamiento) que afecte a la seguridad de la máquina. Hay que
+asegurarse de que la máquina es utilizada solo en perfectas condiciones.
+- No debe dejarse la máquina sin vigilancia mientras esté en funcionamiento (funcionamiento
+supervisado).
+- Desconecte la máquina como se describe en el interruptor principal para períodos de no
+utilización.
+- Maneje la máquina descrita aquí solo con una lente en el lugar. La falta de una lente puede
+provocar que un rayo desenfocado se refleje fuera de la carcasa.
+- Detenga esta máquina inmediatamente en caso de fallos.
+- Deberán abstenerse de aplicar cualquier método de trabajo que pueda afectar a la seguridad
+de personas o de la máquina.
+- Mantenga siempre limpios la máquina y sus componentes, tales como lentes y espejos.
+www.troteclaser.com
+18 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 19]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.4 Requisitos del personal de manejo y de servicio
+Los requisitos del personal operario y de servicio son
+- El personal debe haber leído y entendido este manual y, en particular, el apartado
+«Seguridad».
+- El personal no debe estar bajo la influencia de drogas, alcohol ni medicación que inhiba la
+capacidad de reacción cuando esté trabajando en o con la máquina.
+- El personal debe estar familiarizado con el uso del extintor de incendios de CO .
+2
+- El personal debe estar formado para estar cualificado para manejar la máquina. Si el personal
+tiene carencias sobre el conocimiento necesario para trabajar en o con la máquina, primero
+deberá ser formado y la formación deberá reflejarse en la forma de verificación de la
+formación.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+19 / 92
+
+Actividad |  | Grupo de |  | 
+- | - | usuarios | - | Definición
+- | - | previsto | - | 
+Control/ manejo/ otras
+actividades
+(p. ej. solución de problemas,
+mantenimiento) | Personal
+cualificado o
+técnicos de
+Trotec | - | - | Personal cualificado es aquel capaz de
+juzgar el trabajo que le ha sido
+encomendado y de detectar posibles
+riesgos basándose en su formación
+profesional, conocimiento y experiencia,
+así como en su compresión de las
+normas relevantes.
+
+[Page 20]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.5 Etiquetas de advertencia e información
+Las etiquetas de advertencia e información están dispuestas en las posiciones de la máquina que
+pueden suponer una fuente de daños durante la configuración y la operación. Por lo tanto, preste
+atención a la información que aparece en las etiquetas.
+Etiquetas de advertencia e información perdidas o dañadas
+Si se pierde o daña alguna etiqueta de advertencia e información, el usuario ya no
+podrá de identificar riesgos y hay peligro de lesiones.
+- Sustituya inmediatamente etiquetas perdidas o dañadas.
+- Por favor, póngase en contacto con su vendedor de Trotec para consultar más
+detalles.
+4
+8 3 2
+4
+1
+8
+4
+4
+2
+4
+3
+4
+9 6 7
+11 1 10
+5
+5 6 9
+7 10
+8 11
+www.troteclaser.com
+20 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+3
+
+[Page 21]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+8 8 8 8 8
+4 4 4 4 4
+8
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+21 / 92
+
+[Page 22]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.6 Dispositivos de seguridad
+ADVERTENCIA
+Peligro procedente del rayo láser
+Los dispositivos de seguridad y de protección que no está instalados o que no funcionan
+completamente pueden provocar lesiones personales o daños materiales.
+- No retire, modifique ni desactive los interruptores de bloqueo de seguridad ni las tapas
+de protección de la máquina. Los equipos de seguridad y de protección deben
+funcionar correctamente en todo momento.
+- En caso de daños asumidos o supuestos de los dispositivos de seguridad, desconecte
+la máquina del cable de alimentación.
+- Los dispositivos de seguridad y protección tienen que ser sustituidos por un técnico de
+Trotec inmediatamente.
+2.6.1 Recapitulación
+La máquina está equipada con los siguientes dispositivos de seguridad:
+Lámpara de advertencia Sensor
+fotoeléctrico
+Parada de
+Sensor fotoeléctrico
+emergencia
+Microinterruptor
+Reflector
+Sensor hall
+Tope
+Barrera fotoeléctrica Escudo deflector láser
+Sensor fotoeléctrico
+Tapa posterior
+Microinterruptor
+Panel lateral Reflector
+Correa de protección
+Parada de
+emergencia
+Parada de
+emergencia
+Tope
+Reflector
+Barrera
+fotoeléctrica
+Tapa frontal
+Panel lateral
+Parada de Parada de
+emergencia wwwem.treorgteecnlcaisae r.com
+Interruptor principal Interruptor de llave
+22 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 23]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.6.2 Interruptor principal
+Gire el interruptor principal en el sentido contrario al de las agujas del reloj para desconectar la
+máquina de la fuente de alimentación.
+2.6.3 Interruptor de llave
+Girar el interruptor de llave desconecta el motor, la fuente láser y el sistema eléctrico y prevé un
+manejo no autorizado.
+2.6.4 Botón de parada de emergencia
+La máquina tiene cinco botones de parada de emergencia.
+Cuando se presiona un botón de emergencia se cierra inmediatamente el circuito eléctrico. El rayo
+láser se interrumpe y todos los movimientos se detienen.
+La función del dispositivo de parada de emergencia es:
+Primeramente: Prevenir cualquier riesgo para el personal operario.
+Secundariamente: impedir cualquier daño/destrucción de la máquina/del material.
+2.6.5 Elementos de revestimiento, panel lateral y tapas
+Los elementos de revestimiento, tapas y paneles laterales protegen de la luz láser y siempre deben
+estar cerrados y colocados correctamente.
+2.6.6 Lámpara de advertencia
+La lámpara de advertencia emite señales visuales y acústicas.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+23 / 92
+
+ | Estado |  |  |  |  |  | Descripción | 
+Rojo | - | - | parpadeo | - | - | -Modo de bloqueo: Error | - | -
+Rojo + señal acústica | - | - | parpadeo | - | - | -Dispositivos de seguridad defectuosos | - | -
+Amarillo | - | - | permanente | - | - | -Modo ocupado: procesando o recibiendo datos
+-Modo pulso de prueba: llevando a cabo un pulso
+de prueba | - | -
+Amarillo - verde | - | - | permanente | - | - | -Modo pausa | - | -
+Verde | - | - | permanente | - | - | -Modo en ralentí: máquina está preparada
+-Dispositivos de seguridad completamente
+funcionales | - | -
+
+[Page 24]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.6.7 Tope y microinterruptor
+El tope accionado por resorte y correspondiente al microinterruptor ofrece detección de objeto.
+Si se detecta un objeto, se interrumpen los circuitos de seguridad y consiguientemente el movimiento
+del eje, el procesamiento del trabajo en curso y se detiene inmediatamente la emisión láser.
+2.6.8 Barrera fotoeléctrica
+La barrera fotoeléctrica ofrece detección de acceso para áreas peligrosas. Está localizada enfrente
+del eje X y tiene una altura de 16 cm (6.29 pulgadas).
+Si se detecta un objeto, se interrumpen los circuitos de seguridad y consiguientemente el movimiento
+del eje, el procesamiento del trabajo en curso y se detiene inmediatamente la emisión láser.
+2.6.9 Escudo deflector láser y sensor hall
+El escudo deflector láser absorbe una mayoría de radiación dispersa o reflejada en el área de salida
+del rayo láser y, por tanto, es imprescindible durante la operación.
+La presencia del escudo deflector láser fijado magnéticamente es monitorizada mediante sensores
+hall. Si el escudo deflector láser ha sido eliminado intencionadamente o debido a colisión con una
+pieza de trabajo, el circuito de seguridad se interrumpe y, consiguientemente, el movimiento del eje,
+el procesamiento del trabajo en curso y se detiene inmediatamente la emisión láser.
+2.6.10 Sensor fotoeléctrico y reflector
+El sensor fotoeléctrico y el reflector ofrecen detección de acceso para áreas peligrosas. Si se detecta
+un objeto, se interrumpen los circuitos de seguridad y consiguientemente el movimiento del eje, el
+procesamiento del trabajo en curso y se detiene inmediatamente la emisión láser.
+2.6.11 En caso de mal funcionamiento de un dispositivo de seguridad
+En caso de daño real o supuesto de dispositivos de seguridad:
+• Presione el botón de parada de emergencia
+• Desconecte la máquina de los cables de alimentación
+• por favor, póngase en contacto con su servicio Trotec local
+www.troteclaser.com
+24 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 25]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.7 En caso de emergencia
+2.7.1 En caso de mal funcionamiento
+• En caso de estados de funcionamiento inusuales, abra la tapa superior acrílica para detener el
+proceso de trabajo o presione respectivamente el botón de parada de emergencia, si está
+disponible, y desconecte el dispositivo láser.
+• Si procede, desconecte la máquina de los cables de alimentación.
+• Informe al experto técnico en protección láser y al supervisor.
+• Siga las instrucciones de manejo.
+• El trabajo de reparación solo debe correr a cargo de técnicos de servicio de Trotec.
+• En caso de incendio: Utilice solo extintor de incendios de CO para apagar el fuego en la
+2
+medida en que sea posible sin dañarse usted a usted mismo.
+2.7.2 En caso de accidente, primeros auxilios
+• Si debido a la radiación láser se producen lesiones oculares (después de haberse excedido de la
+tasa de irradiación máxima permisible), la víctima del accidente debe acudir inmediatamente a un
+oculista.
+• Puede suponerse que hay lesión ocular siempre que haya habido irradiación láser y que pueda
+haberse excedido la tasa de radiación máxima permisible.
+• La persona que presta los primeros auxilios debe prestar atención a protegerse a sí misma.
+• Desconecte el dispositivo.
+• Saque de la zona de peligro a la personal dañada y preste primeros auxilios. ¡Llame al médico de
+urgencias!
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+25 / 92
+
+[Page 26]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.8 Peligros específicos
+2.8.1 Peligro de incendio
+ADVERTENCIA
+Peligro de incendio
+Peligro de incendio procedente de gas y del procesamiento de materiales inflamables.
+- No haga funcionar la máquina sin supervisión.
+- Tenga preparados extintores de incendios de CO a mano en proximidad inmediata al
+2
+dispositivo.
+Si un rayo láser principal entra en contacto con material inflamable, esto es, papel, puede que
+después prenda fuego, provocando rápidamente un incendio. Por tanto, antes de conectar el láser
+y después de desactivar el modo standby, debe asegurarse de que no hay material inflamable en la
+trayectoria del rayo.
+Además, los gases formados junto al material que se está procesando pueden prender fuego,
+especialmente si no se cumplen los requisitos de extracción.
+Los riesgos de incendio aumentan a su vez en caso de cuidado y limpieza insuficientes.
+Adicionalmente, controle regularmente el sistema de refrigeración de aire de su láser.
+Adicionalmente, los filtros y ventiladores deben ser inspeccionados regularmente para comprobar
+su correcto funcionamiento, de modo que se eviten defectos causados por sobrecalentamiento.
+2.8.2 Gases, humos y polvo
+Dependiendo de los materiales que se estén procesando y de los parámetros seleccionados, el
+procesamiento de láser puede generar gases, humos, aerosoles o polvo. Dependiendo del material,
+algunos subproductos pueden ser tóxicos. En casos individuales, los productos de reacción pueden
+ser polvos conductores eléctricamente. Si estos entran en sistemas eléctricos pueden producirse
+cortocircuitos con lesiones personales y daños en la propiedad.
+El operador es responsable de asegurar la presencia de un sistema de extracción adecuado y de
+satisfacer las guías relevantes al objeto de proteger personas y el entorno. La guía VDI 2262 1-3 “Aire
+del lugar de trabajo” suministra, entre otras cosas, observaciones adicionales.
+El operador debe también asegurar que gases, humos y polvo no se posen en la lente de
+procesamiento. Cualquier acumulación de suciedad de la lente de procesamiento puede provocar
+pérdidas de rendimiento, pobres resultados de procesamiento y daños en el dispositivo.
+www.troteclaser.com
+26 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 27]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.8.3 Material reflector
+ADVERTENCIA
+Peligro procedente del rayo láser
+La radiación láser invisible o materiales reflectores pueden causar lesiones graves o daños
+materiales.
+- Solo se debe utilizar material de acuerdo con el uso previsto de la máquina
+- No utilice material con superficies altamente reflectores tales como aluminio, cromo,
+metales preciosos, láminas de metal, acero inoxidable, latón, cobre y titanio
+- Preste especial cuidado con superficies de forma convexa y cóncava
+- No deje ni ponga objetos sobre la superficie de trabajo / área de trabajo
+2.8.3.1 Reflexión rayo láser
+La ley reflectante es válida para el reflejo de la radiación láser: Ángulo de incidencia = ángulo de
+fallo
+1 3
+2 4
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+27 / 92
+
+ | No |  |  | Descripción | 
+1 | - | - | Reflexión directa
+Rayo reflejado sobre
+superficie lisa | - | -
+2 | - | - | Reflexión directa
+Rayo reflejado sobre
+superficie inclinada | - | -
+3 | - | - | Reflexión difusa
+Rayo reflejado sobre
+superficie ruda | - | -
+4 | - | - | Reflexión directa
+Rayo reflejado
+horizontalmente sobre
+superficie lisa | - | -
+
+[Page 28]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.8.4 Componentes ópticos
+ADVERTENCIA
+Daños a ópticos
+Los ópticos dañados absorben radiación láser y, por tanto, pueden ser destruidos. Tanto
+las lentes rotas o dañadas como la descomposición térmica de lentes generan partículas
+que causan serios daños a la salud.
+- Los reflectores pasivos y ópticos en el área de la guía de rayo deben limpiarse
+regularmente.
+- Se requiere especial cuidado cuando se manejan, colocan y limpian estos
+elementos.
+- No ejerza presión que no sea uniforme.
+- No utilice herramientas ni objetos peligrosos para limpiar la superficie.
+- Nunca toque los ópticos con los dedos desnudos.
+- Nunca use paños limpiadores más de una vez.
+- Si se rompe una lente o se daña o se descompone térmicamente, siga las medidas
+de protección.
+- Eliminación de residuos conforme a las normas y leyes válidas en el país del
+usuario.
+- ¡Las lentes rayadas o con hendiduras no deben volver a ser utilizadas nunca
+más!
+2.8.4.1 Superficie de lente rayada o rota
+Tenga en cuenta que las rayaduras en el recubrimiento pueden presentar pequeñas cantidades de
+torio que pueden ser inofensivas si se inhalan o tragan
+2.8.4.2 Descomposición térmica
+Tras las descomposiciones térmicas se forman vapores de óxido de selenio y óxido de zinc. Si se
+inhalan o se tragan, hay peligro de envenenamiento.
+Los indicadores de descomposición térmica de ZnSe incluyen depósitos en forma de polvo rojo o
+blanco y un olor desagradable.
+2.8.4.3 Lentes rotas
+Cuando componentes ópticos de seleniuro de zinc (ZnSe) se destruyen, se forman polvos y vapores
+tóxicos que no deben ser inhalados. El polvo puede causar adicionalmente irritaciones en ojos, piel y
+vías respiratorias.
+Si se ha roto una lente durante el funcionamiento, hay que prestar atención durante la eliminación y
+limpieza.
+www.troteclaser.com
+28 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 29]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2.8.4.4 Medidas de protección
+Medidas de protección en caso de descomposición térmica y rayaduras o rotura de lentes
+- Para eliminación de residuos, utilice una máscara protectora o filtro de respiración para
+evitar la inhalación o ingestión de torio.
+- Lávese las manos a conciencia después de haber estado en contacto con un
+recubrimiento rayado.
+Medidas de protección en caso de lentes rotas
+- Cuando perciba un olor desagradable, desconecte la máquina.
+- Mantenga la respiración.
+- Abandone el área de la máquina.
+- Antes de volver a acercarse a los aparatos, espere al menos 30 minutos hasta que la
+reacción haya concluido.
+- Utilice elementos protectores adecuados (protección respiratoria, guantes protectores,
+traje protector, guantes de goma o de plástico).
+- Suministre ventilación.
+- Cuando se acerque a los aparatos de nuevo, preste atención a los olores.
+- Retire todos los fragmentos de lentes.
+- Evite polvo que ascienda o esté dispersándose.
+2.8.4.5 Eliminación de residuos
+El polvo de ZnSe y las lentes deben ser recogidos en seco y ser retirados con
+fragmentos, escoba, pala y ropa protectora, metidos en recipientes herméticamente
+cerrados o bolsas de plástico o como residuos peligrosos.
+No se deshaga de componentes ópticos como si fuesen basura doméstica, y
+no los deje entrar ni en alcantarillado ni en masas de agua.
+Eliminación de residuos conforme a las normas y leyes válidas en el país del
+usuario.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+29 / 92
+
+[Page 30]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+3 Declaración de conformidad CE
+www.troteclaser.com
+30 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 31]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+4 Datos técnicos
+4.1 Ficha de datos
+* Dependiendo de la configuración
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+31 / 92
+
+Datos mecánicos | - | - | -
+Área de trabajo 2.210 x 3.210 mm (87 x 126 pulg) | - | - | -
+Zona de carga | 2.500 x ∞ mm (98 x ∞ pulg) | - | -
+Altura máx. de la pieza de trabajo 50 mm (1,96 pulg) | - | - | -
+Cabezal de trabajo | Eje Z controlado por software | - | -
+Mesa de corte con lamas, mesa de corte con rejilla de aluminio, mesa
+Mesa de trabajo
+de corte con rejilla acrílica o mesa de corte en forma de panal | - | - | -
+Velocidad de trabajo máx. | 1 m/s (40 ips (pulg por seg)) (estándar); 2 m/s (79 ips) (opcional) | - | -
+Aceleración 10 m/s² (393 pulg por seg²)* | - | - | -
+Motores | Motores servo CC sin escobillas | - | -
+Codificador Sistema de medición incremental | - | - | -
+Elementos ópticos |  | Telescopio, lentes y todos los espejos purgados con aire protegidos de | 
+- | - | la suciedad | -
+Lente 2,5" (estándar); 3,75“, 5,0" (opcional) | - | - | -
+Precisión | +/- 0,1 mm (0,004 pulg), sobre toda el área de trabajo | - | -
+Precisión alcanzable 0,001 mm (0,00004 pulg) | - | - | -
+Precisión de tamaño de las piezas | Según material y proceso | - | -
+Peso máximo del material 200 kg (440 lbs.), carga sobre toda el área de trabajo | - | - | -
+Tecnología InPackTM |  | Protege el cabezal de trabajo y todas las piezas móviles del polvo; | 
+- | - | incluido kit de protección de entorno agresivo | -
+Aspiración Aspiración de mesa para toda el área de trabajo | - | - | -
+Kit de gas |  | Control de aire comprimido y proceso de gas con máx. 6 bar (87 psi), | 
+- | - | unidad de filtro integrada (exenta de polvo mecánico, agua y aceite. | -
+- | - | tasa de flujo 240 l/min, máx. corriente 10 bar (145 psi), diámetro de | -
+- | - | manguera 6 mm (0,23 pulg)) | -
+Software JobControl® Expert | - | - | -
+Interface | USB, RS-232 / ASCII, HPGL, Sistema AD-Logic | - | -
+Teclado, interruptor de seguridad, sistema a punto; espacio de trabajo
+Consola de manejo para ratón, teclado, monitor, captador para herramientas; PC y monitor
+no incluidos | - | - | -
+
+[Page 32]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+www.troteclaser.com
+32 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+Láser | -
+Aparato láser Láser sellado CO2 | -
+Potencia del láser | 60, 100, 200 y 400 W
+Refrigeración Refrigeración por agua | -
+Longitud de onda | 10,6 µm
+
+Extras opcionales | - | - | -
+Sistema de compensación de cámara para aplicaciones de impresión y
+JobControl® Vision
+corte | - | - | -
+Aspiración móvil | Aspiración montada en cabezal de trabajo | - | -
+Aspiración de tecnología digital para Aspiración controlada digitalmente seccionada para mesa; 4 secciones
+mesa de aspiración | - | - | -
+Refrigerador | Para todos los niveles de potencia | - | -
+Sonar TechnologyTM Sistema autofoco basado en ultrasonidos | - | - | -
+TroCAM Basic / Advanced |  | Software CAD/CAM para unos resultados de corte perfectos; función | 
+- | - | de anidamiento, entrada/salida, trayectorias de herramienta, etc. | -
+- | - | incluidas | -
+TroCare Paquete integrador de servicios técnicos | - | - | -
+
+Dimensiones (an x prf x alt) & peso | - | - | -
+3.076 x 1.230 x 3.914 mm
+Máquina
+1.600 kg (3.530 lbs.) | - | - | -
+Refrigerador |  | 720 x 835 x 930 mm (117 x 33 x 37 pulg) (modelo de 400 W) | 
+- | - | 130 kg (287 lbs.) (modelo de 400 W) | -
+800 x 600 x 1.126 mm (32 x 24 x 45 pulg)
+Consola de manejo
+40 kg (88 lbs.) | - | - | -
+Aspiración móvil |  | 2,082 x 714 x 2.852 mm (82 x 29 x 113 pulg) | 
+- | - | 165 kg (363 lbs.) | -
+
+Seguridad | - | - | -
+Láser CDRH de clase 4 con trayectoria del rayo siempre recubierta; en
+Clase de láser el modo de funcionamiento normal el sistema puede utilizarse como
+láser de clase 2 | - | - | -
+Seguridad del láser |  | Trayectoria del rayo láser siempre recubierta y escudo deflector láser | 
+- | - | en el cabezal de trabajo | -
+Barreras fotoeléctricas y topes de seguridad para trayectoria del rayo y
+Seguridad mecánica
+brazo robótico | - | - | -
+Sistema de bloqueo | Doble sistema codificado de bloqueo de seguridad | - | -
+Temperatura ambiente requerida +15° to +25° C o 59° to 77° F
+Condiciones ambientales Humedad 40-70 %, sin condensación
+Ambiente sin polvo (2.º grado según norma IEC 60947-1) | - | - | -
+Certificados | Conformidad CE | - | -
+
+[Page 33]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+33 / 92
+
+Componentes eléctricos y aspiración | - | - | -
+Mín. 2.500 m³/h a 800 Pa (Mín. 1.200 cfm a 8.900 en H2O)
+(aspiración para mesa)
+Punto de trabajo de aspiración Mín. 100 m³/h a 4,450 Pa (Mín. 60 cfm a 17.865 en H2O)
+(aspiración móvil)
+Mínimo requerido para corte acrílico; dependiendo dela aplicación | - | - | -
+Consumo de voltaje y potencia
+(electricidad)
+(Máquina sin refrigerador |  | 3x400V (3xL+N+PE) 50/60Hz, máx. 1,6 kW (60 W) | 
+- | - | 3x400V (3xL+N+PE) 50/60Hz, máx. 3,1 kW (100 W) | -
+- | - | 3x400V (3xL+N+PE) 50/60Hz, máx. 4,5 kW (200 W) | -
+- | - | 3x400V (3xL+N+PE) 50/60Hz, máx. 8,4 kW (400 W) | -
+
+Consumo de voltaje y potencia
+(electricidad)
+(Máquina sin refrigerador
+
+[Page 34]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+4.2 Dimensiones y peso
+4.2.1 Dimensiones de la máquina y peso
+4.2.1.1 Vista frontal
+n
+9
+i
+6 n i m 4 /
+m
+4
+/
+m
+7
+3 n i m 5 1 2 2
+m
+3
+/ 11
+6
+m
+0
+2
+8
+3078 mm / 122 in
+4.2.1.2 Vista lateral
+700 mm / 28 in
+3830 mm / 151 in
+3914 mm / 154 in 60 mm / 2.4 in
+www.troteclaser.com
+34 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 35]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+4.2.1.3 Vista lateral (conexión de aspiración)
+4.2.1.4 Vista superior
+3210 mm / 126 in
+m
+121 n
+/
+i
+m
+87 n
+/
+i
+m m
+3076 2210
+3914 mm / 154 in 60 mm / 2.4 in
+4.2.1.5 Peso
+El peso de la máquina es de 1.600 kg (3.530lbs).
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+35 / 92
+
+[Page 36]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+4.2.2 Dimensiones exterior del panel de manejo
+4.2.2.1 Vista lateral, frontal y superior
+n
+m
+45
+/
+i
+m
+1126
+n
+24 i
+m /
+m
+0
+60
+500 mm / 20 in 50 mm / 2 in 700 mm / 28 in mm / 2 in
+600 mm / 24 in 800 mm / 32 in 800 mm / 32 in
+www.troteclaser.com
+36 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+- | n
+44 i
+m /
+m
+1100
+
+[Page 37]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+4.2.3 Dimensiones exteriores de la aspiración móvil
+4.2.3.1 Vista frontal y lateral
+100 mm / 4 in
+n n
+m
+113
+/
+i
+m
+113
+/
+i
+m m
+2852 2852
+750 mm / 30 in 800 mm / 6 in 714 mm / 29 in
+2082 mm / 82 in
+4.2.3.2 Vista superior
+m
+29 n
+/
+i
+m
+714
+800 mm / 6 in
+2082 mm / 82 in
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+37 / 92
+
+- | - | - | 750 mm / 30 in | - | -
+
+[Page 38]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+4.2.4 Aspiración (opcional)
+4.3 Materiales
+www.troteclaser.com
+38 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+ | - | - |  | VENT Set SP3000 |  | VENT Set SP3000
+(sin cabina de reducción de ruido) | - | - | - | - | -
+- | - | - | - | (con cabina de reducción de | - | - | - | - | - | - | -
+- | - | - | - | ruido) | - | - | - | - | - | - | -
+ |  |  |  |  |  |  | VENT 100 |  |  | VENT 1500 | 
+Lar x an x alt (mm) | - | - | 960 x 1021 x 1081 | - | - | 371 x 357 x 363 | - | - | 523 x 644 x 720 | - | -
+
+VENT Set SP3000
+(sin cabina de reducción de ruido)
+
+Material | - | - |  | Corte |  |  | Grabado | 
+- | - | - |  | CO2 |  |  | CO2 | 
+ | Plástico |  |  |  |  |  |  | 
+Acrilonitrilo butadieno estireno (ABS) | - | - | ✓ | - | - | ✓ | - | -
+Acrílico/PMMA (Plexiglas®, Altuglas®, Perspex®) | - | - | ✓ | - | - | ✓ | - | -
+Laminado | - | - | ✓ | - | - | ✓ | - | -
+Goma | - | - | ✓ | - | - | ✓ | - | -
+Poliamida (PA) | - | - | ✓ | - | - | ✓ | - | -
+Tereftalato de polibutileno (PBT) | - | - | ✓ | - | - | ✓ | - | -
+Policarbonato (PC) | - | - | ✓ | - | - | ✓ | - | -
+Polietileno (PE) | - | - | ✓ | - | - | ✓ | - | -
+Poliéster (PES) | - | - | ✓ | - | - | ✓ | - | -
+Polietileno tereftalato (PET) | - | - | ✓ | - | - | ✓ | - | -
+Poliamida (PI) | - | - | ✓ | - | - | ✓ | - | -
+Polioximetileno
+(POM) - Delrin® | - | - | ✓ | - | - | ✓ | - | -
+Polipropileno (PP) | - | - | ✓ | - | - | ✓ | - | -
+Polisulfuro de fenileno (PPS) | - | - | ✓ | - | - | ✓ | - | -
+Poliestireno (PS) | - | - | ✓ | - | - | ✓ | - | -
+Poliuretano (PUR) | - | - | ✓ | - | - | ✓ | - | -
+Espuma | - | - | ✓ | - | - | ✓ | - | -
+
+[Page 39]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+ADVERTENCIA
+Materiales prohibidos:
+Carbono, cloruro de polivinilo (PVC), butiral polivinílico (PVB), politetrafluoroetileno
+(PTFE, Teflon®), fibra de carbono, óxido de berilio y materiales que contengan halógenos
+(flúor, cloro, bromo, yodo y ástato), resinas epóxicas o fenólicas
+Ponga cuidado cuando procese los siguientes materiales:
+manganeso, cromo, níquel, cobalto, cobre y plomo. Cualquier material con la adición en
+el nombre «retardante de llamas», porque contiene bromo.
+ADVERTENCIA
+Lesiones graves o daños de material.
+El uso de materiales prohibidos o no autorizados puede provocar lesiones graves o
+daños materiales y no será cubierto por garantía.
+- Utilice solo materiales aprobados y autorizados.
+Para cualquier material que no aparezca en la lista anterior, por favor, póngase en
+contacto con nuestro especialista en aplicaciones o con la oficina de venta de su zona.
+Recomendamos realizar un test de procesamiento de material con el material
+mencionado anteriormente utilizando la configuración apropiada.
+Trotec no asume responsabilidad por ninguna consecuencia de procesamiento láser en
+cualquier aplicación, especialmente con aplicaciones médicas y farmacéuticas.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+39 / 92
+
+Material | Corte | Grabado
+- | CO2 | CO2
+Adicional |  | 
+Madera | ✓ | ✓
+Espejo | - | -
+Piedra | - | ✓
+Papel (blanco) | ✓ | ✓
+Papel (coloreado) | ✓ | ✓
+Alimentos | ✓ | ✓
+Cuero | ✓ | ✓
+Tela | ✓ | ✓
+Vidrio | - | ✓
+Cerámica | - | -
+Corcho | ✓ | ✓
+
+[Page 40]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+5 Recapitulación de la máquina
+5.1 Recapitulación general
+13
+9
+6 5 7 5 1 8
+10
+5 11
+4
+12
+3 13
+2
+5
+1
+1
+13
+21
+14
+3
+15
+1
+16
+17
+1 20 19 18
+22
+www.troteclaser.com
+40 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+ | No |  |  | Descripción |  |  | No |  |  | Descripción | 
+1 | - | - | Botón de parada de
+emergencia | - | - | 12 | - | - | Eje X | - | -
+2 | - | - | Correa de protección
+contra el polvo | - | - | 13 | - | - | Reflector | - | -
+3 | - | - | Panel lateral | - | - | 14 | - | - | Aspiración móvil | - | -
+4 | - | - | Mesas | - | - | 15 | - | - | Monitor | - | -
+5 | - | - | Sensor fotoeléctrico | - | - | 16 | - | - | Interruptor de llave | - | -
+6 | - | - | Tope | - | - | 17 | - | - | Teclado | - | -
+7 | - | - | Lámpara de advertencia | - | - | 18 | - | - | Cables de conexión (general, aspiración y sistema de
+refrigeración) | - | -
+8 | - | - | Cabezal de manguera de
+aspiración | - | - | 19 | - | - | Interruptor principal | - | -
+
+[Page 41]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+5.2 Elementos de manejo
+5.2.1 Recapitulación de elementos de manejo
+Pantalla de aire comprimido Botón: Parada de emergencia
+Regulador de aire comprimido
+Botón: Máx. aire comprimido
+Botones: Segmento de aspiración
+/ lámpara de control
+Interruptor de llave
+Información de láser
+Panel de manejo
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+41 / 92
+
+9 | Cabezal láser | 20 | Placa de tipo
+10 | Sensor hall | 21 | Tapa frontal y trasera
+11 | Escudo deflector láser | 22 | Consola de manejo
+
+[Page 42]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+5.2.2 Panel de manejo
+Indicador de estado: Rayo láser
+LED ENCENDIDO: La máquina está Botón: Stop
+procesando datos
+Botón: Standby
+LED ENCENDIDO: Modo standby Botón: Start/Pause/Repeat
+LED APAGADO: Modo ready
+LED ENCENDIDO: Modo pausa
+(preparado)
+Estado LEDs
+Botón: Inicio
+Verde, Máquina está
+LED ENCENDIDO: Posición inicio
+parpadeo lento preparada
+Cambiado temporalmente
+(0,5 Hz) Tapas cerradas
+Verde, Tapa está abierta
+parpadeo rápido
+(2 Hz)
+Azul y verde Hay datos disponibles
+permanente Modo pausa
+Botón: Cabezal láser
+Verde, Recibiendo o
+(posición X/Y)
+permanente procesando datos
+-Dirección eje X
+-Dirección eje Y
+Botón: Shift
+Botón: Cabezal láser
+Segundo nivel de
+(Posición Z) manejo
+-Arriba
+-Abajo Botón: Aspiración
+Foco automáticamente LED ENCENDIDO: Aspiración activa
+www.troteclaser.com
+42 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 43]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+Indicador de LED ENCENDIDO: La máquina está procesando o recibiendo
+estado: Rayo láser datos.
+Botón: LED ENCENDIDO: Modo standby
+Standby LED APAGADO: Modo ready (preparado)
+Presione el botón para conectar el modo standby.
+Presione el botón de nuevo para volver a conectar el modo
+preparado (ready).
+Cuando el botón está presionado mientras que el cabezal láser
+está moviéndose hacia arriba o hacia abajo (p. ej. durante el
+autofoco), la máquina introduce el modo standby solo después de
+finalizar el movimiento.
+Botón: LED ENCENDIDO: Posición de inicio temporalmente cambiada
+Inicio Presione el botón durante 3 seg. para definir temporalmente la
+posición del cabezal láser como posición de inicio. (Marcador en
+JobControl®)
+Para desactivar la posición home (inicio) temporal, presione Shift +
+Home.
+Botón: Presione el botón para mover manualmente el cabezal láser hacia
+derecha, izquierda, adelante o atrás.
+Cabezal láser
+(posición X/Y) Presione dos de las cuatro teclas de posición X/Y
+simultáneamente para mover el cabezal láser diagonalmente.
+Presione Shift junto con una de las teclas de posición X/Y para
+mover el cabezal láser rápidamente hacia la correspondiente
+posición final.
+Botón: Presione el botón para mover manualmente el cabezal láser hacia
+arriba o abajo
+Cabezal láser
+(Posición Z)
+(posición Z)
+Presione Shift junto con la tecla de elevación de la posición Z para
+mover el cabezal láser hacia la correspondiente posición final. Para
+detener el movimiento, presione cualquier tecla de posición Z.
+Con opción Sonar Technology™:
+Presionando simultáneamente las dos teclas para teclas de
+posicionamiento Z del cabezal láser, el rayo láser se focaliza
+automáticamente en pieza de trabajo.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+43 / 92
+
+ | Descripción | 
+
+[Page 44]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+Presione Shift junto con la tecla de descenso de posición Z para
+mover el cabezal láser hacia la posición de autofoco. Para detener
+el movimiento, presione cualquier tecla de posición Z. Para más
+información, véase capítulo «Enfocado».
+www.troteclaser.com
+44 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 45]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+Botón: Stop Presione el botón para detener el proceso de trabajo en curso.
+Botón: Presione el botón para iniciar el trabajo que se encuentra
+actualmente en la placa en JobControl®.
+Start/Pause/Repeat
+Si actualmente se está procesando un trabajo, presione el botón
+para detener el trabajo (LED ENCENDIDO). Vuelva a presionar el
+botón para continuar el proceso de trabajo interrumpido (LED
+APAGADO).
+Presione el botón después de haber finalizado el trabajo para
+repetir el trabajo actual posicionado sobre la placa en el
+JobControl®.
+Estado LEDs Indica el estado actual de la máquina:
+La máquina está preparada. Todas las
+Verde, parpadeo lento (0,5 Hz)
+tapas están cerradas
+Verde, parpadeo rápido (2 Hz) Tapa está abierta
+Azul y verde, permanente Hay datos disponibles modo pausa
+Verde, permanente Recibiendo o procesando datos
+Botón: Shift Para segundo nivel de manejo. Presione el botón junto con
+cualquiera de las siguientes teclas para activar las siguientes
+funciones:
+Funciones Shift:
+Shift + Aspiración Asistencia de aire on/off
+(activada/desactivada)
+Shift + cabezal láser El cabezal láser se mueve rápidamente a
+(posición X/Y) la correspondiente posición final (posición
+X o Y)
+Shift + Standby Teclado bloqueado/desbloqueado
+Shift + cabezal láser El cabezal láser se mueve arriba hacia la
+ARRIBA correspondiente posición final
+Shift + cabezal láser El cabezal láser se mueve abajo a la
+ABAJO correspondiente posición final
+Con opción Sonar Technology™: El
+cabezal láser se mueve a la posición de
+autofoco
+Shift + Home (inicio) Desactiva la posición home (inicio)
+temporal
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+45 / 92
+
+[Page 46]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+Botón: Presione el botón para activar o desactivar la aspiración.
+Aspiración LED ENCENDIDO: Aspiración activada
+LED APAGADO: Aspiración desactivada
+Después de completar el proceso de grabado, el sistema de
+aspiración puede ser desactivado solo después de unos pocos
+segundos más (tiempo de seguimiento).
+www.troteclaser.com
+46 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 47]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+5.2.2.1 Accesos directos del teclado
+Shift + Aspiración Asistencia de aire on/off
+(activada/desactivada)
+Shift + cabezal láser (posición El cabezal láser se mueve rápidamente
+X/Y) a la correspondiente posición final
+(posición X o Y)
+Shift + Standby Teclado bloqueado/desbloqueado
+Shift + cabezal láser (posición Z) El cabezal láser se mueve arriba hacia
+«ARRIBA» la correspondiente posición final
+Shift + cabezal láser (posición Z) El cabezal láser se mueve arriba hacia
+«ABAJO» la correspondiente posición final
+Con opción Sonar Technology™:
+El cabezal láser se mueve a la posición
+de autofoco
+Shift + Home (inicio) Desactiva la posición home (inicio)
+temporal
+Cabezal láser (posición Z) Con opción Sonar Technology™:
+"ARRIBA"+"ABAJO" La mesa de trabajo se mueve hacia
+arriba, a la posición de autofoco
+(enfocado automáticamente)
+X/Y Posición cabezal láser + El cabezal láser se mueve
+posición cabezal láser X/Y diagonalmente en la correspondiente
+dirección
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+47 / 92
+
+ | Accesos |  |  | 
+- | directos | - | - | -
+
+[Page 48]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+5.2.3 Pantalla de aire comprimido
+Muestra la presión de aire comprimido.
+Al presionar el botón SET, los valores de salida pueden conmutarse entre bar o psi. Los botones de
+flecha no tienen ninguna función.
+5.2.4 Regulador de aire comprimido
+Girando el regulador de aire comprimido se puede ajustar la presión.
+Si la presión del aire comprimido está ajustada demasiado alta, esto
+puede producir daños en la máquina.
+- La presión suministrada del aire comprimido conectado
+externamente no debe exceder los 10 bar.
+- La máxima presión de aire comprimido durante el funcionamiento no
+debe exceder los 6 bar.
+5.2.5 Interruptor de llave
+Girar el interruptor de llave en sentido contrario al de las agujas del reloj desconecta el
+motor, la fuente láser y el sistema eléctrico.
+Mediante el interruptor de llave se puede evitar el manejo por parte de personal no
+autorizado.
+5.2.6 Botón de parada de emergencia
+Cuando se presiona un botón de emergencia se cierra inmediatamente el circuito eléctrico. El rayo
+láser se interrumpe y todos los movimientos se detienen.
+No utilice el botón de parada de emergencia para el procedimiento de desconexión
+estándar.
+www.troteclaser.com
+48 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 49]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+5.2.6.1 Confirmación de botón de parada de emergencia
+1. Gire el botón de parada de emergencia en el
+sentido contrario al de las agujas del reloj para
+desbloquearlo.
+2. Reinicie el dispositivo láser para confirmar el
+fallo del láser.
+5.2.7 Botón de segmento de aspiración
+El sistema de aspiración para mesa está dividido en cuatro segmentos
+independientes.
+Presionando uno de los cuatro botones de segmento de aspiración se puede activar o
+desactivar el vacío de la respectiva sección. El área de trabajo en la que no haya
+material no debe ser cubierta.
+5.2.8 Máx. aire comprimido / lámpara de control
+Botón de máx. aire comprimido: al presionar el botón se conecta la máxima presión
+de aire. Esta se mantiene activa mientras esté pulsado el botón. El suministro del
+máximo aire comprimido se utiliza, por ejemplo, para soplar cualquier formación de
+llama.
+Lámpara de control: ENCENDIDA si un sistema de aspiración o uno de refrigeración
+no está conectado o no está activo y, por tanto, no está cerrado el bloqueo.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+49 / 92
+
+[Page 50]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+5.3 Mesas (concepto de mesa multifuncional)
+5.3.1 Mesas de corte
+5.3.1.1 Mesa de corte lamas de aluminio / lamas acrílicas
+La mesa de corte con lamas de aluminio se
+utiliza principalmente para cortar los materiales
+más gruesos (hasta 8 mm de espesor) y para
+las piezas que sobrepasan los 100 mm de
+ancho. Los materiales acrílicos pueden cortarse
+sin ninguna reflexión con solo intercambiar las
+lamas de aluminio por otras acrílicas. En
+función del trabajo, es también posible reducir
+el número de puntos de apoyo quitando lamas.
+5.3.1.2 Mesa de corte con rejilla de aluminio
+Esta mesa de corte robusta y universal se
+caracteriza por poseer peines extremadamente
+estables y una larga vida útil. Es especialmente
+idónea para tareas de corte con piezas
+inferiores a los 100 mm, las cuales quedan en
+posición acostada después del corte. En
+comparación con la mesa de corte, la mesa de
+corte con rejilla de aluminio tiene más puntos de
+apoyo.
+www.troteclaser.com
+50 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 51]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+5.3.1.3 Mesa de corte con lamas acrílicas
+La mesa de corte universal para poder cortar sin
+reflejos acrílicos de grosor fino, de hasta 8 mm.
+Al igual que con la mesa de corte con rejilla de
+aluminio, las piezas inferiores a los 100 mm de
+tamaño quedan en posición acostada después
+del corte.
+5.3.1.4 Mesa de corte en forma de panal
+Esta mesa de procesamiento es adecuada
+especialmente para aplicaciones que requieren
+mínimos reflejos traseros y una lisura óptima del
+material, como por ejemplo en películas de corte.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+51 / 92
+
+[Page 52]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+5.4 Lentes
+Lentes (incl. herramienta de foco) disponibles:
+2,5” (estándar) 3,75"
+5,0"
+5.5 Boquillas:
+Boquillas disponibles:
+Ø 3 Ø 7
+Corto, diámetro Corto, diámetro grande
+pequeño
+(estándar)
+(estándar)
+www.troteclaser.com
+52 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 53]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+6 Transporte, descarga y embalaje
+6.1 Notas de seguridad
+ADVERTENCIA
+Riesgo de lesiones
+Existe un riesgo de lesiones procedente de piezas que caigan durante el transporte, la
+carga y la descarga de la máquina.
+- Siga las instrucciones de seguridad.
+Respete las instrucciones de seguridad para evitar daños en la máquina derivados de un
+manejo inapropiado durante el transporte:
+• Mueva siempre la máquina poniendo el máximo cuidado y atención.
+• Transporte la máquina/los componentes de la máquina solo en su embalaje original.
+• Tenga en cuenta el centro de gravedad de la máquina cuando la transporta (minimice el riesgo de
+balanceo).
+• Atienda a los símbolos de embalaje (p. ej. Transporte la máquina solo en posición hacia arriba).
+• Tome medidas para evitar que la máquina se balancee hacia los lados, balanceándose o
+cayéndose.
+• Transporte la máquina con el mayor cuidado posible para evitar daños.
+• Evite vibraciones.
+• Cuando transporte la máquina a ultramar, el dispositivo debe estar embalado al vacío y debe
+estar protegido contra la corrosión.
+• Cuando transporte al aire libre, transporte solo en vehículos con techo o suficiente protección
+frente a las condiciones meteorológicas.
+• Proteja la máquina de daños de transporte utilizando correas e insertos y deje suficientes huecos
+para otros objetos transportados.
+• No coloque ninguna otra carga u objetos en la máquina ni en componentes de la máquina.
+6.2 Estado de entrega
+A no ser que se acuerde otra cosa, la máquina y los accesorios adicionales se entregarán en
+embalajes de madera.
+Por favor, consulte más información e la «Guía de preinstalación».
+Conserve el embalaje original.
+.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+53 / 92
+
+[Page 54]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+6.3 Temperatura y humedad
+6.4 Herramientas requeridas para descargar y transportar
+6.5 Reubicación de la máquina
+Transporte la máquina solo en su embalaje original.
+Asegúrese de que los embalajes de madera están asegurados adecuadamente, de lo
+contrario los embalajes pueden deslizarse, balancearse o caerse durante el transporte.
+Si quiere reubicar la máquina, por favor, póngase en contacto con su servicio de Trotec local.
+www.troteclaser.com
+54 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+ | Temperatura ambiente para el |  | -10 °C a 40 °C (-50 °F a 104 °F)
+- | transporte | - | -
+ | Humedad |  | máx. 85% (sin condensación)
+
+ | Descarga de las piezas de
+la máquina embaladas |  | Transporte de las piezas | 
+- | - | - | de la máquina no | -
+- | - | - | embaladas | -
+Tipo | carretilla elevadora de
+horquilla | camión de pallet | - | -
+Peso | peso ≥ 1,5 t | peso ≤ 1,5 t | - | -
+Extensión de la horquilla | aprox.
+2 m (78,74 pulgadas) | aprox.
+2m (78,74 pulgadas) | - | -
+
+Descarga de las piezas de
+la máquina embaladas
+
+[Page 55]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+7 Configuración e instalación
+7.1 Notas de seguridad
+ADVERTENCIA
+Riesgo de lesiones
+Un ensamblaje o configuración inadecuados pueden provocar lesiones graves o daños.
+- El trabajo debe ser realizado solo por personal formado autorizado que esté
+familiarizado con el modo de manejar la máquina y en estricta observancia de las
+instrucciones de seguridad.
+ADVERTENCIA
+Riesgo de lesiones
+Una máquina incompleta, defectuosa o dañada puede causar lesiones físicas graves o
+daños en la propiedad.
+- Ensamble e instale la máquina solo si la máquina y sus partes está completamente
+intactos.
+PELIGRO
+Corriente eléctrica
+El trabajo en ensamblajes eléctricos debe ser realizado solo por personal cualificado y en
+estricta observancia de las notas de seguridad.
+Tenga en cuenta lo siguiente:
+• Si el sistema ha estado sujeto a fluctuaciones significativas de temperatura, deberá volverse a
+llevar a la temperatura ambiente antes de ser puesto en marcha.
+• Un sistema de láser consiste en componentes eléctricos y ópticos de alta calidad. El estrés
+mecánico, las vibraciones y los impactos deben evitarse siempre
+• Asegúrese de que hay suficiente distancia respecto de las máquinas próximas, muros o otros
+equipos fijos.
+• Mantenga el área de trabajo ordenada y limpia.
+• Antes de ensamblar e instalar la máquina, compruebe que está completa y en buenas
+condiciones.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+55 / 92
+
+[Page 56]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+7.2 Entorno de funcionamiento
+7.2.1 Temperatura y humedad
+7.2.2 Condiciones de la superficie del suelo
+Condiciones:
+- Plano ±5 mm (±0.1969 pulgadas)
+- Suelo sólido, firme y exento de vibraciones
+- Suelo de fácil cuidado y limpieza
+- Capacidad de rodamiento de la superficie del suelo ≥1000kg/m2 (10KN/m2)
+- Punto de carga de la máquina 500kg/m² (5KN/m2)
+- No se requiere ninguna preparación especial del sustrato
+7.2.3 Condiciones (ambientales) del entorno
+Condiciones:
+- Disponga suficiente iluminación en el lugar de trabajo
+- Asegúrese de que el entorno está exento de polvo (II° conforme a IEC60947-1)
+- Escudo de CEM
+- Libertad de interactuar con instalaciones eléctricas, mangueras y tuberías
+- Suministro de energía exento de fluctuaciones
+7.3 Configuración e instalación
+La configuración debe ser realizada solo por técnicos de Trotec.
+www.troteclaser.com
+56 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+ | Temperatura de funcionamiento: |  | 15 °C a 25 °C (59 °F a 77 °F)
+ | Humedad del aire: |  | 40% – 70% (sin condensación)
+
+[Page 57]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+7.4 Conexiones
+7.4.1 Conectar el cable de alimentación
+Un voltaje incorrecto puede causar daños en la máquina
+No utilice la máquina si los voltajes no son correctos, ya que esto puede causar daños a
+la máquina.
+- Los cables de alimentación y el voltaje de funcionamiento deben corresponderse con
+lo indicado junto a las tomas de corriente de conexión.
+Conecte el extremo de los cables de alimentación a la toma de corriente de conexión principal.
+7.4.2 Conexión de la consola de manejo
+La conexión debe ser realizada por un técnico de Trotec.
+7.4.3 Conectar un sistema de aspiración Trotec
+Un voltaje incorrecto puede causar daños en la máquina
+No utilice la máquina si los voltajes no se corresponden con el voltaje requerido por el
+sistema de aspiración, ya que esto puede causar daños a la máquina.
+- Compruebe que el voltaje de la red se corresponde con el voltaje requerido por el
+sistema de aspiración.
+La conexión debe ser realizada por un técnico de Trotec.
+Siga las instrucciones de utilización y mantenimiento incluidas en el presente manual del
+sistema de aspiración.
+7.4.4 Conectar un sistema de refrigeración Trotec
+Un voltaje incorrecto puede causar daños en la máquina
+No utilice la máquina si los voltajes no se corresponden con el voltaje requerido por el
+sistema de refrigeración, ya que esto puede causar daños a la máquina.
+- Compruebe que el voltaje de la red se corresponde con el voltaje requerido por el
+sistema de refrigeración.
+La conexión debe ser realizada por un técnico de Trotec.
+Siga las instrucciones de utilización y mantenimiento incluidas en el presente manual del
+sistema de refrigeración.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+57 / 92
+
+[Page 58]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+8 Utilización
+8.1 Antes de la utilización
+ADVERTENCIA
+Riesgo de lesiones
+La utilización inapropiada puede conllevar lesiones físicas graves o daños en la
+propiedad.
+- El trabajo debe ser realizado solo por personal formado autorizado que esté
+familiarizado con el modo de manejar la máquina y en estricta observancia de las
+instrucciones de seguridad.
+Antes de la puesta en servicio es necesario comprobar los siguientes puntos:
+• Compruebe la máquina y sus dispositivos de seguridad para asegurarse de que funcionan
+correctamente, se encuentran en condiciones técnicas perfectas y está completos.
+• Mantenga el área de trabajo ordenada y limpia. ¡Fuentes de accidentes!
+• Asegúrese de que los componentes ópticos están exentos de polvo y suciedad.
+• Active el sistema de extracción.
+• Asegúrese de que la instalación eléctrica está completa y de que el voltaje de entrada es
+correcto.
+• Compruebe las condiciones ambientales (entorno) utilizando la especificación técnica.
+• Familiarícese usted con las normas de seguridad del láser.
+• Cumpla todos los requisitos de seguridad de láser.
+• El sistema puede ser conectado solo cuando se han comprobado todas las condiciones para
+cumplir con la seguridad de láser por parte de una persona autorizada y haya sido confirmado
+que se cumplen los estándares.
+8.2 Software
+Para información sobre cómo utilizar el software, por favor, lea el manual del software que se
+acompaña, que podrá encontrar en el DVD suministrado.
+www.troteclaser.com
+58 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 59]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+8.3 ENCENDIDO/APAGADO
+8.3.1 ENCENDIDO
+1. Asegúrese de que no hay objetos de ningún tipo dentro
+del área de procesamiento que puedan limitar u obstruir la
+libertad de movimiento de los elementos mecánicos del
+dispositivo.
+2. Asegúrese de que todos los dispositivos de seguridad
+están presentes y funcionan totalmente y de que los
+paneles laterales están cerrados.
+3. Conecte los sistemas de refrigeración girando en el
+sentido de las agujas del reloj el interruptor principal
+situado en la parte trasera del sistema, a la derecha.
+4. Conecte el suministro de aire comprimido.
+5. Conecte el conector principal de la máquina girando en el
+sentido de las agujas el reloj el interruptor principal. El
+interruptor principal se encuentra en el lado derecho de la
+máquina
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+59 / 92
+
+[Page 60]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+6. Gire el interruptor de llave en el sentido de las agujas
+del reloj y manténgalo contra la fuerza de salto
+(resorte). Tan pronto como se haya encendido la
+máquina, suelte el interruptor. El interruptor vuelve a su
+posición inicial.
+Solo si el sistema de refrigeración fue
+conectado previamente, el circuito de
+seguridad se cierra y la máquina puede
+apagarse.
+7. La máquina comienza los procesos de referenciado
+aprox. 25 segundos después de conectarla.
+8. Tan pronto como el proceso de referenciado ha
+finalizado correctamente completamente, suena una
+señal acústica y la máquina está lista para funcionar.
+Adicionalmente, el estado de listo-para-el-
+funcionamiento está indicado mediante el parpadeo
+lento de los LEDs de estado verde.
+www.troteclaser.com
+60 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 61]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+8.3.2 DESCONECTADO
+1. Gire el interruptor de llave en sentido contrario al de las
+agujas del reloj.
+2. Desconecte el conector principal de la máquina girando en
+el sentido contrario al de las agujas el reloj el interruptor
+principal. El interruptor principal se encuentra en el lado
+derecho de la máquina.
+Si desconecta el cable de alimentación, se
+perderán todos los datos de procesamiento.
+3. Desconecte el suministro de aire comprimido.
+4. Desconecte los sistemas de refrigeración girando en el
+sentido contrario al de las agujas del reloj el interruptor
+principal situado en la parte trasera del sistema.
+5. Limpie la máquina para garantizar que no hay objetos de
+ningún tipo dentro del área de procesamiento.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+61 / 92
+
+[Page 62]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+8.4 Colocación de las lentes
+1. Retire (por soplo) las partículas sueltas y el polvo de
+los cables de suministro de un fuello o aire
+comprimido (conforme a ISO 8573:2010 clase 1).
+2. Desatornille los tornillos de fijación de la lente. (2
+tornillos)
+3. Retire cuidadosamente la lente.
+4. Compruebe si la lente está dañada.
+5. Si es necesario, limpie la lente con líquido limpiador
+y paño limpiador (véase capítulo «Limpieza de los
+grupos ópticos»
+6. Compruebe de nuevo si la lente está dañada.
+7. Inserte la lente.
+8. Fije la lente con los tornillos de fijación (2 tornillos)
+www.troteclaser.com
+62 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 63]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+8.5 Colocación de la mesa
+Daño del bastidor base multifuncional o de trastorno de función de aspiración
+Cuando se procesan piezas directamente en el bastidor base multifuncional sin una
+mesa, el bastidor base puede resultar dañado, y es posible que se produzcan trastornos
+en la función de aspiración.
+- Procese piezas de trabajo solo en mesas adecuadas.
+1. El área de trabajo ofrece espacio para cuatro
+mesas. Coloque las mesas adecuadas sobre
+el bastidor base multifuncional.
+Se necesitan dos personas para
+sustituir una mesa.
+2. Fije las dos mesas exteriores insertando una
+cinta de fijación en el lateral.
+3. Consulte más detalles sobre variedades de
+mesas disponibles en el capítulo «Mesas».
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+63 / 92
+
+[Page 64]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+8.6 Métodos de enfocado
+8.6.1 Recapitulación
+La grabación precisa por láser depende de muchos factores. Aparte de la correcta elección de lentes,
+mesas de trabajo y un correspondiente sistema de aspiración, el enfocado correcto juega un papel
+principal.
+El correcto ajuste del foco, lo que significa que se dé la distancia correcta entre el cabezal láser y el
+material que se quiere grabar, es crucial para obtener unos perfectos resultados de aplicación.
+Modo de enfoque manual
+- Herramienta de enfoque
+Modos de enfoque automáticos
+- Sonar Technology™ (enfoque automático con sensor ultrasónico)
+De la garantía quedan excluidos los defectos por rayaduras del cabezal (cabezal de
+trabajo choca con material o mesa de trabajo).
+www.troteclaser.com
+64 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 65]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+8.6.2 Herramienta de enfoque
+1. Mueva el cabezal de procesamiento sobre el
+material a grabar mediante las teclas (2) de
+posición X/Y del teclado.
+1
+2
+2. Disponga la herramienta de foco (3) en el
+espacio que se encuentra en el cabezal láser,
+de forma que la herramienta de foco pueda
+moverse sin impedimentos.
+3
+3. Mueva los ejes X hacia abajo presionando la
+tecla del cabezal láser (posición Z) (1).
+4. Antes de que la herramienta de foco alcance
+la pieza de trabajo, mueva la mesa de trabajo
+hacia abajo muy lentamente y poco a poco
+pulsando con brevemente la tecla (1) del
+cabezal láser (posición Z) hasta que la
+herramienta de foco se incline hacia el lado o
+descienda en su posición.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+65 / 92
+
+[Page 66]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+8.6.3 Tecnología Sonar™
+Una alta contaminación del sensor ultrasónico puede producir defectos debido a
+rayaduras de cabezal (cabezal de trabajo choca con material o mesa de trabajo).
+1. Asegúrese de que le sensor ultrasónico
+está limpio.
+2. Versión 1: Presione las dos teclas (1) de
+posicionamiento Z simultáneamente
+para que el rayo láser sea
+automáticamente enfocado a la pieza de
+trabajo.
+3. Versión 2: Presione el botón SHIFT y el
+botón DOWN (ABAJO) de posición Z
+Este modo de enfoque es especialmente adecuado para todos los materiales que reflejan
+sonido.
+www.troteclaser.com
+66 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 67]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+9 Mantenimiento
+9.1 Notas de seguridad
+ADVERTENCIA
+Un mantenimiento inadecuado puede provocar lesiones graves o daños.
+El mantenimiento debe ser realizado solo por personal formado autorizado que esté
+familiarizado con el modo de manejar la máquina y en estricta observancia de las
+instrucciones de seguridad.
+ADVERTENCIA
+Riesgo de incendio o de explosión
+El manejo inadecuado de la máquina puede causar un incendio o una explosión.
+- Para limpiar la máquina, no utilice sustancias ni agentes explosivos ni inflamables.
+- No deben almacenase líquidos inflamables o explosivos cerca de la máquina.
+- Mantenga el sistema siempre limpio y retire las piezas inflamables del área de
+trabajo o del área de aspiración.
+ADVERTENCIA
+Peligro de descarga eléctrica
+El trabajo en ensamblajes eléctricos debe ser realizado solo por personal cualificado y en
+estricta observancia de las instrucciones de seguridad.
+- Antes de realizar cualquier trabajo de mantenimiento, desconecte la máquina del
+voltaje principal y asegúrese de que el sistema está desenergetizado.
+Para largos períodos de reposo (p. ej. durante la noche), desconecte la máquina del
+suministro de corriente utilizando el interruptor principal.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+67 / 92
+
+[Page 68]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+9.2 Calendario de mantenimiento
+Con el fin de asegurar la máxima disponibilidad y vida útil del sistema, le
+recomendamos inspeccionar regularmente el filtro, la ventilación y las rejillas de
+aspiración y mantener limpia el área de alrededor. Una inspección visual de las lentes
+se recomienda por ejemplo antes de conectar el sistema.
+9.3 Limpieza de la máquina
+1. Mueva el eje X a una posición en la que le resulte a usted más fácil limpiar la superficie y el
+interior de la máquina. Para limpiar, utilice un líquido de limpieza de cristales y toallas de papel.
+www.troteclaser.com
+68 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+ | Componentes del sistema |  |  | Diariamente |  |  | Semanalmente |  |  | Mensualmente |  |  | Anualmente | 
+ | Láser |  |  |  |  |  |  |  |  |  |  |  |  | 
+Toda el área de trabajo -
+limpieza general | - | - | Limpiar, si es
+necesario | - | - |  | - | - |  | - | - |  | - | -
+Lens y vidrio protector | - | - | Comprobar
+Limpiar, si es
+necesario | - | - |  | - | - |  | - | - |  | - | -
+Escudo deflector láser y
+boquilla | - | - | Comprobar
+Limpiar, si es
+necesario | - | - |  | - | - |  | - | - |  | - | -
+Cabezal láser de aspiración | - | - | Comprobar
+Limpiar,
+si es
+necesario | - | - |  | - | - | Cada 6 meses:
+Comprobar
+Limpiar, si es
+necesario | - | - |  | - | -
+Rejillas de ventilación (dentro
+de la máquina) | - | - | Comprobar
+Limpiar, si es
+necesario | - | - |  | - | - |  | - | - |  | - | -
+Dispositivos de seguridad | - | - | Comprobar
+Limpiar, si es
+necesario | - | - |  | - | - |  | - | - |  | - | -
+Sensor ultrasónico (opción) | - | - | Comprobar
+Limpiar, si es
+necesario | - | - |  | - | - |  | - | - |  | - | -
+Vidrio de seguridad
+JobControl® Vision (si está
+disponible) | - | - |  | - | - | Comprobar
+Limpiar, si es
+necesario | - | - |  | - | - |  | - | -
+ | Sistema de aire comprimido |  |  |  |  |  |  |  |  |  |  |  |  | 
+Unidad de mantenimiento | - | - | Conforme al manual de instrucciones del sistema de aire
+comprimido | - | - | - | - | - | - | - | - | - | - | -
+ | Sistema de aspiración |  |  |  |  |  |  |  |  |  |  |  |  | 
+Bolsa de filtro | - | - | Conforme al manual de instrucciones del sistema de aspiración | - | - | - | - | - | - | - | - | - | - | -
+Alfombrilla de filtro | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+Partícula de filtro | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+Filtro de carbón activado | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+ | Sistema de refrigeración |  |  |  |  |  |  |  |  |  |  |  |  | 
+Filtro de bomba | - | - | Conforme al manual de instrucciones del sistema de aire
+comprimido | - | - | - | - | - | - | - | - | - | - | -
+Calefactor de condensación | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+Líquido refrigerante | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+Bomba | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+
+[Page 69]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2. Desconecte la máquina de los cables de alimentación.
+3. Retire las mesas.
+4. Retire minuciosamente todas las partículas y depósitos de suciedad acumulados en el interior de
+la máquina (p. ej. mediante un limpiador de aspiradora y una pala).
+5. Limpie las rejillas de la caja de aspiración situada dentro de la máquina usando un paño seco o
+húmedo, un limpiador de pala o de aspiradora.
+6. Limpie los elementos cobertores y paneles utilizando una prenda de algodón ligeramente
+húmeda. No use toallas de papel, ya que podrían rayar la superficie acrílica.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+69 / 92
+
+[Page 70]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+9.4 Limpieza de los grupos ópticos
+Trotec recomienda utilizar el kit de limpieza incluido. Alternativamente, utilice palitos de algodón de
+alta calidad junto con el líquido limpiador suministrado.
+Los siguientes productos de limpieza están disponibles como piezas accesorias:
+- Paño limpiador de lentes (núm. de pieza 69249)
+- Líquido limpiador de lentes (núm. de pieza 69248)
+- Fuelles (núm. de pieza 80779)
+9.4.1 Diseño de lentes
+Anillo de fijación
+Anillo de sellado
+Lente
+9.4.2 Limpieza de lente
+ADVERTENCIA
+Lentes de seleniuro de zinc, telescopio y ventana de salida de láser
+Los ópticos dañados absorben radiación láser y, por tanto, pueden ser destruidos. Tanto
+las lentes rotas o dañadas como la descomposición térmica de lentes generan partículas
+que causan serios daños a la salud.
+- Se requiere especial cuidado cuando se manejan, colocan y limpian estos elementos.
+- No ejerza presión que no sea uniforme.
+- No utilice herramientas ni objetos peligrosos para limpiar la superficie.
+- Nunca toque los ópticos con los dedos desnudos (utilice guantes).
+- Nunca use paños limpiadores más de una vez.
+- Si se rompe una lente o se daña o se descompone térmicamente, siga las medidas de
+protección.
+- Eliminación de residuos conforme a las normas y leyes válidas en el país del usuario.
+- ¡Las lentes rayadas o con hendiduras no deben volver a ser utilizadas nunca
+más!
+www.troteclaser.com
+70 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 71]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+1. Retire (por soplo) las partículas
+sueltas y el polvo de los cables de
+suministro de un fuello o aire
+comprimido (conforme a ISO
+8573:2010 clase 1).
+2. Tenga preparados el líquido limpiador
+y los paños limpiadores.
+3. Levante la mesa y ponga un paño
+debajo del soporte de la lente.
+(Protección de rotura de lente)
+4. Desatornille el tornillo de fijación de la
+lente.
+(1 tornillo)
+5. Retire cuidadosamente la lente.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+71 / 92
+
+[Page 72]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+6. Con la ayuda de los grupos ópticos
+suelte el anillo de fijación girando en
+sentido contrario al de las agujas del
+reloj.
+grupo de ópticos
+7. Retire el anillo de fijación y el anillo de
+sellado.
+www.troteclaser.com
+72 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 73]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+8. Retire cuidadosamente la lente y
+lávela con líquido limpiador para
+eliminar suciedad persistente.
+9. Compruebe si la lente presenta
+signos de estar dañada.
+10. Ponga un poco de líquido limpiador
+en la lente y deje que el líquido actúe
+durante 1 minuto.
+11. Humedezca un paño limpiador con
+líquido limpiador y páselo
+cuidadosamente sobre la superficie.
+12. Entonces, introduzca cuidadosamente
+la lente, con el lado convexo hacia
+arriba, en el soporte de lente.
+13. Inserte el anillo de sellado y de
+fijación y fije el anillo de fijación
+utilizando la herramienta de llave.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+73 / 92
+
+[Page 74]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+14. Inserte cuidadosamente la lente con
+el soporte del lente en el cabezal láser
+y fíjelo con los tornillos de fijación de
+la lente.
+(2 tornillos)
+9.4.3 Limpieza del vidrio protector de 2,5''
+1. Extraiga el escudo deflector láser fijado
+magnéticamente.
+2. Limpie el escudo deflector láser con un paño seco o
+húmedo por los dos lados.
+3. Desconecte la manguera de Asistencia de aire el
+anillo de fijación azul.
+www.troteclaser.com
+74 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 75]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+4. Retire el tornillo de fijación.
+(1 tornillo)
+5. Extraiga cuidadosamente la carcasa de vidrio
+protectora.
+6. Con la ayuda de la herramienta de llave
+suministrada, suelte el anillo de fijación girando en
+sentido contrario al de las agujas del reloj.
+grupo de ópticos
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+75 / 92
+
+[Page 76]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+7. Retire el anillo de fijación.
+8. Extraiga el vidrio protector.
+9. Limpie el vidrio protector con un paño seco o
+húmedo por los dos lados.
+10. Inserte de nuevo el anillo de sellado. Inserte
+cuidadosamente el vidrio de sellado y el anillo de
+fijación y fije el anillo de fijación utilizando la
+herramienta de llave.
+11. Vuelva a fijar la carcasa del vidrio protector al
+cabezal láser.
+9.4.4 Limpieza del vidrio protector de 5''
+ADVERTENCIA
+Lentes de seleniuro de zinc, telescopio y ventana de salida de láser
+Los ópticos dañados absorben radiación láser y, por tanto, pueden ser destruidos. Tanto
+las lentes rotas o dañadas como la descomposición térmica de lentes generan partículas
+que causan serios daños a la salud.
+- Se requiere especial cuidado cuando se manejan, colocan y limpian estos elementos.
+- No ejerza presión que no sea uniforme.
+- No utilice herramientas ni objetos peligrosos para limpiar la superficie.
+- Nunca toque los ópticos con los dedos desnudos (utilice guantes).
+- Nunca use paños limpiadores más de una vez.
+- Si se rompe una lente o se daña o se descompone térmicamente, siga las medidas de
+protección.
+- Eliminación de residuos conforme a las normas y leyes válidas en el país del usuario.
+- ¡Las lentes rayadas o con hendiduras no deben volver a ser utilizadas nunca
+más!
+www.troteclaser.com
+76 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 77]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+1. Con la ayuda de la herramienta de
+llave suministrada, suelte el anillo de
+fijación presionándolo hacia abajo.
+Herramienta de llave
+2. Retire cuidadosamente el soporte de
+lente del cabezal de procesamiento.
+3. Con la ayuda de los grupos ópticos
+suelte el anillo de fijación girando en
+sentido contrario al de las agujas del
+reloj.
+grupo de ópticos
+4. Retire el anillo de sellado.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+77 / 92
+
+[Page 78]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+5. Retire cuidadosamente la lente y
+lávela con líquido limpiador para
+arrojar a suelo rudo.
+6. Compruebe si la lente presenta
+signos de estar dañada.
+7. Ponga un poco de líquido limpiador
+en la lente y deje que el líquido actúe
+durante 1 minuto.
+8. Humedezca un paño limpiador con
+líquido limpiador y páselo
+cuidadosamente sobre la superficie.
+9. Inserte la lente y el anillo de sellado.
+10. Retire cuidadosamente el soporte de
+lente para el cabezal de
+procesamiento.
+www.troteclaser.com
+78 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 79]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+9.4.5 Limpieza de la boquilla
+1. Extraiga el escudo deflector láser fijado magnéticamente.
+2. Limpie el escudo deflector láser con un paño seco o
+húmedo por los dos lados.
+3. Gire la boquilla en el sentido de las agujas del reloj para
+poder extraerla.
+4. Vuelva a fijar el escudo deflector láser en el cabezal láser.
+9.5 Limpieza de la aspiración del cabezal
+1. Afloje el tornillo de fijación y extraiga la manguera de
+aspiración. (1 tornillo)
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+79 / 92
+
+[Page 80]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+2. Limpie el conducto de flujo de aire y el punto de conexión.
+9.6 Limpie las rejillas de ventilación de la aspiración para mesa
+1. Mueva la mesa a una posición en la que le resulte a usted más fácil limpiar las rejillas de la
+aspiración para la mesa que se encuentran en el interior de la máquina.
+2. Desconecte la máquina de los cables de alimentación.
+3. Retire las mesas.
+4. Retire minuciosamente todas las partículas y depósitos de suciedad acumulados en el interior de
+la máquina (p. ej. mediante un limpiador de aspiradora y una pala).
+5. Limpie las rejillas de la caja de aspiración situada dentro de la máquina usando un paño seco o
+húmedo, un limpiador de pala o de aspiradora.
+9.7 Limpieza del sensor ultrasónico (opción Sonar Technology™)
+El sensor se puede limpiar bien con un cepillo o se le puede pasar un paño en seco, con espuma o
+con detergentes suaves con un paño de microfibra o un paño antiestático.
+Si presenta suciedad incrustada se puede utilizar una solución isopropílica o etanol.
+Evite los tiempos de aplicación prolongados y el uso a largo plazo.
+www.troteclaser.com
+80 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 81]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+10 Solución de problemas
+Este capítulo debe permitir al personal de mantenimiento identificar y resolver fallos de
+funcionamiento basados en mensajes de error y síntomas.
+PELIGRO
+Riesgo de incendio por ajustes de parámetros incorrecta
+El funcionamiento del láser con ajustes de parámetros incorrectos, tales como ajustes de
+corriente, velocidad o frecuencia, puede provocar que se forme fuego.
+- El funcionamiento del láser solo está permitido bajo supervisión.
+Los fallos del sistema que no se pueden solucionar pueden producir daños en la
+máquina.
+- Desconecte la máquina de los cables de suministro y póngase en contacto con su
+equipo local de asistencia técnica.
+10.1 Errores, causas y soluciones
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+81 / 92
+
+Problema | Posible causa | Resolución
+Profundidad de grabado
+demasiado baja |  Enfoque impreciso
+ Elementos ópticos sucios |  Examine el foco
+ Limpie los elementos
+ópticos
+Bordes borrosos |  Enfoque impreciso |  Examine el foco
+Faltan líneas de corte |  No hay ningún canal en la
+base de datos del material
+ El grosor de la línea en
+Corel Draw es demasiado
+grande
+ El color fue omitido en
+JobControl® |  Aumentar el número de
+canales en la base de
+datos de material de
+JobControl®
+ Reducir el grosor al valor
+más pequeño posible
+ Seleccionar color para el
+corte en la base de datos
+de JobControl®
+Ondeamiento de las
+líneas |  Lente está suelta |  Inspeccionar lente y
+soporte de lente
+Ningún resultado de
+marcado visible |  Potencia de láser
+demasiado baja
+ demasiado alta rápida
+ No enfocada
+ Herramienta de enfoque
+incorrecta |  Aumentar ajuste de
+corriente
+ Reducir velocidad
+ Examine el foco
+ Cambien herramienta de
+enfoque
+ Si utiliza autoenfoque (Auto
+focus), compruebe los
+
+[Page 82]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+ajustes dentro del software
+(lente, grosor de material,
+mesa)
+www.troteclaser.com
+82 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 83]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+83 / 92
+
+Problema | Posible causa | Resolución
+Detalles finos de
+estampado están
+grabados con demasiado
+grosor |  Brazos demasiado
+inclinados |  Seleccione otros brazos o
+edite (liso/medio/inclinado):
+Opciones/proceso
+opciones/estampado
+El tamaño a grabar o
+cortar no se corresponde
+con el tamaño de Corel
+Draw |  Corrección de tamaño
+ENCENDIDA en
+JobControl®
+ Ajustes de tamaño
+incorrectos en el
+controlador de la impresora
+ Posición de imagen
+incorrecta está
+seleccionada en la etiqueta
+de layout (imprimir)
+ Máquina incorrecta
+seleccionada en
+JobControl® |  Desconecte la corrección de
+tamaño en JobControl®
+(ajustes/opciones
+avanzadas/etiqueta láser)
+ Utilice el mismo tamaño que
+en Corel draw
+ Cambie los ajustes de layout
+a: como en el documento
+ Seleccione la máquina
+adecuada en JobControl®
+Esquinas y ángulos no
+está cortados o
+marcados |  Corriente demasiado baja |  Aumente la corrección en
+JobControl® (Ajustes /
+Material Plantillas
+Configuración—Corrección)
+Sin referenciado después
+de la configuración |  Puerta superior, frontal o
+lateral no cerrada |  Cierre las puertas
+Sin respuesta después de
+conectar el sistema |  Salta fusible
+ No hay corriente eléctrica
+en la salida de corriente |  Inspeccione los fusibles
+ Inspeccione la salida de
+corriente
+No hay comunicación
+con la máquina |  Selección de puerto COM
+no válida
+ Cable de comunicación
+defectuoso
+ COM: el puerto está siendo
+utilizado por otro programa |  Cambie la selección
+ Inspeccione el cable
+ Cierre este programa o
+cambie el puerto COM
+La conexión con la
+máquina se interrumpe
+con frecuencia |  Emisiones
+electromagnéticas |  Asegúrese de que la
+máquina y el ordenador estén
+conectados al mismo circuito
+eléctrico; no debería
+excederse la longitud del
+cable original
+
+[Page 84]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+www.troteclaser.com
+84 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+Problema | Posible causa | Resolución
+Compensación entre
+trabajos de grabado y
+líneas de corte |  velocidad demasiado alta |  Reducir velocidad
+Otros fallos |  |  Contactar servicio de
+asistencia de Trotec:
+
+[Page 85]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+11 Datos de contacto
+11.1 Asistencia técnica
+Ante dudas, póngase en contacto con nuestro experimentado equipo de asistencia técnica local.
+Puede consultar los números de contacto globales y otras informaciones en nuestra página web,
+apartado «Asistencia»:
+www.troteclaser.com
+Cuando llame, por favor, asegúrese de que está usted junto a la máquina y de que tiene
+preparada la siguiente información (véase formulario de respuesta):
+Qué sucedió y qué estaba haciendo usted cuando surgió el problema.
+Qué ha hecho usted hasta el momento para solventar el problema.
+Núm. de serie (véase placa de tipo)
+Código de error
+11.2 Oficinas locales / ventas
+Puede encontrar nuestro localizador de tienda e información detallada sobre nuestras oficinas en
+nuestra página web, en el apartado «Contacto», «Oficina local»:
+www.troteclaser.com
+11.3 Documentación técnica
+Para hacer comentarios o sugerir cambios para este manual, póngase en contacto con:
+Documentación técnica: +43 (0) 7242 239 - 7000
+Correo-e: techsupport@troteclaser.com
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+85 / 92
+
+[Page 86]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+12 Desmontaje
+El desmontaje de la máquina descrito en este manual solo puede ser realizado por
+técnicos de asistencia de Trotec. Por favor, póngase en contacto con su servicio Trotec
+local.
+13 Eliminación de residuos
+No tire la máquina junto con la basura doméstica.
+Los dispositivos electrónicos han de ser desechados de acuerdo con las normas
+legales vigentes sobre eliminación de residuos electrónicos y eléctricos. Ante
+cualquier duda, consulte a su proveedor.
+Utilice herramientas adecuadas si tiene que desmontar la máquina. Todas las
+piezas deben ser almacenadas en tipos de material individuales y deben ser
+eliminadas conforme a las normas regionales sobre eliminación de desechos
+electrónicos y eléctricos.
+www.troteclaser.com
+86 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 87]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+14 Apéndice
+14.1 Formulario de aceptación
+Estimado/a cliente: Por favor, marque las casillas correspondientes a las tareas
+realizadas:
+Le rogamos confirme mediante el
+ Comprobación de daños por transporte de las piezas de
+presente documento que la
+la máquina
+transferencia de la máquina se ha
+efectuado debidamente  Comparación de las piezas de la máquina con la
+relación del albarán
+Rogamos transmita una copia del
+ Repaso de cómo se configura la máquina
+presente documento, debidamente
+ Repaso de cómo se pone en marcha la máquina
+rellenada y firmada por un
+representante autorizado de su  Repaso de cómo funciona la máquina
+organización, a la empresa
+ Repaso de qué mantenimiento necesita la máquina
+vendedora de la máquina (quien
+reenviará dicha copia al  Comprobación del voltaje eléctrico
+fabricante).
+ Repaso de las notas de seguridad
+Muchas gracias.  Prueba de funcionamiento
+ Determinación de deficiencias
+La máquina con la denominación de máquina:
+En los términos arriba enumerados, habiéndose efectuado
+correctamente la transmisión de la máquina.
+Lugar, fecha
+Persona instruida:
+Nombre/posición
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+87 / 92
+
+[Page 88]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+Sello de empresa / firma
+www.troteclaser.com
+88 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+[Page 89]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+14.2 Formulario de verificación de la formación
+Empleado/alumno:
+Formador:
+Fecha de la formación:
+El empleado mencionado recibió instrucción en el manejo del sistema láser…………………….. La
+formación trató especialmente sobre los temas siguientes:
+1. Función de la máquina
+2. Zonas de peligro
+3. Advertencias
+4. Posición del botón de parada de emergencia
+5. Equipo de protección personal
+6. Equipos de manejo
+7. Procedimiento de trabajo
+8. Configuración
+9. Puesta en servicio y apagado
+10. Información sobre resultados de trabajo inesperados y de acciones a adoptar
+11. Información sobre fallos y acciones a iniciar
+12. Responsabilidad de la solución de problemas
+13. Manual de instrucciones y su lugar de almacenamiento para la inspección
+............................................................... ...............................................................
+Firma del formador Firma del alumno
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+89 / 92
+
+[Page 90]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+14.3 Formulario de respuesta
+Si tiene algún problema con la máquina, por favor facilite la siguiente información y cree también un
+archivo de servicio (el procedimiento para crear un archivo de servicio figura descrito en las páginas
+siguientes).
+Datos de la
+máquina Datos de contacto
+Descripción del problema
+¿Aparece un mensaje de error en el PC? Si es así, ¿cuál?
+¿Qué pasó antes de que surgiera el error? (Intensidad y brillo, actualización de Windows,...)
+¿Cómo se intentó solucionar el problema?
+www.troteclaser.com
+90 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.
+
+Fecha | 
+
+Número de serie | 
+Versión
+JobControl® | 
+Versión del
+controlador | 
+Software de diseño | 
+Versión de firmware | 
+
+Nombre | 
+Apellido(s) | 
+País | 
+Teléfono | 
+Correo electrónico | 
+
+[Page 91]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+Por favor, envíe la información al representante del vendedor de la máquina, a su a servicio de
+asistencia local o a
+techsupport@troteclaser.com.
+14.4 Cómo crear un archivo de servicio
+1. Iniciar JobControl®.
+2. Posicione el trabajo que puede causar el
+error en la placa.
+Esto se puede hacer bien:
+haciendo doble clic sobre el trabajo en cola
+de impresión
+haciendo un clic sobre el trabajo en la cola
+de impresión y arrastrándolo a la placa
+haciendo un clic sobre el trabajo en la cola
+de impresión y haciendo después clic
+en el icono «Posición trabajo» .
+3. Active el trabajo y deje el trabajo en la
+placa.
+4. Vaya a «Ajustes» > «Crear archivo de
+servicio».
+www.troteclaser.com
+¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al texto que desea que aparezca aquí.
+91 / 92
+
+[Page 92]
+¡Error! Utilice la pestaña Inicio para aplicar Titel al texto que desea que aparezca aquí.
+¡Error! Utilice la pestaña Inicio para aplicar Überschrift 1 al texto que desea que aparezca aquí.
+5. La ventana «Guardar archivo de servicio
+en» aparece.
+6. Elija el directorio para guardar el archivo y
+haga clic en “Guardar”.
+7. Aparece la ventana «Añadir archivo de
+layout».
+8. Seleccione el archivo de layout que se
+había enviado a JobControl® y que
+probablemente causa el fallo (p. ej.: un
+archivo CorelDraw, un archivo de
+Photoshop, un archivo de AutoCAD,…).
+Ahora haga clic en «Abrir».
+9. La siguiente ventana muestra la
+localización en la que se guardó el archivo
+de servicio creado correctamente.
+10. Envíe el archivo de servicio “SeviceLog.txt”
+junto con una captura de pantalla del
+mensaje de error y una descripción
+detallada a su representante de ventas o a
+techsupport@troteclaser.com.
+www.troteclaser.com
+92 / 92 ¡Error! Utilice la pestaña Inicio para aplicar Textkörper 2 al
+texto que desea que aparezca aquí.

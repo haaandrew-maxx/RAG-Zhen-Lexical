@@ -1,0 +1,405 @@
+[Page 1]
+Auflistung der Messungen und Funktionsprüfungen nach DGUV
+Vorschrift 3
+Kunde: CEFA
+Projektnummer: 1005328
+Anlagentyp: BR 449_IP_MTPE_250-32
+Baujahr: 2024
+Die nachfolgend aufgeführten Dokumentationen wurden nach bestem Wissen durchgeführt und stellen eine Bestandsaufnahme
+zum Zeitpunkt der Prüfung dar. Nach der Prüfung durchgeführte Änderungen an den Anlagen können das Prüfergebnis negativ
+beeinflussen und müssen daher eine erneute Beurteilung nach sich ziehen.
+31.03.2025 DGUV_Vorschrift_3 1
+
+[Page 2]
+Inhaltsverzeichnis:
+1.) Niederohmmessung
+nach DIN VDE 0413 Teil 4 und
+Schutzleitermessungsdokumentation nach DIN VDE 0100 Teil 600
+2.) Isolationsmessung
+nach DIN VDE 0100 Teil 610
+3.) FI Messung
+nach DIN VDE 0100-N4i1e0derohmmessungsdokumentation
+4.) Spannungsmessung
+5.) Drehfeld- und Schleifenmessung
+6.) 24VDC Strom- und Spannungmessung
+7.) Profinetmessung
+31.03.2025 DGUV_Vorschrift_3 2
+
+[Page 3]
+Niederohmmessung
+01_Niederohmmessung_ Seite 3
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 24.10.24
+Projektnummer: 1005328 | - | Enright
+Anlagentyp: BR 449_IP_MTPE_250-32 | Messgerät: | Fluke 1654B
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  | 
+Betriebsmittel | Bezeichnung |  | Messwerte in OHM
+[Bereich 1: BASISANLAGE] | - |  | 
+Messpunkt Anfang | PE-Schiene-Einspeisung | +A01-WEA.1 | 0,00
+Messpunkt Ende 1 | Maschine frame | =GE+B01-QC1 | 0,00
+Messpunkt Ende 2 | Cabel tray | =GE+B01-QC2 | 0,00
+Messpunkt Ende 3 | Control panel 1 | =GE+B01-QC3 | 0,00
+Messpunkt Ende 4 | Control panel 2 | =GE+B01-QC4 | 0,00
+Messpunkt Ende 5 | Docking | =GE+B01-QC5 | 0,00
+Messpunkt Ende 6 | Maschine frame roof | =GE+B01-QC6 | 0,00
+Messpunkt Ende 7 | Cabel tray roof | =GE+B01-QC7 | 0,00
+Messpunkt Ende 8 | Lifting gear | =GE+B01-QC8 | 0,00
+Messpunkt Ende 9 |  | =GE+B01-QC9 | 
+Messpunkt Ende 10 |  | =GE+B01-QC10 | 
+Messpunkt Ende 11 |  | =GE+B01-QC11 | 
+Messpunkt Ende 12 |  | =GE+B01-QC12 | 
+Messpunkt Ende 13 |  | =GE+B01-QC13 | 
+Messpunkt Ende 14 |  | =GE+B01-QC14 | 
+Messpunkt Ende 15 |  | =GE+B01-QC15 | 
+Messpunkt Ende 16 |  |  | 
+Messpunkt Ende 17 | Frame lifting tabel | =GE+B02-QC1 | 0,00
+Messpunkt Ende 18 | Base plate1 | =GE+B02-QC2 | 0,00
+
+[Page 4]
+01_Niederohmmessung_ Seite 4
+
+zu prüfen: |  |  | 
+Betriebsmittel | Bezeichnung |  | Messwerte in OHM
+Messpunkt Ende 19 | Base plate2 | =GE+B02-QC3 | 0,00
+Messpunkt Ende 20 | Cabel tray | =GE+B02-QC4 | 0,00
+Messpunkt Ende 21 | Hot air blower1 | =GE+B02-QC5 | 0,00
+Messpunkt Ende 22 | Hot air blower2 | =GE+B02-QC6 | 0,00
+Messpunkt Ende 23 | Terminal box lifting tabel | =GE+B02-QC7 | 0,00
+Messpunkt Ende 24 |  | =GE+B02-QC8 | 
+Messpunkt Ende 25 |  | =GE+B02-QC9 | 
+Messpunkt Ende 26 |  | =GE+B02-QC10 | 
+
+[Page 5]
+01_Niederohmmessung_ Seite 5
+
+zu prüfen: |  |  | 
+Betriebsmittel | Bezeichnung |  | Messwerte in OHM
+[Bereich 2: SCHALTSCHRANK + KLEMMKÄSTEN] | - |  | 
+Messpunkt Anfang | PE-Schiene-Einspeisung | +A01-WEA.1 | 0,00
+Messpunkt Ende 1 | Touchpanelgehäuse | +B01.X02 | 0,00
+Messpunkt Ende 2 | Montageplatte Touchpanelgehäuse | +B01.X02 | 0,00
+Messpunkt Ende 3 | Tür Touchpanelgehäuse | +B01.X02 | 0,00
+Messpunkt Ende 4 |  |  | 
+Messpunkt Ende 5 | Klemmkasten | +B02.X01 | 0,00
+Messpunkt Ende 6 | Montageplatte Klemmkasten | +B02.X01 | 0,00
+Messpunkt Ende 7 | Deckel Klemmkasten | +B02.X01 | 0,00
+
+[Page 6]
+01_Niederohmmessung_ Seite 6
+
+zu prüfen: |  |  | 
+Betriebsmittel | Bezeichnung |  | Messwerte in OHM
+[Bereich 3: BETRIEBSMITTEL] | - |  | 
+Messpunkt Anfang | PE-Schiene-Einspeisung | +A01-WEA.1 | 0,00
+Messpunkt Ende 1 | Service Steckdose Schaltschrank | =AA+A01-XDB1 | 0,00
+Messpunkt Ende 2 | Service Steckdose Schaltschrank | =AA+A01-XDB2 | 0,00
+Messpunkt Ende 3 |  |  | 
+Messpunkt Ende 4 | Service Steckdose Touchpanel | =HMI+B01.X02-XS1 | 0,00
+Messpunkt Ende 5 | Steckdose Anlage | =AA+B01-XDB1 | 0,00
+Messpunkt Ende 6 | Steckdose Anlage | =AA+B01-XDB2 | 0,00
+Messpunkt Ende 7 | Anlagenlicht | =AA+B01-EAA1 | 0,00
+Messpunkt Ende 8 | Anlagenlicht | =AA+B01-EAA2 | 0,00
+Messpunkt Ende 9 | Anlagenlicht | =AA+B01-EAA3 | 0,00
+Messpunkt Ende 10 | Steckdose Monitor | =HMI+B01-XDB1 | 0,00
+Messpunkt Ende 11 | Steckdose Monitor | =HMI+B01-XDB2 | 0,00
+Messpunkt Ende 12 |  |  | 
+Messpunkt Ende 13 | Kühlgerät | =EA.1+B01-XS1 | 0,00
+Messpunkt Ende 14 |  |  | 
+Messpunkt Ende 15 | Antrieb Hubtisch | =ME.1+B01-MAA1 | 0,00
+Messpunkt Ende 16 | Fremdlüfter Antrieb Hubtisch | =ME.1+B01-MAA1-MAA | 0,00
+Messpunkt Ende 17 |  |  | 
+Messpunkt Ende 18 | Gebläse Heißluft 1 | =GK.2+B02-MAA1 | 0,00
+Messpunkt Ende 19 | Gebläse Heißluft 2 | =GK.2+B02-MAA2 | 0,00
+Messpunkt Ende 20 |  |  | 
+Messpunkt Ende 21 | Schutzleiter Stecker Unterwerkzeug 1 =XS.L1+B01-XS1 | =XS.L1+B01-XS1:F1 | 0,00
+Messpunkt Ende 22 | Neutralleiter Stecker Unterwerkzeug 1 =XS.L1+B01-XS1 | =XS.L1+B01-XS1:F2 | 0,00
+Messpunkt Ende 23 | Schutzleiter Stecker Oberwerkzeug 1 =XS.U1+B02-XS1 | =XS.U1+B02-XS1:F1 | 0,00
+Messpunkt Ende 24 | Neutralleiter Stecker Oberwerkzeug 1 =XS.U1+B02-XS1 | =XS.U1+B02-XS1:F2 | 0,00
+
+[Page 7]
+01_Niederohmmessung_ Seite 7
+
+zu prüfen: |  |  | 
+Betriebsmittel | Bezeichnung |  | Messwerte in OHM
+
+[Page 8]
+Isolationsmessung
+Prüfspannung 500V, Schutzklasse I – > 0,3MΩ (mit Heizelementen), Schutzklasse I – > 1MΩ (ohne Heizelementen), > 2MΩ (berührbare, leitfähige Teile ohne SL-Anschluss),
+Schutzklasse II >2,0MΩ
+02_Isolationsmessung_1 Seite 8
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 24.10.24
+Projektnummer: 1005328 | - | Enright
+Anlagentyp: BR 449_IP_MTPE_250-32 | Messgerät: | Fluke 1654B
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Messung
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
+ | Einspeisung | N-PE | 0 | 520
+=AA+A01-XDB1 | Service Steckdose Schaltschrank | L-PE | 500 | 520
+=AA+A01-XDB2 | Service Steckdose Schaltschrank | L-PE | 500 | 520
+=HMI+B01.X02-XS1 | Service Steckdose Touchpanel | L-PE | 500 | 520
+=AA+B01-XDB1 | Steckdose Anlage | L-PE | 500 | 520
+=AA+B01-XDB2 | Steckdose Anlage | L-PE | 500 | 520
+=AA+B01-EAA1 | Anlagenlicht | L-PE | 500 | 520
+=AA+B01-EAA2 | Anlagenlicht | L-PE | 500 | 520
+=AA+B01-EAA3 | Anlagenlicht | L-PE |  | 520
+=HMI+B01-XDB1 | Steckdose Monitor | L-PE | 500 | 520
+=HMI+B01-XDB2 | Steckdose Monitor | L-PE | 500 | 520
+=EA.1+B01-XS1 | Kühlgerät | L1-PE | 500 | 520
+=EA.1+B01-XS1 | Kühlgerät | L2-PE | 500 | 520
+=EA.1+B01-XS1 | Kühlgerät | L3-PE | 500 | 520
+=ME.1+B01-MAA1 | Antrieb Hubtisch | L1-PE | 500 | 520
+=ME.1+B01-MAA1 | Antrieb Hubtisch | L2-PE | 500 | 520
+=ME.1+B01-MAA1 | Antrieb Hubtisch | L3-PE | 500 | 520
+
+[Page 9]
+02_Isolationsmessung_1 Seite 9
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Messung
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
+=ME.1+B01-MAA1-MAA | Fremdlüfter Antrieb Hubtisch | L1-PE | 500 | 520
+=ME.1+B01-MAA1-MAA | Fremdlüfter Antrieb Hubtisch | L2-PE | 500 | 520
+=ME.1+B01-MAA1-MAA | Fremdlüfter Antrieb Hubtisch | L3-PE | 500 | 520
+=GK.2+B02-MAA1 | Gebläse Heißluft 1 | L1-PE | 480 | 520
+=GK.2+B02-MAA1 | Gebläse Heißluft 1 | L2-PE | 480 | 520
+=GK.2+B02-MAA1 | Gebläse Heißluft 1 | L3-PE | 480 | 520
+=GK.2+B02-MAA2 | Gebläse Heißluft 2 | L1-PE | 480 | 520
+=GK.2+B02-MAA2 | Gebläse Heißluft 2 | L2-PE | 480 | 520
+=GK.2+B02-MAA2 | Gebläse Heißluft 2 | L3-PE | 480 | 520
+
+[Page 10]
+Isolationsmessung
+Prüfspannung 500V, Schutzklasse I – > 0,3MΩ (mit Heizelementen), Schutzklasse I – > 1MΩ (ohne Heizelementen), > 2MΩ (berührbare, leitfähige Teile ohne SL-Anschluss), Schutzklasse II
+>2,0MΩ
+02_Isolationsmessung_2 Seite 10
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 25.10.24
+Projektnummer: 1005328 | - | Enright
+Anlagentyp: BR 449_IP_MTPE_250-32 | Messgerät: | Fluke 1654B
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  |  |  | 
+Betriebsmittel | Bezeichnung |  | Messung
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
++A01-XE.140-2:1 | =XS.U1+B02-XS2:B1 |  | L-PE | 500 | 520
++A01-XE.140-2:2 | =XS.U1+B02-XS2:B2 |  | L-PE | 500 | 520
++A01-XE.140-2:3 | =XS.U1+B02-XS2:B3 |  | L-PE | 500 | 520
++A01-XE.140-2:4 | =XS.U1+B02-XS2:B4 |  | L-PE | 500 | 520
++A01-XE.140-2:5 | =XS.U1+B02-XS2:B5 |  | L-PE | 500 | 520
++A01-XE.140-2:6 | =XS.U1+B02-XS2:C1 |  | L-PE | 500 | 520
++A01-XE.140-2:7 | =XS.U1+B02-XS2:C2 |  | L-PE | 500 | 520
++A01-XE.140-2:8 | =XS.U1+B02-XS2:C3 |  | L-PE | 500 | 520
++A01-XE.140-2:9 | =XS.U1+B02-XS2:C4 |  | L-PE | 500 | 520
++A01-XE.140-2:10 | =XS.U1+B02-XS2:C5 |  | L-PE | 500 | 520
++A01-XE.140-2:11 | =XS.U1+B02-XS2:D1 |  | L-PE | 500 | 520
++A01-XE.140-2:12 | =XS.U1+B02-XS2:D2 |  | L-PE | 500 | 520
++A01-XE.140-2:13 | =XS.U1+B02-XS2:D3 |  | L-PE | 500 | 520
++A01-XE.140-2:14 | =XS.U1+B02-XS2:D4 |  | L-PE | 500 | 520
++A01-XE.140-2:15 | =XS.U1+B02-XS2:D5 |  | L-PE | 500 | 520
++A01-XE.140-2:16 | =XS.U1+B02-XS2:E1 |  | L-PE | 500 | 520
++A01-XE.140-2:17 | =XS.U1+B02-XS2:E2 |  | L-PE | 500 | 520
++A01-XE.140-2:18 | =XS.U1+B02-XS2:E3 |  | L-PE | 500 | 520
++A01-XE.140-2:19 | =XS.U1+B02-XS2:E4 |  | L-PE | 500 | 520
++A01-XE.140-2:20 | =XS.U1+B02-XS2:E5 |  | L-PE | 500 | 520
+
+[Page 11]
+02_Isolationsmessung_2 Seite 11
+
+zu prüfen: |  |  |  |  | 
+Betriebsmittel | Bezeichnung |  | Messung
+Zwischen | Isolations-Widerstand in
+Megaohm | Prüfspannung in Volt
+
+[Page 12]
+FI Messung
+Auslösezeit ~40ms Auslösestrom <30mA
+03_FI Messung Seite 12
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 25.10.24
+Projektnummer: 1005328 | - | Enright
+Anlagentyp: BR 449_IP_MTPE_250-32 | Messgerät: | Fluke 1654B
+Baujahr: 2024 |  | 
+
+zu prüfen: |  |  |  |  | 
+Betriebsmittel | FI-Schutzschalter | Bemessungs-
+fehlerstrom
+FI in mA | Prüfung FI-
+Schutzschalter mit
+Prüftaste | FI-Auslösezeit tA in ms | FI-Auslösestrom in mA
+=AA+A01-XDB1 | =AA+A01-FBA1 | 30 | OK | 33.6 | 21
+=AA+A01-XDB2 | =AA+A01-FBA1 | 30 | OK | 33.6 | 21
+=HMI+B01.X02-XS1 | =AA+A01-FBA1 | 30 | OK | 33 | 21
+=AA+B01-XDB1 | =AA+A01-FBA2 | 30 | OK | 33 | 24
+=AA+B01-XDB2 | =AA+A01-FBA2 | 30 | OK | 33 | 24
+=AA+B01-EAA1 | =AA+A01-FBA3 | 30 | OK | 33.8 | 24
+=AA+B01-EAA2 | =AA+A01-FBA3 | 30 | OK | 33.8 | 24
+=HMI+B01-XDB1 | =AA+A01-FBA4 | 30 | OK | 34 | 27
+=HMI+B01-XDB2 | =AA+A01-FBA4 | 30 | OK | 34.4 | 27
+=EA.1+B01-XS1 (L1) | =EA+A01-FBA1 | 30 | OK | 33.6 | 21
+=EA.1+B01-XS1 (L2) | =EA+A01-FBA1 | 30 | OK | 33.8 | 24
+=EA.1+B01-XS1 (L3) | =EA+A01-FBA1 | 30 | OK | 33.6 | 24
+
+[Page 13]
+Spannungsmessung
+04_Spannungsmessung Seite 13
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 24.10.24
+Projektnummer: 1005328 | - | Enright
+Anlagentyp: BR 449_IP_MTPE_250-32 | Messgerät: | Fluke 175
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Messung
+Zwischen |  | Spannung in Volt
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L1-L2 |  | 399
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L2-L3 |  | 400
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L1-L3 |  | 398
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L1-N |  | 230
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L2-N |  | 230
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L3-N |  | 229
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L1-PE |  | 230
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L2-PE |  | 230
+=GB+A01-QBB1 | Einspeisung Hauptschalter | L3-PE |  | 229
+=GB+A01-QBB1 | Einspeisung Hauptschalter | N-PE |  | 0
+=AA+A01-XDB1 | Service Steckdose Schaltschrank | L-N |  | 230
+=AA+A01-XDB1 | Service Steckdose Schaltschrank | L-PE |  | 230
+=AA+A01-XDB1 | Service Steckdose Schaltschrank | N-PE |  | 0
+=AA+A01-XDB2 | Service Steckdose Schaltschrank | L-N |  | 230
+=AA+A01-XDB2 | Service Steckdose Schaltschrank | L-PE |  | 230
+=AA+A01-XDB2 | Service Steckdose Schaltschrank | N-PE |  | 0
+=HMI+B01.X02-XDB1 | Service Steckdose Touchpanel | L-N |  | 230
+=HMI+B01.X02-XDB1 | Service Steckdose Touchpanel | L-PE |  | 230
+=HMI+B01.X02-XDB1 | Service Steckdose Touchpanel | N-PE |  | 0
+=AA+B01-XDB1 | Steckdose Anlage | L-N |  | 230
+
+[Page 14]
+04_Spannungsmessung Seite 14
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Messung
+Zwischen |  | Spannung in Volt
+=AA+B01-XDB1 | Steckdose Anlage | L-PE |  | 230
+=AA+B01-XDB1 | Steckdose Anlage | N-PE |  | 0
+=AA+B01-XDB2 | Steckdose Anlage | L-N |  | 230
+=AA+B01-XDB2 | Steckdose Anlage | L-PE |  | 230
+=AA+B01-XDB2 | Steckdose Anlage | N-PE |  | 0
+=HMI+B01-XDB1 | Steckdose Monitor | L-N |  | 230
+=HMI+B01-XDB1 | Steckdose Monitor | L-PE |  | 230
+=HMI+B01-XDB1 | Steckdose Monitor | N-PE |  | 0
+=HMI+B01-XDB2 | Steckdose Monitor | L-N |  | 230
+=HMI+B01-XDB2 | Steckdose Monitor | L-PE |  | 230
+=HMI+B01-XDB2 | Steckdose Monitor | N-PE |  | 0
+=EA.1+B01-XS1 | Kühlgerät | L1-L2 |  | 400
+=EA.1+B01-XS1 | Kühlgerät | L2-L3 |  | 399
+=EA.1+B01-XS1 | Kühlgerät | L1-L3 |  | 400
+=EA.1+B01-XS1 | Kühlgerät | L1-N |  | 230
+=EA.1+B01-XS1 | Kühlgerät | L2-N |  | 230
+=EA.1+B01-XS1 | Kühlgerät | L3-N |  | 230
+=EA.1+B01-XS1 | Kühlgerät | L1-PE |  | 230
+=EA.1+B01-XS1 | Kühlgerät | L2-PE |  | 230
+=EA.1+B01-XS1 | Kühlgerät | L3-PE |  | 230
+=EA.1+B01-XS1 | Kühlgerät | N-PE |  | 0
+Spannungen Klemmkästen | Bezeichnung |  |  | Spannung in Volt
++B02.X01 | 24V DC Steuerspannung | -XE-22 |  | 23.8
+
+[Page 15]
+04_Spannungsmessung Seite 15
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Messung
+Zwischen |  | Spannung in Volt
++B02.X01 | 24V DC Dauerplus | -XE-23 |  | 23.8
++B02.X01 | Not-Halt Allgemein | -XE-24 |  | 23.8
++B02.X01 | Not-Halt Einlegebereich | -XE-25 |  | 23.8
+Spannungen Stecker | Bezeichnung |  |  | Spannung in Volt
+=XS.L1+B01-XS1 | 24V DC Steuerspannung | :C2 |  | 24,00
+=XS.L1+B01-XS1 | 24V DC Dauerplus | :C6 |  | 24,00
+=XS.L1+B01-XS1 | Not-Halt Allgemein | :C3 |  | 24,00
+
+[Page 16]
+Drehfeld und Schleifenimpedanz
+05_Drehfeld und Schleifen Seite 16
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 25.10.24
+Projektnummer: 1005328 | - | Enright
+Anlagentyp: BR 449_IP_MTPE_250-32 | Messgerät: | Fluke 1654B
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  |  | 
+Betriebsmittel | Bezeichnung | Drehfeld | L-PE
+Ohm | L-PE
+Amp.
+=GB+A01-QBB1 | Einspeisung Hauptschalter (L1) |  | 0.25 | 932
+=GB+A01-QBB1 | Einspeisung Hauptschalter (L2) | 123 | 0.24 | 973
+=GB+A01-QBB1 | Einspeisung Hauptschalter (L3) |  | 0.25 | 935
+=AA+A01-XDB1 | Service Steckdose Schaltschrank |  | 0.31 | 752
+=AA+A01-XDB2 | Service Steckdose Schaltschrank |  | 0.35 | 666
+=HMI+B01.X02-XS1 | Service Steckdose Touchpanel |  | 0.54 | 433
+=AA+B01-XDB1 | Steckdose Anlage |  | 0.54 | 428
+=AA+B01-XDB2 | Steckdose Anlage |  | 0.60 | 390
+=AA+B01-EAA1 | Anlagenlicht |  | 0.47 | 491
+=AA+B01-EAA2 | Anlagenlicht |  | 0.26 | 888
+=HMI+B01-XDB1 | Steckdose Monitor |  | 0.69 | 334
+=HMI+B01-XDB2 | Steckdose Monitor |  | 0.57 | 406
+=EA.1+B01-XS1 | Kühlgerät (L1) |  | 0.51 | 453
+=EA.1+B01-XS1 | Kühlgerät (L2) | 123 | 0.54 | 424
+=EA.1+B01-XS1 | Kühlgerät (L3) |  | 0.51 | 452
+
+[Page 17]
+24VDC Strom- und Spannungmessung
+06_24VDC Strom und Spannung Seite 17
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 24.10.24
+Projektnummer: 1005328 | - | Enright
+Anlagentyp: BR 449_IP_MTPE_250-32 | Messgerät: | Fluke 175
+Baujahr: 2024 | - | 
+
+zu prüfen: |  |  |  | 
+Betriebsmittel |  | Spannung in V
+Ausgang | Maximal Messwerte in
+Ampere | Eingestellter Wert
+=GD24+A01-TCB1 |  | 24 |  | 
+=GD24+A01-TCB2 |  | 24 |  | 
+=GD24+A01-QAC1 |  | 24 |  | 6A
+=GD24+A01-QAC2 | Kanal 1 | 24 |  | 6A
+=GD24+A01-QAC2 | Kanal 2 | 24 |  | 3A
+=GD24+A01-QAC2 | Kanal 3 | 24 |  | 6A
+=GD24+A01-QAC2 | Kanal 4 | 24 |  | 6A
+=GD24+A01-QAC3 | Kanal 1 | 24 |  | 8A
+=GD24+A01-QAC3 | Kanal 2 | 24 |  | 6A
+=GD24+A01-QAC3 | Kanal 3 | 24 |  | 6A
+=GD24+A01-QAC3 | Kanal 4 | 24 |  | 3A
+
+[Page 18]
+Profinetmessung
+07_Profinetmessung Seite 18
+
+Kunde: CEFA | Durchführungsdatum:
+durchgeführt von: | 25.10.24
+Projektnummer: 1005328 | - | Enright
+Anlagentyp: BR 449_IP_MTPE_250-32 | Messgerät: | WIREEXPERT 4500
+Baujahr: 2024 | Messgerät Nr. | 
+
+zu prüfen: |  | 
+Betriebsmittel |  | Messung o.k
+==1005328=PLC+B02.X01-WGB1 | 9.80m | OK
+==1005328=XS.L1+B01-WGB1 | 6.27m | OK
+==1005328=XS.U1+B02-WGB1 | 9.90m | OK
+- | 7.99m | OK
+- | 8.91m | OK
+- | 5.01m | OK

@@ -1,0 +1,583 @@
+[Page 1]
+Traducción de las instrucciones de
+funcionamiento
+Pistola de soldadura manual
+DNP-35
+
+[Page 2]
+Pistola de soldadura manual
+Copyright
+Copyright by
+SONOTRONIC Nagel GmbH
+Becker-Göring-Strasse 17-25
+D-76307 Karlsbad-Ittersbach
+Germany
+Phone +49/ 7248/ 9166- 0
+Fax +49// 7248/ 9166- 144
+info@sonotronic.com
+www.sonotronic.com
+27.11.2014 ES
+2 DNP-35
+
+[Page 3]
+Pistola de soldadura manual
+1 Seguridad ................................................................................................................................................ 4
+1.1 Deber de diligencia del gestor industrial ............................................................................................ 4
+1.2 Explicación de las señales de seguridad usadas .............................................................................. 4
+1.3 Indicaciones de seguridad ................................................................................................................. 5
+1.4 Identificación CE ................................................................................................................................ 5
+1.5 Directivas de protección medioambiental .......................................................................................... 5
+1.6 Fuentes de peligro propias de ultrasonidos ....................................................................................... 6
+2 Uso destinado ......................................................................................................................................... 6
+3 Transporte ............................................................................................................................................... 6
+4 Datos técnicos ........................................................................................................................................ 7
+5 Información de producto ....................................................................................................................... 8
+5.1 Vista general de producto .................................................................................................................. 8
+5.2 Tipo de generador aplicable .............................................................................................................. 9
+5.3 Componentes .................................................................................................................................. 10
+5.4 Conexión de la pistola de soldadura manual al generador (dispositivo de soldadura manual) ...... 11
+5.5 Conexión de la pistola de soldadura manual a una máquina especial ........................................... 11
+6 Manejo ................................................................................................................................................... 12
+6.1 Indicaciones al explotador acerca de los riesgos residuales en la pistola de soldadura manual ... 12
+6.1.1 Indicación - Carga térmica ........................................................................................................... 12
+6.1.2 Indicación - Emisiones de ruido ................................................................................................... 12
+6.2 Puesta en marcha ............................................................................................................................ 12
+6.2.1 Conexión ...................................................................................................................................... 12
+6.3 Secuencia de trabajo ....................................................................................................................... 12
+6.4 Desconectar ..................................................................................................................................... 12
+7 Montaje y desmontaje del convertidor y del sonotrodo................................................................... 13
+7.1 Pares de giro permitidos .................................................................................................................. 13
+7.2 Montaje ............................................................................................................................................ 14
+7.3 Desmontaje ...................................................................................................................................... 14
+8 Fallos y su eliminación ........................................................................................................................ 15
+8.1 Fuentes generales de fallos............................................................................................................. 15
+8.2 Rajadura en el sonotrodo ................................................................................................................ 15
+8.3 Convertidor defectuoso .................................................................................................................... 15
+8.4 Sobrecalentamiento de las superficies de acoplamiento ................................................................ 16
+9 Reparación ............................................................................................................................................ 16
+9.1 Seguridad......................................................................................................................................... 16
+9.2 Plan de mantenimiento .................................................................................................................... 16
+10 Puesta de fuera de servicio final / Eliminación de desechos .......................................................... 17
+DNP-35 3
+
+[Page 4]
+Pistola de soldadura manual
+Seguridad
+P os: 1.1 /-TD-/HANDSCHWEISSPISTOLEN/Allg.Sicherheit @ 4\mod_1221202682067_6.doc @ 38251 @ 1222222
+1 Seguridad
+1.1 Deber de diligencia del gestor industrial
+La pistola de soldadura manual ha sido construida bajo consideración de un
+análisis de riesgos y según una selección cuidadosa de las normas armonizadas a
+cumplir así como de otras especificaciones técnicas. Con ello corresponde al nivel
+actual de la tecnología y permite un máximo nivel de seguridad durante el
+funcionamiento.
+No obstante, sólo se puede cumplir con la seguridad de funcionamiento si se ha
+tomado todas las medidas necesarias para ello. Es deber de diligencia del gestor
+industrial controlar estas medidas así como su cumplimiento.
+1.2 Explicación de las señales de seguridad usadas
+En el siguiente manual de uso se utilizan indicaciones de seguridad concretas
+para indicar riesgos residuales que se generan durante el funcionamiento de la
+pistola de soldadura manual. Estos riesgos residuales contienen peligros para
+• Personas
+• Producto
+• Medio ambiente
+Los símbolos utilizados en el manual de uso deben llamar la atención sobre todo a
+las indicaciones de seguridad.
+4 DNP-35
+
+ | Indicación | 
+- | El gestor industrial debe asegurarse sobre todo que | -
+- | • la pistola de soldadura manual sólo se utilice según el uso destinado (véase | -
+- | cap. "Uso destinado"). | -
+- | • se utilice la pistola de soldadura manual únicamente en un estado perfecto y | -
+- | funcional y que se controle sobre todo el funcionamiento correcto. | -
+- | • se ponga el manual de instrucciones siempre en un estado legible y | -
+- | completo. | -
+- | • sólo personal cualificado y autorizado use la pistola de soldadura manual, | -
+- | realice su mantenimiento y reparación. | -
+- | • este personal obtenga con regularidad un entrenamiento en cuanto a | -
+- | seguridad laboral y protección medioambiental y que conozca el manual de | -
+- | instrucciones y sobre todo las indicaciones de seguridad que constan en | -
+- | éste. | -
+- | • se controlen las conexiones del conector de protección con regularidad. | -
+- | • ¡Tener en cuenta las indicaciones de seguridad del generador y/o de la | -
+- | máquina! | -
+
+[Page 5]
+Pistola de soldadura manual
+Seguridad
+1.3 Indicaciones de seguridad
+A fin de evitar posibles daños para las personas y para el material deben tenerse
+en cuenta las siguientes indicaciones de seguridad y de peligro así como las
+prescripciones locales y nacionales.
+Las indicaciones de seguridad utilizadas tienen la siguiente estructura:
+1.4 Identificación CE
+La "Pistola de soldadura sin posibilidad de funcionamiento autónomo" cumple con
+las directivas CE.
+La pistola de soldadura manual sólo funciona junto con un generador o una
+soldadora de ultrasonidos.
+Véase la declaración CE y la identificación del generador o de la máquina.
+1.5 Directivas de protección medioambiental
+En todos los trabajos en y con la pistola de soldadura manual es importante
+cumplir con las prescripciones legales en cuanto a la prevención de residuos y el
+reciclaje o la eliminación correcta de éstos.
+Sobre todo en casos de trabajos de reparación y de mantenimiento materiales
+nocivos para aguas freáticas como:
+• Grasas y aceites de lubricación
+• Líquidos de limpieza con diluyentes
+no deben acceder al suelo ni a la canalización.
+Estos materiales deben ser guardados, transportados, recogidos y eliminados en
+recipientes adecuados.
+DNP-35 5
+
+Señal de peligro | Indicación de aviso | 
+- | Texto del aviso | -
+ | ¡Peligro! ¡Atención!
+Descripción de la fuente de peligro
+Posibles consecuencias al producirse el peligro
+Medidas para evitar peligros | -
+
+¡Peligro! ¡Atención!
+Descripción de la fuente de peligro
+Posibles consecuencias al producirse el peligro
+Medidas para evitar peligros
+
+[Page 6]
+Pistola de soldadura manual
+Uso destinado
+1.6 Fuentes de peligro propias de ultrasonidos
+Al trabajar con ultrasonidos debe tenerse en cuenta las siguientes indicaciones de
+aviso general:
+P P ooss:: 11..23 //-STeDit-e/HnuAmNbDruScChH==W=E=I SSSeiPteISnTuOmLbEruNc/h2 =. =B=es=t i@mm 0u\mngosdg_e1m1ä1ß69e 4V1e5r7w2e6n8d0u_n2g1 3@9 .d4o\mcxo d@_ 122420115 @56 7 @53 418 8_2139.docx @ 38389 @ 1 @ 1
+2 Uso destinado
+La pistola de soldadura manual de ultrasonidos ha sido desarrollada únicamente
+para realizar trabajos de soldadura por ultrasonidos de materiales termoplásticos
+que se fusionan bajo altas temperaturas y presión.
+La pistola de soldadura manual se utiliza únicamente de manera manual.
+P P ooss:: 11..45 //-STeDit-e/HnuAmNbDruScChH==W=E=I SSSeiPteISnTuOmLbEruNc/h3 =. T=r=a=n s@p o0rt\ m@o d4_\1m1o1d6_914212517221628805_32915329_.2d1o3c9x .@do c2x4 0@1 3@8 2 @83 1@ 1 @ 1
+3 Transporte
+Controlar posibles daños en embalaje y componentes.
+Bastidor de módulo de generador (opcional)
+Desembalar bastidor de módulo directamente después de la llegada y controlar si
+hay posibles daños en el bastidor o en los elementos de mando y de visualización.
+P os: 1.6 /Seitenumbruch==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+6 DNP-35
+
+ | PELIGRO | 
+- | No tocar el sonotrodo cuando estén activados los ultrasonidos. | -
+- | ¡Peligro de quemaduras! | -
+- | No trabajar con la cubierta del bastidor de los generadores retirada. | -
+- | ¡Alta tensión mortal! | -
+- | Con campos magnéticos de alta frecuencia se puede generar fallos en aparatos | -
+- | eléctricos sensibles. | -
+- | ¡Peligros de emisiones! | -
+
+ | ¡ATENCIÓN! | 
+- | Evitar en todo momento que el sonotrodo tenga contacto directo con metal cuando | -
+- | estén activados los ultrasonidos. Caso contrario se puede destruir el aparato. | -
+- | En caso de defectos en el dispositivo oscilante o en los componentes enviarlos | -
+- | directamente para la reparación al fabricante. | -
+
+ | PELIGRO | 
+- | Cualquier otro uso de la pistola de soldadura manual puede significar peligro por lo | -
+- | que está terminantemente prohibido. | -
+- | Para todos los daños personales y materiales que no se generan a partir de un | -
+- | uso destinado el fabricante no asume la responsabilidad sino que ésta se | -
+- | encuentra en manos del explotador de la pistola de soldadura manual de | -
+- | ultrasonidos. | -
+
+ | Indicación | 
+- | En caso de encontrar algún daño informarlo inmediatamente a la empresa | -
+- | transportadora | -
+
+[Page 7]
+Pistola de soldadura manual
+Datos técnicos
+P os: 1.7 /-TD-/HANDSCHWEISSPISTOLEN/4. Technische Daten @ 4\mod_1221210243608_2139.docx @ 38269 @ 1 @ 1
+4 Datos técnicos
+P os: 1.8 /Seitenumbruch==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+DNP-35 7
+
+Descripción de tipo | - | - | DNP -35 | - | - | - | - | - |  | DNP-35 con | - | - | - |  | DNP-L35 | - | - | - | - | -
+- | - | - | - | - | - | - | - | - | - | refrigeración con | - | - | - | - | - | - | - | - | - | -
+- | - | - | - | - | - | - | - | - | - | aire | - | - | - | - | - | - | - | - | - | -
+ | Tipo de generador |  |  | DN35M |  |  | DN35MD |  |  | DN35M |  |  | DN35MD |  |  | DN35M |  |  | DN35MD | 
+ | Capacidad de generador [W] |  |  | 400/800/1200 | - | - | - |  |  | 400/800/1200 | - | - | - |  |  | 400/800/1200 | - | - | - | 
+ | Frecuencia [kHz] |  |  | 35 | - | - | - |  |  | 35 | - | - | - |  |  | 35 | - | - | - | 
+ | Tensión de conexión [V] |  |  | 230 | - | - | - |  |  | 230 | - | - | - |  |  | 230 | - | - | - | 
+Tecnología de generadores | - | - | análoga | - | - | digital | - | - | análoga | - | - | digital | - | - | análoga | - | - | digital | - | -
+ | Desconexión por |  |  | - | - | ● | - | - |  | - | - | ● | - | - |  | - | - | ● | - | -
+- | tiempo/energía/potencia | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+Amplitud regulable de 50%-100% | - | - | ● | - | - | ● | - | - | ● | - | - | ● | - | - | ● | - | - | ● | - | -
+Visualización de pantalla LCD | - | - |  | - | - | ● | - | - |  | - | - | ● | - | - |  | - | - | ● | - | -
+Enfriamiento de sonotrodo | - | - |  | - | - |  | - | - | ● | - | - | ● | - | - |  | - | - |  | - | -
+ | Peso incl. convertidor y juego de |  | 1,150 | - | - | - | - | - | 1,200 | - | - | - | - | - | 0.830 | - | - | - | - | -
+- | cables; sin sonotrodo [kg] | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+ | Sistema de control Air Control 10 |  | 1,850 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | [kg] | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+Bastidor de módulo 14TE [kg] | - | - | 2,670 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+Bastidor de módulo 42TE [kg] | - | - | 3,590 | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+
+[Page 8]
+Pistola de soldadura manual
+Información de producto
+P os: 1.9 /-TD-/HANDSCHWEISSPISTOLEN/5. Produktinformationen @ 4\mod_1221215895618_2139.docx @ 38325 @ 122222 @ 1
+5 Información de producto
+5.1 Vista general de producto
+Variantes de la pistola de soldadura manual
+DNP-35
+Convertidor K235.020
+DNP-35 con enfriamiento
+de aire
+Convertidor K235.021
+DNP-L35
+Convertidor K235.016
+8 DNP-35
+
+[Page 9]
+Pistola de soldadura manual
+Información de producto
+5.2 Tipo de generador aplicable
+Dependiendo de la aplicable están a la disposición los siguientes tipos de
+generadores:
+DN35/400M
+DN35/800M
+DN35/1200M
+DN35/400MD
+DN35/800MD
+DN35/1200MD
+Pistola de soldadura
+manual con Air control
+Generador con sistema
+de control
+DNP-35 9
+
+Indicación | 
+Al utilizar la pistola de soldadura manual en máquinas especiales se las conecta | -
+con un enchufe con la máquina y se utiliza la máquina con un generador. | -
+Al usar la soldadora manual, la pistola de soldadura manual estará directamente | -
+conectada a generador. | -
+
+[Page 10]
+Pistola de soldadura manual
+Información de producto
+5.3 Componentes
+1 3
+4
+1
+2 2
+6
+4
+5
+3
+1 Bastidor
+2 Sonotrodo
+Sonotrodo es el término técnico para la herramienta de soldadura. Tiene
+que cumplir con varias tareas:
+• Transferir la energía de vibraciones
+• Dar forma
+• Transformación de amplitudes
+3 Manguera de conexión (cable de alta frecuencia, sistema de mando,
+puesta en tierra, opcionalmente manguera de aire)
+4 Tecla de arranque
+5 Enfriamiento de sonotrodo (opcional)
+6 Ojal para suspensión para reducción de peso
+10 DNP-35
+
+Indicación | 
+En la manguera metálica corren los cables de conexión eléctrica. En caso de un | -
+uso normal estas líneas están protegidas contra un posible daño. Evitar magullar | -
+o someter la manguera a cargas similares. | -
+Los daños por cargas extremas de la manguera de conexión (magullación, p.ej. al | -
+rodar sobre el cable) no están considerados en la garantía. | -
+
+[Page 11]
+Pistola de soldadura manual
+Información de producto
+5.4 Conexión de la pistola de soldadura manual al generador (dispositivo de
+soldadura manual)
+1 Manguera de conexión
+2 Línea de mando
+3 Cable de alta frecuencia
+4
+4 Regulación de aire
+comprimido (opcional)
+3
+2
+1
+Conexiones de generador véase manual de instrucciones del generador
+5.5 Conexión de la pistola de soldadura manual a una máquina especial
+En el caso de pistolas de soldadura manual previstas para el funcionamiento con
+una máquina se encuentra montado en la manguera de conexión (cable de alta
+frecuencia, línea de mando, puesta en tierra, opcionalmente manguera de aire) un
+enchufe Harting. Con este enchufe se conecta la pistola de soldadura manual a la
+máquina.
+1 Conector
+2
+2 Enchufe
+1
+P os: 1.10 /Seitenumbruch==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+DNP-35 11
+
+[Page 12]
+Pistola de soldadura manual
+Manejo
+P os: 1.11 /-TD-/HANDSCHWEISSPISTOLEN/6. Bedienung @ 8\mod_1415695766003_2139.docx @ 73440 @ 12332322 @ 1
+6 Manejo
+6.1 Indicaciones al explotador acerca de los riesgos residuales en la pistola de
+soldadura manual
+6.1.1 Indicación - Carga térmica
+Al soldar con ultrasonido se puede generar en el sonotrodo así como en la pieza
+por breves momentos temperaturas que excedan los 70°C. Durante el trabajo es
+necesario utilizar el equipo de protección individual (guantes térmicos).
+6.1.2 Indicación - Emisiones de ruido
+6.2 Puesta en marcha
+6.2.1 Conexión
+La pistola de soldadura manual con generador:
+• Enchufar conector y conectar generador.
+La pistola de soldadura manual con enchufe Harting:
+• Enchufar el conector a la máquina.
+6.3 Secuencia de trabajo
+1. Conectar la pistola de soldadura manual con el sonotrodo en la pieza a
+trabajar.
+2. Pulsar gatillo, inician los ultrasonidos.
+3. Mantener pulsado el gatillo para cumplir con el proceso de trabajo bajo
+presión ligera.
+4. Al alcanzar el trabajo deseado soltar el gatillo. Finalizan los ultrasonidos.
+5. Después de realizar el trabajo dejar el sonotrodo durante 2-3 segundos en
+la pieza hasta que la masa fundida se haya enfriado.
+6. Retirar el sonotrodo de la pieza.
+6.4 Desconectar
+La pistola de soldadura manual con generador:
+• Desconectar el generador y retirar el enchufe.
+La pistola de soldadura manual con enchufe Harting:
+• Retirar el cable de la máquina.
+P os: 1.12 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+12 DNP-35
+
+¡ATENCIÓN!
+¡Peligro por calor, peligro de quemaduras!
+
+Utilizar protección acústica adecuada a partir de que la medición del nivel de
+presión sonora excede el valor de 80 dB.
+
+[Page 13]
+Pistola de soldadura manual
+Montaje y desmontaje del convertidor y del sonotrodo
+P os: 1.13 /-TD-/HANDSCHWEISSPISTOLEN/7. Montage und Demontage v. Konverter und Sonotrode @ 4\mod_1221560788360_2139.docx @ 38413 @ 1222 @ 1
+7 Montaje y desmontaje del convertidor y del sonotrodo
+Para la conexión entre el convertidor y el sonotrodo sólo deben utilizarse pernos
+roscados SONOTRONIC.
+Atornillar siempre los pernos roscados en una posición central.
+las superficies de acoplado deben estar limpias, libres de grasa y de estrías y
+haber sido ajustadas con el par de giro previsto.
+7.1 Pares de giro permitidos
+DNP-35 13
+
+¡ATENCIÓN! | 
+Al conectar cables de alta frecuencia es importante tener en cuenta un bloqueo | -
+correcto de los conectores tanto en el lado del generador como en el lado del | -
+convertidor. | -
+Enchufes no bloqueados producen la destrucción de la conexión de alta | -
+frecuencia. | -
+Montar el sonotrodo sólo con el convertidor desmontado debido a que de otra | -
+manera se corre peligro de arrancar los cables de conexión en el convertidor o no | -
+cumplir con el par de apriete prescrito. | -
+El atornillamiento con un par de apriete insuficiente puede conllevar la destrucción | -
+del convertidor durante el funcionamiento. | -
+Jamás utilizar el convertidor sin sonotrodo, de otra manera se destruye el | -
+convertidor. | -
+Sonotrodos mal producidos o modificados pueden conllevar la destrucción del | -
+convertidor o del generador. | -
+En caso de defectos en el convertidor o en el sonotrodo enviarlos directamente | -
+para la reparación al fabricante. | -
+Utilizar convertidor, sonotrodo y cable de alta frecuencia sólo por la empresa | -
+Sonotronic GmbH. | -
+Daños que se generen a partir de un montaje falloso no están considerados en la | -
+garantía. | -
+
+Indicación | 
+El convertidor no debe estar tensado en el bastidor. | -
+Aun en estado montado es imprescindible contrasujetarlo. | -
+En sonotrodos que no puedan ser tensados en la superficie de llave por el modelo | -
+o por motivos técnicos es posible tensarlo sólo usando mordazas protectoras. | -
+Pistola de soldadura manual con enfriamiento de aire (opción) | -
+Usar únicamente con filtro fino de 5 µm con aire seco y libre de aceite y de agua. | -
+Tener en cuenta una apertura de ventilación abierta del convertidor. | -
+
+Dispositivo oscilante 35kHz | - | - | - | - | - | - | - | - | - | 
+Convertidor |  |  |  |  |  | Sonotrodo titanio |  |  | 30Nm | 
+Convertidor |  |  |  |  |  | Sonotrodo acero |  |  | 30Nm | 
+Convertidor |  |  |  |  |  | Sonotrodo aluminio |  |  | 15Nm | 
+
+[Page 14]
+Pistola de soldadura manual
+Montaje y desmontaje del convertidor y del sonotrodo
+7.2 Montaje
+1 Conectar el sonotrodo con un tornillo adaptador con una llave
+dinamométrica con el convertidor. Para ello es necesario sujetar la
+superficie de contacto del sonotrodo contra la superficie de contacto del
+convertidor.
+2 Enchufar el conector de alta frecuencia en el convertidor
+3 Montar dispositivo oscilante
+4 Montar cubierta
+2
+3
+1
+4
+7.3 Desmontaje
+1 Soltar los dos tornillos (4) de la cubierta (3) y retirarla
+2 Retirar el dispositivo oscilante
+3 Soltar en conector de alta frecuencia del convertidor
+4 Soltar el sonotrodo (1) con la llave dinamométrica del convertidor (2)
+P os: 1.14 /Seitenumbruch==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+14 DNP-35
+
+ | ¡Aviso! | 
+- | Antes de desmontar el sonotrodo y el convertidor desconectar siempre la | -
+- | alimentación de corriente. | -
+- | Desconectar el enchufe de la red eléctrica. | -
+
+[Page 15]
+Pistola de soldadura manual
+Fallos y su eliminación
+P os: 1.15 /-TD-/HANDSCHWEISSPISTOLEN/8. Störungen @ 4\mod_1221806032752_2139.docx @ 38455 @ 12222 @ 1
+8 Fallos y su eliminación
+8.1 Fuentes generales de fallos
+8.2 Rajadura en el sonotrodo
+8.3 Convertidor defectuoso
+DNP-35 15
+
+F | allo |  |  | Causa |  |  | Eliminación | 
+T | ornillo adaptador defectuoso |  |  | Par de giro incorrecto |  |  | Montar nuevo tornillo adaptador | 
+Superficies de acoplamiento sucias | uperficies de acoplamiento sucias | - |  | Cambio frecuente de |  |  | Limpiar superficies de | 
+- | - | - | - | sonotrodos | - | - | acoplamiento | -
+Potencia de absorción sin carga
+excesiva | - | - | Suciedad, aceite en superficie
+de acoplamiento | Suciedad, aceite en superficie | - |  | v. manual de instrucciones | 
+- | - | - | - | de acoplamiento | - | - | generador | -
+- | - | - | - | - | - | - | limpiar superficie de | -
+- | - | - | - | - | - | - | acoplamiento y perforación | -
+- | - | - | - | - | - | - | roscada | -
+Rajadura en sonotrodo | - | - |  | Daño durante cambio de |  | Montar nuevo sonotrodo | Montar nuevo sonotrodo | -
+- | - | - | - | sonotrodo (véase 8.2) | - | - | - | -
+Convertidor defectuoso | - | - |  | Cables de contacto rotos |  | Cambiar convertidor | - | -
+- | - | - | - | (véase 8.3) | - | - | - | -
+
+otencia de absorción sin carga
+xcesiva
+
+S | íntomas |  |  | Posibles causas |  |  | Eliminación | 
+- desarrollo mayor de ruido
+- incremento de potencia de
+absorción sin carga
+- estrías en la superficie
+- generador cambia a sobrecarga | desarrollo mayor de ruido | - |  | - funcionamiento con amplitud |  | Enviar el sonotrodo a la
+empresa Sonotronic para su
+control o hacerlo cambiar | Enviar el sonotrodo a la | -
+- | incremento de potencia de | - | - | excesiva | - | - | empresa Sonotronic para su | -
+- | absorción sin carga | - | - | - modificación del sonotrodo | - | - | control o hacerlo cambiar | -
+- | estrías en la superficie | - | - | - emisión mayor de ruidos en | - | - | - | -
+- | generador cambia a sobrecarga | - | - | marcha en ralentí | - | - | - | -
+- | - | - | - | - tubo de enfriamiento en | - | - | - | -
+- | - | - | - | contacto con el sonotrodo | - | - | - | -
+
+S | íntomas |  |  | Posibles causas |  |  | Eliminación | 
+- desarrollo mayor de ruido
+- incremento de potencia de
+absorción sin carga
+- calentamiento de las superficies de
+acoplamiento
+- generador cambia a sobrecarga | desarrollo mayor de ruido | - |  | - funcionamiento con amplitud |  | Enviar la pistola de soldadura
+manual a la empresa Sonotronic
+para su control o hacerla
+cambiar | Enviar la pistola de soldadura | -
+- | incremento de potencia de | - | - | excesiva | - | - | manual a la empresa Sonotronic | -
+- | absorción sin carga | - | - | - no se cambio el sonotrodo | - | - | para su control o hacerla | -
+- | calentamiento de las superficies de | - | - | defectuoso | - | - | cambiar | -
+- | acoplamiento | - | - | - se continua con el | - | - | - | -
+- | generador cambia a sobrecarga | - | - | funcionamiento a pesar de una | - | - | - | -
+- | - | - | - | mayor emisión de ruidos en la | - | - | - | -
+- | - | - | - | marcha en ralentí | - | - | - | -
+- | - | - | - | - retroalimentación por contacto | - | - | - | -
+- | - | - | - | de metal con el sonotrodo | - | - | - | -
+
+[Page 16]
+Pistola de soldadura manual
+Reparación
+8.4 Sobrecalentamiento de las superficies de acoplamiento
+P P ooss:: 11..1167 //-STeDit-e/nHuAmNbDruScChH==W=E=I SSSePiteISnTuOmLbEruNc/h9 .= I=n=s=ta @nd h0a\lmtuondg_ @11 146\m94o1d5_7122628102_123193696.4do7c0_x 2@13 294.d0o1c @x @ @ 3 812 97 @ 122 @ 1
+9 Reparación
+9.1 Seguridad
+9.2 Plan de mantenimiento
+Limpiar las unidades de trabajo en caso de haber un ensuciamiento excesivo, en
+caso dado varias veces al día.
+Las actividades siguientes deben realizarse a más tardar después de las horas de
+funcionamiento indicadas. En un entorno polvoriento, caliente o húmedo puede ser
+necesario acortar los intervalos.
+Se recomienda hacer controlar la pistola de soldadura manual una vez al año
+por el fabricante. Esto no reemplaza las medidas de mantenimiento
+prescritas.
+16 DNP-35
+
+ | Posibles causas |  |  | Eliminación | 
+- no se fijó el sonotrodo con el par de giro correcto
+- no se utilizó un tornillo adaptador Sonotronic
+original
+- Superficie de acoplamiento sucia o dañada | - no se fijó el sonotrodo con el par de giro correcto | - |  | - Ajustar el sonotrodo correctamente según el par de | 
+- | - no se utilizó un tornillo adaptador Sonotronic | - | - | giro prescrito | -
+- | original | - | - | - usar tornillos adaptadores Sonotronic originales | -
+- | - Superficie de acoplamiento sucia o dañada | - | - | - limpiar superficies de acoplamiento y, en caso | -
+- | - | - | - | dado, lapearlas | -
+- | - | - | - | - en caso de superficies de acoplamiento dañadas, | -
+- | - | - | - | enviar los componentes a la empresa Sonotronic | -
+
+Peligro | 
+Trabajos de reparación y de mantenimiento en el aparato sólo deben ser | -
+realizados por personal especializado de mantenimiento que cumpla con las | -
+normas de prevención de accidentes. | -
+Antes de realizar trabajos de limpieza y de mantenimiento en los componentes es | -
+necesario desconectarlos de la alimentación de energía eléctrica y neumática. | -
+Evitar el contacto corporal con dispositivos ultrasonido (sonotrodos) en | -
+movimiento. | -
+Al realizar trabajos en conexiones de alta frecuencia con el convertidor o con el | -
+generador desconectar el enchufe de alimentación de corriente. Tocar los | -
+conectores de alta frecuencia únicamente con medios aislantes, aun si el | -
+interruptor principal está desconectado. | -
+Está terminantemente prohibido abrir el generador y el convertidor (alta tensión). | -
+No limpiar la pistola de soldadura manual con medios de limpieza ácidos, | -
+erosivos, desengrasantes o disolventes. | -
+
+Indicación | 
+Tener en cuenta el buen estado del aparato. | -
+
+[Page 17]
+Pistola de soldadura manual
+Puesta de fuera de servicio final / Eliminación de desechos
+P os: 2 /Seitenumbruch/==== Seitenumbruch ==== @ 0\mod_1116941572680_2139.docx @ 2401 @ @ 1
+P os: 3 /-TD-/AUßERBETRIEBNAHME/1. Ü_Außerbetriebnahme @ 7\mod_1379571382779_2139.docx @ 58984 @ 1 @ 1
+10 Puesta de fuera de servicio final / Eliminación de desechos
+P os: 4 /-TD-/AUßERBETRIEBNAHME/1.1 Endgült. Außerbetriebnahme/Entsorgung @ 5\mod_1296627525762_2139.docx @ 45147 @ 2 @ 1
+DNP-35 17
+
+S | ector - Actividades |  |  | Intervalo | 
+Control visual general | - | - |  | diario | 
+
+S | ector - Actividades |  |  | Intervalo | 
+Limpiar sonotrodo | - | - |  | cada 200 horas o 1x / | 
+- | - | - | - | mes | -
+
+S | ector - Actividades |  |  | Intervalo | 
+Control según BGV A3
+Control del fusible eléctrico de generador y pistola de soldadura manual | - | - |  | Por lo menos cada 6 | 
+- | - | - | - | meses | -
+
+S | ector - Actividades |  |  | Intervalo | 
+Enfriamiento de sonotrodo
+Control de funcionamiento, controlar salida de aire | - | - | cada 200 horas o 1x /
+mes | cada 200 horas o 1x / | -
+- | - | - | - | mes | -
+
+Después de la puesta de fuera de servicio final, el dispositivo o la máquina /
+caseta intercambiable de soldadura / instalación debe ser desechado / reciclado
+debidamente y ecológicamente según la legislación local aplicable.

@@ -1,0 +1,213 @@
+[Page 1]
+Zertifizierungsbericht, Kupfer-Verkabelung
+Gedruckt: 14.02.2025 16:38:29 Unterschrift:______________________
+Seite: 1
+
+Streckenbezeichnung: ==1005799==PLC+LT01.X01-WGB1 Bestanden*
+Datum & Zeit: 18.10.2024 08:45:10 Standort: Unspecified
+Grenzwerttyp: Profinet Gebäude: Unspecified-Building
+Kabelbezeichnung: lapp etherline 2170894 Etage: Unspecified-Floor
+Steckername: siemens Raum: Unspecified-Room
+Name Beabeiter: Unspecified Verteilerschrank: Unspecified-Rack
+Panel: Unspecified-Panel
+Gerätetyp: Wx-500
+LOCAL, S/N: tw20251271 REMOTE, S/N: tw20251272
+LOCAL, Adapter: M12 REMOTE, Adapter: M12
+Local Adapter S/No.: pa2100-0283 Remote Adapter S/No.: pa2100-0279
+Geräte-Firmware: 8.0 Berichtssoftware: Build_#1087_8.0_2019-04-16_14-04-00
+Verdrahtung:Bestanden
+Wert Grenzwert Reserve
+Länge (m): 2,3 - -
+Kabel-NVP: 67,0 - -
+Laufzeit (ns): 12,0 555,0 543,0
+Laufzeitdifferenz (ns): 1,0 50,0 49,0
+Widerstand (Ohms): 0,0 25,0 25,0
+Verdrahtung: T568B
+Einfügedämpfung:Bestanden dB LOCAL
+Schlechteste Marge: Schlechtester Wert: 0
+LOCAL: LOCAL:
+Paar: 12 12 20
+Wert (dB): 0,0 0,2
+Grenzwert (dB): 4,0 23,5
+Reserve (dB): 4,0 23,3 40 0 50 100MHz
+Frequenz (MHz): 1,00 96,00
+Rückflussdämpfung:Bestanden dB LOCAL dB REMOTE
+Schlechteste Marge: Schlechtester Wert: -20 -20
+LOCAL: REMOTE: LOCAL: REMOTE:
+Paar: 12 12 36 36 20 20
+Wert (dB): 29,2 29,3 25,8 24,8
+Grenzwert (dB): 17,0 17,0 10,4 10,4
+Reserve (dB): 12,2 12,3 15,4 14,4 60 0 50 100MHz 60 0 50 100MHz
+Frequenz (MHz): 1,90 1,90 90,50 91,50
+NEXT:Bestanden* dB LOCAL dB REMOTE
+Schlechteste Marge: Schlechtester Wert: 0 0
+LOCAL: REMOTE: LOCAL: REMOTE:
+Paar: 12-36 12-36 12-36 12-36 50 50
+Wert (dB): 33,3 31,9 32,9 31,8
+Grenzwert (dB): 31,6 31,2 31,1 31,1
+Reserve (dB): 1,7 0,7 1,8 0,7 100 0 50 100MHz 100 0 50 100MHz
+Frequenz (MHz): 81,75 86,25 87,00 87,25
+ACR-F:Bestanden dB LOCAL dB REMOTE
+Schlechteste Marge: Schlechtester Wert: -20 -20
+LOCAL: REMOTE: LOCAL: REMOTE:
+Paar: 36-12 12-36 36-12 12-36 40 40
+Wert (dB): 56,8 56,8 48,5 48,5
+Grenzwert (dB): 28,2 28,2 18,8 18,8
+Reserve (dB): 28,6 28,6 29,7 29,7 100 0 50 100MHz 100 0 50 100MHz
+Frequenz (MHz): 28,90 28,90 85,50 85,50
+ACR-N:Bestanden dB LOCAL dB REMOTE
+Schlechteste Marge: Schlechtester Wert: -40 -40
+LOCAL: REMOTE: LOCAL: REMOTE:
+Paar: 12-36 12-36 12-36 12-36 30 30
+Wert (dB): 44,6 44,7 32,8 31,7
+Grenzwert (dB): 27,9 29,6 8,9 8,8
+Reserve (dB): 16,7 15,1 23,9 22,9 100 0 50 100MHz 100 0 50 100MHz
+Frequenz (MHz): 26,95 23,65 87,00 87,25
+Anwendungsunterstützung:10BASE-T, 100BASE-T
+
+dB LOCAL
+-20
+20
+60
+0 50 100MHz | dB REMOTE
+-20
+20
+60
+0 50 100MHz
+
+dB LOCAL
+0
+50
+100
+0 50 100MHz | dB REMOTE
+0
+50
+100
+0 50 100MHz
+
+dB LOCAL
+-20
+40
+100
+0 50 100MHz | dB REMOTE
+-20
+40
+100
+0 50 100MHz
+
+dB LOCAL
+-40
+30
+100
+0 50 100MHz | dB REMOTE
+-40
+30
+100
+0 50 100MHz
+
+[Page 2]
+Zertifizierungsbericht, Kupfer-Verkabelung
+Gedruckt: 14.02.2025 16:38:29 Unterschrift:______________________
+Seite: 2
+
+Streckenbezeichnung: ==1005799==XS+UT01-WGB1 Bestanden*
+Datum & Zeit: 18.10.2024 08:51:21 Standort: Unspecified
+Grenzwerttyp: Profinet Gebäude: Unspecified-Building
+Kabelbezeichnung: lapp etherline 2170894 Etage: Unspecified-Floor
+Steckername: siemens Raum: Unspecified-Room
+Name Beabeiter: Unspecified Verteilerschrank: Unspecified-Rack
+Panel: Unspecified-Panel
+Gerätetyp: Wx-500
+LOCAL, S/N: tw20251271 REMOTE, S/N: tw20251272
+LOCAL, Adapter: M12 REMOTE, Adapter: M12
+Local Adapter S/No.: pa2100-0283 Remote Adapter S/No.: pa2100-0279
+Geräte-Firmware: 8.0 Berichtssoftware: Build_#1087_8.0_2019-04-16_14-04-00
+Verdrahtung:Bestanden
+Wert Grenzwert Reserve
+Länge (m): 2,9 - -
+Kabel-NVP: 67,0 - -
+Laufzeit (ns): 15,0 555,0 540,0
+Laufzeitdifferenz (ns): 0,0 50,0 50,0
+Widerstand (Ohms): 0,0 25,0 25,0
+Verdrahtung: T568B
+Einfügedämpfung:Bestanden dB LOCAL
+Schlechteste Marge: Schlechtester Wert: 0
+LOCAL: LOCAL:
+Paar: 12 12 20
+Wert (dB): 0,0 0,2
+Grenzwert (dB): 4,0 18,5
+Reserve (dB): 4,0 18,3 40 0 50 100MHz
+Frequenz (MHz): 1,00 61,75
+Rückflussdämpfung:Bestanden dB LOCAL dB REMOTE
+Schlechteste Marge: Schlechtester Wert: -20 -20
+LOCAL: REMOTE: LOCAL: REMOTE:
+Paar: 12 12 12 12 20 20
+Wert (dB): 29,0 28,9 24,6 24,6
+Grenzwert (dB): 17,0 17,0 12,3 12,2
+Reserve (dB): 12,0 11,9 12,3 12,4 60 0 50 100MHz 60 0 50 100MHz
+Frequenz (MHz): 1,90 1,90 59,00 60,75
+NEXT:Bestanden* dB LOCAL dB REMOTE
+Schlechteste Marge: Schlechtester Wert: 0 0
+LOCAL: REMOTE: LOCAL: REMOTE:
+Paar: 12-36 12-36 12-36 12-36 50 50
+Wert (dB): 31,1 30,5 31,1 30,5
+Grenzwert (dB): 30,1 30,1 30,1 30,1
+Reserve (dB): 1,0 0,4 1,0 0,4 100 0 50 100MHz 100 0 50 100MHz
+Frequenz (MHz): 100,00 99,75 100,00 99,75
+ACR-F:Bestanden dB LOCAL dB REMOTE
+Schlechteste Marge: Schlechtester Wert: -20 -20
+LOCAL: REMOTE: LOCAL: REMOTE:
+Paar: 36-12 12-36 36-12 12-36 40 40
+Wert (dB): 61,5 61,5 48,7 48,7
+Grenzwert (dB): 30,6 30,6 17,7 17,7
+Reserve (dB): 30,9 30,9 31,0 31,0 100 0 50 100MHz 100 0 50 100MHz
+Frequenz (MHz): 21,85 21,85 96,75 96,75
+ACR-N:Bestanden dB LOCAL dB REMOTE
+Schlechteste Marge: Schlechtester Wert: -40 -40
+LOCAL: REMOTE: LOCAL: REMOTE:
+Paar: 12-36 12-36 12-36 12-36 30 30
+Wert (dB): 57,6 47,2 30,9 30,3
+Grenzwert (dB): 40,2 31,1 6,1 6,1
+Reserve (dB): 17,4 16,1 24,8 24,2 100 0 50 100MHz 100 0 50 100MHz
+Frequenz (MHz): 9,70 21,10 100,00 99,75
+Anwendungsunterstützung:10BASE-T, 100BASE-T
+
+dB LOCAL
+-20
+20
+60
+0 50 100MHz | dB REMOTE
+-20
+20
+60
+0 50 100MHz
+
+dB LOCAL
+0
+50
+100
+0 50 100MHz | dB REMOTE
+0
+50
+100
+0 50 100MHz
+
+dB LOCAL
+-20
+40
+100
+0 50 100MHz | dB REMOTE
+-20
+40
+100
+0 50 100MHz
+
+dB LOCAL
+-40
+30
+100
+0 50 100MHz | dB REMOTE
+-40
+30
+100
+0 50 100MHz

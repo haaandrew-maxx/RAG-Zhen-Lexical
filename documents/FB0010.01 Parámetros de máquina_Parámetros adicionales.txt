@@ -1,0 +1,75 @@
+[Page 1]
+FB0010.01 Maschinen / Zusatzparameter (ES) Página 1 / 2
+
+ | ES |  | Proyecto-No.: | 100.093.01
+Parámetros de máquina / Parámetros adicionales | - | - | - | -
+- | - | - | Número de serie: | 100.093.01
+- | - | - | Nombre : | TMK
+- | - | - | Fecha : | 20.02.2025
+Proyecto/Juego de parámetro | Steering Column Mercedes VAN EA | - | - | -
+
+Parámetros de máquina: | Unidad |  | Parámetros de máquina: | Unidad |  | Parámetros adicionales: | Unidad | 
+Tiempo de trabajo VE's | s | 1,00 | Número de serie depósito de
+aire | No. | 1H/12284 | Tiempo de parada 1 | s | 3,00
+Tiempo de trabajo de pisadores | s | 1,00 | Número de serie depósito de
+aire | No. |  | Tiempo de parada 2 | s | 
+Tiempo de trabajo de unidad pegadore | s |  | Número de serie depósito de
+aire | No. |  | Tiempo de parada 3 | s | 
+Tiempo de trabajo unidad de troquelado | s |  | Número de serie depósito de
+aire | No. |  | Tiempo de parada 4 | s | 
+Tiempo de trabajo unidad de admisión | s |  | Número de serie depósito de
+aire | No. |  | Tiempo de parada 5 | s | 
+Tiempo máximo de trabajo | s | 9,90 | Número de serie depósito de
+aire | No. |  | Tiempo de parada 6 | s | 
+Sistema presión de aire: Tiempo de
+llenado | s | 60,00 | Número de serie depósito de
+aire | No. |  | Tiempo de refrigeración 1 | s | 4,00
+Tiempo después del impulso de
+desconexión | s |  | Número de serie depósito de
+aire | No. |  | Tiempo de refrigeración 2 | s | 
+Retrase la comprobación | s |  | Número de serie de Carolina
+del Norte 1 | No. |  | Tiempo de refrigeración 3 | s | 
+Retrase Ventosa 1 | s |  | Número de serie de Carolina
+del Norte 2 | No. |  | Tiempo de refrigeración 4 | s | 
+Retrase Ventosa 2 | s |  | Número de serie
+servoaccionamiento | No. |  | Tiempo de refrigeración 5 | s | 
+Tiempo de pre-calentamiento | min. |  | Número de serie
+Accionamiento | No. |  | Tiempo de refrigeración 6 | s | 
+Intervalo de limpia:
+conectado/desconectado | con./desc. |  |  |  |  | Tiempo previo de recorrido
+de soplado | s | 
+Intervalo de limpia para candidad ciclo | cada |  |  |  |  | Tiempo de contacto de
+soplado | s | 
+
+[Page 2]
+FB0010.01 Maschinen / Zusatzparameter (ES) Página 2 / 2
+
+ | ES |  | Proyecto-No.: | 100.093.01
+Parámetros de máquina / Parámetros adicionales | - | - | - | -
+- | - | - | Número de serie: | 100.093.01
+- | - | - | Nombre : | TMK
+- | - | - | Fecha : | 20.02.2025
+Proyecto/Juego de parámetro | Steering Column Mercedes VAN EA | - | - | -
+
+Parámetros de máquina: | Unidad |  | Parámetros de máquina: | Unidad |  | Parámetros adicionales: | Unidad | 
+Limpiar con un chorro con aire | s |  | Pisadores : |  |  | Tiempo posterior de recorrido
+de soplado | s | 
+Limpiar con un chorro con aire | s |  |  |  |  | Tiempo mínimo de
+temperatura de soplado | °C | 
+Presión de pisador 1 | bar | 4,00 |  |  |  | Tiempo máximo de
+temperatura de soplado | °C | 
+Presión de pisador 2 | bar |  |  |  |  | Soplado: Temperatura
+nominal | °C | 
+Presión de pisador 3 | bar |  |  |  |  | Tolerancia de presión VE | bar | 
+Presión de pisador 4 | bar |  |  |  |  | Tolerancia de presión unidad
+pegadora | bar | 
+Presión de pisador 5 | bar |  |  |  |  | Retrasa VE a posición inicial | s | 
+Presión de pisador 6 | bar |  |  |  |  | - | - | -
+Presión de pisador 7 | bar |  |  |  |  | - | - | -
+Presión de pisador 8 | bar |  |  |  |  | Tiempo de movimiento por
+inercia de Evacuación | s | 
+Presión de pisador 9 | bar |  |  |  |  | Tiempo de retención de
+rebordeado | s | 
+Presión de pisador 10 | bar |  |  |  |  | Tiempo de movimiento por
+inercia Bomba de vacío | s | 
+Presión de pisador 11 | bar |  |  |  |  | - | - | -

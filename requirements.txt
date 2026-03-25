@@ -1,0 +1,8 @@
+python-dotenv
+openai>=1.0.0
+rapidfuzz
+pandas
+tqdm
+pypdf>=3.0.0
+pdfplumber
+ragas

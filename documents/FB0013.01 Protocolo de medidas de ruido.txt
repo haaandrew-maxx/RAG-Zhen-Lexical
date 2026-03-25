@@ -1,0 +1,92 @@
+[Page 1]
+Posición de medición
+Zona de toma :
+Medición entorno
+Área de inserción :
+FB0013.01 Protocolo de medidas de ruido (ES) Hoja 1 de 2
+
+ | ES | Proyecto-No.: | 100.096.01
+Protocolo de medidas de ruido | - | - | -
+- | - | Número de serie: | 100.096.01
+- | - | Nombre : | TMK
+- | - | Fecha : | 20.06.2025
+Proyecto/Juego de parámetro | Steering Column Mercedes Van EA | - | -
+
+Sociedad: | CEFA | Dept: | Mont | Número de la maquina : | 100.096.01
+Calle: | Poligono Industrial Malpica | Respons.: T | MK | Número de la utillaje : | 
+PC/ciudad: | 50016 Zaragoza | Montador : | Marco Knapp |  | -
+Planta: | Zaragoza |  |  |  | -
+
+Juego de parámetros del instrumento de medición | - | - | -
+Instrumento de medición : | Norsonic AS C | alibradores acústicos : | Norsonic AS
+Tipo : | NOR 131 Ti | po : | 1228
+Número de serie : | 1313879 N | úmero de serie : | 33291
+Protocolo de calibración : | 474916345 P | rotocolo de calibración : | 3020
+Fecha : | 18.06.2018 F | echa : | 18.06.2018
+
+Juego de parámetros de medidas | - | - | -
+Punto de medida | Montagehalle | Planta : | ES - 08755 Castellbisbal / Sonotronic
+
+Posición de medición
+Área de inserción : | zurdo : | 
+- | centro : | 
+- | derecho : | 
+- | Altura sobre el suelo : | 1,6 m
+- | La distancia : | 1 m
+
+zurdo : | 
+centro : | 
+derecho : | 
+Altura sobre el suelo : | m
+La distancia : | m
+
+Tiempo de ciclo máquina de un ciclo : | 12 segundos
+
+zurdo : | 
+centro : | 
+derecho : | 
+Altura sobre el suelo : | m
+La distancia : | m
+
+Cantidad de ciclos medidos : | 3 piezas
+
+Tiempo total de los ciclos medidos : | 38 segundos
+
+[Page 2]
+Necesario adhesivo protección auditiva : si X no
+Colocado el adhesivo protección auditiva : si X no
+Firma :
+Fecha : 20.06.2025
+Lugar : Castellbisbal
+FB0013.01 Protocolo de medidas de ruido (ES) Hoja 2 de 2
+
+ | ES | Proyecto-No.: | 100.096.01
+Protocolo de medidas de ruido | - | - | -
+- | - | Número de serie: | 100.096.01
+- | - | Nombre : | TMK
+- | - | Fecha : | 20.06.2025
+Proyecto/Juego de parámetro | Steering Column Mercedes Van EA | - | -
+
+Tabla de medidas de la máquina | - | - | - | - | - | -
+Norsonic NOR 131 número de
+medición corriente : | Tiempo medido
+en segundos | Valor de medición | - | - | - | -
+- | - | Laeq in dB (A) | L. max. in dB (A) | L. min. in dB (A) | Peak in (C) | 
+ | 13 | 75,3 ~ 75 | 80,0 ~ 80 | 52,3 ~ 52 | 100,5 ~ 101 | 
+ | 13 | 75,2 ~ 75 | 79,9 ~ 80 | 53,8 ~ 54 | 100,1 ~ 100 | 
+ | 12 | 75,2 ~ 75 | 79,8 ~ 80 | 53,9 ~ 54 | 98,7 ~ 99 | 
+ |  | ~ | ~ | ~ | ~ | 
+ |  | ~ | ~ | ~ | ~ | 
+
+Tabla de medidas del ambiente | - | - | - | - | - | -
+Norsonic NOR 131 número de
+medición corriente : | Tiempo medido
+en segundos | Valor de medición | - | - | - | -
+- | - | Laeq in dB (A) | L. max. in dB (A) | L. min. in dB (A) | Peak in (C) | 
+ | 60 | 58,2 ~ 58 | 65,3 ~ 65 | 56,8 ~ 57 | 74,8 ~ 75 | 
+ | 60 | 59,2 ~ 59 | 64,9 ~ 65 | 55,6 ~ 56 | 81,4 ~ 81 | 
+
+Valores promedios de la máquina | - | - | - | - | - | -
+ |  | Valor de medición | - | - | - | -
+- | - | Laeq in dB (A) | L. max. in dB (A) | L. min. in dB (A) | Peak in (C) | 
+ |  | 75 | 80 | 53 | 100 | 

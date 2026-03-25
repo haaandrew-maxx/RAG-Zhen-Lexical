@@ -1,0 +1,3397 @@
+[Page 1]
+3C on
+TECHNOLOGIES
+CE
+Manual de instrucciones Panel táctil
+(Traducción del manual de instrucciones original)
+Fabricante: 3CON Anlagenbau GmbH
+Kleinfeld 16
+6341 Ebbs | Austria
+Distribución: 3CON GmbH
+Rosenheimerstraf3e 30b
+83080 Oberaudorf | Alemania
+Contacto: Tel.: 0043 / (0) 5373 /42111
+Fax: 0043 / (0) 537/3 42 111 -10
+Correo electrónico: 3de3con.de
+Página de inicio: www.3CON.com
+=
+AUSTRIA .HO SA CHINA MEXICO
+3CON Anlagenbau GmbH 3CON Corporation 3CON China Machinery Co, Ltd. 3CON International S.A. de CV
+Kleinfeld 16 Rosenheimer Strafie 30b 47295 Cartier Dr. Chishuihe Avenue, Plant 3CON Parque Industrial Advance Aeropuerto
+6341 Ebbs 83080 Oberaudorf Wixom/Michigan, 48393 District East New Area, Chengdu City Modulo 18, Navajas, Queretaro,
+AUT GER USA 641423,CHN CA76246, MEX
+
+[Page 2]
+WEUNe[
+pa
+lusnn>pouas
+deupj
+16511
+|deblue
+7p
+71
+3Con
+TECHNOLOGIES
+Índice
+1. Menú de navegación del panel táctil........................—.————————.eeeeeee 3
+1.1. Resumen
+3
+1.1.1. Menú de navegación - Control de la instalación . 4
+1.1.2. Menú de navegación - Puntos de menú relacionados con la máquina 6
+1.1.3. Menú de navegación - Estado del proceso de la instalación . 8
+1.1.4. Menú de navegación - Ajustes del sistema
+2. Leyendas de los bloques gráficos .........................-.-......eeeeeeee
+N.° de bloque gráfico.: 001 Contador de piezas
+N.° de bloque gráfico.: 002 — Posiciones
+N.° de bloque gráfico.: 003 Temporizador
+N.° de bloque gráfico.: 004 Refrigeración, termorregulación, aire caliente ......................... 13
+N.° de bloque gráfico.: 005 Gestión de fórmulas ....
+N.° de bloque gráfico.: 006 — Unidades de vigilancia
+N.° de bloque gráfico.: 007 SIMATIC-PLC....
+N. de bloque gráfico.: 008
+N. de bloque gráfico.: 009
+A
+D
+N.° de bloque gráfico.: 010 Posiciones de las unidades y módulos .........................0........ 20 I N
+O
+L
+N.° de bloque gráfico.: 011 Aviso de Sitema. 1'0
+N. de bloque gráfico.: 012
+|
+).aepO
+N. de bloque gráfico.: 013 2
+ETOL
+N.° de bloque gráfico.: 014 Tiempos
+7OTS
+N.° de bloque gráfico.: 015 Radiador de infrarrojos y lámparas de calor ............................... 26
+N.° de bloque gráfico.: 016 Calefacción de aire caliente ............................ ... 27
+N.° de bloque gráfico.: 017 Ajustes de servicio....
+N.° de bloque gráfico.: 018 Cambio de herramientas ....
+N. de bloque gráfico.: 019
+N.° de bloque gráfico.: 020 Robots de pegado
+N.? de bloque gráfico.: 021 — Ámbito del vacio...
+N. de bloque gráfico.: 022
+N.° de bloque gráfico.: 023
+N. de bloque gráfico.: 024
+N.° de bloque gráfico.: 025 — Registros de Sistema ..
+N.° de bloque gráfico.: 026 — Unidades de alimentación .............................0 0000000 39
+N.° de bloque gráfico.: 027 Información del sistema
+N.° de bloque gráfico.: 028 — Supervisión del pirómetro............................... 0. 40
+N.° de bloque gráfico.: 029 Temperatura del pirómetro............................... 0000 41
+
+[Page 3]
+WEUNe[
+pa
+lusnn>pouas
+deupj
+16511
+|deblue
+Pa
+71
+3Con
+TECHNOLOGIES
+1. Menú de navegación del panel táctil
+1.1. Resumen
+RESUMEN
+CONTROL GENERAL Y BARRA DE INFORMACIÓN DEL PANEL TÁCTIL
+Cuidado: Imagen del símbolo
+E
+DESCRIPCIÓ
+L'
+1) Muestra
+>
+los
+C o
+b
+n
+o
+s
+t
+u
+o
+l
+n
+t
+e
+e
+s
+e
+p
+l
+ar
+c
+a
+a p
+e
+í
+l
+tu
+c
+l
+o
+o
+nt r
+1
+o
+.
+l
+1 .1
+d e la instalación. |
+)naepo
+2) Muestra el menú de navegación relacionado con la máquina.
+2]
+2
+7
+0
+-> Consulte el capítulo 1.1.2 1 ' 7
+0
+2
+3) Muestra los submenús del menú de navegación relacionado con la máquina. S
+-> Consulte el capítulo 1.1.2
+4) Muestra el estado del proceso de la instalación.
+> Consulte el capítulo 1.1.3
+Consulte los ajustes generales del sistema para el menú de navegación
+en el capítulo 1.1.4.
+MANEJO DE LA PANTALLA TÁCTIL:
+Las teclas de función y pantallas se pueden seleccionar tocando o
+realizando una pulsación larga en panel táctil directamente.
+t Deslizándose vertical y horizontalmente por el panel tactil puede
+< moverse por la pantalla (p. ej. por los campos de los menús desplegables
+de las pantallas, avisos y listas)
+
+[Page 4]
+WEUNe[
+pa
+lusnn>pouas
+deupj
+16511
+|de6lue
+tpa
+71
+=3Con
+TECHNOLOGIES
+1.1.1. Menú de navegación - Control de la instalación
+RESUMEN
+BARRA DE INFORMACI
+PANTALLA:
+0 Volver a la pantalla principal pulsando el botón.
+Home
+Pulsando el botón se conecta el funcionamiento
+manual (modo manual)
+ADVERTENCIA:
+u ¡Cuando se activa el símbolo se pone verde!
+Manual ADVERTENCIA:
+¡Si la activación no se realiza correctamente, compruebe si
+todos los botones de parada de emergencia e interruptores
+de llave del armario de distribución están desactivados!
+¡Compruebe siempre los mensajes de error!
+El modo automático se conecta pulsando el botón
+ADVERTENCIA:
+ADINOL
+¡Cuando se activa el simbolo se pone verde!
+1'0
+»
+ADVERTENCIA:
+|
+).aepO
+2
+Automatic ¡Si la activación no se realiza correctamente, compruebe si ETOL
+t
+de
+o do
+l
+s
+la ve
+l os
+del
+b ot
+a
+o
+rm
+n
+a
+e
+r
+s
+i o
+d e
+de
+p a
+d
+r
+i
+a
+s
+d
+t
+a
+r ib
+d
+u
+e
+c i
+e
+ó
+m
+n
+e r
+e
+g
+s
+e
+tá
+n
+n
+c ia
+d es
+e
+ac
+i
+t
+n
+i
+t
+v
+e
+a
+r
+d
+r
+o
+u
+s
+p
+!
+t ores 7OTS
+¡Compruebe siempre los mensajes de error!
+Puede cambiar a la pantalla del sistema «Avisos y averias»
+pulsando el botón
+Alarms
+Memorizar fórmulas pulsando el botón.
+ADVERTENCIA:
+E CE aa Sila memorizacion tiene lugar con éxito, se mostrará al lado
+Rezept Werkzeug gespeichert del botón verde!
+- u Cambio del idioma del país pulsando en el botón del idioma
+Ze correspondiente
+
+[Page 5]
+WEUNe[
+pa
+lusnn>pouas
+deupj
+16511
+|deblue
+sP
+71
+3Con
+TECHNOLOGIES
+Puede cambiar a la pantalla del sistema «Iniciar sesión
+de usuario”
+Log in
+ADVERTENCIA:
+user
+Para ejecutar funciones manuales o modificar parámetros
+debe iniciarse sesión. ¡Para ello, su cuenta de usuario debe
+disponer de las habilitaciones necesarias!
+Puede cambiar a la pantalla del sistema «Información»
+pulsando el botón
+> Muestra las instrucciones de uso (Smart-Service) en el
+panel táctil.
+Anuncio «Diagnóstico»
+ADVERTENCIA:
+¡Contiene información importante para la búsqueda de
+errores!
+Anuncio «Modo TC» (Toolchange Modus)
+— Muestra que la máquina se encuentra en el modo de
+cambio de herramienta.
+A
+— Muestra cómo debe hacerse el cambio de herramienta. D I N
+O
+L
+Anuncio «modo de ajuste activo»
+1'0
+|
+)
+.
+a
+ADVERTENCIA: e p
+O
+¡Encendiendo el interruptor de llave se activa el modo de 2
+ajuste!
+ETOL
+7OTS
+CUIDADO:
+¡Con la activación del interruptor de llave se activarán todos
+los dispositivos de seguridad!!!
+Exportación de una captura de pantalla.
+> Pulsando el botón se creará un archivo PDF de toda
+la pantalla. Los datos deben almacenarse en un lápiz USB
+Printing Picture - previamente conectado al puerto USB (CUIDADO: solo se
+acepta USB 2.0).
+> El botón «Captura de pantalla» puede ocultarse durante
+el ciclo en marcha (consulte el capítulo Menú de navegación
+- Ajustes del sistema).
+
+[Page 6]
+WEUNe[
+pa
+lusnn>pouas
+deupj
+1651
+]deblue
+9p3
+71
+=3Con
+TECHNOLOGIES
+1.1.2. Menú de navegación - Puntos de menú relacionados con la máquina
+Resumen
+Control general y barra de información del panel táctil
+Abre los distintos submenús de la instalación pulsando el botón.
+‘ Machine Cambie a la pantalla del sistema «máquina» pulsando el botón.
+Cambie a la pantalla del sistema «termorregulación» pulsando el
+W Tempering
+botón.
+—
+Cambie a la pantalla del sistema «fórmula» pulsando el botón.
+System Cambie a la pantalla del sistema «sistema» pulsando el botón. A D
+I N
+O
+L
+1'0
+Vacuum Cambie a la pantalla del sistema «vacío» pulsando el botón.
+|
+).aepO
+2
+ETOL
+Cambie a la pantalla del sistema «herramienta superior» pulsando
+7OTS
+Upper Tool
+el botón.
+Tool Cambie a la pantalla del sistema «herramienta» pulsando el botón.
+Cambie a la pantalla del sistema «cambio de herramienta»
+Tool Change
+pulsando el botón.
+Cambie a la pantalla del sistema «herramienta inferior» pulsando el
+LowerTool
+botón.
+Heating Cambie a la pantalla del sistema «calefacción» pulsando el botón.
+Cambie a la pantalla del sistema «posición inicial» pulsando el
+Homeposition
+botón.
+
+[Page 7]
+WeUne|
+pa
+usanopouas
+geu9¡
+=3Con
+TECHNOLOGIES
+SIMATIC PLC. Cambie a la pantalla del sistema «Simatic PLC» pulsando el botón.
+Cambie a la pantalla del sistema «información del proyecto»
+Projectinformation
+pulsando el botón.
+Cambie a la pantalla del sistema «ajustes del sistema» pulsando el
+botón.
+Cambie a la pantalla del sistema «gestión del usuario» pulsando el
+User Administration
+botón.
+Cambie a la pantalla del sistema «información del sistema»
+pulsando el botón.
+ADISIOL
+t'o
+|
+)
+r
+a
+e
+p
+o
+2
+EZTOL
+7
+O
+s
+p
+&
+=
+
+[Page 8]
+yyeune¡
+pa
+lusnnapouas
+geup¡
+=3Con
+TECHNOLOGIES
+1.1.3. Menú de navegación - Estado del proceso de la instalación
+Resumen
+Control general y barra de informacién del panel tactil
+Anuncio «tiempo de ciclo»
+> Muestra el tiempo del ciclo actual y el tiempo de ciclo anterior.
+Anuncio «tiempo de calentamiento»
+> Muestra el «tiempo de calentamiento deseado» seleccionado y
+Actual: Te el tiempo de calentamiento actual.
+Heatngtme: 0.0 /
+ADVERTENCIA:
+Cuando se alcanza el tiempo de calentamiento, el fondo del
+«tiempo de calentamiento deseado» muestra un color verde.
+Anuncio «tiempo de ajuste»
+> Muestra el «tiempo de ajuste deseado» y
+Actual: Target: el tiempo de ajuste actual.
+Add-Time: 0.0 / 20.0s A D
+I N
+ADVERTENCIA: O L
+C
+aj
+u
+u
+a
+s
+n
+te
+d o
+d e
+s
+s
+e
+e a
+a
+d
+l
+o
+ca
+»
+n za
+m ue
+el
+s t
+t
+r
+i
+a
+e m
+u
+p
+n
+o
+c
+d
+o
+e
+l or
+a ju
+v
+s
+e
+t
+r
+e
+d
+,
+e .
+e l fondo del «tiempo de
+1'0
+|
+).aepO
+Anuncio «temperatura» 2
+ETOL
+Temperature OK: D ADVERTENCIA: 7OTS
+Cuando se alcanza la temperatura necesaria, el anuncio se ilumina
+Ea
+&
+2 de verde.
+Anuncio «captura de pantalla»
+ADVERTENCIA:
+Pulsando el botón, la superficie completa de la pantalla aparecerá
+en un PDF que se exporta a la salida USB.
+
+[Page 9]
+WEUNe[
+pa
+lusnn>pouas
+deupj
+16511
+|deblue
+6P
+71
+=3Con
+TECHNOLOGIES
+1.1.4. Menú de navegación - Ajustes del sistema
+Resumen
+Control general y barra de informacién del panel tactil
+Save Image to USB Al pulsar el botón se activa o o desactiva el botón "Captura de
+activate
+pantalla" pulsando el botón.
+El modo de funcionamiento del panel táctil se pone
+Onine
+en «online» pulsando el botón.
+El modo de funcionamiento del panel táctil se pone
+en «Offline» pulsando el botón.
+El modo de funcionamiento del panel táctil se pone
+Transfer
+en «transferencia» pulsando el botón.
+A
+D
+I N
+O
+L
+1'0
+Switch Language ‘
+C
+bo
+a
+t
+m
+ó
+b
+n
+i
+.
+e de idioma a otro de los idiomas proyectados pulsando el |
+).aepO
+2
+ETOL
+7OTS
+System Control W Al pulsar el botón, se abre la consola del panel táctil
+Cierre el programa «tiempo de ejecución» pulsando el botón.
+Exit Runtime ADVERTENCIA:
+Cerrando el programa «tiempo de ejecución» irá a parar al sistema
+operativo.
+Calibre la pantalla pulsando el botón.
+Calbrate screen ‘
+> Siga las instrucciones de la pantalla táctil.
+Clean Picture ‘ Active el limpia pantallas pulsando el botón durante 30 segundos.
+
+[Page 10]
+yeUNe¡
+pa
+lusNinonouas
+deua¡
+18511
+|
+deBlue
+1opa
+71
+3Con
+TECHNOLOGIES
+2. Leyendas de los bloques gráficos
+Los bloques gráficos son funciones y pantallas estándar.
+CUIDADO: ¡Pueden cambiar en función de la instalación!
+N.° de bloque gráfico.: 001 Contador de piezas
+66
+ó
+Cuidado: Imagen del simbolo
+DESCRIPCIÓN: E
+o
+1) Muestra el contador de piezas producidas g E
+2) Muestra el contador de todas las piezas producidas correctamente (iO), todas las
+piezas no producidas correctamente (niO) y el contador diario de la cavidad 1.
+S
+3) Muestra el contador de todas las piezas producidas correctamente (iO), todas las
+piezas no producidas correctamente (niO) y el contador diario de la cavidad 2.
+BOTONES DE FUNCIÓN:
+. Restablecer o borrare l contador de piezas
+. [z Aumente de forma manual el número de piezas que no se han
+producido correctamente
+E Reduzca de forma manual el número de piezas que no se han
+producido correctamente
+
+[Page 11]
+yyeunej
+pa
+rusnnapouas
+deua¡
+16911
+|
+qebiue
+11
+pa
+b1
+=3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 002 Posiciones
+©
+Homeposition
+Lift Upper
+|
+@ Lift Lower
+Shuttle
+Substrate Heater
+[ seamsword 1.1
+[ Edgefolding sider hor 1.9.1.1
+Edgefolsiidenr gve r 1.9.1.2
+[ Eagetolding sider hor 1.11.1.1
+[ Edgefoldng sider ver 1.11.1.2
+J stroke Prefixingform 1.13.1.1
+[] stroke mtake shuttie Large 1.14.1.1
+[ stroke intake Shuttie small 1.15.1.1
+J stroke Hold down Device Intake 1.16.1
+[ Edgefolsiddenr gve r 1.5.1.2 [ stroke Gauging Swiven lH P
+[ Edgefolding sider ver 1.5.2.2 [ stroke Gauging Swivel n wP
+Part Detection Intake shulle 1.1
+A
+) intake shuttle Pos 4 D I
+Edgefoling sider ver 1.7.1.2 - [7 Intake shutte Pos 5.1 N O
+L
+[ Edgcfolding sider ver 1.7.2.2 1'0
+Edgefoldng ver 1.7.3.2 |
+).aepO
+2
+ETOL
+Cuidado: Imagen del símbolo 7OTS
+DESCRIPCIÓ!
+1) Muestra el grupo de los correspondientes actuadores o posiciones.
+2) Muestra de que actuador o de que posición se trata
+> trata
+> Todos los actuadores y posiciones de la instalación o de la herramienta figuran en
+una lista
+3) Muestra la cantidad, así como la posición de los actuadores
+> Hayun rectángulo para cada notificación del sistema eléctrico. Se pone de color
+verde, cuando la señal de la notificación está pendiente
+ADVERTENCIA
+La pantalla de aviso de posición sirve para disponer de una vista rápida de las posiciones de
+todos los actuadores (útil en caso de avería).
+
+[Page 12]
+yeUne¡
+pa
+lusninonouas
+U
+18511
+|
+deibiue
+1Zpa
+71
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 003 Temporizador
+Timedock Use:
+Time [hh:mmo )]:[ C0 3
+Send devices to standby: u
+Only working if:
+Control voltage on and Emergency stop
+acknowledged and machine in manual mode.
+Cuidado: Imagen del simbolo
+DESCRIPCION:
+1) Activacion o desactivacion del temporizador
+> ¡Parautilizar el temporizador, el equipo debe apagarse y confirmarse el conjunto
+de paradas de emergencia!
+2) Selección del tiempo de comienzo deseado (hora: minutos)
+ADVERTENCIA
+El temporizador almacena el comienzo automático del refrigerady odrel regulador de A D I
+N
+temperatura. O L
+1'0
+|
+).aepO
+2
+ETOL
+7OTS
+
+[Page 13]
+WeUNe¡
+pa
+lusiinonouas
+U
+18511
+|
+deibiue
+lE
+pa
+71
+3Con
+TECHNOLOGIES
+N.° de bloque grafico.: 004 Refrigeración, termorregulación, aire caliente
+Edgefold 1.11.1
+O
+o
+@ ) cotectivfaeut [ watertiowo ()
+[O as —
+Cuidado: Imagen del simbolo
+1) Muestra el número del ciclo de termorregulación o de la unidad de aire caliente
+2) Muestra la zona en la que se encuentra la unidad correspondiente
+3) El «valor de consigna» es la temperatura que debe alcanzarse
+A
+4) La "ventana más" muestra cuántos grados puede incrementarse la temperatura D I
+N
+O
+con respecto al valor de consigna L
+5)
+c
+La
+o n
+"v
+r
+e
+e
+n
+s
+t
+p
+a
+e
+n
+c
+a
+t o
+m
+a
+e
+l
+n
+v
+o
+a
+s
+l
+"
+o r
+m
+d
+u
+e
+e s
+c
+t
+o
+r
+n
+a
+s ig
+c
+n
+u
+a
+á ntos grados puede reducirse la temperatura
+1'0
+|
+).aepO
+6) El "valor actual" muestra la temperatura actual
+2
+> Silatemperatura se encuentra dentro de los límites de temperatura, el fondo se
+ETOL
+ilumina de verde 7OTS
+7) Se muestra el "valor de consigna"
+> ¡Cuando se introduce el valor (pulsando), la temperatura escogida se adopta
+directamente! ¡Las pérdidas de calor pueden compensarse ajustando este valor!
+> ¡Siel apartado para la introducción del valor de consigna aparece de color gris, la
+temperatura debe introducirse directamente en el regulador de temperatura!
+8) Anuncio "avería colectiva “
+9) Anuncio "circulación CORRECTA" o "temperatura CORRECTA “
+10) Activación o desactivación del regulador de temperatura
+> Mediante la desactivación se apaga el regulador. Dejará de controlarse la
+temperatura del ciclo.
+CIRCUITOS VINCULADOS:
+11) El "valor de consigna" en circuitos vinculados será adoptado por el circuito
+principal
+12) Muestra si el circuito está vinculado y con qué circuito está vinculado
+> Uncircuito vinculado no puede activarse o desactivarse por separado. La
+conexión y la desconexión se llevan a cabo mediante el ciclo principal.
+13) Activación y desactivación del control de temperatura, así como de los
+parámetros del proceso
+
+[Page 14]
+=3Con
+TECHNOLOGIES
+ADVERTENCIA
+Si se modifican los valores, éstos deben guardarse. ¡Pulse el botón Em en la zona superior de la
+página!
+N.° de bloque gráfico.: 005 Gestión de fórmulas
+Recipe Name: No:
+®—>|loou <] o1 4._@
+(3)—pDmataa R ecord Name: JE No.: 4O
+Circut 1 Setpont Adjust
+Creut 1 enable 1
+Creut 2 Setpont Adjust 8
+@-» Creut 2 Enable 1
+Creut 3 Setpont Adjust 0
+Crcut 3 Enable
+Crrcut 4 Setpont Adjust 55
+Crcut 4 Enable 1
+Creut 5 Setpont Adjust 55
+yWeUne¡
+Circut 5 Enable
+pa
+A
+l u s n n D I N O L
+a
+p o
+u a
+s
+deua¡
+18511
+DESCRIPCIÓN:
+Cuidado: Imagen del simbolo
+1'0
+|
+).aepO
+2
+ETOL
+7OTS
+1) Muestra el nombre de la fórmula.
+> Elija la fórmula
+2) Muestra el número de la fórmula.
+3) Muestra el nombre del registro.
+4) Muestra el número del registro.
+5) Muestra los elementos del registro.
+6) Crear nuevo registro (pulsando el botón | & )
+7) Guardar el registro (pulsando el botón * )
+8) Borrar el registro (pulsando el botón 1 )
+9) Editar el registro (pulsando el botón = )
+10) Importar el registro (pulsando el botón * )
+11) Exportar el registro (pulsando el botón * )
+CUIDADO: ¡La importación y exportación de registros solo es posible hasta USB 2.0!
+
+[Page 15]
+WeUNe¡
+pa
+lusninonous
+U
+18511
+| deibiue
+15
+pa
+71
+3Con
+TECHNOLOGIES
+N.° de bloque grafico.: 006 Unidades de vigilancia
+—
+ºbervndln:nnen: System Funktionen:
+®—>-- + Druciduft — El :r…m…<—©
+Autom. Auschalten Automatik
+Cuidado: Imagen del simbolo
+1) Activacion o desactivacion del control del aire comprimido
+> Debe desactivarse únicamente cuando el sensor que da la señal está averiado.
+¡Asegúrese de que el aire comprimido siempre tiene la presión necesaria!
+2) Activación o desactivación del control de temperatura
+> ¡Controla la temperatura de los ciclos de agua (siempre y cuando la opción
+«utilizar» esté activada)! ¡Con la desactivación es posible comenzar un ciclo sin A D I
+N
+O
+desbloquear la temperatura! L
+3) A
+>
+c ti
+C
+v
+o
+a
+n
+c
+t
+i
+r
+ó
+o
+n
+l a
+o
+el
+d e
+v
+s
+í
+a
+n
+c
+c
+t
+ul
+i
+o
+v ac
+c
+i
+on
+ó n
+el
+de
+c
+l
+o nt
+c
+r
+o
+o
+n
+l
+t ro
+de
+l
+l
+H
+a
+e
+c
+t
+a
+r
+l
+o
+e
+n
+f
+i
+ac
+k
+c ión. ¡En la desactivación existe
+1'0
+|
+).aepO
+4) A
+p
+c
+r
+t
+o
+i
+t
+r
+v
+e
+i
+a
+c
+e
+c
+c
+s
+i
+i
+g
+ó
+o
+ó
+n
+n
+de
+y
+d e
+d
+l
+i
+e
+nc
+s
+m
+e
+a
+o
+n
+c
+t
+d
+t
+i
+o
+i
+o
+r
+v
+s
+a
+,
+c
+(
+i
+C
+y
+ó
+o
+a
+n
+nt
+q
+r
+u
+d
+o
+e
+e
+l
+l
+n
+L
+o
+i
+S
+n
+S
+t
+p
+)
+e
+u
+r
+e
+r
+d
+u
+e
+p
+n
+t or
+r e
+d
+c
+e
+o no
+p
+c
+o
+e
+t
+r
+e
+s
+n
+e
+c ia
+a ve
+y
+r ía
+de
+s
+l
+!
+interruptor de
+2
+ETOL
+7OTS
+> ¡Controla el interruptor de potencia y de protección del motor! ¡Los interruptores
+averiados deben cambiarse de inmediato!
+5) Activación o desactivación del reconocimiento de herramientas
+» ¡Comprueba si la codificación de la herramienta es compatible con la selección y
+con el hardware reconocido! ¡Además, se comprobará si la herramienta superior
+y la herramienta inferior son compatibles! ¡En la desactivación existe el riesgo de
+bloqueo de la máquina!!!
+6) Activación o desactivación del reconocimiento de piezas
+> Esta función le permite seguir produciendo pese a la existencia de piezas
+defectuosas. ¡Compruebe que en la desactivación todas las cavidades están
+siempre activas (también, aunque no se hayan introducido piezas en ellas)!
+7 Introducción de «apagado automático del modo automático» (pulsando en el
+aviso)
+-> ¡Introduzca después de cuánto tiempo debería abandonar el equipo el modo
+automático si no se empieza ningún ciclo! ¡Esta función evita el standby de la
+calefacción!
+
+[Page 16]
+3Con
+TECHNOLOGIES
+BOTONES DE FUNCIÓN:
+Activación o desactivación de las unidades de vigilancia pulsando
+la tecla ME (=encender) bzw. ll (=apagar)
+ADVERTENCIA
+¡Las funciones del sistema y los dispositivos de vigilancia deben desactivarse únicamente en
+casos absolutamente excepcionales! ¡Cada dispositivo de vigilancia contribuye un poco al
+funcionamiento fiable del equipo!
+N.° de bloque gráfico.: 007 SIMATIC-PLC
+Ope... ack sior yDe Order number ¡Addrezs_—_Viant desto
+sTISOVETDO.
+yWeUne¡
+pa
+l
+u
+s
+n
+n
+ADINOL
+a
+p o
+u a
+s
+deua¡
+18511
+1'0
+|
+).aepO
+2
+ETOL
+7OTS
+Cuidado: Imagen del simbolo
+1) Muestra una lista de todos los componentes del control (por ejemplo: CPU,
+tarjetas de entrada y de salida) en el armario de distribución o en la caja de
+bornes
+- Los componentes activos se muestran en el campo.
+> Los componentes averiados o inactivos se muestran en el campo E
+2) Vuelta atrás a la primera página del diagnóstico pulsando en el botón.
+3) Vuelta atrás a la página anterior del diagnóstico pulsando en el botón.
+4) Vaya a la página siguiente del diagnóstico pulsando en el botón.
+5) Exporte los anuncios de diagnóstico al puerto USB pulsando en el botón
+
+[Page 17]
+WeUNe¡
+pa
+lusninopouas
+U
+18511
+|
+dibiue
+1Z
+pa71
+3Con
+TECHNOLOGIES
+N.° de bloque grafico.: 008 Gestión del usuario
+3con
+Administrator E— Admini... 5
+Engineering .T. Engineer 5
+Engneeringlevel — *rrsrass Mainte... 5
+Mantenance Ssasssss Mamte... 5
+PLC User se..—... Unauth... 5
+Cuidado: Imagen del simbolo
+DESCRIPCIÓ
+1) Nombre de usuario A
+D I
+N
+2) Contraseña O
+L
+-> ¡Escoja con cuidado una contraseña segura!
+1'0
+3) El grupo indica la autorización que tiene cada usuario:
+|dIaep0
+> Administrador: posee todos los derechos 2
+Z
+T
+> Ingeniero: puede modificar parámetros y ejecutar movimientos manuales 7 0
+1 7
+> Mantenimiento: puede ejecutar movimientos manuales 0 Z
+S
+> Personal no autorizado: puede producir y cambiar herramientas
+4) El tiempo de cierre de la sesión, es el tiempo después del cual un usuario
+inactivo debe iniciar sesión de nuevo
+ADVERTENCIA
+. Para modificar las propiedades de un usuario, pulse en el campo deseado.
+. Para que pueda utilizarel sistema un nuevo usuario, introduzca una linea vacia.
+
+[Page 18]
+=3
+TECHNOLOGIES
+N.9 de bloque gráfico.: 009 Movidrive / Control de los motores de
+accionamiento
+yWeUne¡
+pa Cuidado: Imagen del simbolo
+l u s n n
+a
+p o
+u a
+s 1) Muestra el estado actual del motor
+deua¡
+2) Muestra la posición actual del dispositivo elevador (en mm).
+18511
+3) Introducción o modificación de la posición meta deseada (pulsando el
+indicador)
+- Mantenga pulsada la tecla parra arrancar automáticamente la posición
+meta introducida.
+4) Control manual del dispositivo elevador
+> Colocación en posición y desplazamiento manual pulsando las teclas * o
+5) Cambio de la velocidad para el movimiento manual
+> Cambio de «rápido» a «lento» pulsando la tecla -* .
+6)
+Muestra la velocidad de giro actual del motor (en mm/s).
+7) Muestra la carga del motor (en %).
+8) Muestra la disposición del motor
+—> Siel motor está preparado, este campo se pone de color verde.
+9) Muestra un movimiento del motor
+> Siel motor está en movimiento, este campo se pone de color verde
+l
+A
+D I N O L
+1'0
+|
+).aepO
+2
+ETOL
+7OTS
+
+[Page 19]
+WeUNe¡
+pa
+lusninonouas
+U
+18511
+|
+deBlue
+16
+pa
+71
+3Con
+TECHNOLOGIES
+ADVERTENCIA
+Para ejecutar un movimiento deben cumplirse las siguientes condiciones:
+> Losdispositivos de seguridad están activados
+> Laherramienta se suelta o no se utiliza ninguna herramienta
+> ¡El modo de funcionamiento manual debe estar activado!
+En movimientos rotativos (Imagen 2):
+> Centrar en posición inicial
+> Laherramienta de elevación está en posición "rotación"
+Si se modifican los valores, éstos deben guardarse.
+> ¡Pulse el botón E en la zona superior de la página!
+A
+D I
+N
+O
+L
+1'0
+|
+).aepO
+2
+ETOL
+7OTS
+
+[Page 20]
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 010 Posiciones de las unidades y módulos
+—
+Positon velocty Acc.Ramp — Brake Remp
+| om0 E e
+—
+E EE [ iod ey
+TR -
+r ia [ M
+] E e
+L
+Cuidado: Imagen del simbolo
+Indica de qué unidad se trata.
+Weune¡ M
+Co
+u
+l
+e
+o
+s
+c
+t
+a
+r
+c
+a
+i ón
+la s
+a
+p
+u
+o
+t
+s
+o
+i
+m
+c
+á
+i
+t
+o
+i
+ne
+c
+s
+a
+g
+en
+u ar
+la
+d
+s
+ad
+p
+a
+o
+s
+si c
+d
+i
+e
+o n
+l
+e
+a
+s
+un
+g
+i
+u
+d
+a
+a
+r
+d
+d
+.
+a das
+pa
+A
+| U S A N I
+I O
+U 3 S
+deue¡
+1821
+|
+deblue
+4
+5
+)
+)
+p
+>
+>
+I
+I
+a
+n
+n
+n
+t
+t
+t
+r
+r
+c
+a
+L
+P
+p
+o
+o
+l
+o u
+o
+o
+d
+d
+l
+l
+n
+s
+n
+u
+u
+s
+a
+f
+l
+e
+c
+c
+e i
+í
+c
+c
+m
+g
+i
+i
+i
+u
+v
+la
+ó
+ó
+e
+t
+r
+r
+e
+n
+n
+a t
+d
+s
+d e
+e
+c a l
+l
+o
+o
+. a
+d
+l
+e
+m
+m
+¡
+o
+o
+e
+C
+d
+d
+=
+n
+u
+i
+i
+t
+a
+f
+f
+|
+r
+n
+i
+i
+a
+d
+c
+c
+o
+d
+o
+a
+a
+a
+a
+c
+c
+e
+i
+i
+s
+(
+ó
+ó
+e
+d
+n
+n
+e
+a p l a
+c
+d
+d
+c r
+o
+e
+e
+a a
+l
+n
+o
+z
+r
+l
+l
+p a
+a
+a
+o
+n
+n
+v
+p
+a
+l e
+e
+o
+a
+r
+r
+s
+l
+a
+p
+i
+o
+n
+o
+c
+c
+j
+l s a
+i
+a
+i
+i
+)
+ó
+d
+c u
+n
+a
+i n ó
+d
+p
+i n d
+u
+(
+, a
+e
+p
+d
+d
+d
+u
+e
+e
+e
+l
+l
+n
+s
+a
+c
+m
+a
+u
+o
+o
+n
+l
+t
+v
+t
+d
+o
+o
+i
+o
+o
+c
+s
+m r
+u
+a
+á
+a
+c
+t
+l
+l
+i
+s
+a
+i
+i e
+ó
+z
+c
+n
+p
+a
+a d
+a
+r
+e m
+n
+s
+t
+(
+e
+t
+e i
+a
+p
+n e
+l
+u
+t
+a
+n
+l
+l
+l
+e e
+a
+s
+)
+m
+a
+o
+y e
+n
+d
+n
+d
+i
+l a
+o
+f i
+l t a
+c
+e
+l
+a
+c p
+a
+l
+r
+o a s i
+l
+s c
+o
+e
+s
+i ón D I N O L
+1'0
+| ).aepO
+2
+ETOL
+7OTS
+7o
+pa valores!
+41
+> Silaventana está por encima del campo de entrada, se trata de un límite
+superior.
+> Silaventana está por debajo del campo de entrada, se trata de un limite inferior.
+> Estos limites se almacenan en la unidad de control y no pueden modificarse.!
+6)
+Introducción o modificación de la velocidad (pulsando la pantalla)
+7) Introducción o modificación de la velocidad de colocación (pulsando la
+pantalla)
+> El valor "Rampa abajo" indica a qué hora el motor frena a la velocidad
+predefinida!
+8) Introducción o modificación de la velocidad de frenado (pulsando la pantalla)
+> El valor "Rampa abajo" indica a qué hora el motor frena a la velocidad
+predefinida!
+9) Introducción o modificación de los límites de entrada para las posiciones
+(pulsando la pantalla del aviso)
+> Lasventanas amarillas siempre muestran límites. ¡Estos limites pueden
+adaptarse con el perfil de usuario "Ingeniero" y evitan errores en la introducción
+de la posición (p. ej. si una cifra se introduce dos veces por error)!
+
+[Page 21]
+YeUNe¡
+pa
+lusNinonouas
+U
+18511
+|
+deibiue
+71
+pa
+71
+3Con
+TECHNOLOGIES
+ADVERTENCIA
+H
+. Si se modifican los valores, éstos deben guardarse. ¡Pulse el botón =% en la
+zona superior de la página!
+. ¡Si se sobrepasan los límites al introducir los valores, el cuadro correspondiente
+se pondrá rojo o el valor se corregirá con el valor límite!
+. Para ejecutar un movimiento deben cumplirse las siguientes condiciones:
+> Los dispositivos de seguridad están activados
+> ¡El modo de funcionamiento manual debe estar activado!
+> El desbloqueo de los actuadores debe estar disponible
+A
+D I
+N
+O
+L
+1'0
+|
+).aepO
+2
+ETOL
+7OTS
+
+[Page 22]
+WEUNe¡
+pa
+IUSANIDOU2S
+kU
+18911
+=3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 011 Aviso de Sitema
+Cuidado: Imagen del simbolo
+1) Muestra si la protección antichoque se encuentra desbloqueada
+> Sila protección antichoque se encuentra abierta, este indicador aparece de color
+verde.
+2) Muestra si la protección antichoque se encuentra desbloqueada
+> Sila protección antichoque se encuentra cerrada, este indicador aparece de
+color verde.
+A
+D 3) Muestra si la protección antichoque o el freno de seguridad se encuentran en I
+N
+O
+L
+posición de bloqueo
+1'0
+>
+c
+Si
+o
+l
+l
+a
+o r
+p
+v
+r
+e
+o
+r
+t
+d
+e
+e
+c
+.
+c ión antichoque se encuentra bloqueada, este indicador aparece de |
+).aepO
+2
+ETOL
+7OTS
+
+[Page 23]
+WeUNe¡
+pa
+lusninonouas
+U
+18511
+|
+aeBiue
+ZE
+pa71
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 012 Prueba de Sitema
+Test NOT 0K Sitema Test
+Last “Test oK Velocity
+|
+Cuidado: Imagen del simbolo
+DESCRIPC
+1) Activacion de la prueba de Sitema
+2) Comienzo de la prueba de Sitema
+3) Indicador que muestra el recorrido máximo para que la prueba de Sitema
+todavía sea aceptable (OK). El
+4) Indicador del par de torsión actual en %. El
+5) Prueba de Sitema favorable (OK) í
+> Sila prueba de Sitema realizada es favorable (OK), el indicador se ilumina de 8
+verde. g
+6) Prueba de Sitema no favorable -
+> Sila prueba de Sitema realizada no es favorable, el indicador se ilumina de
+rojo.
+7) Fecha y hora de la última prueba de Sitema favorable.
+8) Indicador de la velocidad con la que el motor lleva a cabo la prueba de Sitema
+(enmm/s).
+9) Indicador del limite de par en %.
+ADVERTENCIA
+
+[Page 24]
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 013 Accionamiento manual de los actores
+Cuidado: Imagen del simbolo
+1) Muestra de que unidad o grupo de cilindros se trata
+2) Muestra la cantidad, así como la posición de los actuadores.
+> Hayun cuadrado para cada notificación del sistema eléctrico. Se pone de color
+verde, cuando la señal de la notificación está pendiente!
+3) Muestra la posición de toda la unidad o grupo de cilindros.
+> , GST" = Posición básica/"AST" = Posición de trabajo
+yWeUne¡
+> Sitodos los actuadores del grupo están en la posición básica, el campo "GST"
+pa blanco se pone verde
+A
+l u s n n a
+p o
+u a
+s
+deua¡
+18511
+4)
+>
+F
+>
+unc
+d
+S
+¡
+p
+b
+i
+i
+S
+i
+o
+l
+f
+e
+s
+t a
+o
+e
+i
+g
+n o
+n
+r
+c
+ú
+c d
+a
+e
+i
+n
+o o
+n
+m
+ó
+s
+t
+n
+i
+e
+s
+e
+e
+s
+l
+e l
+!
+n
+b
+o
+m
+s
+á
+p
+t
+s
+o
+o
+P
+o
+i
+a
+d
+n
+u
+c
+c e
+e
+l
+a
+t
+l
+s
+m
+u
+o
+a
+a
+v
+y
+a
+n
+n
+e d
+d
+l
+r
+u
+o
+a
+d
+o
+d
+a
+e
+r e
+l
+p
+e
+o
+s
+e
+u
+s
+s
+n
+i
+t
+d
+i
+a
+c
+e
+d
+d
+s
+e
+i
+l
+a
+ó
+t
+d
+n
+t
+o
+g
+e
+d
+c
+r
+d
+o
+a
+l
+u
+e
+a
+p
+s
+g
+o
+l
+r
+t
+a
+u
+r
+s
+a
+e
+p
+e
+u
+b
+o
+s
+n
+a
+p
+t
+j
+i
+á
+u
+o
+d
+d
+n
+:
+e
+e
+a
+d
+d
+e
+e
+c
+n
+i
+o
+l
+c
+i
+l
+o
+a
+n
+g
+n
+d
+r
+p
+t
+r
+u
+o
+r
+o
+p
+s
+s
+o
+i
+l
+o
+c
+a
+s
+i
+r
+e
+ó
+d
+n
+e
+a
+m o
+u
+c
+d
+s
+t
+e
+i
+t
+o
+l
+r
+m
+i
+a
+t
+n
+á
+r
+r
+d
+t
+a
+a
+r
+b
+i
+n
+o
+a
+c
+j
+s
+o
+a
+b
+,
+m
+o
+e
+t
+e
+n
+l
+o
+t
+n
+c
+e
+e
+a
+s
+m
+l
+p
+a
+o "AST" D I N O L
+1'0
+|
+).aepO
+2
+ETOL
+E- Acercamiento [Y]=salida A| = Acercamiento Ae |-Salida
+7OTS
+®
+a
+&
+D- avance [€]=Retroceso — % |=Avance sk |= Retroceso
+=
+[0 [P = cerrar | ® =Girod e 0* — |= Girdeo 9 0*
+> ¡Sise acciona la válvula de un grupo, la tecla se pone verde!
+—> ¡Encaso de error de duración (si no están todos los actuadores en posición en un
+tiempo determinado), la tecla se pone roja!
+> iSila tecla aparece de color gris y no muestra ninguna flecha, significa que el
+desbloqueo de este grupo no está disponible!
+ADVERTENCIA
+Para ejecutar un movii iento deben cumplirse las siguientes condiciones:
+> Losdispositivos de seguridad están activados
+> ¡El modo de funcionamiento manual debe estar activado!
+> ¡El desbloqueo de los actuadores debe estar disponible!
+
+[Page 25]
+WeUNe¡
+pa
+lusninonouas
+U
+18511
+|
+deBiue
+7s
+pa71
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 014 Tiempos
+maxinsert time:
+ax removing time:
+Heating time group 8:
+heattimie gnrogupa : [2305] [0,05 ] max heattimie ngrogup 8:
+Holding time groupA : s | Holding time group 8:
+Cutting time: | a2,0
+() - eioniiegoupA | <05 || 5 re Fe ra e
+()— o
+Standby nominal value
+A
+Cuidado: Imagen del simbolo D I
+N
+O
+L
+1'0
+1) Muestra el tiempo que tardara en calentarse en el ciclo.
+|
+).aepO
+2) Muestra el tiempo máximo en el que debe calentarse. 2
+> ¡Sise supera este tiempo se producirá una parada de emergencia!
+ETOL
+> ¡Losvalores del tiempo de calefacción máximo pueden servir como protección
+7OTS
+frente a los incendios!!!
+3) Muestra el tiempo de ajuste y el tiempo de espera del ciclo.
+4) Muestra el tiempo máximo en el que una pieza puede introducirse antes de que
+el equipo comience a funcionar.
+> ¡Sise supera este tiempo, se mostrará un aviso de avería!
+5) Muestra el tiempo máximo en el que una pieza puede extraerse.
+— ¡Sise supera este tiempo, se mostrará un aviso de avería!
+6) Aviso o cambio del valor de consigna para los tiempos individuales (pulsando
+en el aviso)
+7) ¡Muestra los valores actuales de los tiempos individuales!
+8) Muestra la duración del recorte
+9) Muestra el caudal mínimo y máximo (en I/min)
+10) Muestra la consigna de aire caliente en modo de espera (en %).
+ADVERTENCIA
+Si se modifican los valores, éstos deben guardarse. ¡Pulse el botón E en la zona superior de la
+página!
+
+[Page 26]
+WeUne¡
+pa
+lusninonouas
+deua¡
+18511
+|
+debiue
+zopa
+71
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 015 Radiador de infrarrojos y lámparas de calor
+Cuidado: Imagen del símbolo
+1) Muestra constantemente el número de ajuste.
+> ¡Este número hace referencia a un campo de calefacción que se reproduce en la
+representación gráfica (imagen 2)!
+2) Muestra el circuito de mando (número de salida del control) del campo de
+A
+D calefacción. I N
+O
+L
+3) Introducción o modificación del valor de consigna del campo de calefacción (en 1'0
+%
+>
+) (
+¡
+p
+R
+u
+eg
+l
+u
+s
+l
+a
+a
+n do
+la p
+e
+o
+n
+t e
+e
+n
+l
+ci
+a
+a
+v is
+d
+o
+e
+)
+la radiación de calor! ¡Introduzca un valor de 0 a 100%!
+|
+).aepO
+2
+4) Muestra si se ha almacenado un circuito de calefacción. ETOL
+> ¡Cuando se activa, este campo muestra un color verde! 7OTS
+5) Introducción o modificación del tiempo de retardo del campo de calefacción
+(en segundos) (pulsando en el aviso)
+> ¡Introduzca un valor para conectar más tarde la calefacción del ciclo con este
+valor!
+6) Activación o desactivación del campo de calefacción en el ciclo (pulsando en el
+aviso)
+> Laactivación se muestra mediante un gancho en el campo (i)
+7) Activación o desactivación manual del campo de calefacción
+independientemente del ciclo (pulsando en el aviso)
+> ¡Laactivación manual del campo de calefacción se mostrará en la representación
+esquemática mediante un punto amarillo (Imagen 2)!
+8) Muestra si ha tenido lugar una avería en el campo de calefacción
+> Sitiene lugar una avería, el campo se muestra de color rojo
+ADVERTENCIA
+=
+Si se modifican los valores, éstos deben guardarse. ¡Pulse el botón &= en la zona superior de la
+página!
+
+[Page 27]
+WeUNe¡
+pa
+lusninonouas
+U
+18511
+|
+debiue
+Z¿
+pa71
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 016 Calefacción de aire caliente
+s
+l
+p
+e
+R E
+=
+N 7
+U
+a EA
+n
+290.0°C O
+o 290€ O
+o 300.0°C O
+29507
+O
+o 290.0°C
+Z 299 0 J
+300.0°C
+N S00.0°C
+O 300 0°C
+Z S0
+U 300.0°C
+S 00 0°C
+N
+¿bE d 3029| a 15, s
+B 300.0°C 15,
+Muestra constantemente el número de ajuste
+> ¡Este número hace referencia a un campo de calefacción que se reproduce en la
+representación gráfica (imagen 2)!
+2) Muestra el circuito de mando (número de salida del control) del campo de
+calefacción.
+3) n o modificación del valor de consigna (en * C) del campo de
+4)
+5)
+6)
+7)
+8)
+9)
+10)
+11)
+12)
+ZRTITENEE2ZAENESRRS
+Cuidado: Imagen del simbolo
+A
+D I
+N
+O
+L
+1'0
+|
+).aepO
+2 ETOL
+7OTS
+Introduci
+calefacción (pulsando en el indicador)
+- ¡Regula la potencia de la radiación de calor!
+Muestra la temperatura actual (valor actual) del campo de calefacción (en °C).
+Muestra si se ha almacenado un circuito de calefacción.
+> ON =Elcircuito de calefacción se ha programa/ dOoFF = el circuito de
+calefacción no se ha programado
+Muestra sila temperatura es la correcta (OK)
+Activación o desactivación del campo de calefacción del ciclo (pulsando en el
+indicador)
+> Laactivación se muestra mediante un gancho en el campo (i )
+Activación o desactivación manual del campo de calefacción
+independientemente del ciclo (pulsando en el indicador)
+> ¡Laactivación manual del campo de calefacción se mostrará en la representación
+esquemática mediante un punto amarillo (Imagen 2)
+Muestra si ha tenido lugar una avería en el campo de calefacción
+> Sitiene lugar una avería, el campo se muestra de color rojo
+Muestra el valor proporcional del campo de calefacción.
+Muestra el valor integral del campo de calefacción.
+Muestra el valor diferencial del campo de calefacción.
+
+[Page 28]
+WeUNe¡
+pa
+lusiinonouas
+deua¡
+18511
+|
+deblue
+7pa
+71
+3Con
+TECHNOLOGIES
+ADVERTENCIA
+H
+Si se modifican los valores, éstos deben guardarse. ¡Pulse el botón &= en la zona superior de la
+página!
+Los valores para el control PID son determinados y ajustados por los programadores de la
+construcción de plantas de 3CON para la instalación siguiendo el método de Ziegler-Nichols. En
+casos normales no es necesaria la modificación de dichos valores.
+En caso de que la parte proporcional (P), la parte integral (1), la parte diferencial (D) y la
+temperatura máxima (tmax) deban modificarse, esto podrá regularse también mediante el
+método de Ziegler-Nichols.
+Con ayuda del visor podrá visualizarse la curva de la trayectoria de la calefacción.
+A
+D I
+N
+O
+L
+1'0
+|
+).aepO
+2
+ETOL
+7OTS
+
+[Page 29]
+WeUNe¡
+pa
+lusNinonouas
+deua¡
+18511
+|
+aeblue
+76
+pa
+71
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 017 Ajustes de servicio
+Open position limits [o ]
+MOVITOOLS control o]
+No manual vel. limit [ o]
+Keep Sitema closed o
+Cuidado: Imagen del simbolo
+1) Activación y desactivación de diversos ajustes de servicio (pulsando la tecla
+correspondiente)
+Desbloqueo de límites: — Normalmente, para todos los accionamientos de la
+instalación existen límites (medidas de protección
+frente a un bloqueo de la máquina).
+Pulsando este botón se desbloquean todos los
+límites.
+> ¡Soloes posible en combinación con un interruptor
+de llaves encendido!!
+ADINOL
+Control de Movitools: Para controlar motores con ayuda de un control 1'0
+e
+>
+x ter
+¡
+n
+S
+o
+o
+,
+lo
+d
+e
+i
+s
+c h
+p
+o
+o si
+aj
+b
+u
+l
+s
+e
+t e
+en
+d e
+c
+b
+o
+e
+m b
+e
+i
+s
+n
+ta
+a
+r
+c i
+a
+ó
+c
+n
+t iv
+c
+a
+o
+d
+n
+o .
+un interruptor
+|
+).aepO
+2
+de llaves encendido!! ETOL
+> Cuidado: jLa protección frente a caídas de Sitema 7OTS
+se dejará abierta!!
+. Sin límite de velocidad
+manual: Normalmente, para todos los accionamientos de la
+instalación hay velocidades definidas previstas.
+Pulsando este botón todas las velocidades se
+ajustarán a la velocidad máxima.
+. Mantenga Sitema
+cerrado: Mantenga Sitema cerrado: Pulsando el botón se
+cerrará la protección contra caídas de Sitema (por
+ejemplo para las tareas de mantenimiento).
+> ¡Solo es posible en combinación con un
+interruptor de llaves encendido!!
+ADVERTENCIA
+CUIDADO: ¡La desactivación de los límites de entrada puede ocasionar que en caso de una
+manipulación incorrecta la máquina se bloquee! ¡Contacte sin falta con Fa. 3CON!
+
+[Page 30]
+WeUNe¡
+pa
+lusiinonouas
+deua¡
+18511
+|
+deBlue
+£0
+pa
+71
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 018 Cambio de herramientas
+Checkist lay
+You have to check the following points to unload the tool package automatically
+lE B M if a t c i h o i g n g e e as in h n om h e o p m o e s po i s t i o t n i ? o n? B
+Automatic mode ade?
+1=} Compressed air OK?
+E- safety i ocknowledaed?
+|2} o error n general?
+g Lowestoo! statlon ? cnterelo r n evallble?:
+Turntable ln positon 72
+Tool removing procedure active, please follow the insturctions:
+Elpluse wait
+o
+I
+: please wait until all drives are in position
+oller shutter was closed
+: Safety of roller shutter acknowledged
+: Preparation lifting unit closing
+: Lifting unit closed A D I
+: Tool successfully unlocked N O
+L
+:
+:
+:
+:
+T
+L
+L
+R
+i
+i
+o
+o
+f
+f
+l
+t
+o
+t
+l
+l
+i
+e
+-
+s
+n
+r
+g
+p
+y
+l
+s
+s
+u
+t
+u
+h
+g
+e
+n
+u
+i
+m
+t
+t
+t
+p
+e
+l
+w
+r
+w
+u
+a
+a
+g
+s
+s
+g
+w
+e
+a
+l
+d
+s
+o
+i f
+p
+t
+e
+a
+e
+o
+t
+n
+d
+p
+e
+e
+p
+d
+n
+a r
+e
+k
+d
+i ng position 1'0
+|
+).aepO
+: Tool change trolley was positioned and locked 2
+:
+:
+T
+M
+o
+o
+ll
+v e
+c en
+t
+t
+o
+e
+ol
+r in
+o
+g
+n to
+w as
+t ool
+m o
+c
+v
+h
+e
+a
+d
+n ge
+to
+t
+h
+r
+o
+ol
+m
+l
+e
+ey
+position ETOL
+: Unlock and remove tool change trolley
+7OTS
+Cuidado: Imagen del símbolo
+Para poder comenzar con el cambio de herramientas, todos los puntos de
+información deben ser correctos. Confirme esto haciendo clic en el botón
+Checklist OK
+> Un punto está correctamente ("OK") si está encerrado en una casilla azul -n -
+> Cuando un punto no es correcto, no puede comenzar el cambio de herramienta.
+- Ejemplos y soluciones para puntos no completados:
+* Si la máquina no tiene un ajuste inicial > lleve a cabo un ajuste inicial
+automático
+* No se ha seleccionado el modo automático > Seleccione el modo
+automático en la parte superior izquierda de la imagen.
+* La seguridad no se ha confirmado > Asegúrese de que el campo de
+seguridad está desbloqueado y pulse el botón de confirmación.
+* Hayotras averías - abra el aviso e intente solucionar las averías que se
+muestran.
+
+[Page 31]
+yyeune¡
+pa
+usnnapouas
+deua¡
+18911
+|
+qeBIUe
+€L
+pa
+b1
+3Con
+TECHNOLOGIES
+2) Mediante el botón FICSSHNES puede empezar la incorporación de una.
+herramienta. Con el botón puede interrumpirse el cambio de
+herramienta activa.
+Las instrucciones que aparecen en el aviso deben tenerse en cuenta y seguirse
+BN o e ] ]
+Los puntos se han clasificado en el siguiente orden según los resultados:
+> Un punto está correctamente («OK») si está encerrado en una casilla azul > n
+> El paso actual se muestra mediante un símbolo giratorio >
+C.
+Cuando se le pida retirar el carro para el cambio de herramientas, usted debe
+confirmar esto mediante el botón -
+A
+D
+I
+N
+O
+L
+1'0
+|dIaep0
+2
+Z
+T
+7 0
+1 7
+0
+Z
+S
+
+[Page 32]
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 019 Vacío
+Vacuumpump 1
+Manual Function l s
+PT100 A (Ampient Temp.) -
+PT100 B (Pump housing)
+Temperature Switch [ ]
+Operating Hours:
+Lubrication
+Next Lubrication: 3002h |
+Service interval: 2000 Hours ‘
+Filter Inspection
+Next Fiter Inspection: 1002 h
+Service interval: 2000 Hours
+Filter Inspection accomplished
+Inspection Rotor Slider
+Next Inspection: 7502 h
+Service interval: 7500 Hours |
+|
+WEUNe¡
+paLUsanoPpouas
+EU2[
+1891
+000
+ADISIOL
+L'O
+|)1aepo
+9|
+ETOLTos
+Cuidado: Imagen del símbolo
+Visión general:
+1) Funcionamiento manual (solo activado en el modo manual):
+Aquí se puede encender/apagar la bomba de vacío.
+2) Aviso PT100 A (temperatura ambiente):
+El fondo del aviso de temperatura se ilumina:
++ De verde cuando la EPEANIAIESIABAREUAEH
+* De amarill, cuando la temperatura aumenta por encima de los 55°C
+(advertencia)
+* Derojo, cuando la E[ ETAIEUNENIDONSHGMBUEIORN (avería)
+
+[Page 33]
+WeUNe¡
+pa
+LusIinonouas
+U
+18511
+|
+aeBiue
+£
+pa71
+3Con
+TECHNOLOGIES
+3) Aviso PT100 B (Carcasa de la bomba):
+El fondo del aviso de temperatura se ilumina:
+* De verde cuando la —
+* Derojo, cuando la — (avería)
+4) Aviso interruptor de temperatura (Rittal):
+. Temperatura correcta
+o .Temperatura incorrecta
+5) Horémetro de la bomba de vacio
+Ajustes de servicio de la lubricación (vea también el plan de mantenimiento):
+6) Aviso para la próxima lubricación necesaria de la bomba de vacío.
+7) Avisto del intervalo de lubricación.
+8) Si la lubricación se ha realizado con éxito, ésto debe confirmarse haciendo clic
+en este botón.
+Ajustes de servicio de mantenimiento del filtro (vea también el plan de mantenimiento):
+9) Aviso del próximo mantenimiento necesario del filtro.
+10) — Aviso del intervalo de mantenimiento del filtro.
+11) Si el mantenimiento se ha realizado con éxito, ésto debe confirmarse haciendo
+clicen este botón.
+A
+D I
+N
+O
+L
+Ajustes de servicio comprobación del distribuidor del rotor (vea también el plan de
+1'0
+mant
+1
+e
+2)
+n imi
+—
+e n
+A
+t
+v
+o
+i
+)
+so
+:
+de la siguiente comprobación necesaria del distribuidor del rotor.
+| ).aepO
+2
+13) Aviso del intervalo de comprobación del distribuidor del rotor. ETOL
+14) — Silacomprobación del distribuidor del rotor se ha realizado con éxito, ésto 7OTS
+debe confirmarse haciendo clic en este botón.
+Otra información:
+15) En el archivo de avisos se almacena quién ha confirmado el servicio y cuándo
+debe realizarse el siguiente servicio.
+16) Cambie a la imagen esquemática "alcance"
+* El indicador de alcance muestra los siguientes valores:
+* Temperatura PT100 A (temperatura ambiente)
+* Temperatura PT100 B (Carcasa de la bomba)
+* Activación del interruptor de temperatura
+* Bomba de vacío encendida/apagada
+ADVERTENCIA
+* Sies necesario llevar a cabo una tarea de mantenimiento, esto se anunciará en el campo
+correspondiente, ya sea «lubricación», «mantenimiento del filtro» o «comprobación del
+distribuidor del rotor.
+* Se pueden prever intervalos de mantenimiento adicionales en cualquier momento. Para
+ello, debe pulsarse el botón correspondiente para el mantenimiento realizado. La
+siguiente fecha de mantenimiento se calculará y se mostrará de forma automática
+
+[Page 34]
+3Con
+TECHNOLOGIES
+N.° de bloque grafico.: 020 Robots de pegado
+[ Swtch 0n morors XbHand — _accepted |frshed| — [Reese] obrand | ME
+B ÍÍ n m + progrm a — B B eF [m] B
+[ si program y s E EB ra Y Y
+@ > m E B calrao B O
+m E E m D *O
+— & 3 a [ 0
+m [ [
+N L S | E
+m 0 E
+- ae E B
+[ Robor comectin (Profnet) k re E [0
+[ Moroes swiched on — B B
+@ Prdepert 0n tool P P
+o o m D O
+Dyt oo cccsed —
+5 Robar 6 autside ek ares e "n zone home. “ zone machne/todl
+L — rone calbraton n 7one spraypiate
+n rone nfc
+1n zone dipence
+Cuidado: Imagen del simbolo
+DESCRIPCIÓN:
+1) Notificación de los valores del sistema que se envían a los robots.
+2) Notificación de los valores del sistema que envían los robots.
+3) Tareas actuales de los robots:
+4) Aviso del número del trabajo correspondiente.
+5) Aviso de si el trabajo de robot correspondiente está desbloqueado.
+6) Llevar a cabo de forma manual el trabajo del robot (el modo de accionamiento
+manual debe estar activo)
+7) Aviso de si el trabajo de robot correspondiente se ha llevado a cabo con éxito.
+ADVERTENCIA
+* Hay un campo para cada notificación del sistema eléctrico. Este se ilumina de verde I."
+WEUNe¡
+PI
+USANIOU3S
+EU2[
+1891
+ADINOL
+1'0
+|dIaep0
+2
+Z T
+7
+0
+1
+7
+0 Z
+S
+cuando la señal es una.
+* Sino hay notificación, el campo permanece en rojo….
+
+[Page 35]
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 021 Ámbito del vacío
+Cuidado: Imagen del simbolo
+B NES DE FUN N:
+Diagrama de funcionamiento de vacío:
+=
+E > " Parada o arranque del registro
+E
+E
+El > Vuelta al comienzo del registro A D
+I
+N
+O
+g “ Rebobinado L
+1'0
+§
+H
+’ > Avance
+|dIaep0
+í > a Ampliar 2
+Z
+T
+7
+0
+> 8 Reducir 1 7
+0
+Z
+> a Mover libremente el cursor S
+> = Reiniciar el cursor
+> & Colocar el cursor
+
+[Page 36]
+WeUNe¡
+pa
+lusIinonouas
+U
+18511
+|
+aeblue
+€9pa
+71
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 022 Ámbito del aire caliente
+T5 u ) —
+iT
+(Exteliomen for sktualien Kel — Rgcl au C
+1505 ] : maximale Autheizzeit bis Temp. ok
+sorc | Deltar-- fúr Temp.o k
+200| Proporional Wert
+aal vt
+(Satus von altuellem Krels;
+606
+ó
+Cuidado: Imagen del simbolo
+Muestra el número del circuito de control seleccionado
+Muestra el diagrama de funcionamiento de la calefacción:
+> E Parada o arranque del registro
+> Vuelta al comienzo del registro
+> [« Rebobinado
+A
+D > | Avance I N
+O
+L
+> la Ampliar 1'0
+> a Reducir
+|
+).aepO
+> W Mover libremente el cursor
+2
+> “ Reiniciar el cursor
+ETOL
+> * — Colocarel cursor
+7OTS
+> Línea azul = Valor de consigna / linea roja = valor actual / linea verde = valor de
+referencia
+3)
+Muestra el intervalo de procesamiento del regulador (en segundos)
+4) Muestra los límites de la calefacción
+> Máximo tiempo de calentamiento hasta alcanzar la temperatura necesaria (en
+°Q)
+> Muestra los limites de tolerancia (Delta +) de la temperatura requerida (en °C)
+5) Muestra los valores PID del campo de calefacción seleccionado
+6) Muestra el estado actual del campo de calefacción seleccionado
+> Sillega una notificación, el indicador se ilumina de verde
+
+[Page 37]
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 023 Control del servomotor
+Cuidado: Imagen del símbolo
+DESCRIPCIÓN:
+1) Muestra de que unidad se trata.
+2) Muestra si el servomotor seleccionado está referenciado.
+3) Introducción o modificación de la posición meta deseada (pulsando en el
+yWeUne¡
+i
+-
+n di
+M
+ca
+a
+d
+n
+o
+t
+r
+e
+)
+n ga pulsada la tecla parra arrancar automáticamente la posición
+pa meta introducida. A
+l u s n n 4) Control manual del servo D I N O L
+a
+p o u a
+s
+deua¡
+18511
+5
+6
+7
+)
+)
+)
+M
+M
+M
+-
+u
+u
+u
+e
+e
+e
+s
+s
+s
+P
+t
+t
+t
+r
+r
+r
+r
+o
+a
+a
+a
+c ed
+e
+l
+l
+l
+a
+a
+i m
+c
+v
+p
+i
+a
+a
+e
+e
+r
+r
+l
+n
+g
+o
+t
+a
+c
+d
+o
+e
+i
+l
+d
+d
+a
+e
+m
+m
+l
+d
+a
+o
+n
+t
+m
+u
+a
+o
+o
+a
+c
+r
+t
+l
+t
+o
+u a
+r
+(
+l
+p
+e n
+u
+(
+l
+(
+e
+s
+e
+%
+n
+n
+a
+) .
+n
+%
+d
+m
+)
+o
+.
+m /s
+l
+)
+as
+.
+teclas * o 1'0 |
+).aepO
+2
+ETOL
+8) Muestra la posición actual (en mm). 7OTS
+9) Muestra si se ha producido algún fallo en el servomotor elegido.
+10) Muestrael estado actual del servomotor.
+ADVERTENCIA
+Para ejecutar un movimiento deben cumplirse las siguientes condiciones:
+> Los dispositivos de seguridad están activados
+> ¡El modo de funcionamiento manual debe estar activado!
+> ¡El desbloqueo de los actuadores debe estar disponible!
+
+[Page 38]
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 024 Posiciones del servo
+22
+C | o)
+Cuidado: Imagen del simbolo
+DESCRIPCION:
+1) Colocación automática en las posiciones guardadas
+> Pulse en la tecla, en qué posición desea conducir, para colocar la pinza
+automáticamente en esta posición.
+2) Introducción o modificación de la posición (pulsando en el indicador)
+3) Introducción o modificación de la velocidad (pulsando en el indicador)
+yWeUne¡
+pa
+ADVE
+4)
+R TENCI
+I
+A
+nt roducción o modificación de la velocidad (pulsando en el indicador)
+A
+l u s n n Para ejecutar un movimiento deben cumplirse las siguientes condiciones: D I N O L
+a
+p o
+u a
+s
+deua¡
+18511
+>
+»
+>
+¡
+¡
+L
+E
+E
+o
+l
+l
+s
+d
+m
+e
+d
+o
+i
+s
+d
+s
+b
+o
+p
+l
+o
+o
+s
+q
+d
+i
+e
+t
+u
+i
+e
+v
+f
+o
+o
+u
+s
+n
+d
+c
+e
+d
+i
+e
+o
+l
+n
+o
+s
+s
+a
+e
+m
+g
+a
+i
+u
+c
+e
+r
+t
+n
+i
+u
+t
+d
+a
+o
+a
+d
+d
+o r
+m
+e
+e
+a
+s
+s
+n
+t
+u
+á
+a
+n
+d
+l
+e b
+a
+e
+c
+d
+t
+e
+i
+e
+b
+v
+s
+e
+a
+t a
+d
+r
+o
+e
+s
+st
+d
+a
+i
+r
+s po
+a
+n
+ct
+i
+i
+b
+v
+l
+a
+e
+d
+!
+o !
+1'0
+|
+).aepO
+2
+ETOL
+7OTS
+8
+Ea
+&
+2
+N.° de bloque gráfico.: 025 Registros de Sistema
+Cuidado: Imagen del símbolo
+1) Muestra un listado con todos los avisos de la prueba de Sitema
+
+[Page 39]
+WeUNe¡
+pa
+lusninonouas
+U
+18511
+|
+aeBlue
+£6
+pa71
+3Con
+TECHNOLOGIES
+N.° de bloque grafico.: 026 Unidades de alimentación
+Cuidado: Imagen del simbolo
+A
+D I
+N
+O
+L
+1) Muestra la altura del dispositivo elevador a la cual la unidad de alimentación 1'0
+comenzará a funcionar.
+|
+).aepO
+> Modificación del valor pulsando en el indicador 2
+ETOL
+Imagen de muestra: 7OTS
+Si el dispositivo elevador se encuentra por encima de este valor, la elevación de la
+unidad de alimentación se encuentra a 20 mm. Si el dispositivo de elevación baja
+por debajo de los 50 mm, la unidad de alimentación arrancará y arrancarán las
+distintas posiciones individuales de forma gradual (véase punto 7).
+2) Muestra la altura del dispositivo elevador a la cual el recorrido de la unidad de
+alimentación se detendrá
+3) Activa o desactiva el arranque automático de las posiciones en el
+funcionamiento manual.
+4) Muestra el par de torsión de la unidad de alimentación (en %)
+5) Modificación del valor pulsando en la indicador
+6)
+Muestra la posición máxima de la unidad de alimentación (en mm).
+7)
+Muestra las posiciones individuales de la unidad de alimentación (en mm), las
+cuales arrancan de forma automática y gradual (dependiendo de la altura del
+dispositivo elevador).
+
+[Page 40]
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 027 Información del sistema
+= — —
+?_ E …¿;,.
+Cuidado: Imagen del simbolo
+1) Muestra la designación del tipo de panel táctil.
+2) Muestra la versión de software del panel táctil pulsando en el botón.
+3) Muestra el tipo de conexión entre el panel táctil y el control.
+4) Muestra el tipo de control
+5) Muestra el código de seguridad
+> Encada modificación de parámetros se generará este código para fines de
+yWeUne¡
+pa
+6) Mues
+s
+t
+e
+r
+g
+a
+u im
+l
+i
+a
+e
+f
+n
+e
+t
+c
+o
+h
+.
+a y la hora de la última modificación.
+A
+l u s n n D I N O L
+a
+p o
+u a
+s
+deua¡
+18511
+N.° de bloque gráfico.: 028 Supervisión del pirómetro
+1'0
+|
+).aepO
+2
+ETOL
+E
+7OTS
+5 Pyrometer monitoring
+2
+&
+2
+Pyrometer for carrier part
+Temperature of TGl resecnd ha meazdimu n
+Temperature of FEl wasnot exceeded
+Pyrometer for dec-or
+Temperature of reached and a maximum
+Tempertureof — [200] PEl wasnot exceeded
+Cuidado: Imagen del simbolo
+1) Muestra el valor mínimo del pirómetro (en °C) de la pieza portadora.
+2) Muestra el valor máximo del pirómetro (en “C) de la pieza portadora.
+3) Muestra el valor mínimo del pirómetro (en °C) del decorado.
+4) Muestra el valor máximo del pirómetro (en °C) del decorado.
+
+[Page 41]
+3Con
+TECHNOLOGIES
+N.° de bloque gráfico.: 029Temperatura del pirómetro
+— Bl
+e ra Bl
+Decor station 1 Em Em
+Decor station 2 E o e sra Eb E
+Cuidado: Imagen del simbolo
+1) Muestra la última temperatura medida del pirómetro (en * Celsius).
+2) Muestra la temperatura actual del pirómetro (en °C).
+yWeUne¡
+pa
+A
+l u s n n D I N O L
+a
+p o
+u a
+s
+deua¡
+18511
+1'0
+|
+).aepO
+2
+ETOL
+7OTS
