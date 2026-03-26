@@ -38,9 +38,15 @@ FIELD DEFINITIONS:
     table     → asks for data that typically lives in a table or list
     other     → anything else
 - search_terms: 4–12 short, high-signal keywords or phrases.
-    * The FIRST search term MUST be the full proper noun exactly as it appears in the question \
-(machine name, document number, product name, person name, etc.). This is critical for filename \
-matching — include it verbatim.
+    * The FIRST search term MUST be the most specific identifier in the question.
+      - If the question references BOTH a numeric ID (e.g. 1005808, 1005803) AND a document
+        sub-type name (e.g. "Panel táctil", "Lista de piezas de recambio", "Plan de mantenimiento",
+        "Plano eléctrico", "DGUV", "Diploma de capacitación", "Profinet"), combine them as
+        "{ID} {document_sub_type}" (e.g. "1005808 Panel táctil", "1005803 Diploma").
+        This is CRITICAL for precise file matching — it prevents noise from other documents
+        sharing the same numeric ID.
+      - If only a numeric ID is present, use it alone (e.g. "1005808").
+      - If only a machine/product name is present, use it verbatim.
     * Extract the remaining key concepts directly from the question.
     * Preserve acronyms, codes, and technical labels exactly as written in the question.
     * If the question is not in English, translate key concepts into English (because \
@@ -133,7 +139,15 @@ EVIDENCE GATING — three rules:
    If a value, label, or phrase that directly answers the question appears anywhere in the
    evidence — even in a single noisy table cell — extract and use it.
 
-3. NOT-FOUND rule: Return the "not found" response ONLY when no evidence window contains
+3. TABLE-OF-CONTENTS AND INDEX ENTRIES: If the question asks for a name, label, category,
+   or definition (e.g. "What does block N correspond to?", "What is the function of X?"),
+   a table-of-contents line, section heading, or index entry that directly maps the identifier
+   to its label IS a valid and sufficient answer. Do NOT demand full-prose body text when an
+   index entry already provides the answer.
+   Example: "N.° de bloque gráfico.: 004 Refrigeración, termorregulación, aire caliente"
+   fully answers "What function does block 004 correspond to?" — extract it directly.
+
+4. NOT-FOUND rule: Return the "not found" response ONLY when no evidence window contains
    ANY fact relevant to the specific question. Brief, partial, or noisy evidence that gives
    the answer is sufficient — do NOT demand clean prose when a short value already answers the question.
 

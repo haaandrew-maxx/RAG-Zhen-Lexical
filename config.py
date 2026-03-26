@@ -28,9 +28,9 @@ EVAL_RESULTS_PATH: Path = LOGS_DIR / "eval_results.jsonl"
 ACCURACY_REPORT_PATH: Path = LOGS_DIR / "accuracy_report.csv"
 
 # ── Retrieval settings ─────────────────────────────────────────────────────────
-EVIDENCE_CONTEXT_LINES: int = int(os.environ.get("EVIDENCE_CONTEXT_LINES", "30"))
+EVIDENCE_CONTEXT_LINES: int = int(os.environ.get("EVIDENCE_CONTEXT_LINES", "40"))
 MAX_HITS_PER_FILE: int = int(os.environ.get("MAX_HITS_PER_FILE", "5"))
-MAX_EVIDENCE_WINDOWS: int = int(os.environ.get("MAX_EVIDENCE_WINDOWS", "8"))
+MAX_EVIDENCE_WINDOWS: int = int(os.environ.get("MAX_EVIDENCE_WINDOWS", "12"))
 
 # ── LLM generation settings ────────────────────────────────────────────────────
 LLM_TEMPERATURE: float = float(os.environ.get("LLM_TEMPERATURE", "0"))

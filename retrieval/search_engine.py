@@ -134,56 +134,100 @@ class SearchEngine:
         is found inside the file.
         """
         hits: list[RankedHit] = []
-        # Prioritise terms for filename search:
-        #   Tier 0: numeric IDs (4+ digits) or all-caps codes — often appear in filenames.
-        #   Tier 1: everything else, sorted by length descending.
-        # We try up to 8 terms to avoid missing short-but-distinctive IDs.
+        # Prioritise terms for filename search.
+        #
+        # Tier ordering (processed first = gets filename-source bonus first):
+        #   Tier 0: compound terms — contain BOTH a 4+ digit numeric ID AND
+        #           at least one letter word (4+ chars).  These are the most
+        #           specific: e.g. "1005808 Panel táctil" identifies a single file.
+        #   Tier 1: pure numeric ID terms (no letter words) or all-caps codes.
+        #           These match all files sharing the same ID prefix.
+        #   Tier 2: everything else.
+        #
+        # Processing compound terms first lets us record which numeric IDs have
+        # already been "specifically resolved" so that later generic-ID terms
+        # skip adding ancillary files (e.g. spare-parts lists, maintenance plans)
+        # when the question clearly targets one document sub-type.
+
+        import re as _stem_re
 
         def _term_priority(t: str) -> tuple[int, int]:
-            import re as _re
-
-            is_numeric_id = bool(_re.search(r"\d{4,}", t))
-            is_allcaps = bool(_re.match(r"^[A-Z]{2,}", t.strip()))
-            tier = 0 if (is_numeric_id or is_allcaps) else 1
+            has_num  = bool(_stem_re.search(r"\d{4,}", t))
+            has_word = bool(_stem_re.search(r"[A-Za-z\u00C0-\u024F]{4,}", t))
+            is_allcaps = bool(_stem_re.match(r"^[A-Z]{2,}", t.strip()))
+            if has_num and has_word:
+                tier = 0   # compound: most specific
+            elif has_num or is_allcaps:
+                tier = 1   # generic ID / code
+            else:
+                tier = 2
             return (tier, -len(t))
 
         terms_to_try = sorted(search_terms, key=_term_priority)[:8]
         seen_files: set[str] = set()
+        # Numeric IDs whose document type is already resolved by a compound term.
+        # Generic-ID-only terms will skip files from these IDs.
+        covered_ids: set[str] = set()
 
         for term in terms_to_try:
             if not term.strip():
                 continue
-            # Extract the best stem for -iname filename search:
-            # - If the term contains a 4+ digit numeric ID, use that ID as the stem
-            #   (e.g. "proyecto 1005811" → "1005811", "BR 449" → whole term)
-            # - Otherwise use the first word of multi-word terms
-            import re as _stem_re
 
             numeric_match = _stem_re.search(r"\d{4,}", term)
             if numeric_match:
-                stems = [numeric_match.group(0)]
+                numeric_id = numeric_match.group(0)
+                stems = [numeric_id]
+                # Extract non-numeric words (4+ chars) — used for document-type filtering.
+                # E.g. "1005808 Panel táctil MTPE" → type_words = ["Panel", "táctil", "MTPE"]
+                type_words = [
+                    w for w in _stem_re.findall(r"[A-Za-z\u00C0-\u024F]{4,}", term)
+                    if not w.isdigit()
+                ]
             elif _stem_re.search(r"[ _+/]", term):
-                # Multi-word / compound machine name: try each significant word (5+ chars)
-                # as a separate filename stem, up to 3 stems.
+                numeric_id = None
+                type_words = []
                 words = _stem_re.findall(r"[A-Za-z\u00C0-\u024F]{5,}", term)
                 stems = list(dict.fromkeys(words[:3])) or [term.split()[0]]
             else:
+                numeric_id = None
+                type_words = []
                 stems = [term]
-            # Search for .txt files only (extracted from PDFs by ingest.py)
+
+            # --- Skip generic ID terms whose ID was already resolved by a compound term ---
+            if numeric_id and not type_words and numeric_id in covered_ids:
+                continue
+
+            # --- Find candidate files ---
             paths: list[str] = []
             for stem in stems:
                 paths.extend(find_files_by_name(self.documents_dir, stem, extension=".txt"))
+
+            # --- For compound terms: filter to strongly-matching files only ---
+            # A "strong" match has BOTH the numeric ID AND at least one type word
+            # in the filename (e.g. "táctil" in "1005808 02 Panel táctil.txt").
+            # Files matching only the ID are dropped from filename search; they
+            # will be picked up by the global content search if their content
+            # matches. This prevents spare-parts lists / maintenance plans from
+            # consuming evidence windows when the question is about a specific
+            # document type.
+            if numeric_id and type_words:
+                strong = [
+                    fp for fp in paths
+                    if any(w.lower() in Path(fp).stem.lower() for w in type_words)
+                ]
+                if strong:
+                    paths = strong
+                    covered_ids.add(numeric_id)   # mark this ID as resolved
+
             for fp in paths:
                 if fp not in seen_files:
                     seen_files.add(fp)
-                    # Try a targeted content search within this specific file
                     content_hits = self._content_hits_in_file(fp, safe_patterns or [])
                     if content_hits:
                         for h in content_hits:
-                            h.source = "filename"  # keep source tag for scoring
+                            h.source = "filename"
                             hits.append(h)
                     else:
-                        # Fallback: placeholder at line 0 (will yield TOC context)
                         hits.append(
                             RankedHit(
                                 file_path=fp,

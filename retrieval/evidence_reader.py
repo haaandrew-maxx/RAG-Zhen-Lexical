@@ -1,10 +1,12 @@
 """
 Evidence reader — given ranked search hits, expand each hit into a context window
-of ±N lines and return structured evidence windows.
+spanning the full document page containing the hit (delimited by [Page N] markers).
+Falls back to ±N lines when no page markers are found.
 """
 
 from __future__ import annotations
 
+import re
 import sys
 import os
 from dataclasses import dataclass
@@ -83,8 +85,7 @@ class EvidenceReader:
                 start = 1
                 end = self.context_lines * 2
             else:
-                start = max(1, hit.line_number - self.context_lines)
-                end = hit.line_number + self.context_lines
+                start, end = self._page_bounds(hit.file_path, hit.line_number)
 
             if hit.file_path not in file_windows:
                 file_windows[hit.file_path] = []
@@ -119,6 +120,53 @@ class EvidenceReader:
         return windows
 
     # ── Private ───────────────────────────────────────────────────────────────
+
+    _PAGE_MARKER = re.compile(r'^\[Page \d+\]$')
+
+    def _page_bounds(self, file_path: str, hit_line: int) -> tuple[int, int]:
+        """
+        Return (start, end) spanning the full document page that contains
+        *hit_line*, where pages are delimited by ``[Page N]`` markers.
+
+        If no page markers exist within the search buffer the method falls back
+        to the classic ±context_lines window.  The window is always capped at
+        ``context_lines * 4`` lines so that unusually long OCR-noisy pages
+        (e.g. 400+ lines) do not flood the LLM context.
+        """
+        max_window = self.context_lines * 4
+        # Read a buffer large enough to find the surrounding page markers.
+        buf_radius = max(self.context_lines * 2, 120)
+        buf_start = max(1, hit_line - buf_radius)
+        buf_end = hit_line + buf_radius
+        lines = read_file_lines(file_path, buf_start, buf_end)
+
+        if not lines:
+            return (max(1, hit_line - self.context_lines), hit_line + self.context_lines)
+
+        rel_hit = hit_line - buf_start  # 0-based index within the buffer
+        rel_hit = max(0, min(rel_hit, len(lines) - 1))
+
+        # ── Scan backward for the [Page N] marker that opens this page ────────
+        page_start = buf_start  # default: beginning of buffer
+        for i in range(rel_hit, -1, -1):
+            if self._PAGE_MARKER.match(lines[i].strip()):
+                page_start = buf_start + i  # include the marker line
+                break
+
+        # ── Scan forward for the [Page N] marker that opens the NEXT page ─────
+        page_end = buf_end  # default: end of buffer
+        for i in range(rel_hit + 1, len(lines)):
+            if self._PAGE_MARKER.match(lines[i].strip()):
+                page_end = buf_start + i - 1  # stop before the next marker
+                break
+
+        # ── Cap oversized pages ───────────────────────────────────────────────
+        if page_end - page_start > max_window:
+            mid = hit_line
+            page_start = max(page_start, mid - max_window // 2)
+            page_end = min(page_end, mid + max_window // 2)
+
+        return (max(1, page_start), page_end)
 
     @staticmethod
     def _merge_ranges(ranges: list[tuple[int, int]]) -> list[tuple[int, int]]:
